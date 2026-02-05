@@ -1,0 +1,1602 @@
+"playerid","teamId","minute","x","y","endX","endY","type","tempo","outcome","jogador","eventid"
+29400,65,21,65.2,44.6,51.2,15.5,"Pass","FirstHalf","Successful","Robert Lewandowski",211
+29400,65,66,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Robert Lewandowski",759
+29400,65,50,71.1,65.2,68.2,59.1,"Pass","SecondHalf","Unsuccessful","Robert Lewandowski",609
+29400,65,32,79.1,46.2,NA,NA,"SavedShot","FirstHalf","Successful","Robert Lewandowski",367
+29400,65,16,11.2,30.1,NA,NA,"BallRecovery","FirstHalf","Successful","Robert Lewandowski",174
+29400,65,16,7.7,49.5,NA,NA,"Aerial","FirstHalf","Unsuccessful","Robert Lewandowski",172
+29400,65,57,80.9,51.9,74.4,53,"Pass","SecondHalf","Successful","Robert Lewandowski",671
+29400,65,21,67.9,42.2,NA,NA,"BlockedPass","FirstHalf","Successful","Robert Lewandowski",210
+29400,65,22,83.9,65,79.3,64.4,"Pass","FirstHalf","Unsuccessful","Robert Lewandowski",232
+29400,65,53,37.2,17.1,NA,NA,"BlockedPass","SecondHalf","Successful","Robert Lewandowski",638
+29400,65,30,93.4,13.1,NA,NA,"Challenge","FirstHalf","Unsuccessful","Robert Lewandowski",332
+29400,65,11,71.2,50.1,71.9,70,"Pass","FirstHalf","Unsuccessful","Robert Lewandowski",124
+29400,65,64,80.8,50.3,NA,NA,"Dispossessed","SecondHalf","Successful","Robert Lewandowski",753
+29400,65,47,76.5,35.5,77.6,35.5,"Pass","SecondHalf","Unsuccessful","Robert Lewandowski",581
+29400,65,1,21.6,20.9,42.8,5.8,"Pass","FirstHalf","Successful","Robert Lewandowski",12
+29400,65,44,74,30.2,NA,NA,"Dispossessed","FirstHalf","Successful","Robert Lewandowski",494
+29400,65,57,79.4,65.4,NA,NA,"BallRecovery","SecondHalf","Successful","Robert Lewandowski",670
+29400,65,20,49.6,50.1,32,61.1,"Pass","FirstHalf","Successful","Robert Lewandowski",196
+29400,65,37,79.3,63.1,83.3,82.7,"Pass","FirstHalf","Successful","Robert Lewandowski",405
+29400,65,56,41.4,64.2,NA,NA,"Foul","SecondHalf","Unsuccessful","Robert Lewandowski",660
+29400,65,36,41.8,31.5,42.1,50.9,"Pass","FirstHalf","Successful","Robert Lewandowski",402
+29400,65,44,74.1,31.8,NA,NA,"TakeOn","FirstHalf","Successful","Robert Lewandowski",493
+29400,65,8,80.6,47.3,NA,NA,"SavedShot","FirstHalf","Successful","Robert Lewandowski",88
+29400,65,35,88.5,50,NA,NA,"MissedShots","FirstHalf","Successful","Robert Lewandowski",394
+29400,65,16,11.2,30.1,5.2,12.2,"Pass","FirstHalf","Successful","Robert Lewandowski",175
+29400,65,15,61.7,14.9,NA,NA,"BallTouch","FirstHalf","Successful","Robert Lewandowski",162
+29400,65,56,44.7,78.2,37.2,72.4,"Pass","SecondHalf","Unsuccessful","Robert Lewandowski",659
+29400,65,30,86.6,33.7,79.5,25.6,"Pass","FirstHalf","Successful","Robert Lewandowski",329
+29400,65,50,76,26.3,NA,NA,"Foul","SecondHalf","Unsuccessful","Robert Lewandowski",610
+29400,65,24,76.9,9.2,66.3,9.8,"Pass","FirstHalf","Successful","Robert Lewandowski",268
+29400,65,1,20.7,20.7,NA,NA,"BallRecovery","FirstHalf","Successful","Robert Lewandowski",11
+29400,65,8,76.5,64,77.5,69.5,"Pass","FirstHalf","Successful","Robert Lewandowski",92
+29400,65,37,91.8,49.5,NA,NA,"SavedShot","FirstHalf","Successful","Robert Lewandowski",416
+29400,65,47,75.8,38.6,86.1,51,"Pass","SecondHalf","Unsuccessful","Robert Lewandowski",579
+29400,65,49,85.3,15.1,NA,NA,"BlockedPass","FirstHalf","Successful","Robert Lewandowski",530
+76662,63,92,1.6,45.1,NA,NA,"Save","SecondHalf","Successful","Jan Oblak",797
+76662,63,49,5.3,57.9,53.3,53.5,"Pass","FirstHalf","Unsuccessful","Jan Oblak",340
+76662,63,92,4.8,38.3,NA,NA,"CornerAwarded","SecondHalf","Unsuccessful","Jan Oblak",798
+76662,63,81,15,4.5,29.7,0,"Clearance","SecondHalf","Successful","Jan Oblak",668
+76662,63,76,2.6,39.9,0,27.4,"Punch","SecondHalf","Successful","Jan Oblak",623
+76662,63,25,11.8,58.8,NA,NA,"Challenge","FirstHalf","Unsuccessful","Jan Oblak",188
+76662,63,33,4.3,57,40.7,67.1,"Pass","FirstHalf","Unsuccessful","Jan Oblak",233
+76662,63,57,5.1,50.7,32.4,14.8,"Pass","SecondHalf","Unsuccessful","Jan Oblak",452
+76662,63,3,4.2,48.3,36.2,16.2,"Pass","FirstHalf","Unsuccessful","Jan Oblak",40
+76662,63,14,4.9,51.6,54.6,54.9,"Pass","FirstHalf","Successful","Jan Oblak",116
+76662,63,48,3.7,53.7,NA,NA,"BallRecovery","SecondHalf","Successful","Jan Oblak",375
+76662,63,88,19.8,40.6,27.5,64.3,"Pass","SecondHalf","Successful","Jan Oblak",742
+76662,63,81,14.9,5.2,NA,NA,"KeeperSweeper","SecondHalf","Successful","Jan Oblak",667
+76662,63,36,4.2,51.4,57.7,95.5,"Pass","FirstHalf","Successful","Jan Oblak",239
+76662,63,68,4.6,49.5,18.1,71.5,"Pass","SecondHalf","Successful","Jan Oblak",542
+76662,63,76,0,0,NA,NA,"CornerAwarded","SecondHalf","Unsuccessful","Jan Oblak",624
+76662,63,39,15,44.8,62,19.9,"Pass","FirstHalf","Unsuccessful","Jan Oblak",265
+76662,63,88,10.4,46,10.7,78.3,"Pass","SecondHalf","Successful","Jan Oblak",737
+76662,63,3,12.1,47.1,46.3,70.2,"Pass","FirstHalf","Unsuccessful","Jan Oblak",36
+76662,63,3,6.9,51.6,NA,NA,"KeeperPickup","FirstHalf","Successful","Jan Oblak",43
+76662,63,3,12.5,51.9,48.9,47.1,"Pass","FirstHalf","Successful","Jan Oblak",45
+76662,63,93,4.1,51.5,14.2,63.6,"Pass","SecondHalf","Successful","Jan Oblak",801
+76662,63,40,2.6,45.4,NA,NA,"KeeperPickup","FirstHalf","Successful","Jan Oblak",268
+76662,63,74,7.5,43.6,28,4.6,"Pass","SecondHalf","Successful","Jan Oblak",604
+76662,63,43,8.5,52.3,3.6,70.3,"Pass","FirstHalf","Successful","Jan Oblak",299
+76662,63,40,0.8,44.5,NA,NA,"Save","FirstHalf","Successful","Jan Oblak",267
+76662,63,70,12.1,49.5,18.5,41.1,"Pass","SecondHalf","Successful","Jan Oblak",566
+76662,63,70,7,53.1,NA,NA,"KeeperPickup","SecondHalf","Successful","Jan Oblak",565
+76662,63,45,5.2,49.6,58.4,30.3,"Pass","FirstHalf","Successful","Jan Oblak",314
+76662,63,38,5,43.6,65,30.9,"Pass","FirstHalf","Unsuccessful","Jan Oblak",256
+76662,63,22,3,52.8,11.3,5.7,"Clearance","FirstHalf","Successful","Jan Oblak",174
+76662,63,76,3,53.7,NA,NA,"Claim","SecondHalf","Successful","Jan Oblak",625
+76662,63,41,3.4,39.9,NA,NA,"BallRecovery","FirstHalf","Successful","Jan Oblak",273
+76662,63,35,0,0,NA,NA,"PenaltyFaced","FirstHalf","Unsuccessful","Jan Oblak",237
+76662,63,48,3.7,53.7,43,100,"Pass","SecondHalf","Unsuccessful","Jan Oblak",376
+76662,63,8,5,49,48.4,48.3,"Pass","FirstHalf","Successful","Jan Oblak",59
+76662,63,57,5.1,49.2,52.8,9.6,"Pass","SecondHalf","Unsuccessful","Jan Oblak",457
+76662,63,52,5.2,50.5,60.1,35.4,"Pass","SecondHalf","Unsuccessful","Jan Oblak",412
+76662,63,1,19.3,50.2,NA,NA,"BallTouch","FirstHalf","Successful","Jan Oblak",21
+76662,63,60,5.3,50.2,53.1,19.9,"Pass","SecondHalf","Unsuccessful","Jan Oblak",492
+76662,63,37,1,52.9,NA,NA,"Save","FirstHalf","Successful","Jan Oblak",247
+76662,63,27,4.4,54,46.9,85.9,"Pass","FirstHalf","Unsuccessful","Jan Oblak",192
+76662,63,40,16,60.3,66.4,69.1,"Pass","FirstHalf","Unsuccessful","Jan Oblak",269
+76662,63,45,15.3,73,49.2,80.7,"Pass","SecondHalf","Unsuccessful","Jan Oblak",355
+76662,63,88,19.8,40.6,NA,NA,"KeeperSweeper","SecondHalf","Successful","Jan Oblak",741
+76662,63,76,12.2,45.7,14.3,42,"Pass","SecondHalf","Successful","Jan Oblak",626
+76662,63,41,3.8,47.4,9.1,74.4,"Pass","FirstHalf","Successful","Jan Oblak",274
+80241,63,85,78.4,50.1,NA,NA,"OffsideGiven","SecondHalf","Unsuccessful","Antoine Griezmann",11709
+80241,63,81,33.9,37,30.6,73.3,"Pass","SecondHalf","Unsuccessful","Antoine Griezmann",674
+80241,63,83,71.1,82.3,63.7,63.1,"Pass","SecondHalf","Successful","Antoine Griezmann",690
+80241,63,84,99.7,0.7,94.2,54,"Pass","SecondHalf","Unsuccessful","Antoine Griezmann",701
+80241,63,83,68.9,83.7,66,74.4,"Pass","SecondHalf","Successful","Antoine Griezmann",688
+80241,63,78,84.6,85.9,79.2,68.7,"Pass","SecondHalf","Successful","Antoine Griezmann",644
+80241,63,75,36.6,5.4,28.6,6.9,"Pass","SecondHalf","Unsuccessful","Antoine Griezmann",612
+80241,63,87,83.3,84.4,NA,NA,"BlockedPass","SecondHalf","Successful","Antoine Griezmann",724
+80241,63,82,57.4,74.8,54,72.8,"Pass","SecondHalf","Successful","Antoine Griezmann",677
+80241,63,91,61.5,79.3,58.6,95.4,"Pass","SecondHalf","Successful","Antoine Griezmann",774
+80241,63,89,79,4.2,79.9,11.2,"Pass","SecondHalf","Unsuccessful","Antoine Griezmann",755
+80241,63,89,99.5,0.5,94.8,41.5,"Pass","SecondHalf","Unsuccessful","Antoine Griezmann",753
+80241,63,86,65.7,71.8,60.1,71.1,"Pass","SecondHalf","Successful","Antoine Griezmann",721
+80241,63,82,55.8,75,NA,NA,"BallRecovery","SecondHalf","Successful","Antoine Griezmann",676
+80241,63,78,32.6,69.7,31.7,52.5,"Pass","SecondHalf","Successful","Antoine Griezmann",651
+80241,63,92,90.5,60.1,NA,NA,"MissedShots","SecondHalf","Successful","Antoine Griezmann",789
+80241,63,80,48.5,86.3,NA,NA,"BlockedPass","SecondHalf","Successful","Antoine Griezmann",663
+80241,63,86,65.7,71.8,NA,NA,"BallRecovery","SecondHalf","Successful","Antoine Griezmann",720
+80241,63,84,63.6,34,55.3,26.7,"Pass","SecondHalf","Successful","Antoine Griezmann",705
+80241,63,74,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Antoine Griezmann",600
+80764,63,53,59.8,27.7,52.3,31.5,"Pass","SecondHalf","Successful","Koke",427
+80764,63,58,23.8,33.4,32.6,34.8,"Pass","SecondHalf","Successful","Koke",474
+80764,63,42,57.2,9.4,61,3,"Pass","FirstHalf","Successful","Koke",287
+80764,63,68,29.8,40.5,29,55.6,"Pass","SecondHalf","Successful","Koke",532
+80764,63,26,39.7,47.7,NA,NA,"BallTouch","FirstHalf","Successful","Koke",190
+80764,63,51,48.3,78.5,43.2,51.9,"Pass","SecondHalf","Successful","Koke",403
+80764,63,18,61.9,94.3,NA,NA,"Challenge","FirstHalf","Unsuccessful","Koke",140
+80764,63,68,32.6,39.7,36.6,46,"Pass","SecondHalf","Successful","Koke",530
+80764,63,47,46.6,51.7,41.6,22.3,"Pass","SecondHalf","Successful","Koke",366
+80764,63,66,34.9,14.5,71.8,13.2,"Pass","SecondHalf","Unsuccessful","Koke",516
+80764,63,70,29.5,33.4,28.2,48.3,"Pass","SecondHalf","Successful","Koke",567
+80764,63,74,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Koke",599
+80764,63,71,30,21.3,28.5,36.3,"Pass","SecondHalf","Successful","Koke",580
+80764,63,54,52.9,8.8,67.1,18.1,"Pass","SecondHalf","Successful","Koke",430
+80764,63,42,55.8,5.2,39.8,30.1,"Pass","FirstHalf","Successful","Koke",289
+80764,63,13,0,0,NA,NA,"SubstitutionOn","FirstHalf","Successful","Koke",107
+80764,63,68,38.3,40.3,38.5,31.2,"Pass","SecondHalf","Successful","Koke",538
+80764,63,41,37.7,16.5,20.8,30.7,"Pass","FirstHalf","Successful","Koke",280
+80764,63,69,81.9,93.7,78.3,96.6,"Pass","SecondHalf","Successful","Koke",557
+80764,63,47,24.1,57.6,NA,NA,"BallRecovery","SecondHalf","Successful","Koke",360
+80764,63,51,55.2,68.5,54.1,91.6,"Pass","SecondHalf","Successful","Koke",401
+80764,63,39,39.2,61.5,14.8,47.1,"Pass","FirstHalf","Successful","Koke",264
+80764,63,46,33.3,76.2,21.4,79.3,"Pass","FirstHalf","Successful","Koke",324
+80764,63,29,58.4,13.3,62.7,3.9,"Pass","FirstHalf","Successful","Koke",207
+80764,63,22,22.1,37,NA,NA,"Interception","FirstHalf","Successful","Koke",170
+80764,63,69,61.5,85.9,58.8,80.2,"Pass","SecondHalf","Successful","Koke",551
+80764,63,47,46.1,14.7,43.3,4.8,"Pass","SecondHalf","Successful","Koke",369
+80764,63,44,25.9,68.2,NA,NA,"Challenge","FirstHalf","Unsuccessful","Koke",309
+80764,63,49,28.6,97.2,40,89.7,"Pass","FirstHalf","Unsuccessful","Koke",338
+80764,63,49,37.9,9.1,33.2,3.7,"Pass","SecondHalf","Successful","Koke",381
+80764,63,47,24.7,60.2,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Koke",361
+80764,63,66,79.4,18.6,85.6,25.8,"Pass","SecondHalf","Successful","Koke",520
+80764,63,27,45.8,25.6,38.5,37.5,"Pass","FirstHalf","Successful","Koke",200
+80764,63,66,34.3,49,29.1,61.7,"Pass","SecondHalf","Successful","Koke",824
+80764,63,22,8.2,59.7,15.9,67.8,"Clearance","FirstHalf","Successful","Koke",173
+80764,63,27,38.2,9.2,59.1,15,"OffsidePass","FirstHalf","Successful","Koke",202
+80764,63,70,31.5,49.3,31.6,31.5,"Pass","SecondHalf","Successful","Koke",576
+80764,63,50,30.5,81,18.4,67.2,"Pass","SecondHalf","Successful","Koke",395
+80764,63,59,33.5,67.8,NA,NA,"BallRecovery","SecondHalf","Successful","Koke",483
+80764,63,48,75.4,85,NA,NA,"Challenge","FirstHalf","Unsuccessful","Koke",332
+80764,63,59,33.5,67.8,35.6,76.3,"Pass","SecondHalf","Successful","Koke",484
+130331,65,89,16.1,68.1,NA,NA,"CornerAwarded","SecondHalf","Unsuccessful","Andreas Christensen",940
+130331,65,89,18.4,67.3,NA,NA,"Save","SecondHalf","Successful","Andreas Christensen",937
+130331,65,87,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Andreas Christensen",926
+135914,63,41,22.3,23.7,3.4,40,"Pass","FirstHalf","Successful","José María Giménez",272
+135914,63,55,61.4,18,NA,NA,"Foul","SecondHalf","Unsuccessful","José María Giménez",437
+135914,63,77,27.7,44.5,39.4,6.1,"Pass","SecondHalf","Successful","José María Giménez",635
+135914,63,70,28.2,48.3,41.3,72.7,"Pass","SecondHalf","Successful","José María Giménez",568
+135914,63,88,29.2,21,41.3,3.6,"Pass","SecondHalf","Successful","José María Giménez",739
+135914,63,23,7.4,47.8,30.2,16.5,"Clearance","FirstHalf","Successful","José María Giménez",179
+135914,63,54,52.3,31.5,57.4,37.8,"Pass","SecondHalf","Successful","José María Giménez",428
+135914,63,27,38.3,36.3,37.1,13,"Pass","FirstHalf","Successful","José María Giménez",201
+135914,63,91,41.7,25.9,69.1,7.5,"Pass","SecondHalf","Unsuccessful","José María Giménez",780
+135914,63,73,37.3,34.3,47.1,15.4,"Pass","SecondHalf","Successful","José María Giménez",590
+135914,63,68,38.8,32.5,38.3,40.3,"Pass","SecondHalf","Successful","José María Giménez",537
+135914,63,62,4.7,40.2,12.5,0,"Clearance","SecondHalf","Successful","José María Giménez",504
+135914,63,1,26.8,53.1,33,28.3,"Clearance","FirstHalf","Successful","José María Giménez",22
+135914,63,68,35.8,27.1,NA,NA,"Error","SecondHalf","Successful","José María Giménez",541
+135914,63,68,38.5,31.2,28.5,68.7,"Pass","SecondHalf","Unsuccessful","José María Giménez",539
+135914,63,70,31.3,29.2,38.5,4,"Pass","SecondHalf","Successful","José María Giménez",577
+135914,63,50,33.3,42.9,45.3,18.6,"Pass","FirstHalf","Unsuccessful","José María Giménez",341
+135914,63,23,8.4,22,21.9,10.9,"Clearance","FirstHalf","Successful","José María Giménez",180
+135914,63,86,43.5,71.2,62.3,74.1,"Pass","SecondHalf","Successful","José María Giménez",716
+135914,63,44,20,61.4,NA,NA,"Interception","FirstHalf","Successful","José María Giménez",308
+135914,63,68,30.7,42.9,NA,NA,"BallRecovery","SecondHalf","Successful","José María Giménez",536
+135914,63,51,30.3,45.3,59.5,97.3,"Pass","SecondHalf","Successful","José María Giménez",396
+135914,63,94,91.6,20.5,NA,NA,"CornerAwarded","SecondHalf","Successful","José María Giménez",810
+135914,63,0,54.7,22.8,46.8,49,"Pass","FirstHalf","Successful","José María Giménez",13
+135914,63,66,28.4,32.8,37.6,5.2,"Pass","SecondHalf","Successful","José María Giménez",514
+135914,63,23,7.3,37.9,0,31.3,"Clearance","FirstHalf","Successful","José María Giménez",176
+135914,63,84,56,24.7,66.7,92.1,"Pass","SecondHalf","Successful","José María Giménez",708
+135914,63,23,3.2,34.7,NA,NA,"CornerAwarded","FirstHalf","Unsuccessful","José María Giménez",177
+135914,63,8,16.7,52.3,NA,NA,"Save","FirstHalf","Successful","José María Giménez",57
+135914,63,7,25.6,29.7,NA,NA,"Interception","FirstHalf","Successful","José María Giménez",55
+135914,63,94,95.9,18.6,NA,NA,"TakeOn","SecondHalf","Unsuccessful","José María Giménez",809
+135914,63,48,21,76.6,3.6,53.7,"Pass","SecondHalf","Successful","José María Giménez",374
+135914,63,15,36.4,50.5,37.3,74.8,"Pass","FirstHalf","Successful","José María Giménez",124
+135914,63,16,91.6,31.9,92.3,50.5,"Pass","FirstHalf","Successful","José María Giménez",131
+135914,63,56,54.1,32.7,46.2,56,"Pass","SecondHalf","Successful","José María Giménez",447
+135914,63,16,76.8,67.4,NA,NA,"Foul","FirstHalf","Unsuccessful","José María Giménez",137
+135914,63,41,20.7,30.9,22.3,64,"Pass","FirstHalf","Successful","José María Giménez",281
+135914,63,12,38.2,18,42.2,6,"Pass","FirstHalf","Successful","José María Giménez",100
+135914,63,64,19.2,49.7,NA,NA,"Tackle","SecondHalf","Unsuccessful","José María Giménez",507
+135914,63,83,52.9,50.7,52.9,64,"Pass","SecondHalf","Successful","José María Giménez",692
+135914,63,16,91.6,31.9,NA,NA,"Aerial","FirstHalf","Successful","José María Giménez",130
+135914,63,50,19.3,36,27,79.6,"Pass","SecondHalf","Successful","José María Giménez",386
+135914,63,16,88.2,41.1,70.4,48.3,"Pass","FirstHalf","Successful","José María Giménez",133
+135914,63,84,55.3,26.7,55.4,9.1,"Pass","SecondHalf","Successful","José María Giménez",706
+135914,63,42,39.9,34.6,68.6,81.1,"Pass","FirstHalf","Unsuccessful","José María Giménez",290
+135914,63,41,32.9,29.7,37.6,15.6,"Pass","FirstHalf","Successful","José María Giménez",279
+135914,63,92,64.9,35.4,62.6,24.6,"Pass","SecondHalf","Successful","José María Giménez",792
+135914,63,76,14.9,42,13.8,63.6,"Pass","SecondHalf","Successful","José María Giménez",627
+135914,63,44,58.7,77.1,67.9,100,"Pass","FirstHalf","Unsuccessful","José María Giménez",304
+135914,63,69,28.3,39.4,38,12.7,"Pass","SecondHalf","Successful","José María Giménez",546
+135914,63,91,33.6,18.3,31.8,51.3,"Pass","SecondHalf","Successful","José María Giménez",772
+135914,63,69,54.6,43.2,74.7,3,"Pass","SecondHalf","Successful","José María Giménez",561
+135914,63,51,43.2,51.9,34.8,69.9,"Pass","SecondHalf","Successful","José María Giménez",404
+135914,63,39,89.2,43.8,NA,NA,"Aerial","FirstHalf","Unsuccessful","José María Giménez",259
+135914,63,71,28.5,36.3,26.5,76.3,"Pass","SecondHalf","Successful","José María Giménez",581
+135914,63,71,27.4,28.6,30,21.3,"Pass","SecondHalf","Successful","José María Giménez",579
+135914,63,57,12.2,12.1,29.1,27.4,"Pass","SecondHalf","Unsuccessful","José María Giménez",455
+135914,63,50,23.8,38.7,45.8,26.2,"Pass","SecondHalf","Successful","José María Giménez",390
+236511,63,90,68.3,88,75.2,94.3,"Pass","SecondHalf","Successful","Clément Lenglet",764
+236511,63,70,13.9,50.8,18.9,49.2,"Clearance","SecondHalf","Successful","Clément Lenglet",563
+236511,63,75,4.1,72.6,NA,NA,"BlockedPass","SecondHalf","Successful","Clément Lenglet",621
+236511,63,74,39.4,67,40.7,78.4,"Pass","SecondHalf","Successful","Clément Lenglet",602
+236511,63,77,30.3,78.3,28.2,49.9,"Pass","SecondHalf","Successful","Clément Lenglet",634
+236511,63,50,28.2,60,59.1,90.7,"Clearance","SecondHalf","Successful","Clément Lenglet",391
+236511,63,88,27.5,64.3,37.9,88.8,"Pass","SecondHalf","Successful","Clément Lenglet",743
+236511,63,50,26.9,95.5,30.5,81,"Pass","SecondHalf","Successful","Clément Lenglet",394
+236511,63,51,31.8,65.8,36,18.9,"Pass","SecondHalf","Successful","Clément Lenglet",405
+236511,63,91,59.2,41.2,73.6,87.1,"Pass","SecondHalf","Successful","Clément Lenglet",783
+236511,63,46,21.6,78.9,33.6,17.8,"Pass","FirstHalf","Successful","Clément Lenglet",325
+236511,63,91,46.7,64.3,61.5,79.3,"Pass","SecondHalf","Successful","Clément Lenglet",773
+236511,63,15,38.7,83.2,36.6,50.4,"Pass","FirstHalf","Successful","Clément Lenglet",123
+236511,63,43,29.6,81.2,6.5,54.2,"Pass","FirstHalf","Successful","Clément Lenglet",298
+236511,63,68,18.1,71.5,33.7,76.5,"Pass","SecondHalf","Successful","Clément Lenglet",543
+236511,63,3,90.9,32.5,91,46,"Pass","FirstHalf","Unsuccessful","Clément Lenglet",31
+236511,63,89,42.1,63,46.5,33.1,"Pass","SecondHalf","Successful","Clément Lenglet",746
+236511,63,0,35.6,83.7,53.9,96,"Pass","FirstHalf","Successful","Clément Lenglet",5
+236511,63,30,8.2,86.8,18.8,28,"Pass","FirstHalf","Successful","Clément Lenglet",217
+236511,63,42,38.4,85.9,NA,NA,"BallRecovery","FirstHalf","Successful","Clément Lenglet",293
+236511,63,87,57.6,83.4,NA,NA,"Interception","SecondHalf","Successful","Clément Lenglet",726
+236511,63,45,38.5,94.6,15.3,73,"Pass","SecondHalf","Successful","Clément Lenglet",354
+236511,63,24,27.2,75.2,69.7,76.3,"Pass","FirstHalf","Unsuccessful","Clément Lenglet",187
+236511,63,43,38.4,85.9,43.8,91.2,"Pass","FirstHalf","Successful","Clément Lenglet",294
+236511,63,76,29.1,68.7,46.3,58.3,"Pass","SecondHalf","Successful","Clément Lenglet",628
+236511,63,74,39.7,67,NA,NA,"BallRecovery","SecondHalf","Successful","Clément Lenglet",601
+236511,63,85,26.6,46.6,68,70,"Pass","SecondHalf","Unsuccessful","Clément Lenglet",715
+236511,63,9,42.2,78.3,55.5,93.9,"Pass","FirstHalf","Successful","Clément Lenglet",68
+236511,63,67,38.3,83,NA,NA,"OffsideProvoked","SecondHalf","Successful","Clément Lenglet",527
+236511,63,67,59.1,50.5,64.6,88.6,"Pass","SecondHalf","Successful","Clément Lenglet",523
+236511,63,88,33.7,80.2,38.3,67.9,"Pass","SecondHalf","Successful","Clément Lenglet",735
+236511,63,82,49.1,80.1,NA,NA,"Interception","SecondHalf","Successful","Clément Lenglet",675
+236511,63,83,54.8,52.9,69,4.2,"Pass","SecondHalf","Successful","Clément Lenglet",693
+236511,63,93,35.4,71.2,44,51.1,"Pass","SecondHalf","Successful","Clément Lenglet",802
+236511,63,68,29,55.6,38.3,94.5,"Pass","SecondHalf","Successful","Clément Lenglet",533
+236511,63,70,30.2,65.2,42.1,92.5,"Pass","SecondHalf","Successful","Clément Lenglet",571
+236511,63,78,20.6,84.6,NA,NA,"Tackle","SecondHalf","Successful","Clément Lenglet",648
+236511,63,66,31.6,64.4,28.4,32.8,"Pass","SecondHalf","Successful","Clément Lenglet",513
+236511,63,75,18.2,37.3,14.8,90.3,"Pass","SecondHalf","Successful","Clément Lenglet",616
+236511,63,85,26.5,46.2,NA,NA,"BallRecovery","SecondHalf","Successful","Clément Lenglet",714
+236511,63,70,34,69.1,40.6,71.2,"Pass","SecondHalf","Successful","Clément Lenglet",574
+236511,63,47,22.4,64.5,NA,NA,"BlockedPass","SecondHalf","Successful","Clément Lenglet",362
+236511,63,78,22.8,82,NA,NA,"BallRecovery","SecondHalf","Successful","Clément Lenglet",649
+236511,63,36,43.7,79.8,70.8,77.7,"Pass","FirstHalf","Unsuccessful","Clément Lenglet",242
+236511,63,44,28.8,69.6,NA,NA,"Tackle","FirstHalf","Unsuccessful","Clément Lenglet",311
+236511,63,50,24,73.7,NA,NA,"Foul","SecondHalf","Successful","Clément Lenglet",388
+236511,63,43,3.6,70.3,14.9,96.4,"Pass","FirstHalf","Successful","Clément Lenglet",300
+236511,63,3,10.3,54.3,21.6,63.7,"Clearance","FirstHalf","Successful","Clément Lenglet",41
+236511,63,71,26.5,76.3,36.5,63.1,"Pass","SecondHalf","Successful","Clément Lenglet",582
+236511,63,32,15.7,64.8,NA,NA,"Save","FirstHalf","Successful","Clément Lenglet",224
+236511,63,41,30.9,74.8,40.3,66.4,"Pass","FirstHalf","Successful","Clément Lenglet",282
+236511,63,0,36.2,56.4,64.4,90.4,"Pass","FirstHalf","Successful","Clément Lenglet",14
+236511,63,3,26.1,71.7,4.3,48.6,"Pass","FirstHalf","Successful","Clément Lenglet",39
+236511,63,78,22.8,82,32.4,73.6,"Pass","SecondHalf","Successful","Clément Lenglet",650
+236511,63,69,60.9,69.7,57.8,73.9,"Pass","SecondHalf","Successful","Clément Lenglet",559
+236511,63,56,47.3,61.1,63.9,97,"Pass","SecondHalf","Successful","Clément Lenglet",448
+236511,63,88,11.2,75.4,13.6,35.4,"Pass","SecondHalf","Successful","Clément Lenglet",738
+236511,63,87,60.7,71.2,69.1,91.6,"Pass","SecondHalf","Successful","Clément Lenglet",722
+236511,63,44,26,69.8,NA,NA,"Tackle","FirstHalf","Unsuccessful","Clément Lenglet",310
+236511,63,50,22.8,69.7,23.8,38.7,"Pass","SecondHalf","Successful","Clément Lenglet",389
+236511,63,12,37.9,69.1,38.6,30.7,"Pass","FirstHalf","Successful","Clément Lenglet",99
+236511,63,75,3.1,68.4,NA,NA,"CornerAwarded","SecondHalf","Unsuccessful","Clément Lenglet",622
+236511,63,46,27.9,77.3,39.1,96.1,"Pass","FirstHalf","Successful","Clément Lenglet",319
+236511,63,41,15.1,73.9,35.9,16.5,"Pass","FirstHalf","Successful","Clément Lenglet",276
+236511,63,58,8.5,79.6,27.1,14.7,"Pass","SecondHalf","Successful","Clément Lenglet",471
+236511,63,15,37.3,75,68.7,87.1,"Pass","FirstHalf","Successful","Clément Lenglet",125
+236511,63,30,6.6,86.9,NA,NA,"TakeOn","FirstHalf","Successful","Clément Lenglet",216
+261212,65,23,78.2,74.5,92.5,77.6,"Pass","FirstHalf","Unsuccessful","Dani Olmo",259
+261212,65,11,35.8,63.3,38.9,35.5,"Pass","FirstHalf","Successful","Dani Olmo",121
+261212,65,17,32.6,4.5,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Dani Olmo",186
+261212,65,29,30,15.9,34.5,7.9,"Pass","FirstHalf","Successful","Dani Olmo",321
+261212,65,20,35.4,15,NA,NA,"BallRecovery","FirstHalf","Successful","Dani Olmo",200
+261212,65,62,66.7,35.1,81.6,65.2,"Pass","SecondHalf","Successful","Dani Olmo",724
+261212,65,44,24.4,2.9,42.4,30,"Pass","FirstHalf","Unsuccessful","Dani Olmo",488
+261212,65,23,68.3,89.9,60.1,82.6,"Pass","FirstHalf","Successful","Dani Olmo",256
+261212,65,65,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Dani Olmo",757
+261212,65,23,77,94.1,79.8,74.4,"Pass","FirstHalf","Successful","Dani Olmo",254
+261212,65,3,22.6,44.5,NA,NA,"BlockedPass","FirstHalf","Successful","Dani Olmo",21
+261212,65,29,88.2,27.8,NA,NA,"CornerAwarded","FirstHalf","Successful","Dani Olmo",326
+261212,65,20,35.4,15,35.4,5.6,"Pass","FirstHalf","Successful","Dani Olmo",201
+261212,65,26,69.8,37.7,NA,NA,"BallTouch","FirstHalf","Successful","Dani Olmo",284
+261212,65,20,35.2,44.8,55.1,28.8,"Pass","FirstHalf","Unsuccessful","Dani Olmo",198
+261212,65,57,74,53.4,NA,NA,"MissedShots","SecondHalf","Successful","Dani Olmo",672
+261212,65,15,56.2,15.1,NA,NA,"Foul","FirstHalf","Unsuccessful","Dani Olmo",165
+261212,65,20,37.2,21.8,NA,NA,"Foul","FirstHalf","Successful","Dani Olmo",204
+261212,65,34,85.7,30.6,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Dani Olmo",995
+261212,65,62,61.8,13.1,62.7,4.1,"Pass","SecondHalf","Successful","Dani Olmo",719
+261212,65,32,74.3,24.3,64.7,32.5,"Pass","FirstHalf","Successful","Dani Olmo",374
+261212,65,37,97.5,31,91.5,11.4,"Pass","FirstHalf","Successful","Dani Olmo",417
+261212,65,1,15.4,24.6,NA,NA,"Aerial","FirstHalf","Unsuccessful","Dani Olmo",10
+261212,65,29,86.5,27,86.8,28.6,"Pass","FirstHalf","Unsuccessful","Dani Olmo",325
+261212,65,32,77.5,21.8,75.2,21,"Pass","FirstHalf","Unsuccessful","Dani Olmo",373
+261212,65,31,61.7,15.3,54.7,15.3,"Pass","FirstHalf","Successful","Dani Olmo",341
+261212,65,23,99.5,99.5,91,56.6,"Pass","FirstHalf","Unsuccessful","Dani Olmo",248
+261212,65,64,88,53,NA,NA,"Goal","SecondHalf","Successful","Dani Olmo",754
+261212,65,46,37.5,34.2,46.5,11.6,"Pass","FirstHalf","Successful","Dani Olmo",516
+261212,65,15,58.1,14.1,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Dani Olmo",164
+261212,65,53,18.2,7.7,NA,NA,"BallTouch","SecondHalf","Successful","Dani Olmo",636
+261212,65,63,67.6,59.7,57.1,64.2,"Pass","SecondHalf","Successful","Dani Olmo",733
+261212,65,55,44.8,0,34.7,7.3,"Pass","SecondHalf","Successful","Dani Olmo",652
+261212,65,55,50,7.8,NA,NA,"Dispossessed","SecondHalf","Successful","Dani Olmo",650
+261212,65,16,5.2,12.2,22.8,36.4,"Pass","FirstHalf","Successful","Dani Olmo",176
+261212,65,38,35.3,20.4,NA,NA,"Foul","FirstHalf","Unsuccessful","Dani Olmo",436
+261212,65,11,90.8,23.1,85.6,45.9,"Pass","FirstHalf","Successful","Dani Olmo",133
+261212,65,7,54.3,54.6,41.9,28.5,"Pass","FirstHalf","Successful","Dani Olmo",77
+261212,65,47,75.3,39.8,NA,NA,"Tackle","SecondHalf","Successful","Dani Olmo",580
+261212,65,31,44.3,10.4,NA,NA,"BallTouch","FirstHalf","Successful","Dani Olmo",336
+261212,65,57,67.8,70.5,79.4,65.4,"Pass","SecondHalf","Successful","Dani Olmo",669
+261212,65,34,85.3,34.2,NA,NA,"Foul","FirstHalf","Successful","Dani Olmo",393
+261212,65,42,31.7,62.9,35,94.1,"Pass","FirstHalf","Successful","Dani Olmo",462
+261212,65,23,80.2,95.3,66.5,85.4,"Pass","FirstHalf","Successful","Dani Olmo",250
+261212,65,1,13.7,25,NA,NA,"BallTouch","FirstHalf","Successful","Dani Olmo",16
+261212,65,49,72.2,68.8,89.6,32.4,"Pass","FirstHalf","Successful","Dani Olmo",535
+261212,65,8,77.5,36,81.2,50.7,"Pass","FirstHalf","Successful","Dani Olmo",87
+261212,65,48,57.9,9.7,76.4,20.6,"Pass","SecondHalf","Unsuccessful","Dani Olmo",591
+261212,65,33,67.8,60.2,69.7,38.6,"Pass","FirstHalf","Successful","Dani Olmo",380
+261212,65,1,9.3,24.8,16.7,24.2,"Clearance","FirstHalf","Successful","Dani Olmo",9
+261212,65,20,47.4,30.9,45,10.4,"Pass","FirstHalf","Successful","Dani Olmo",206
+261212,65,63,40,66.9,29.3,51.3,"Pass","SecondHalf","Successful","Dani Olmo",745
+261212,65,49,46.6,13.7,45.1,42.8,"Pass","SecondHalf","Successful","Dani Olmo",594
+261212,65,45,50.1,50,37.1,42.4,"Pass","SecondHalf","Successful","Dani Olmo",542
+261212,65,56,59.9,47.2,79.9,68.1,"Pass","SecondHalf","Successful","Dani Olmo",664
+261212,65,64,78.8,34.9,78.6,42.1,"Pass","SecondHalf","Successful","Dani Olmo",752
+261212,65,28,64.6,17.6,74.3,3.2,"Pass","FirstHalf","Successful","Dani Olmo",301
+300299,65,89,3.2,55.2,30.9,84.2,"Clearance","SecondHalf","Successful","Marcus Rashford",941
+300299,65,66,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Marcus Rashford",760
+300299,65,95,88.6,96.3,78.9,69.6,"Pass","SecondHalf","Successful","Marcus Rashford",983
+300299,65,67,63.5,68.3,NA,NA,"OffsideGiven","SecondHalf","Unsuccessful","Marcus Rashford",11777
+300299,65,85,62.2,91.1,62.9,87.2,"Pass","SecondHalf","Unsuccessful","Marcus Rashford",916
+300299,65,70,82.9,92.2,85.9,52.8,"Pass","SecondHalf","Unsuccessful","Marcus Rashford",798
+300299,65,88,42.6,93.6,77,53.6,"Pass","SecondHalf","Unsuccessful","Marcus Rashford",935
+300299,65,76,99.7,99.6,97,46.3,"Pass","SecondHalf","Unsuccessful","Marcus Rashford",832
+300299,65,81,80.8,92.1,59.9,85.7,"Pass","SecondHalf","Successful","Marcus Rashford",890
+300299,65,89,20.1,88.8,NA,NA,"Clearance","SecondHalf","Successful","Marcus Rashford",942
+300299,65,92,29.8,85.3,30.9,69.9,"Pass","SecondHalf","Successful","Marcus Rashford",961
+300299,65,92,95.2,61.7,NA,NA,"CornerAwarded","SecondHalf","Successful","Marcus Rashford",965
+300299,65,70,41.7,94.7,37.1,84.8,"Pass","SecondHalf","Successful","Marcus Rashford",795
+300299,65,95,78.5,95.1,91.5,87.5,"Pass","SecondHalf","Successful","Marcus Rashford",986
+300299,65,88,54,96,NA,NA,"Tackle","SecondHalf","Successful","Marcus Rashford",934
+300299,65,92,93.4,69.1,NA,NA,"SavedShot","SecondHalf","Successful","Marcus Rashford",964
+300299,65,93,95.9,95,93.9,89.3,"Pass","SecondHalf","Successful","Marcus Rashford",967
+300299,65,70,41.7,94.7,NA,NA,"BallRecovery","SecondHalf","Successful","Marcus Rashford",794
+300299,65,93,80,72.7,NA,NA,"MissedShots","SecondHalf","Successful","Marcus Rashford",974
+300447,65,4,46,80.9,34.5,89.3,"Pass","FirstHalf","Successful","Raphinha",44
+300447,65,63,63,21.5,64.2,3.4,"Pass","SecondHalf","Successful","Raphinha",748
+300447,65,28,45.4,92.7,30.1,75.1,"Pass","FirstHalf","Successful","Raphinha",297
+300447,65,21,68.8,91.2,NA,NA,"Foul","FirstHalf","Successful","Raphinha",221
+300447,65,30,99.6,0.7,96.7,41.3,"Pass","FirstHalf","Unsuccessful","Raphinha",327
+300447,65,26,77.9,67.6,92.4,74.5,"Pass","FirstHalf","Successful","Raphinha",286
+300447,65,57,70.9,87.8,NA,NA,"BallTouch","SecondHalf","Successful","Raphinha",667
+300447,65,11,84.9,43.1,NA,NA,"BallTouch","FirstHalf","Successful","Raphinha",135
+300447,65,42,45.1,97.2,34.5,92.4,"Pass","FirstHalf","Successful","Raphinha",464
+300447,65,46,47.8,97.5,54.6,80.8,"Pass","SecondHalf","Successful","Raphinha",563
+300447,65,3,76.5,63.3,NA,NA,"Dispossessed","FirstHalf","Successful","Raphinha",24
+300447,65,72,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Raphinha",805
+300447,65,23,90.6,76.3,92.7,57.5,"Pass","FirstHalf","Unsuccessful","Raphinha",246
+300447,65,25,88.2,41.2,NA,NA,"TakeOn","FirstHalf","Successful","Raphinha",280
+300447,65,18,67.5,73.3,NA,NA,"BallTouch","FirstHalf","Successful","Raphinha",194
+300447,65,22,68.3,94.8,64.6,74.8,"Pass","FirstHalf","Successful","Raphinha",236
+300447,65,31,66.4,52.1,55.8,33.7,"Pass","FirstHalf","Successful","Raphinha",356
+300447,65,63,78.5,100,58.8,91.1,"Pass","SecondHalf","Successful","Raphinha",727
+300447,65,21,68.9,88.7,65.3,66,"Pass","FirstHalf","Successful","Raphinha",223
+300447,65,3,76.5,87.5,NA,NA,"BallRecovery","FirstHalf","Successful","Raphinha",29
+300447,65,21,72.4,92.7,NA,NA,"BlockedPass","FirstHalf","Successful","Raphinha",220
+300447,65,21,74.1,81.1,90.8,73.9,"Pass","FirstHalf","Successful","Raphinha",216
+300447,65,25,91.4,35.6,NA,NA,"Goal","FirstHalf","Successful","Raphinha",281
+300447,65,23,96.8,65.3,NA,NA,"CornerAwarded","FirstHalf","Successful","Raphinha",247
+300447,65,9,97.8,78.1,97.6,76.1,"Pass","FirstHalf","Unsuccessful","Raphinha",112
+300447,65,29,64.6,67.5,78.4,25.8,"Pass","FirstHalf","Successful","Raphinha",324
+300447,65,36,75.7,68.4,78.8,52.8,"Pass","FirstHalf","Successful","Raphinha",404
+300447,65,20,61.9,73.8,65.2,55.5,"Pass","FirstHalf","Unsuccessful","Raphinha",209
+300447,65,8,81.9,66.9,NA,NA,"MissedShots","FirstHalf","Successful","Raphinha",93
+300447,65,50,41.8,84.4,48,53.9,"Pass","SecondHalf","Successful","Raphinha",613
+300447,65,56,88.5,67.9,100,32.4,"Pass","SecondHalf","Unsuccessful","Raphinha",665
+300447,65,3,77.1,83.5,88,43.7,"Pass","FirstHalf","Unsuccessful","Raphinha",30
+300447,65,62,93.7,71.7,97.2,53.1,"Pass","SecondHalf","Unsuccessful","Raphinha",725
+300447,65,11,85.6,45.9,NA,NA,"SavedShot","FirstHalf","Successful","Raphinha",134
+300447,65,7,73.2,79.3,81.6,96,"Pass","FirstHalf","Successful","Raphinha",81
+300447,65,55,44.1,94.1,39.9,100,"Clearance","SecondHalf","Successful","Raphinha",656
+300447,65,67,42.8,5.9,44.3,6.5,"Pass","SecondHalf","Successful","Raphinha",776
+300447,65,14,78.6,67.6,74.6,50.7,"Pass","FirstHalf","Successful","Raphinha",147
+300447,65,52,92,64.4,NA,NA,"MissedShots","SecondHalf","Successful","Raphinha",630
+300447,65,32,36.6,53,75.9,53.9,"Pass","FirstHalf","Successful","Raphinha",366
+300447,65,68,46.3,29.1,67.4,53,"Pass","SecondHalf","Unsuccessful","Raphinha",780
+300447,65,49,68.3,79.9,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Raphinha",604
+300447,65,40,61,89.4,56.3,89.3,"Pass","FirstHalf","Successful","Raphinha",444
+300447,65,50,41.8,84.4,NA,NA,"BallRecovery","SecondHalf","Successful","Raphinha",612
+300447,65,49,70.4,86.4,NA,NA,"Tackle","SecondHalf","Successful","Raphinha",605
+300447,65,23,83.9,72,NA,NA,"TakeOn","FirstHalf","Successful","Raphinha",245
+301019,65,62,39.7,14.7,32.5,28.9,"Pass","SecondHalf","Successful","Jules Koundé",715
+301019,65,9,39,17.9,43.5,35.1,"Pass","FirstHalf","Successful","Jules Koundé",108
+301019,65,80,45.8,4.1,53.5,12.2,"Pass","SecondHalf","Successful","Jules Koundé",873
+301019,65,32,84.7,7.9,78,4.6,"Pass","FirstHalf","Successful","Jules Koundé",371
+301019,65,3,53.7,29.8,NA,NA,"Aerial","FirstHalf","Successful","Jules Koundé",25
+301019,65,31,65.5,28,81.2,7.4,"Pass","FirstHalf","Successful","Jules Koundé",347
+301019,65,18,47.6,7.8,NA,NA,"TakeOn","FirstHalf","Successful","Jules Koundé",191
+301019,65,58,52.6,38.3,63.6,3.8,"Pass","SecondHalf","Successful","Jules Koundé",686
+301019,65,18,38.1,5.7,NA,NA,"TakeOn","FirstHalf","Successful","Jules Koundé",190
+301019,65,73,35.7,16.5,47.5,5.8,"Pass","SecondHalf","Unsuccessful","Jules Koundé",809
+301019,65,36,26.2,10.6,42,31.8,"Pass","FirstHalf","Successful","Jules Koundé",401
+301019,65,47,53.4,6.4,79.4,49.9,"Pass","SecondHalf","Successful","Jules Koundé",577
+301019,65,45,34.7,19.2,39.6,27.6,"Pass","SecondHalf","Successful","Jules Koundé",544
+301019,65,53,8.1,13.9,NA,NA,"Tackle","SecondHalf","Unsuccessful","Jules Koundé",637
+301019,65,5,32.7,14.1,46,7.1,"Pass","FirstHalf","Successful","Jules Koundé",55
+301019,65,31,74.5,0,59.3,19.1,"Pass","FirstHalf","Successful","Jules Koundé",350
+301019,65,20,35.4,5.6,40.1,18.6,"Pass","FirstHalf","Successful","Jules Koundé",202
+301019,65,24,63.1,18.2,73.6,6.7,"Pass","FirstHalf","Successful","Jules Koundé",276
+301019,65,28,68.1,9.2,57.9,21.8,"Pass","FirstHalf","Successful","Jules Koundé",303
+301019,65,42,31.1,15.6,19,15.8,"Pass","FirstHalf","Successful","Jules Koundé",458
+301019,65,49,60.7,0,46.6,13.7,"Pass","SecondHalf","Successful","Jules Koundé",593
+301019,65,5,55.7,8.5,60.8,13.1,"Pass","FirstHalf","Successful","Jules Koundé",65
+301019,65,37,74.1,23.3,78.9,7.7,"Pass","FirstHalf","Successful","Jules Koundé",414
+301019,65,8,72.9,17.3,65.6,31.9,"Pass","FirstHalf","Successful","Jules Koundé",89
+301019,65,34,62.9,7.9,65.3,27.9,"Pass","FirstHalf","Successful","Jules Koundé",391
+301019,65,3,53.7,29.8,65.6,28.2,"Pass","FirstHalf","Successful","Jules Koundé",26
+301019,65,75,69.8,9.2,NA,NA,"Dispossessed","SecondHalf","Successful","Jules Koundé",823
+301019,65,7,41.8,27.6,40.2,61.5,"Pass","FirstHalf","Successful","Jules Koundé",78
+301019,65,79,30,2.5,24.7,13.1,"Pass","SecondHalf","Successful","Jules Koundé",856
+301019,65,48,41.8,16.2,57.9,9.7,"Pass","SecondHalf","Successful","Jules Koundé",590
+301019,65,18,35.9,0,42,11.4,"Pass","FirstHalf","Successful","Jules Koundé",188
+301019,65,39,17.9,44.4,33.5,50.3,"Clearance","FirstHalf","Successful","Jules Koundé",441
+301019,65,24,41.4,7.6,43.5,7.3,"Pass","FirstHalf","Unsuccessful","Jules Koundé",265
+301019,65,78,11.1,27,NA,NA,"BallRecovery","SecondHalf","Successful","Jules Koundé",844
+301019,65,4,42.2,8.2,30.8,27.4,"Pass","FirstHalf","Successful","Jules Koundé",41
+301019,65,32,59.6,19.2,56.3,9.5,"Pass","FirstHalf","Successful","Jules Koundé",358
+301019,65,31,54.7,15.3,45.7,47.8,"Pass","FirstHalf","Successful","Jules Koundé",342
+301019,65,63,40.6,17.4,53.8,5.2,"Pass","SecondHalf","Successful","Jules Koundé",735
+301019,65,15,35.1,17.3,NA,NA,"BallTouch","FirstHalf","Successful","Jules Koundé",167
+301019,65,62,56.4,10.6,66.7,33.9,"Pass","SecondHalf","Successful","Jules Koundé",723
+301019,65,37,89.4,9.9,NA,NA,"Tackle","FirstHalf","Unsuccessful","Jules Koundé",420
+301019,65,4,24.5,11.6,18.5,33.1,"Pass","FirstHalf","Successful","Jules Koundé",48
+301019,65,47,40,9.2,42.5,22.5,"Pass","SecondHalf","Successful","Jules Koundé",575
+301019,65,0,41.5,5.1,NA,NA,"Interception","FirstHalf","Successful","Jules Koundé",3
+301019,65,49,89.6,32.4,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Jules Koundé",536
+301019,65,67,18,9.8,41.2,28.8,"Pass","SecondHalf","Successful","Jules Koundé",771
+301019,65,43,58.6,11.9,NA,NA,"BallTouch","FirstHalf","Successful","Jules Koundé",471
+301019,65,78,11.1,27,4.3,37.6,"Pass","SecondHalf","Successful","Jules Koundé",845
+301019,65,18,59.4,10.4,53.3,4.1,"Pass","FirstHalf","Successful","Jules Koundé",192
+301019,65,5,35.7,10.9,30.1,29.1,"Pass","FirstHalf","Successful","Jules Koundé",57
+301019,65,88,56.6,34.4,NA,NA,"Foul","SecondHalf","Unsuccessful","Jules Koundé",936
+301019,65,0,18.7,14.1,NA,NA,"BallTouch","FirstHalf","Successful","Jules Koundé",6
+301019,65,15,46,0,59.4,13.1,"Pass","FirstHalf","Successful","Jules Koundé",161
+301019,65,91,37.3,12.5,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Jules Koundé",951
+301019,65,9,32.2,9.8,40,3.5,"Pass","FirstHalf","Successful","Jules Koundé",102
+301019,65,53,12.1,0,18.2,7.7,"Pass","SecondHalf","Successful","Jules Koundé",635
+301019,65,44,34.4,20.6,36.9,53.1,"Pass","FirstHalf","Successful","Jules Koundé",500
+301019,65,16,26.6,6.5,NA,NA,"Foul","FirstHalf","Unsuccessful","Jules Koundé",170
+301019,65,75,68.3,7,NA,NA,"BallTouch","SecondHalf","Successful","Jules Koundé",824
+301019,65,32,87.7,5.4,NA,NA,"TakeOn","FirstHalf","Successful","Jules Koundé",370
+301019,65,45,50.8,19.3,NA,NA,"Aerial","SecondHalf","Successful","Jules Koundé",552
+301019,65,62,39.8,16.4,34.7,25.3,"Pass","SecondHalf","Successful","Jules Koundé",717
+301019,65,7,55.2,9.5,43.1,30.6,"Pass","FirstHalf","Successful","Jules Koundé",70
+301019,65,33,60.1,34.8,NA,NA,"BallTouch","FirstHalf","Successful","Jules Koundé",384
+301019,65,69,29.3,2.8,43.8,11.4,"Pass","SecondHalf","Unsuccessful","Jules Koundé",788
+301019,65,63,32,13.8,63,21.5,"Pass","SecondHalf","Successful","Jules Koundé",747
+301019,65,51,26.4,3,NA,NA,"Tackle","SecondHalf","Unsuccessful","Jules Koundé",617
+301019,65,80,55.1,7.9,57.5,32.4,"Pass","SecondHalf","Successful","Jules Koundé",866
+301019,65,49,59.4,19.8,52.8,46.6,"Pass","SecondHalf","Successful","Jules Koundé",600
+301019,65,36,26.2,10.6,NA,NA,"BallRecovery","FirstHalf","Successful","Jules Koundé",400
+301019,65,52,36.7,22.2,60.9,3.1,"Pass","SecondHalf","Successful","Jules Koundé",626
+301019,65,37,88.2,0,68.1,10.1,"Pass","FirstHalf","Successful","Jules Koundé",422
+301019,65,83,33.8,20.1,46.6,32.8,"Pass","SecondHalf","Successful","Jules Koundé",902
+301019,65,81,85.6,7.3,77.2,12,"Pass","SecondHalf","Successful","Jules Koundé",886
+301019,65,79,38.4,5.2,57.7,31,"Pass","SecondHalf","Successful","Jules Koundé",862
+301019,65,77,26.4,6.1,27.7,8.8,"Pass","SecondHalf","Unsuccessful","Jules Koundé",840
+301019,65,85,34.5,26.2,10.7,40,"Pass","SecondHalf","Successful","Jules Koundé",919
+301019,65,31,68.4,5.2,62.3,28.9,"Pass","FirstHalf","Successful","Jules Koundé",353
+301019,65,51,32.4,18.2,29.7,39.5,"Pass","SecondHalf","Successful","Jules Koundé",624
+301019,65,36,39,8.9,67.9,22.7,"Pass","FirstHalf","Unsuccessful","Jules Koundé",397
+301019,65,20,27.1,7.3,NA,NA,"BlockedPass","FirstHalf","Successful","Jules Koundé",199
+301019,65,54,12,56.3,28.5,79.6,"Clearance","SecondHalf","Successful","Jules Koundé",642
+301019,65,87,20.1,0,43.1,21.2,"Pass","SecondHalf","Unsuccessful","Jules Koundé",931
+301019,65,22,95.7,29.5,96,46.4,"Pass","FirstHalf","Unsuccessful","Jules Koundé",242
+301019,65,63,36.6,11.9,33.4,31.2,"Pass","SecondHalf","Successful","Jules Koundé",738
+301019,65,50,42.4,10.6,61,0,"Pass","SecondHalf","Unsuccessful","Jules Koundé",615
+301019,65,55,34.4,8.8,27.2,33.9,"Pass","SecondHalf","Successful","Jules Koundé",653
+301019,65,27,53.8,16,NA,NA,"BallTouch","FirstHalf","Successful","Jules Koundé",289
+301019,65,71,38,1.6,NA,NA,"Interception","SecondHalf","Successful","Jules Koundé",801
+301019,65,67,34,0,41.3,5.9,"Pass","SecondHalf","Successful","Jules Koundé",775
+301019,65,42,29.1,15.8,37.2,11.3,"Clearance","FirstHalf","Successful","Jules Koundé",455
+301019,65,17,20.2,12,33.4,3.2,"Pass","FirstHalf","Successful","Jules Koundé",185
+301019,65,43,8,4.9,24.4,2.9,"Pass","FirstHalf","Successful","Jules Koundé",487
+301019,65,59,58.6,23.4,66.3,4.4,"Pass","SecondHalf","Successful","Jules Koundé",699
+301019,65,62,39.2,12.8,37.1,23.9,"Pass","SecondHalf","Successful","Jules Koundé",713
+301019,65,21,53.8,12.8,56,39.2,"Pass","FirstHalf","Successful","Jules Koundé",212
+301019,65,44,26.5,0,44.2,8,"Pass","FirstHalf","Successful","Jules Koundé",490
+301019,65,49,58.3,13.4,55.2,45.7,"Pass","SecondHalf","Successful","Jules Koundé",598
+301019,65,49,63.5,12.5,71.6,22.1,"Pass","FirstHalf","Successful","Jules Koundé",531
+301019,65,20,45.8,14.6,42.1,43.6,"Pass","FirstHalf","Successful","Jules Koundé",207
+301019,65,4,33,5.8,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Jules Koundé",33
+301019,65,21,60.4,11,69.7,3.8,"Pass","FirstHalf","Successful","Jules Koundé",226
+301019,65,15,31.3,12.9,NA,NA,"Aerial","FirstHalf","Unsuccessful","Jules Koundé",166
+301019,65,45,40.7,19.1,48.4,44.6,"Pass","FirstHalf","Successful","Jules Koundé",505
+301019,65,46,61,9.4,NA,NA,"Challenge","FirstHalf","Unsuccessful","Jules Koundé",518
+301019,65,42,24.5,9.7,43,7.1,"Pass","FirstHalf","Successful","Jules Koundé",468
+301019,65,24,41.1,0,82,7.7,"Pass","FirstHalf","Successful","Jules Koundé",267
+301019,65,59,59,19.1,54.9,47.9,"Pass","SecondHalf","Successful","Jules Koundé",701
+301019,65,45,50.8,19.3,57.5,25.9,"Pass","SecondHalf","Unsuccessful","Jules Koundé",553
+301019,65,51,30.9,20,44.3,4.9,"Pass","SecondHalf","Successful","Jules Koundé",622
+301019,65,45,44.2,24.4,43.8,51.5,"Pass","FirstHalf","Successful","Jules Koundé",507
+301019,65,11,39.2,29.1,35.9,49.7,"Pass","FirstHalf","Successful","Jules Koundé",127
+301019,65,82,41,4.5,50.4,20.5,"Pass","SecondHalf","Unsuccessful","Jules Koundé",894
+301019,65,62,53.6,8,57.6,27.6,"Pass","SecondHalf","Successful","Jules Koundé",721
+301019,65,15,26.4,10.1,35.4,20.9,"Pass","FirstHalf","Successful","Jules Koundé",157
+301019,65,69,36.6,36.3,9.8,46,"Pass","SecondHalf","Successful","Jules Koundé",784
+301019,65,63,55.4,24,44.5,41.8,"Pass","SecondHalf","Successful","Jules Koundé",730
+301019,65,5,57.7,5.2,NA,NA,"Foul","FirstHalf","Successful","Jules Koundé",67
+302497,63,66,50.1,49.9,36.8,51.3,"Pass","SecondHalf","Successful","Alexander Sørloth",512
+302497,63,69,65,78,66.7,82.2,"Pass","SecondHalf","Successful","Alexander Sørloth",553
+302497,63,67,81.7,27,66.2,28.8,"Pass","SecondHalf","Successful","Alexander Sørloth",521
+302497,63,69,64.7,82.6,66.7,91.2,"Pass","SecondHalf","Successful","Alexander Sørloth",555
+302497,63,89,91.2,31.6,NA,NA,"TakeOn","SecondHalf","Successful","Alexander Sørloth",749
+302497,63,74,42.8,8.5,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Alexander Sørloth",607
+302497,63,97,49.7,50.4,37.3,51.1,"Pass","SecondHalf","Successful","Alexander Sørloth",816
+302497,63,89,89.2,33.3,NA,NA,"Dispossessed","SecondHalf","Successful","Alexander Sørloth",750
+302497,63,62,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Alexander Sørloth",500
+302497,63,77,39.9,67.7,32.5,90.1,"Pass","SecondHalf","Successful","Alexander Sørloth",629
+302497,63,81,36.2,16.3,34.2,35.8,"Pass","SecondHalf","Successful","Alexander Sørloth",673
+303728,63,47,47.4,22.9,55.1,3.5,"Pass","SecondHalf","Successful","Nahuel Molina",367
+303728,63,46,35.3,6.4,72.7,15.9,"Pass","FirstHalf","Successful","Nahuel Molina",326
+303728,63,91,43.8,0,33.6,18.3,"Pass","SecondHalf","Successful","Nahuel Molina",771
+303728,63,3,89.2,0,91.5,37.6,"Pass","FirstHalf","Successful","Nahuel Molina",30
+303728,63,55,44.7,8.5,56.1,4.2,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",443
+303728,63,39,61.5,63.6,40.1,61.5,"Pass","FirstHalf","Successful","Nahuel Molina",263
+303728,63,73,63.9,3.9,51.7,8.8,"Pass","SecondHalf","Successful","Nahuel Molina",597
+303728,63,90,54,34.3,57.2,41.1,"Pass","SecondHalf","Successful","Nahuel Molina",757
+303728,63,88,40.3,53.5,46.6,94.6,"Pass","SecondHalf","Successful","Nahuel Molina",732
+303728,63,49,29.6,13.6,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Nahuel Molina",378
+303728,63,56,59.2,0,77.2,9.6,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",445
+303728,63,42,61,3,55.8,5.2,"Pass","FirstHalf","Successful","Nahuel Molina",288
+303728,63,91,69.6,0,58.8,36.4,"Pass","SecondHalf","Successful","Nahuel Molina",782
+303728,63,85,35.7,11.5,NA,NA,"BallTouch","SecondHalf","Successful","Nahuel Molina",710
+303728,63,0,72.5,9.3,54.8,21.9,"Pass","FirstHalf","Successful","Nahuel Molina",12
+303728,63,2,68.9,0,87.3,4.9,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",28
+303728,63,47,15.6,49.6,24.1,57.6,"Pass","SecondHalf","Successful","Nahuel Molina",359
+303728,63,11,30.2,26.8,34.7,24.1,"Pass","FirstHalf","Successful","Nahuel Molina",87
+303728,63,74,33.6,6,42.6,8.8,"Pass","SecondHalf","Successful","Nahuel Molina",606
+303728,63,18,36.6,24,NA,NA,"BallRecovery","FirstHalf","Successful","Nahuel Molina",144
+303728,63,27,52,22.9,47.1,42.3,"Pass","FirstHalf","Successful","Nahuel Molina",199
+303728,63,83,68.9,4.6,68.2,14.5,"Pass","SecondHalf","Successful","Nahuel Molina",695
+303728,63,75,29.8,0,36.6,5.4,"Pass","SecondHalf","Successful","Nahuel Molina",611
+303728,63,51,38.5,12.9,70.7,31,"Pass","SecondHalf","Successful","Nahuel Molina",406
+303728,63,58,27.7,13.5,32.1,3.1,"Pass","SecondHalf","Successful","Nahuel Molina",461
+303728,63,10,40.5,0,60.4,12.6,"Pass","FirstHalf","Successful","Nahuel Molina",78
+303728,63,30,35.4,24.3,64.9,56.1,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",218
+303728,63,57,26.7,14.4,NA,NA,"BallRecovery","SecondHalf","Successful","Nahuel Molina",460
+303728,63,81,20.8,7.2,36.5,12.3,"Pass","SecondHalf","Successful","Nahuel Molina",672
+303728,63,10,64.9,0,80,11.8,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",82
+303728,63,93,58.3,11.8,58.1,22.3,"Pass","SecondHalf","Successful","Nahuel Molina",804
+303728,63,9,2.4,23.9,NA,NA,"Clearance","FirstHalf","Successful","Nahuel Molina",71
+303728,63,78,24.4,32.2,31.7,71.4,"Pass","SecondHalf","Successful","Nahuel Molina",653
+303728,63,66,73.2,0,84.7,13.3,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",518
+303728,63,47,18.9,53.8,45.4,57,"Clearance","SecondHalf","Successful","Nahuel Molina",363
+303728,63,82,71.9,26.5,77.6,15.1,"Pass","SecondHalf","Successful","Nahuel Molina",682
+303728,63,23,21.9,10.9,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Nahuel Molina",181
+303728,63,58,20.4,12.9,23.8,33.4,"Pass","SecondHalf","Successful","Nahuel Molina",473
+303728,63,77,39.4,6.1,37.6,13.5,"Pass","SecondHalf","Successful","Nahuel Molina",636
+303728,63,10,9.1,10,NA,NA,"BallRecovery","FirstHalf","Successful","Nahuel Molina",72
+303728,63,42,56.7,9.4,71.9,41.8,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",284
+303728,63,11,12.5,53.8,NA,NA,"Save","FirstHalf","Successful","Nahuel Molina",90
+303728,63,84,55.8,6.6,55.2,22.3,"Pass","SecondHalf","Successful","Nahuel Molina",707
+303728,63,21,31.2,8.8,NA,NA,"Foul","FirstHalf","Unsuccessful","Nahuel Molina",164
+303728,63,80,44.7,45.4,NA,NA,"BallRecovery","SecondHalf","Successful","Nahuel Molina",665
+303728,63,53,78,16.2,83.6,27.3,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",425
+303728,63,11,67.9,0,71.3,12.3,"Pass","FirstHalf","Successful","Nahuel Molina",84
+303728,63,18,33.3,24.7,36.4,22.5,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",143
+303728,63,49,33.1,3.7,48.7,18.9,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",382
+303728,63,89,55.7,12.7,86.4,20.4,"Pass","SecondHalf","Successful","Nahuel Molina",748
+303728,63,67,25.5,15,30.3,31.9,"Pass","SecondHalf","Successful","Nahuel Molina",528
+303728,63,92,96.8,2.1,92.5,34.8,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",790
+303728,63,10,22.5,8.2,35.9,12.7,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",76
+303728,63,42,63,0,57.2,9.4,"Pass","FirstHalf","Successful","Nahuel Molina",286
+303728,63,90,55.9,28.5,59.6,39.7,"Pass","SecondHalf","Successful","Nahuel Molina",759
+303728,63,59,27.5,4,40.4,8.5,"Pass","SecondHalf","Successful","Nahuel Molina",487
+303728,63,92,67.5,10.6,61.4,23.2,"Pass","SecondHalf","Successful","Nahuel Molina",795
+303728,63,27,47.4,20.2,51.7,18.7,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",198
+303728,63,48,51.6,0,75.3,6.6,"Pass","SecondHalf","Successful","Nahuel Molina",372
+303728,63,89,83.9,31.9,NA,NA,"CornerAwarded","SecondHalf","Successful","Nahuel Molina",752
+303728,63,66,37.6,5.2,34.9,14.5,"Pass","SecondHalf","Successful","Nahuel Molina",515
+303728,63,12,36.5,9.2,70.7,84,"Pass","FirstHalf","Successful","Nahuel Molina",105
+303728,63,21,20.8,14.2,24.7,5.4,"Pass","FirstHalf","Successful","Nahuel Molina",161
+303728,63,93,15.5,7.5,NA,NA,"BallTouch","SecondHalf","Successful","Nahuel Molina",799
+303728,63,53,70.3,16.9,62,26.5,"Pass","SecondHalf","Successful","Nahuel Molina",426
+303728,63,55,44.7,8.5,NA,NA,"BallRecovery","SecondHalf","Successful","Nahuel Molina",442
+303728,63,57,19.7,0,12.8,10.1,"Pass","SecondHalf","Successful","Nahuel Molina",454
+303728,63,11,30.2,26.8,NA,NA,"BallRecovery","FirstHalf","Successful","Nahuel Molina",86
+303728,63,89,78.8,32.5,NA,NA,"SavedShot","SecondHalf","Successful","Nahuel Molina",751
+303728,63,49,33.6,0,37.9,9.1,"Pass","SecondHalf","Successful","Nahuel Molina",380
+303728,63,88,37.2,49.7,38.7,49.7,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",731
+303728,63,83,73.6,4.8,75.1,11.8,"Pass","SecondHalf","Successful","Nahuel Molina",698
+303728,63,81,19.1,7.6,NA,NA,"Interception","SecondHalf","Successful","Nahuel Molina",670
+303728,63,69,43.5,16.8,63.7,59.5,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",547
+303728,63,87,42,66.9,52.6,54.2,"Pass","SecondHalf","Successful","Nahuel Molina",728
+303728,63,49,10,83.1,14.7,84.9,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",335
+303728,63,74,34.3,8.4,NA,NA,"TakeOn","SecondHalf","Successful","Nahuel Molina",605
+303728,63,81,20.8,7.2,NA,NA,"BallRecovery","SecondHalf","Successful","Nahuel Molina",671
+303728,63,49,14.7,75.3,NA,NA,"BallRecovery","FirstHalf","Successful","Nahuel Molina",334
+303728,63,27,59.1,15,NA,NA,"OffsideGiven","FirstHalf","Unsuccessful","Nahuel Molina",11202
+303728,63,46,64.5,0,70.3,18,"Pass","FirstHalf","Unsuccessful","Nahuel Molina",318
+303728,63,87,43.7,68.3,NA,NA,"BallRecovery","SecondHalf","Successful","Nahuel Molina",727
+303728,63,18,36.6,45.4,70.9,63.3,"Pass","FirstHalf","Successful","Nahuel Molina",150
+303728,63,80,45.4,44.8,63.1,50.3,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",666
+303728,63,70,64.6,6.6,67.5,14.2,"Pass","SecondHalf","Unsuccessful","Nahuel Molina",562
+303728,63,21,12.5,25,NA,NA,"BallRecovery","FirstHalf","Successful","Nahuel Molina",160
+303728,63,41,40.7,18.1,46.4,31.2,"Pass","FirstHalf","Successful","Nahuel Molina",277
+303728,63,10,9.1,10,27.5,7.2,"Pass","FirstHalf","Successful","Nahuel Molina",73
+303728,63,73,58.5,3.3,41.6,7.6,"Pass","SecondHalf","Successful","Nahuel Molina",592
+303728,63,66,82.1,13.9,79.4,18.6,"Pass","SecondHalf","Successful","Nahuel Molina",519
+345322,63,15,68.7,87.1,72.3,86.4,"Pass","FirstHalf","Unsuccessful","Nico González",127
+345322,63,37,10.6,90.1,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Nico González",250
+345322,63,45,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Nico González",344
+345322,63,8,53.1,53.8,65.6,51.3,"Pass","FirstHalf","Unsuccessful","Nico González",61
+345322,63,22,6.7,75.8,NA,NA,"Challenge","FirstHalf","Unsuccessful","Nico González",172
+345322,63,32,23.5,83.6,25.1,83.4,"Pass","FirstHalf","Unsuccessful","Nico González",226
+345322,63,10,57.4,4.4,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Nico González",80
+345322,63,4,48.9,47.1,62,61.8,"Pass","FirstHalf","Unsuccessful","Nico González",46
+345322,63,1,85.2,13.8,85.3,36,"Pass","FirstHalf","Unsuccessful","Nico González",26
+345322,63,0,50,50,35.6,60.7,"Pass","FirstHalf","Successful","Nico González",3
+345322,63,8,48.4,48.3,NA,NA,"Aerial","FirstHalf","Successful","Nico González",60
+345322,63,37,11.2,89.7,NA,NA,"BallTouch","FirstHalf","Successful","Nico González",251
+345322,63,24,56.5,92.7,NA,NA,"BlockedPass","FirstHalf","Successful","Nico González",183
+345322,63,32,12.3,94.6,NA,NA,"Challenge","FirstHalf","Unsuccessful","Nico González",227
+345322,63,14,13.1,71.3,NA,NA,"Challenge","FirstHalf","Unsuccessful","Nico González",113
+345322,63,20,68.3,96,72.9,92.7,"Pass","FirstHalf","Unsuccessful","Nico González",156
+345322,63,15,68.7,87.1,NA,NA,"Aerial","FirstHalf","Successful","Nico González",126
+345322,63,37,6.1,80,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Nico González",249
+349760,65,77,35.7,40.6,47.2,16.2,"Pass","SecondHalf","Unsuccessful","Ferran Torres",843
+349760,65,93,94.1,89.6,89.8,93.3,"Pass","SecondHalf","Successful","Ferran Torres",968
+349760,65,95,61.5,75.4,NA,NA,"Aerial","SecondHalf","Unsuccessful","Ferran Torres",980
+349760,65,65,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Ferran Torres",758
+349760,65,79,57.7,31,63,21.3,"Pass","SecondHalf","Successful","Ferran Torres",863
+349760,65,90,53.9,93.3,NA,NA,"BallTouch","SecondHalf","Successful","Ferran Torres",947
+349760,65,85,72.1,79.6,NA,NA,"BallTouch","SecondHalf","Successful","Ferran Torres",918
+349760,65,95,95.4,56,NA,NA,"Goal","SecondHalf","Successful","Ferran Torres",988
+349760,65,93,99.5,99.5,89.9,92.7,"Pass","SecondHalf","Successful","Ferran Torres",966
+349760,65,67,40.9,28.8,32.6,8.5,"Pass","SecondHalf","Successful","Ferran Torres",772
+349760,65,75,68.8,92.3,60.6,86.8,"Pass","SecondHalf","Unsuccessful","Ferran Torres",822
+349760,65,90,53.9,93.3,NA,NA,"Aerial","SecondHalf","Successful","Ferran Torres",946
+349760,65,75,71.8,95.5,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Ferran Torres",818
+361732,63,92,73.7,76.2,80.6,71.4,"Pass","SecondHalf","Successful","Thiago Almada",786
+361732,63,78,79.2,68.7,86.3,66.7,"Pass","SecondHalf","Successful","Thiago Almada",645
+361732,63,88,46,4,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Thiago Almada",740
+361732,63,75,31.8,9.1,28.1,13.5,"Pass","SecondHalf","Successful","Thiago Almada",613
+361732,63,92,90.9,71.2,90.5,60.1,"Pass","SecondHalf","Successful","Thiago Almada",788
+361732,63,82,79.5,14.1,88.7,47.7,"Pass","SecondHalf","Unsuccessful","Thiago Almada",683
+361732,63,78,87.9,46.2,NA,NA,"MissedShots","SecondHalf","Successful","Thiago Almada",657
+361732,63,70,40.8,71.2,32.9,52.5,"Pass","SecondHalf","Successful","Thiago Almada",575
+361732,63,90,71.5,72.1,68.3,88,"Pass","SecondHalf","Successful","Thiago Almada",763
+361732,63,82,84.8,17.8,NA,NA,"Foul","SecondHalf","Unsuccessful","Thiago Almada",684
+361732,63,83,73,17,NA,NA,"Dispossessed","SecondHalf","Successful","Thiago Almada",696
+361732,63,90,57.4,41.2,54.7,29.7,"Pass","SecondHalf","Successful","Thiago Almada",758
+361732,63,73,53,96.4,53.8,82.9,"Pass","SecondHalf","Successful","Thiago Almada",594
+361732,63,93,59.6,23.2,67.1,4.3,"Pass","SecondHalf","Successful","Thiago Almada",805
+361732,63,93,47,47,50.7,18,"Pass","SecondHalf","Successful","Thiago Almada",803
+361732,63,77,68.6,38.8,66.6,43.9,"Pass","SecondHalf","Successful","Thiago Almada",640
+361732,63,78,87.5,52.6,NA,NA,"TakeOn","SecondHalf","Successful","Thiago Almada",656
+361732,63,88,52.6,53.4,35.5,52.8,"Pass","SecondHalf","Successful","Thiago Almada",729
+361732,63,90,60.5,40.5,75.1,84.3,"Pass","SecondHalf","Successful","Thiago Almada",760
+361732,63,68,36.6,46,30.5,41.4,"Pass","SecondHalf","Successful","Thiago Almada",531
+361732,63,73,56.8,91,33.8,51.3,"Pass","SecondHalf","Successful","Thiago Almada",589
+361732,63,77,68.6,38.8,NA,NA,"BallRecovery","SecondHalf","Successful","Thiago Almada",639
+361732,63,85,38.5,10.9,42.2,18.4,"Pass","SecondHalf","Unsuccessful","Thiago Almada",712
+361732,63,70,50.9,94,80,76.9,"Pass","SecondHalf","Unsuccessful","Thiago Almada",572
+361732,63,70,39.4,72.4,31.9,76.2,"Pass","SecondHalf","Successful","Thiago Almada",569
+361732,63,61,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Thiago Almada",498
+361732,63,89,65.1,30.5,52.3,41.5,"Pass","SecondHalf","Successful","Thiago Almada",756
+361732,63,69,60,91.9,61.5,85.9,"Pass","SecondHalf","Successful","Thiago Almada",550
+361732,63,82,77.5,25.4,71.9,26.5,"Pass","SecondHalf","Successful","Thiago Almada",681
+361732,63,94,99.4,0.7,100,37,"Pass","SecondHalf","Unsuccessful","Thiago Almada",811
+362779,63,51,61.8,89.4,71.3,97.2,"Pass","SecondHalf","Successful","Dávid Hancko",398
+362779,63,15,45.4,86.4,38.7,83.2,"Pass","FirstHalf","Successful","Dávid Hancko",122
+362779,63,31,20.3,92.3,NA,NA,"Tackle","FirstHalf","Successful","Dávid Hancko",222
+362779,63,71,55.1,97.9,62,98.4,"Pass","SecondHalf","Unsuccessful","Dávid Hancko",584
+362779,63,16,92.3,50.5,NA,NA,"Aerial","FirstHalf","Successful","Dávid Hancko",132
+362779,63,45,56.4,95.1,67.7,48.3,"OffsidePass","SecondHalf","Successful","Dávid Hancko",358
+362779,63,69,66.7,82.2,NA,NA,"BallTouch","SecondHalf","Successful","Dávid Hancko",554
+362779,63,22,25.3,93,NA,NA,"Challenge","FirstHalf","Unsuccessful","Dávid Hancko",171
+362779,63,50,39.2,100,26.9,95.5,"Pass","SecondHalf","Successful","Dávid Hancko",393
+362779,63,78,86.3,66.7,89.4,70.2,"Pass","SecondHalf","Unsuccessful","Dávid Hancko",646
+362779,63,53,67.1,82.2,62.8,82.9,"Pass","SecondHalf","Unsuccessful","Dávid Hancko",421
+362779,63,58,83,89.4,72.7,55.6,"Pass","SecondHalf","Successful","Dávid Hancko",478
+362779,63,44,36.5,88.4,NA,NA,"Challenge","FirstHalf","Unsuccessful","Dávid Hancko",307
+362779,63,78,69,78,78.6,84.4,"Pass","SecondHalf","Successful","Dávid Hancko",642
+362779,63,82,90.5,97.5,94.6,45.7,"Pass","SecondHalf","Unsuccessful","Dávid Hancko",680
+362779,63,80,44.5,88.9,NA,NA,"BlockedPass","SecondHalf","Successful","Dávid Hancko",661
+362779,63,48,96.9,65.6,95.6,53.8,"Pass","FirstHalf","Unsuccessful","Dávid Hancko",331
+362779,63,30,4.7,57.5,NA,NA,"BallTouch","FirstHalf","Successful","Dávid Hancko",211
+362779,63,43,43.8,91.2,46.1,96.1,"Pass","FirstHalf","Successful","Dávid Hancko",295
+362779,63,4,65.7,93.8,NA,NA,"Challenge","FirstHalf","Unsuccessful","Dávid Hancko",50
+362779,63,0,53.9,96,58.5,94.9,"Pass","FirstHalf","Unsuccessful","Dávid Hancko",6
+362779,63,17,67.4,95.5,NA,NA,"Tackle","FirstHalf","Successful","Dávid Hancko",138
+362779,63,77,37.7,86.5,31.1,80.4,"Pass","SecondHalf","Successful","Dávid Hancko",633
+362779,63,1,85.6,100,93.8,63.1,"Pass","FirstHalf","Unsuccessful","Dávid Hancko",18
+362779,63,68,38.5,94.6,56.4,95.2,"Pass","SecondHalf","Unsuccessful","Dávid Hancko",534
+362779,63,60,45.7,93,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Dávid Hancko",495
+362779,63,70,31.9,76.2,29.2,66.4,"Pass","SecondHalf","Successful","Dávid Hancko",570
+362779,63,30,2.9,100,4.8,88.9,"Pass","FirstHalf","Successful","Dávid Hancko",215
+362779,63,11,14.1,71.8,22.6,71.8,"Pass","FirstHalf","Successful","Dávid Hancko",92
+362779,63,90,87.9,54.7,NA,NA,"Aerial","SecondHalf","Successful","Dávid Hancko",766
+362779,63,74,40.7,78.4,9.1,48.6,"Pass","SecondHalf","Successful","Dávid Hancko",603
+362779,63,67,66.7,88.9,90.4,45.3,"Pass","SecondHalf","Unsuccessful","Dávid Hancko",524
+362779,63,16,73.9,90.8,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Dávid Hancko",820
+362779,63,16,73.4,93.5,NA,NA,"Foul","FirstHalf","Successful","Dávid Hancko",128
+362779,63,0,64.4,100,94.3,82.4,"Pass","FirstHalf","Unsuccessful","Dávid Hancko",8
+362779,63,45,66.8,100,67.3,93,"Pass","SecondHalf","Successful","Dávid Hancko",352
+362779,63,4,45,93.7,60.4,90.3,"Pass","FirstHalf","Successful","Dávid Hancko",47
+362779,63,52,35.6,90,NA,NA,"Challenge","SecondHalf","Unsuccessful","Dávid Hancko",409
+362779,63,27,32.4,100,46.3,92.4,"Pass","FirstHalf","Successful","Dávid Hancko",194
+362779,63,53,66.9,100,70.4,66.1,"Pass","SecondHalf","Successful","Dávid Hancko",423
+362779,63,75,24.7,87.1,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Dávid Hancko",619
+362779,63,77,39.3,80.3,NA,NA,"Foul","SecondHalf","Successful","Dávid Hancko",632
+362779,63,36,58,95.9,63.7,87,"Pass","FirstHalf","Unsuccessful","Dávid Hancko",241
+362779,63,0,73.4,95.5,70.2,85.9,"Pass","FirstHalf","Successful","Dávid Hancko",15
+362779,63,45,41.7,91.6,64.8,73.8,"Pass","SecondHalf","Successful","Dávid Hancko",347
+362779,63,9,55.7,93.9,70,87.1,"Pass","FirstHalf","Unsuccessful","Dávid Hancko",69
+362779,63,46,40.2,96.1,NA,NA,"BallRecovery","FirstHalf","Successful","Dávid Hancko",320
+362779,63,69,58.8,80.2,65,78,"Pass","SecondHalf","Successful","Dávid Hancko",552
+362779,63,16,91.5,50.5,87.8,40.3,"Pass","FirstHalf","Successful","Dávid Hancko",146
+362779,63,77,30.5,93.3,37.1,95.4,"Pass","SecondHalf","Successful","Dávid Hancko",630
+362779,63,77,38.4,86.4,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Dávid Hancko",825
+362779,63,83,55.8,87.4,NA,NA,"Tackle","SecondHalf","Unsuccessful","Dávid Hancko",685
+362779,63,75,30.2,90.8,NA,NA,"Tackle","SecondHalf","Unsuccessful","Dávid Hancko",620
+362779,63,90,87.9,54.7,NA,NA,"MissedShots","SecondHalf","Successful","Dávid Hancko",767
+362779,63,91,62.7,87.5,NA,NA,"Tackle","SecondHalf","Successful","Dávid Hancko",777
+362779,63,92,80.6,71.4,88.8,75.7,"Pass","SecondHalf","Successful","Dávid Hancko",787
+362779,63,20,52.6,73.6,64.5,80.8,"Pass","FirstHalf","Successful","Dávid Hancko",155
+362779,63,94,90.9,72.2,95.1,17.2,"Pass","SecondHalf","Successful","Dávid Hancko",807
+362779,63,70,18.9,49.2,7,53.1,"Pass","SecondHalf","Successful","Dávid Hancko",564
+362779,63,88,46.6,94.6,41.6,76.3,"Pass","SecondHalf","Successful","Dávid Hancko",733
+362779,63,56,63.9,97,72.5,95.2,"Pass","SecondHalf","Successful","Dávid Hancko",449
+362779,63,91,58.6,96.1,65.1,97.5,"Pass","SecondHalf","Successful","Dávid Hancko",775
+362779,63,46,40.3,96.1,41.9,87,"Pass","FirstHalf","Unsuccessful","Dávid Hancko",321
+362779,63,55,50,92.2,NA,NA,"Tackle","SecondHalf","Successful","Dávid Hancko",438
+362779,63,70,39.2,75.3,NA,NA,"BallTouch","SecondHalf","Successful","Dávid Hancko",573
+362779,63,36,57.7,95.5,NA,NA,"Aerial","FirstHalf","Successful","Dávid Hancko",240
+362779,63,8,62.2,89,NA,NA,"Challenge","FirstHalf","Unsuccessful","Dávid Hancko",64
+362779,63,73,60.6,100,59,87,"Pass","SecondHalf","Successful","Dávid Hancko",588
+362779,63,42,58.3,92.7,NA,NA,"Challenge","FirstHalf","Unsuccessful","Dávid Hancko",292
+362779,63,75,14.8,90.3,31.2,92.4,"Pass","SecondHalf","Successful","Dávid Hancko",617
+362779,63,78,46.6,91,80.2,65.1,"Pass","SecondHalf","Successful","Dávid Hancko",655
+362779,63,50,27,79.6,12.8,69.6,"Pass","SecondHalf","Successful","Dávid Hancko",387
+365409,63,80,43.3,90.6,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Julián Alvarez",662
+365409,63,0,80.1,93.9,67.8,55.5,"Pass","FirstHalf","Successful","Julián Alvarez",10
+365409,63,58,39.8,25.9,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Julián Alvarez",467
+365409,63,51,91.7,28.2,NA,NA,"SavedShot","SecondHalf","Successful","Julián Alvarez",407
+365409,63,73,47.1,77.4,65.8,5.4,"Pass","SecondHalf","Successful","Julián Alvarez",595
+365409,63,69,67.8,89.4,87.8,70.9,"Pass","SecondHalf","Unsuccessful","Julián Alvarez",556
+365409,63,86,59.7,81,67.2,70.5,"Pass","SecondHalf","Successful","Julián Alvarez",718
+365409,63,49,56.4,51.9,NA,NA,"Aerial","FirstHalf","Unsuccessful","Julián Alvarez",822
+365409,63,8,70.4,68.4,NA,NA,"Tackle","FirstHalf","Unsuccessful","Julián Alvarez",63
+365409,63,10,57.8,11.4,59.8,12.3,"Pass","FirstHalf","Unsuccessful","Julián Alvarez",79
+365409,63,91,57.7,88,52.3,71.8,"Pass","SecondHalf","Successful","Julián Alvarez",778
+365409,63,58,39.2,24.3,NA,NA,"BlockedPass","SecondHalf","Successful","Julián Alvarez",466
+365409,63,71,53.7,82.5,55.1,97.9,"Pass","SecondHalf","Successful","Julián Alvarez",583
+365409,63,48,60.6,91.5,NA,NA,"Challenge","FirstHalf","Unsuccessful","Julián Alvarez",333
+365409,63,91,86.2,87.3,90.4,57.4,"Pass","SecondHalf","Unsuccessful","Julián Alvarez",784
+365409,63,7,34.8,24.1,38.3,35.7,"Pass","FirstHalf","Unsuccessful","Julián Alvarez",56
+365409,63,29,61.6,7.2,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Julián Alvarez",208
+365409,63,78,81.8,85.2,77.4,85.3,"Pass","SecondHalf","Successful","Julián Alvarez",643
+365409,63,14,54.6,54.9,59.4,67.2,"Pass","FirstHalf","Successful","Julián Alvarez",117
+365409,63,58,39.4,5.2,44.3,13.9,"Pass","SecondHalf","Successful","Julián Alvarez",476
+365409,63,45,64.1,94.6,41.4,96.9,"Pass","SecondHalf","Successful","Julián Alvarez",353
+365409,63,55,58.4,30.5,NA,NA,"BallTouch","SecondHalf","Successful","Julián Alvarez",440
+365409,63,69,33.9,61.2,28.3,39.4,"Pass","SecondHalf","Successful","Julián Alvarez",545
+365409,63,30,19.1,67.5,9.6,70.3,"Pass","FirstHalf","Unsuccessful","Julián Alvarez",213
+365409,63,58,75.6,37,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Julián Alvarez",480
+365409,63,52,88.4,26.8,87.2,43.2,"Pass","SecondHalf","Successful","Julián Alvarez",415
+365409,63,50,48.4,26.2,NA,NA,"BallTouch","SecondHalf","Successful","Julián Alvarez",408
+365409,63,32,25.8,34.3,NA,NA,"BallTouch","FirstHalf","Successful","Julián Alvarez",230
+365409,63,82,71.8,97.3,90.1,97.6,"Pass","SecondHalf","Successful","Julián Alvarez",679
+365409,63,58,76.9,40.3,NA,NA,"BallTouch","SecondHalf","Successful","Julián Alvarez",481
+365409,63,77,37.1,95.4,36.2,90.6,"Pass","SecondHalf","Successful","Julián Alvarez",631
+365409,63,0,79.2,90.1,81.3,85.4,"Pass","FirstHalf","Unsuccessful","Julián Alvarez",16
+365409,63,90,76.9,92.2,87.9,54.7,"Pass","SecondHalf","Successful","Julián Alvarez",765
+365409,63,20,62.8,78.2,NA,NA,"Foul","FirstHalf","Unsuccessful","Julián Alvarez",157
+365409,63,88,43.4,65.6,NA,NA,"Foul","SecondHalf","Successful","Julián Alvarez",745
+365409,63,87,68.8,87,92.9,51.4,"Pass","SecondHalf","Unsuccessful","Julián Alvarez",723
+365409,63,75,31.2,92.4,24.7,87.1,"Pass","SecondHalf","Successful","Julián Alvarez",618
+365409,63,39,73.4,58.2,NA,NA,"BlockedPass","FirstHalf","Successful","Julián Alvarez",275
+365409,63,27,31.8,82.2,46.1,22.3,"Pass","FirstHalf","Successful","Julián Alvarez",197
+365409,63,58,34.3,22.7,NA,NA,"Dispossessed","SecondHalf","Successful","Julián Alvarez",464
+365409,63,11,69.7,18.9,64.8,25.6,"Pass","FirstHalf","Unsuccessful","Julián Alvarez",85
+365409,63,27,46.3,92.5,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Julián Alvarez",195
+365409,63,49,30.4,76.9,28.6,97.2,"Pass","FirstHalf","Successful","Julián Alvarez",337
+365409,63,45,58.4,30.3,NA,NA,"BallTouch","FirstHalf","Successful","Julián Alvarez",315
+365409,63,91,63.4,95.3,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Julián Alvarez",776
+365409,63,39,77.1,57,NA,NA,"BallTouch","FirstHalf","Successful","Julián Alvarez",261
+365409,63,83,54,86.8,NA,NA,"BallRecovery","SecondHalf","Successful","Julián Alvarez",686
+365409,63,3,46.3,70.2,NA,NA,"Aerial","FirstHalf","Unsuccessful","Julián Alvarez",37
+365409,63,30,4,90.1,NA,NA,"ShieldBallOpp","FirstHalf","Successful","Julián Alvarez",220
+365409,63,90,83.7,87.9,69.4,69,"Pass","SecondHalf","Successful","Julián Alvarez",761
+365409,63,83,54,86.8,69.1,81.3,"Pass","SecondHalf","Successful","Julián Alvarez",687
+365409,63,85,69.9,83.2,78.4,50.1,"OffsidePass","SecondHalf","Successful","Julián Alvarez",709
+365409,63,58,34.8,22.5,NA,NA,"BallTouch","SecondHalf","Successful","Julián Alvarez",465
+365409,63,69,77.8,95.7,60.9,69.7,"Pass","SecondHalf","Successful","Julián Alvarez",558
+365409,63,41,44,30.1,32.9,29.7,"Pass","FirstHalf","Successful","Julián Alvarez",278
+365409,63,26,50.3,49.1,37.2,49.7,"Pass","FirstHalf","Successful","Julián Alvarez",189
+365409,63,77,72.3,91.2,NA,NA,"BlockedPass","SecondHalf","Successful","Julián Alvarez",638
+365409,63,37,33.6,16.8,NA,NA,"Challenge","FirstHalf","Unsuccessful","Julián Alvarez",244
+365409,63,58,36.7,15.6,NA,NA,"Dispossessed","SecondHalf","Successful","Julián Alvarez",463
+365409,63,45,49.2,80.7,NA,NA,"Aerial","SecondHalf","Unsuccessful","Julián Alvarez",356
+365409,63,91,87.9,83.8,72.8,78.1,"Pass","SecondHalf","Successful","Julián Alvarez",785
+365409,63,30,17.2,72.4,NA,NA,"BallRecovery","FirstHalf","Successful","Julián Alvarez",212
+368091,65,85,57.6,79.3,72.1,79.6,"Pass","SecondHalf","Successful","Eric García",917
+368091,65,28,61.3,0,52.6,34.9,"Pass","FirstHalf","Successful","Eric García",309
+368091,65,77,32.4,52.6,NA,NA,"BlockedPass","SecondHalf","Successful","Eric García",842
+368091,65,37,76.2,13.5,68.3,13.8,"Pass","FirstHalf","Successful","Eric García",424
+368091,65,49,55.3,45.8,58.7,13.4,"Pass","SecondHalf","Successful","Eric García",599
+368091,65,45,37.1,42.4,34.7,19.2,"Pass","SecondHalf","Successful","Eric García",543
+368091,65,7,57.4,72.7,63.4,76.7,"Pass","FirstHalf","Successful","Eric García",75
+368091,65,8,73.6,33.6,77.5,36,"Pass","FirstHalf","Successful","Eric García",86
+368091,65,20,27.4,64,NA,NA,"BallTouch","FirstHalf","Successful","Eric García",222
+368091,65,58,52.4,56.6,52.7,42.7,"Pass","SecondHalf","Successful","Eric García",684
+368091,65,37,69,61.8,60.3,40.3,"Pass","FirstHalf","Successful","Eric García",411
+368091,65,31,55.8,33.7,58.5,14.3,"Pass","FirstHalf","Successful","Eric García",357
+368091,65,56,26.1,7,NA,NA,"BallRecovery","SecondHalf","Successful","Eric García",662
+368091,65,20,40.1,18.6,NA,NA,"BallTouch","FirstHalf","Successful","Eric García",203
+368091,65,22,63.6,46,55.4,56.9,"Pass","FirstHalf","Successful","Eric García",233
+368091,65,33,69.7,38.6,79.8,10.9,"Pass","FirstHalf","Successful","Eric García",381
+368091,65,28,57.4,23.5,50.9,42.5,"Pass","FirstHalf","Successful","Eric García",304
+368091,65,56,27.7,8.5,45.6,35.2,"Pass","SecondHalf","Successful","Eric García",663
+368091,65,39,20.4,40.5,21.9,40.5,"Clearance","FirstHalf","Successful","Eric García",440
+368091,65,63,29.3,51.3,30.4,16.2,"Pass","SecondHalf","Successful","Eric García",746
+368091,65,46,69.8,30.4,74.7,35.1,"Pass","SecondHalf","Successful","Eric García",567
+368091,65,8,29.6,31.6,NA,NA,"Dispossessed","FirstHalf","Successful","Eric García",97
+368091,65,64,60.8,24.7,60.1,38.5,"Pass","SecondHalf","Successful","Eric García",750
+368091,65,8,36.8,53.7,41,37,"Clearance","FirstHalf","Successful","Eric García",96
+368091,65,31,53.5,42.1,61,15.5,"Pass","FirstHalf","Successful","Eric García",340
+368091,65,49,52.7,47.5,58.8,79.1,"Pass","SecondHalf","Successful","Eric García",601
+368091,65,1,10,69.9,29.3,100,"Clearance","FirstHalf","Successful","Eric García",14
+368091,65,81,72.2,41.6,70.9,77.9,"Pass","SecondHalf","Successful","Eric García",888
+368091,65,46,27.9,66.2,37.9,73.4,"Pass","FirstHalf","Successful","Eric García",513
+368091,65,21,68.4,13.8,NA,NA,"Foul","FirstHalf","Successful","Eric García",228
+368091,65,29,42.9,70.3,45.3,87.4,"Pass","FirstHalf","Unsuccessful","Eric García",314
+368091,65,58,63.3,84.4,NA,NA,"Tackle","SecondHalf","Unsuccessful","Eric García",678
+368091,65,51,33.1,39.8,30.3,26.5,"Pass","SecondHalf","Successful","Eric García",997
+368091,65,31,62.6,29.4,54.9,50.9,"Pass","FirstHalf","Successful","Eric García",354
+368091,65,50,54,50.4,69.4,41.5,"Pass","SecondHalf","Unsuccessful","Eric García",614
+368091,65,34,53.9,55.5,55.9,37.6,"Pass","FirstHalf","Successful","Eric García",389
+368091,65,77,60.7,19.7,NA,NA,"Foul","SecondHalf","Unsuccessful","Eric García",835
+368091,65,45,33.4,30.3,26.4,49,"Pass","SecondHalf","Successful","Eric García",547
+368091,65,58,61.2,78.5,60.8,75.7,"Pass","SecondHalf","Unsuccessful","Eric García",683
+368091,65,10,66.4,91.7,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Eric García",113
+368091,65,34,67.9,25.6,77.3,26.2,"Pass","FirstHalf","Successful","Eric García",392
+368091,65,45,39.6,27.6,53.9,11.1,"Pass","SecondHalf","Unsuccessful","Eric García",545
+368091,65,60,33.5,27.1,39.9,8.3,"Pass","SecondHalf","Successful","Eric García",709
+368091,65,39,19.4,41.1,NA,NA,"Tackle","FirstHalf","Unsuccessful","Eric García",442
+368091,65,3,58.8,35.8,65.1,30.5,"Pass","FirstHalf","Unsuccessful","Eric García",27
+368091,65,32,27.8,33.3,19.4,69.3,"Pass","FirstHalf","Successful","Eric García",360
+368091,65,80,49.7,14.6,51.5,13.7,"Pass","SecondHalf","Unsuccessful","Eric García",875
+368091,65,29,50.2,32.2,64.6,67.5,"Pass","FirstHalf","Successful","Eric García",323
+368091,65,58,63.1,76,NA,NA,"BallTouch","SecondHalf","Successful","Eric García",680
+368091,65,43,54.7,0,31.3,18.5,"Pass","FirstHalf","Successful","Eric García",474
+368091,65,43,55.2,22.1,41.3,28.9,"Pass","FirstHalf","Successful","Eric García",478
+368091,65,38,37.2,62.4,41.5,76.7,"Clearance","FirstHalf","Successful","Eric García",434
+368091,65,15,35.4,20.9,39,6.2,"Pass","FirstHalf","Successful","Eric García",158
+368091,65,62,37.6,24.7,40.7,10.6,"Pass","SecondHalf","Successful","Eric García",714
+368091,65,8,36.4,25.8,NA,NA,"BallRecovery","FirstHalf","Successful","Eric García",98
+368091,65,29,36.6,67,8.5,48.4,"Pass","FirstHalf","Successful","Eric García",319
+368091,65,91,36.6,4.7,NA,NA,"Tackle","SecondHalf","Successful","Eric García",950
+368091,65,24,66.3,9.8,69.8,21.5,"Pass","FirstHalf","Successful","Eric García",269
+368091,65,28,34.6,69,36.6,72,"Pass","FirstHalf","Successful","Eric García",295
+368091,65,37,70.5,7,71.4,16.1,"Pass","FirstHalf","Successful","Eric García",428
+368091,65,8,36.4,25.8,40.9,10.1,"Pass","FirstHalf","Successful","Eric García",99
+368091,65,21,62.9,41.3,60.3,11.1,"Pass","FirstHalf","Successful","Eric García",225
+368091,65,43,53.7,15.2,61.1,9.4,"Pass","FirstHalf","Unsuccessful","Eric García",472
+368091,65,4,38.3,17.3,41.8,22.1,"Pass","FirstHalf","Successful","Eric García",36
+368091,65,59,57.8,48.7,58.5,23.4,"Pass","SecondHalf","Successful","Eric García",698
+368091,65,80,38,48.5,NA,NA,"Interception","SecondHalf","Successful","Eric García",881
+368091,65,46,56,53.9,72.1,5.9,"Pass","SecondHalf","Successful","Eric García",565
+368091,65,20,33.5,37.1,42.3,32.7,"Pass","FirstHalf","Successful","Eric García",205
+375621,63,73,66.2,7.8,66.1,3.7,"Pass","SecondHalf","Successful","Conor Gallagher",596
+375621,63,73,40.7,15.4,66.3,80.8,"Pass","SecondHalf","Unsuccessful","Conor Gallagher",593
+375621,63,50,27.5,45.6,30.5,42.6,"Pass","SecondHalf","Successful","Conor Gallagher",384
+375621,63,58,10.8,84.7,NA,NA,"Interception","SecondHalf","Successful","Conor Gallagher",468
+375621,63,54,65.1,61.4,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Conor Gallagher",823
+375621,63,51,73.6,97,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Conor Gallagher",399
+375621,63,58,5.1,94.6,5.5,81.3,"Pass","SecondHalf","Successful","Conor Gallagher",470
+375621,63,51,65.8,90.4,55.2,68.5,"Pass","SecondHalf","Successful","Conor Gallagher",400
+375621,63,56,73.9,94.2,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Conor Gallagher",450
+375621,63,67,34.1,28.8,32.6,39.7,"Pass","SecondHalf","Successful","Conor Gallagher",529
+375621,63,77,66.6,43.9,67.6,47.4,"Pass","SecondHalf","Unsuccessful","Conor Gallagher",641
+375621,63,50,27.5,45.6,NA,NA,"BallRecovery","SecondHalf","Successful","Conor Gallagher",383
+375621,63,95,38.5,24.6,NA,NA,"Aerial","SecondHalf","Successful","Conor Gallagher",813
+375621,63,95,38.7,24.2,NA,NA,"Aerial","SecondHalf","Unsuccessful","Conor Gallagher",815
+375621,63,83,64,11.1,73.6,4.8,"Pass","SecondHalf","Successful","Conor Gallagher",697
+375621,63,54,62.7,68.6,NA,NA,"Foul","SecondHalf","Successful","Conor Gallagher",433
+375621,63,84,93,13.8,NA,NA,"CornerAwarded","SecondHalf","Successful","Conor Gallagher",700
+375621,63,45,44.5,83.5,55.6,95.8,"Pass","SecondHalf","Successful","Conor Gallagher",357
+375621,63,90,69.4,69,68,60.1,"Pass","SecondHalf","Successful","Conor Gallagher",762
+375621,63,88,34.8,67.1,9.8,48.3,"Pass","SecondHalf","Successful","Conor Gallagher",736
+375621,63,73,72.5,2.7,NA,NA,"OffsideGiven","SecondHalf","Unsuccessful","Conor Gallagher",11598
+375621,63,78,30.3,50.5,24.4,32.2,"Pass","SecondHalf","Successful","Conor Gallagher",652
+375621,63,59,32,76.1,NA,NA,"Tackle","SecondHalf","Unsuccessful","Conor Gallagher",482
+375621,63,60,29.8,63.4,31.3,58.6,"Pass","SecondHalf","Successful","Conor Gallagher",493
+375621,63,77,37.6,13.5,80.8,35.4,"Pass","SecondHalf","Unsuccessful","Conor Gallagher",637
+375621,63,94,95.1,17.2,NA,NA,"BallTouch","SecondHalf","Successful","Conor Gallagher",808
+375621,63,85,37.4,22.9,26.5,46.2,"Pass","SecondHalf","Successful","Conor Gallagher",713
+375621,63,83,85.6,14.1,86,19.7,"Pass","SecondHalf","Unsuccessful","Conor Gallagher",699
+375621,63,75,28.1,13.5,27.7,33,"Pass","SecondHalf","Successful","Conor Gallagher",614
+375621,63,53,91.9,86.1,NA,NA,"Dispossessed","SecondHalf","Successful","Conor Gallagher",418
+375621,63,58,7.1,93.7,NA,NA,"BallRecovery","SecondHalf","Successful","Conor Gallagher",469
+375621,63,51,59.5,97.3,61.8,89.4,"Pass","SecondHalf","Successful","Conor Gallagher",397
+375621,63,45,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Conor Gallagher",345
+375621,63,52,62.5,66,80.3,24.1,"Pass","SecondHalf","Successful","Conor Gallagher",414
+375621,63,83,62.6,64.2,52.9,50.7,"Pass","SecondHalf","Successful","Conor Gallagher",691
+375621,63,89,46.5,33.1,54.1,7.5,"Pass","SecondHalf","Successful","Conor Gallagher",747
+375621,63,90,46.1,6.7,NA,NA,"Aerial","SecondHalf","Unsuccessful","Conor Gallagher",769
+375621,63,73,47.6,13.6,58.5,3.3,"Pass","SecondHalf","Successful","Conor Gallagher",591
+375621,63,85,35,15.6,38.5,10.9,"Pass","SecondHalf","Successful","Conor Gallagher",711
+375621,63,95,37.9,23.9,40.7,26,"Pass","SecondHalf","Unsuccessful","Conor Gallagher",814
+375621,63,59,37.3,69.4,41.2,58.6,"Pass","SecondHalf","Successful","Conor Gallagher",485
+379230,63,1,84.6,73.2,NA,NA,"BallTouch","FirstHalf","Successful","Johnny Cardoso",20
+379230,63,0,35.6,60.7,35.6,83.7,"Pass","FirstHalf","Successful","Johnny Cardoso",4
+379230,63,1,84.6,75.4,NA,NA,"Aerial","FirstHalf","Successful","Johnny Cardoso",19
+379230,63,13,0,0,NA,NA,"SubstitutionOff","FirstHalf","Successful","Johnny Cardoso",106
+379230,63,3,39.7,75.1,26.6,71.4,"Pass","FirstHalf","Successful","Johnny Cardoso",38
+395242,63,46,38.2,85.8,33.3,76.2,"Pass","FirstHalf","Successful","Álex Baena",323
+395242,63,12,92.8,86.1,93.9,40.3,"Pass","FirstHalf","Unsuccessful","Álex Baena",101
+395242,63,3,21.6,64,6.9,51.6,"Pass","FirstHalf","Successful","Álex Baena",42
+395242,63,39,69.7,79.1,89,42.5,"Pass","FirstHalf","Unsuccessful","Álex Baena",258
+395242,63,30,81.9,67.2,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Álex Baena",219
+395242,63,9,63.5,91.2,NA,NA,"BallTouch","FirstHalf","Successful","Álex Baena",70
+395242,63,45,67.7,48.3,NA,NA,"OffsideGiven","SecondHalf","Unsuccessful","Álex Baena",11358
+395242,63,20,64.5,44.1,NA,NA,"BallRecovery","FirstHalf","Successful","Álex Baena",152
+395242,63,40,67.2,70.4,NA,NA,"Foul","FirstHalf","Unsuccessful","Álex Baena",270
+395242,63,4,67,94.2,NA,NA,"Tackle","FirstHalf","Unsuccessful","Álex Baena",49
+395242,63,20,64.5,44.1,69.2,47.7,"Pass","FirstHalf","Unsuccessful","Álex Baena",153
+395242,63,48,94.4,4.5,94.9,9.2,"Pass","SecondHalf","Unsuccessful","Álex Baena",373
+395242,63,3,23.5,36.7,NA,NA,"Tackle","FirstHalf","Successful","Álex Baena",33
+395242,63,46,39,90.6,NA,NA,"TakeOn","FirstHalf","Successful","Álex Baena",322
+395242,63,42,65.8,88.2,74.4,78.3,"Pass","FirstHalf","Unsuccessful","Álex Baena",291
+395242,63,5,45.8,88.3,NA,NA,"BallTouch","FirstHalf","Successful","Álex Baena",51
+395242,63,16,73.1,93.2,91.6,31.9,"Pass","FirstHalf","Successful","Álex Baena",129
+395242,63,38,64.7,79.6,NA,NA,"Foul","FirstHalf","Successful","Álex Baena",257
+395242,63,40,0,0,NA,NA,"Card","FirstHalf","Successful","Álex Baena",271
+395242,63,3,24.1,38.7,NA,NA,"BallRecovery","FirstHalf","Successful","Álex Baena",34
+395242,63,12,31.8,74.4,35.4,64.5,"Pass","FirstHalf","Unsuccessful","Álex Baena",94
+395242,63,12,22.6,70.7,NA,NA,"BallRecovery","FirstHalf","Successful","Álex Baena",93
+395242,63,54,67.4,57.5,89.4,27,"Pass","SecondHalf","Successful","Álex Baena",434
+395242,63,16,91.2,92.7,97,75.3,"Pass","FirstHalf","Successful","Álex Baena",135
+395242,63,5,42.3,94.8,NA,NA,"Foul","FirstHalf","Unsuccessful","Álex Baena",52
+395242,63,59,32.1,52.2,27.8,4.5,"Pass","SecondHalf","Successful","Álex Baena",486
+395242,63,12,98.5,31.1,NA,NA,"CornerAwarded","FirstHalf","Successful","Álex Baena",102
+395242,63,41,39.9,64.3,48.1,4.6,"Pass","FirstHalf","Successful","Álex Baena",283
+395242,63,45,64.8,72.6,NA,NA,"BallRecovery","SecondHalf","Successful","Álex Baena",348
+395242,63,36,70.8,77.7,NA,NA,"Aerial","FirstHalf","Unsuccessful","Álex Baena",243
+395242,63,9,62.1,86.4,41.9,73.8,"Pass","FirstHalf","Successful","Álex Baena",67
+395242,63,4,66.2,94.6,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Álex Baena",48
+395242,63,8,63.1,83.2,NA,NA,"BallRecovery","FirstHalf","Successful","Álex Baena",66
+395242,63,45,66,73.4,59.4,66.2,"Pass","SecondHalf","Unsuccessful","Álex Baena",349
+395242,63,8,62.2,66.3,75.6,63.1,"Pass","FirstHalf","Unsuccessful","Álex Baena",62
+395242,63,47,44,55.1,NA,NA,"Foul","SecondHalf","Successful","Álex Baena",364
+395242,63,14,59.4,67.2,85.6,46.5,"Pass","FirstHalf","Unsuccessful","Álex Baena",118
+395242,63,48,76.2,19.7,97,66.7,"Pass","FirstHalf","Successful","Álex Baena",330
+395242,63,61,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Álex Baena",497
+395242,63,18,88.3,57,NA,NA,"Goal","FirstHalf","Successful","Álex Baena",151
+395242,63,43,46.1,96.1,48.2,93.4,"Pass","FirstHalf","Unsuccessful","Álex Baena",296
+395242,63,32,24.8,79,NA,NA,"BlockedPass","FirstHalf","Successful","Álex Baena",228
+395242,63,13,99.7,0.5,100,37.4,"Pass","FirstHalf","Unsuccessful","Álex Baena",110
+395242,63,53,69.2,64,78,16.2,"Pass","SecondHalf","Successful","Álex Baena",424
+395242,63,30,75.1,58,NA,NA,"ChanceMissed","FirstHalf","Unsuccessful","Álex Baena",221
+395242,63,3,23.8,39.1,12.1,47.1,"Pass","FirstHalf","Successful","Álex Baena",35
+402197,65,49,44.2,49.1,54.1,6.1,"Pass","SecondHalf","Successful","Pedri",597
+402197,65,46,65.4,68.5,55,63.6,"Pass","SecondHalf","Successful","Pedri",572
+402197,65,46,32.7,71.5,NA,NA,"BallRecovery","FirstHalf","Successful","Pedri",514
+402197,65,49,55.5,9.1,75.4,28.6,"Pass","FirstHalf","Unsuccessful","Pedri",529
+402197,65,28,68.1,47.7,82.6,26,"Pass","FirstHalf","Successful","Pedri",306
+402197,65,25,53.9,48.8,80,39.5,"Pass","FirstHalf","Successful","Pedri",279
+402197,65,33,64.7,40,55.2,52.8,"Pass","FirstHalf","Successful","Pedri",378
+402197,65,31,54.2,53.4,52.1,42.7,"Pass","FirstHalf","Successful","Pedri",339
+402197,65,55,28.9,83.3,NA,NA,"BallRecovery","SecondHalf","Successful","Pedri",643
+402197,65,9,52.1,45.5,55.3,72.1,"Pass","FirstHalf","Successful","Pedri",109
+402197,65,55,37,76.3,40,69.3,"Pass","SecondHalf","Unsuccessful","Pedri",646
+402197,65,18,39.7,10.6,41.5,6.1,"Pass","FirstHalf","Successful","Pedri",189
+402197,65,48,35,9.4,NA,NA,"BallRecovery","FirstHalf","Successful","Pedri",527
+402197,65,24,66.7,48.5,63.5,18.6,"Pass","FirstHalf","Successful","Pedri",275
+402197,65,7,63.4,76.7,54.3,54.6,"Pass","FirstHalf","Successful","Pedri",76
+402197,65,26,69.7,44.3,77.9,67.6,"Pass","FirstHalf","Successful","Pedri",285
+402197,65,62,56,26.2,56.4,10.6,"Pass","SecondHalf","Successful","Pedri",722
+402197,65,46,32.7,71.5,36.6,42.8,"Pass","FirstHalf","Successful","Pedri",515
+402197,65,5,41.7,86,35,42.7,"Pass","FirstHalf","Successful","Pedri",60
+402197,65,63,59.6,90.2,55,60.3,"Pass","SecondHalf","Successful","Pedri",728
+402197,65,21,65.3,66,62.9,41.3,"Pass","FirstHalf","Successful","Pedri",224
+402197,65,28,60,39.8,64.6,17.6,"Pass","FirstHalf","Successful","Pedri",300
+402197,65,57,42.3,78.4,NA,NA,"BallRecovery","SecondHalf","Successful","Pedri",675
+402197,65,70,33.8,84.5,41.7,94.7,"Pass","SecondHalf","Successful","Pedri",793
+402197,65,23,67.6,42.5,66.7,68.7,"Pass","FirstHalf","Successful","Pedri",252
+402197,65,43,45.5,44,38.3,30.7,"Pass","FirstHalf","Successful","Pedri",480
+402197,65,47,42.9,22.5,49.3,10.1,"Pass","SecondHalf","Successful","Pedri",576
+402197,65,37,70.5,80.8,60.8,80.6,"Pass","FirstHalf","Successful","Pedri",409
+402197,65,21,69.3,92.8,NA,NA,"Challenge","FirstHalf","Unsuccessful","Pedri",219
+402197,65,32,65.3,33.1,67.4,64.2,"Pass","FirstHalf","Successful","Pedri",375
+402197,65,58,65.7,77.3,NA,NA,"Tackle","SecondHalf","Unsuccessful","Pedri",679
+402197,65,63,41.7,55.5,40.6,17.4,"Pass","SecondHalf","Successful","Pedri",734
+402197,65,48,24.6,15,NA,NA,"TakeOn","FirstHalf","Successful","Pedri",526
+402197,65,37,64.3,31.5,63,18.3,"Pass","FirstHalf","Successful","Pedri",426
+402197,65,49,45.1,42.8,38.9,31.3,"Pass","SecondHalf","Successful","Pedri",595
+402197,65,59,63.7,49.3,100,32.7,"Pass","SecondHalf","Unsuccessful","Pedri",703
+402197,65,22,86.2,32.1,92.2,25.8,"Pass","FirstHalf","Successful","Pedri",241
+402197,65,48,39.4,8.5,NA,NA,"TakeOn","FirstHalf","Successful","Pedri",528
+402197,65,57,42.3,78.4,57,91.2,"Pass","SecondHalf","Successful","Pedri",676
+402197,65,58,30.1,63,57.4,10.3,"Pass","SecondHalf","Successful","Pedri",690
+402197,65,33,53.9,45.5,59.9,81.2,"Pass","FirstHalf","Successful","Pedri",386
+402197,65,31,68.2,23.7,68.5,4.1,"Pass","FirstHalf","Successful","Pedri",352
+402197,65,45,42.2,36.6,NA,NA,"Interception","SecondHalf","Successful","Pedri",546
+402197,65,14,73.9,53.1,79.3,13.8,"Pass","FirstHalf","Successful","Pedri",148
+402197,65,66,20.8,83.2,18.3,88.4,"Pass","SecondHalf","Unsuccessful","Pedri",766
+402197,65,58,63.1,83.2,61.2,78.5,"Pass","SecondHalf","Successful","Pedri",682
+402197,65,64,63,36.7,81,30.4,"Pass","SecondHalf","Successful","Pedri",751
+402197,65,55,30.5,90.5,35,75.9,"Pass","SecondHalf","Successful","Pedri",644
+402197,65,49,72,24.6,91.3,76.9,"Pass","FirstHalf","Successful","Pedri",533
+402197,65,46,40.6,62.1,32.7,76.4,"Pass","SecondHalf","Successful","Pedri",560
+402197,65,29,38.4,92.8,NA,NA,"Tackle","FirstHalf","Successful","Pedri",315
+402197,65,31,65.3,64,65.7,28.9,"Pass","FirstHalf","Successful","Pedri",346
+402197,65,14,61.7,61.1,76.2,79.9,"Pass","FirstHalf","Successful","Pedri",146
+402197,65,45,46.8,34.8,39.7,20.6,"Pass","FirstHalf","Successful","Pedri",506
+402197,65,37,66.4,83.2,NA,NA,"TakeOn","FirstHalf","Successful","Pedri",408
+402197,65,38,69.7,28,98.9,10.6,"Pass","FirstHalf","Successful","Pedri",431
+402197,65,7,63.8,77.7,58.3,46,"Pass","FirstHalf","Successful","Pedri",83
+402197,65,28,34.1,72.3,34.6,69,"Pass","FirstHalf","Successful","Pedri",294
+402197,65,22,69.1,19.5,65.1,56,"Pass","FirstHalf","Successful","Pedri",229
+402197,65,24,64.6,92.7,47.5,80.8,"Pass","FirstHalf","Successful","Pedri",262
+402197,65,63,44.4,22.7,36.6,11.9,"Pass","SecondHalf","Successful","Pedri",737
+402197,65,16,23.2,32.6,NA,NA,"Foul","FirstHalf","Successful","Pedri",177
+402197,65,49,71.6,22.1,NA,NA,"BallRecovery","FirstHalf","Successful","Pedri",532
+402197,65,21,55.8,51.8,59.6,80.9,"Pass","FirstHalf","Successful","Pedri",213
+402197,65,63,27.3,59.7,24.7,89.9,"Pass","SecondHalf","Successful","Pedri",743
+402197,65,58,26.4,67.6,NA,NA,"BallRecovery","SecondHalf","Successful","Pedri",689
+402197,65,70,39.2,85.4,63.1,94.4,"Pass","SecondHalf","Successful","Pedri",796
+402197,65,24,67.6,22.8,60.8,60.2,"Pass","FirstHalf","Successful","Pedri",270
+402197,65,58,63.1,83.2,NA,NA,"BallRecovery","SecondHalf","Successful","Pedri",681
+402197,65,28,38.4,72.4,45.7,93.9,"Pass","FirstHalf","Successful","Pedri",296
+402197,65,47,37.1,45.4,41.6,7.9,"Pass","SecondHalf","Successful","Pedri",574
+402197,65,50,48.7,71.8,NA,NA,"BallTouch","SecondHalf","Successful","Pedri",611
+402197,65,11,44.8,73.5,45.6,28.5,"Pass","FirstHalf","Successful","Pedri",131
+402197,65,11,55.9,77.2,60.7,95.1,"Pass","FirstHalf","Successful","Pedri",129
+402197,65,15,37.8,71.5,26.5,33.1,"Pass","FirstHalf","Successful","Pedri",155
+402197,65,36,42.1,50.9,68.2,83.5,"Pass","FirstHalf","Successful","Pedri",403
+402197,65,72,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Pedri",807
+402197,65,58,24.4,63,NA,NA,"Tackle","SecondHalf","Unsuccessful","Pedri",688
+402197,65,4,42,33.9,26.3,58.8,"Pass","FirstHalf","Successful","Pedri",38
+402197,65,22,65.5,72.3,75.7,8.5,"Pass","FirstHalf","Successful","Pedri",237
+402197,65,33,66.5,53.6,NA,NA,"BallRecovery","FirstHalf","Successful","Pedri",385
+402197,65,59,58.6,87.2,54.1,47,"Pass","SecondHalf","Successful","Pedri",697
+402197,65,32,44.7,13.8,27.8,33.3,"Pass","FirstHalf","Successful","Pedri",359
+422824,65,79,7,54.3,26,70.3,"Pass","SecondHalf","Successful","Joan García",858
+422824,65,84,5.8,46,NA,NA,"Claim","SecondHalf","Successful","Joan García",911
+422824,65,77,14.3,64,NA,NA,"KeeperPickup","SecondHalf","Successful","Joan García",837
+422824,65,70,20.9,22.7,58.5,18.9,"Clearance","SecondHalf","Successful","Joan García",800
+422824,65,42,8.1,52.5,43,100,"Pass","FirstHalf","Unsuccessful","Joan García",453
+422824,65,63,9.7,52.1,27.3,59.7,"Pass","SecondHalf","Successful","Joan García",742
+422824,65,51,1.1,50.4,NA,NA,"KeeperPickup","SecondHalf","Successful","Joan García",619
+422824,65,80,18.9,55.4,33.6,26.7,"Pass","SecondHalf","Successful","Joan García",869
+422824,65,84,13.6,45.4,13.6,68.1,"Pass","SecondHalf","Successful","Joan García",912
+422824,65,87,3,41.5,NA,NA,"KeeperPickup","SecondHalf","Successful","Joan García",927
+422824,65,77,14.3,64,20.5,29.5,"Pass","SecondHalf","Successful","Joan García",838
+422824,65,70,20.9,22.7,NA,NA,"KeeperSweeper","SecondHalf","Successful","Joan García",799
+422824,65,14,12.2,56.4,NA,NA,"KeeperPickup","FirstHalf","Successful","Joan García",152
+422824,65,42,7.3,47.2,14,71.8,"Pass","FirstHalf","Successful","Joan García",460
+422824,65,11,24.4,50.7,NA,NA,"BallRecovery","FirstHalf","Successful","Joan García",125
+422824,65,80,19.1,43.4,29.2,21.8,"Pass","SecondHalf","Successful","Joan García",877
+422824,65,14,3.1,53.8,27.2,64.8,"Pass","FirstHalf","Successful","Joan García",145
+422824,65,85,10.8,36.9,NA,NA,"KeeperPickup","SecondHalf","Successful","Joan García",920
+422824,65,80,15,30.6,26.5,4.6,"Pass","SecondHalf","Successful","Joan García",879
+422824,65,30,22.6,36,NA,NA,"KeeperSweeper","FirstHalf","Successful","Joan García",364
+422824,65,87,10.2,41.2,13.9,23.6,"Pass","SecondHalf","Successful","Joan García",928
+422824,65,95,4.8,55.4,62.3,74.8,"Pass","SecondHalf","Unsuccessful","Joan García",979
+422824,65,51,0.6,52.2,NA,NA,"Save","SecondHalf","Successful","Joan García",618
+422824,65,78,6,31.9,37.5,5,"Pass","SecondHalf","Successful","Joan García",846
+422824,65,9,8,46.4,15,36.4,"Pass","FirstHalf","Successful","Joan García",106
+422824,65,67,9.7,55.5,NA,NA,"KeeperPickup","SecondHalf","Successful","Joan García",768
+422824,65,60,10,42.7,33.7,29.1,"Pass","SecondHalf","Successful","Joan García",708
+422824,65,69,9.7,46,NA,NA,"BallRecovery","SecondHalf","Successful","Joan García",785
+422824,65,85,19.5,47.9,62.2,91.1,"Pass","SecondHalf","Successful","Joan García",915
+422824,65,86,12,37.7,20.1,75.4,"Pass","SecondHalf","Successful","Joan García",921
+422824,65,90,4.2,52.4,53.9,93.3,"Pass","SecondHalf","Successful","Joan García",945
+422824,65,44,21.8,58.2,29.8,43,"Pass","FirstHalf","Successful","Joan García",498
+422824,65,83,21.8,77.3,31.6,86.2,"Pass","SecondHalf","Successful","Joan García",899
+422824,65,79,4.8,50.5,13.4,24.6,"Pass","SecondHalf","Successful","Joan García",852
+422824,65,48,2,67.5,NA,NA,"KeeperPickup","SecondHalf","Successful","Joan García",586
+422824,65,15,14.1,53,27.4,69,"Pass","FirstHalf","Successful","Joan García",153
+422824,65,30,18.1,32.8,NA,NA,"Tackle","FirstHalf","Successful","Joan García",334
+422824,65,67,12.9,54.2,12,30.3,"Pass","SecondHalf","Successful","Joan García",769
+422824,65,11,24.4,50.7,31.9,36.9,"Pass","FirstHalf","Successful","Joan García",126
+422824,65,32,11.4,60.7,17.9,43.8,"Pass","FirstHalf","Successful","Joan García",363
+422824,65,48,10.3,55.4,18.4,36.4,"Pass","SecondHalf","Successful","Joan García",587
+422824,65,32,19.4,69.3,28,83.9,"Pass","FirstHalf","Successful","Joan García",361
+422824,65,29,9.3,45.7,32.5,21.6,"Pass","FirstHalf","Successful","Joan García",320
+422824,65,69,9.4,47.8,18.3,24.4,"Pass","SecondHalf","Successful","Joan García",786
+422824,65,31,19.5,31.5,44.3,10.4,"Clearance","FirstHalf","Successful","Joan García",335
+422824,65,86,10.1,45.5,57.6,34.8,"Pass","SecondHalf","Unsuccessful","Joan García",923
+422824,65,43,10.2,57.2,7.8,31.6,"Pass","FirstHalf","Successful","Joan García",485
+422824,65,82,6,52.8,21.5,73.2,"Clearance","SecondHalf","Successful","Joan García",895
+422824,65,51,11.4,46.8,31.5,39.5,"Pass","SecondHalf","Successful","Joan García",621
+422918,63,11,38.5,4.8,78.1,52.9,"Pass","FirstHalf","Unsuccessful","Giuliano Simeone",89
+422918,63,46,73,17.8,NA,NA,"Foul","FirstHalf","Successful","Giuliano Simeone",327
+422918,63,54,67.1,18.1,63.1,18.1,"Pass","SecondHalf","Successful","Giuliano Simeone",431
+422918,63,0,94,86.4,87.3,93.7,"Pass","FirstHalf","Successful","Giuliano Simeone",9
+422918,63,1,48.4,6.3,83.4,14.2,"Pass","FirstHalf","Successful","Giuliano Simeone",25
+422918,63,47,52.6,3.7,46.1,14.7,"Pass","SecondHalf","Successful","Giuliano Simeone",368
+422918,63,29,53,8.1,NA,NA,"BallRecovery","FirstHalf","Successful","Giuliano Simeone",205
+422918,63,57,30.2,21.7,NA,NA,"Tackle","SecondHalf","Successful","Giuliano Simeone",459
+422918,63,46,74.1,17,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Giuliano Simeone",821
+422918,63,21,8.4,29.7,NA,NA,"Tackle","FirstHalf","Unsuccessful","Giuliano Simeone",168
+422918,63,23,16.1,28,NA,NA,"Challenge","FirstHalf","Unsuccessful","Giuliano Simeone",175
+422918,63,50,41.8,14,NA,NA,"Foul","FirstHalf","Successful","Giuliano Simeone",342
+422918,63,52,87.2,43.2,NA,NA,"MissedShots","SecondHalf","Successful","Giuliano Simeone",416
+422918,63,62,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Giuliano Simeone",499
+422918,63,3,73.7,51.3,77.4,55.5,"Pass","FirstHalf","Unsuccessful","Giuliano Simeone",32
+422918,63,39,74.5,61.1,NA,NA,"BallTouch","FirstHalf","Successful","Giuliano Simeone",260
+422918,63,22,29,27.5,NA,NA,"Challenge","FirstHalf","Unsuccessful","Giuliano Simeone",169
+422918,63,29,53.3,8.4,57.3,13.8,"Pass","FirstHalf","Successful","Giuliano Simeone",206
+422918,63,57,52.8,9.4,NA,NA,"BallTouch","SecondHalf","Successful","Giuliano Simeone",458
+422918,63,58,32.4,3.1,37.2,12.3,"Pass","SecondHalf","Successful","Giuliano Simeone",462
+422918,63,10,27.5,7,22.5,8.2,"Pass","FirstHalf","Successful","Giuliano Simeone",75
+422918,63,45,63.9,8.2,65.1,9.9,"Pass","FirstHalf","Unsuccessful","Giuliano Simeone",316
+422918,63,21,26.6,5.4,27.6,7.3,"Pass","FirstHalf","Unsuccessful","Giuliano Simeone",163
+422918,63,52,60.1,35.4,NA,NA,"Aerial","SecondHalf","Unsuccessful","Giuliano Simeone",413
+422918,63,18,40.2,25.6,33.3,24.7,"Pass","FirstHalf","Successful","Giuliano Simeone",142
+422918,63,39,80.6,58.9,NA,NA,"Dispossessed","FirstHalf","Successful","Giuliano Simeone",262
+422918,63,54,89.4,27,89.3,41.7,"Pass","SecondHalf","Unsuccessful","Giuliano Simeone",435
+422918,63,47,42.8,3.1,46.1,3.6,"Pass","SecondHalf","Unsuccessful","Giuliano Simeone",370
+422918,63,21,30.7,7.2,NA,NA,"TakeOn","FirstHalf","Successful","Giuliano Simeone",162
+422918,63,16,97,75.3,91.3,75.7,"Pass","FirstHalf","Unsuccessful","Giuliano Simeone",136
+422918,63,58,26.5,17.2,19.6,8.7,"Pass","SecondHalf","Successful","Giuliano Simeone",472
+422938,65,63,42.1,88.7,32.3,79.6,"Pass","SecondHalf","Successful","Alejandro Balde",740
+422938,65,22,71,72.5,NA,NA,"TakeOn","FirstHalf","Successful","Alejandro Balde",994
+422938,65,4,27.6,94.4,13.1,72,"Pass","FirstHalf","Successful","Alejandro Balde",52
+422938,65,81,70.9,77.9,81.9,92.6,"Pass","SecondHalf","Successful","Alejandro Balde",889
+422938,65,2,12.7,95.1,NA,NA,"Interception","FirstHalf","Successful","Alejandro Balde",17
+422938,65,22,86.5,81.1,68.1,77.8,"Pass","FirstHalf","Successful","Alejandro Balde",243
+422938,65,81,59.9,85.7,40,71.1,"Pass","SecondHalf","Successful","Alejandro Balde",891
+422938,65,55,38.6,82,NA,NA,"Foul","SecondHalf","Successful","Alejandro Balde",645
+422938,65,24,70.9,89.3,56.3,78.2,"Pass","FirstHalf","Successful","Alejandro Balde",272
+422938,65,74,23.9,95.7,29.3,76.7,"Pass","SecondHalf","Successful","Alejandro Balde",811
+422938,65,95,91.9,86.9,92.3,55.4,"Pass","SecondHalf","Successful","Alejandro Balde",987
+422938,65,50,58.2,86,NA,NA,"Foul","FirstHalf","Unsuccessful","Alejandro Balde",539
+422938,65,42,35.6,93,24.6,72.6,"Pass","FirstHalf","Successful","Alejandro Balde",465
+422938,65,53,14.8,73,NA,NA,"BallTouch","SecondHalf","Successful","Alejandro Balde",640
+422938,65,26,95.5,70.5,NA,NA,"MissedShots","FirstHalf","Successful","Alejandro Balde",287
+422938,65,43,42.3,91.8,29.1,77.2,"Pass","FirstHalf","Successful","Alejandro Balde",483
+422938,65,3,15.2,58.5,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Alejandro Balde",20
+422938,65,74,65.7,91.6,NA,NA,"Challenge","SecondHalf","Unsuccessful","Alejandro Balde",814
+422938,65,4,34.5,89.3,26.3,72.7,"Pass","FirstHalf","Successful","Alejandro Balde",45
+422938,65,17,45.4,92.3,33.6,72.9,"Pass","FirstHalf","Successful","Alejandro Balde",182
+422938,65,73,28.1,87.5,NA,NA,"OffsideProvoked","SecondHalf","Successful","Alejandro Balde",810
+422938,65,44,61.4,91.2,37.7,87.7,"Pass","FirstHalf","Successful","Alejandro Balde",502
+422938,65,3,64.6,77.6,77.2,87.5,"Pass","FirstHalf","Successful","Alejandro Balde",28
+422938,65,91,30.9,92.5,NA,NA,"Interception","SecondHalf","Successful","Alejandro Balde",953
+422938,65,21,71.9,92.9,74.1,73.6,"Pass","FirstHalf","Successful","Alejandro Balde",215
+422938,65,42,35.4,93.3,45.1,97.2,"Pass","FirstHalf","Successful","Alejandro Balde",463
+422938,65,46,59.3,76.3,55.1,64,"Pass","SecondHalf","Successful","Alejandro Balde",564
+422938,65,9,64.4,91.8,98.6,78.3,"Pass","FirstHalf","Successful","Alejandro Balde",111
+422938,65,29,45.6,95.6,36,88.4,"Pass","FirstHalf","Successful","Alejandro Balde",312
+422938,65,21,91.5,64.8,90.3,65.6,"Pass","FirstHalf","Unsuccessful","Alejandro Balde",218
+422938,65,7,75.8,89.4,63.8,77.8,"Pass","FirstHalf","Successful","Alejandro Balde",82
+422938,65,45,68.7,79.7,100,81.1,"Pass","FirstHalf","Unsuccessful","Alejandro Balde",509
+422938,65,93,77.1,92.1,81,85.1,"Pass","SecondHalf","Successful","Alejandro Balde",970
+422938,65,33,67.9,91.4,54.9,64.5,"Pass","FirstHalf","Successful","Alejandro Balde",388
+422938,65,49,69.6,95.4,68.3,79.9,"Pass","SecondHalf","Successful","Alejandro Balde",603
+422938,65,22,78.3,71.5,NA,NA,"MissedShots","FirstHalf","Successful","Alejandro Balde",231
+422938,65,27,48.3,81.3,NA,NA,"BlockedPass","FirstHalf","Successful","Alejandro Balde",292
+422938,65,46,38.3,95,47.8,97.5,"Pass","SecondHalf","Successful","Alejandro Balde",562
+422938,65,75,54.7,100,71.9,95.5,"Pass","SecondHalf","Successful","Alejandro Balde",817
+422938,65,29,36.5,91.5,29.4,69.1,"Pass","FirstHalf","Successful","Alejandro Balde",317
+422938,65,23,62.5,83.9,71.6,96.6,"Pass","FirstHalf","Successful","Alejandro Balde",257
+422938,65,37,83.3,82.7,70.9,72.1,"Pass","FirstHalf","Successful","Alejandro Balde",406
+422938,65,40,56.5,89.1,NA,NA,"BallRecovery","FirstHalf","Successful","Alejandro Balde",445
+422938,65,81,69,100,80.9,92.4,"Pass","SecondHalf","Unsuccessful","Alejandro Balde",883
+422938,65,93,87.5,95.3,87.7,89.6,"Pass","SecondHalf","Unsuccessful","Alejandro Balde",972
+422938,65,21,91.6,70.3,NA,NA,"Dispossessed","FirstHalf","Successful","Alejandro Balde",217
+422938,65,59,63.8,100,41.7,85.1,"Pass","SecondHalf","Successful","Alejandro Balde",694
+422938,65,57,69.8,78.3,NA,NA,"Dispossessed","SecondHalf","Successful","Alejandro Balde",677
+422938,65,7,64.9,94.8,57.4,85,"Pass","FirstHalf","Successful","Alejandro Balde",73
+422938,65,29,36.7,92.1,NA,NA,"BallRecovery","FirstHalf","Successful","Alejandro Balde",316
+422938,65,11,61.3,92.7,51.4,78.1,"Pass","FirstHalf","Successful","Alejandro Balde",130
+422938,65,93,94,88,85.1,83,"Pass","SecondHalf","Successful","Alejandro Balde",973
+422938,65,31,71.2,89.3,65.1,68.7,"Pass","FirstHalf","Successful","Alejandro Balde",345
+422938,65,47,53.9,96.4,NA,NA,"BlockedPass","SecondHalf","Successful","Alejandro Balde",583
+422938,65,40,87.9,73.2,NA,NA,"SavedShot","FirstHalf","Successful","Alejandro Balde",446
+422938,65,66,6.3,74.1,20.8,83.2,"Pass","SecondHalf","Successful","Alejandro Balde",764
+422938,65,74,29.4,93,14,87.8,"Pass","SecondHalf","Successful","Alejandro Balde",990
+422938,65,16,8.4,68.1,NA,NA,"Aerial","FirstHalf","Unsuccessful","Alejandro Balde",171
+434138,63,54,63.7,18.1,71.7,59.8,"Pass","SecondHalf","Successful","Pablo Barrios",432
+434138,63,0,67.4,52.6,73,9.3,"Pass","FirstHalf","Successful","Pablo Barrios",11
+434138,63,11,16.1,57.9,14.4,72,"Pass","FirstHalf","Successful","Pablo Barrios",91
+434138,63,92,62.6,24.6,NA,NA,"BallRecovery","SecondHalf","Successful","Pablo Barrios",793
+434138,63,34,14.7,65.8,NA,NA,"Foul","FirstHalf","Unsuccessful","Pablo Barrios",236
+434138,63,68,35.9,84.6,41.9,72.4,"Pass","SecondHalf","Successful","Pablo Barrios",544
+434138,63,18,52.4,92.2,NA,NA,"Challenge","FirstHalf","Unsuccessful","Pablo Barrios",141
+434138,63,92,62.6,24.6,67.5,10.6,"Pass","SecondHalf","Successful","Pablo Barrios",794
+434138,63,54,57.2,36.6,51.8,11.2,"Pass","SecondHalf","Successful","Pablo Barrios",429
+434138,63,69,57.5,86.8,59.9,91.8,"Pass","SecondHalf","Successful","Pablo Barrios",549
+434138,63,52,21.2,64.4,NA,NA,"Challenge","SecondHalf","Unsuccessful","Pablo Barrios",410
+434138,63,91,45.4,54.1,41.8,27.7,"Pass","SecondHalf","Successful","Pablo Barrios",779
+434138,63,82,68.9,78.3,72.8,93.7,"Pass","SecondHalf","Successful","Pablo Barrios",678
+434138,63,86,59.2,73,NA,NA,"Foul","SecondHalf","Successful","Pablo Barrios",719
+434138,63,84,62.3,20.8,NA,NA,"BallRecovery","SecondHalf","Successful","Pablo Barrios",703
+434138,63,58,72.7,55.6,76.8,40.3,"Pass","SecondHalf","Successful","Pablo Barrios",479
+434138,63,58,56.8,18.7,83,89.5,"Pass","SecondHalf","Successful","Pablo Barrios",477
+434138,63,42,37.7,92.4,NA,NA,"Tackle","FirstHalf","Successful","Pablo Barrios",303
+434138,63,51,47.7,94.2,48.3,80.3,"Pass","SecondHalf","Successful","Pablo Barrios",402
+434138,63,84,61.8,28.9,NA,NA,"Interception","SecondHalf","Successful","Pablo Barrios",702
+434138,63,79,64.2,92.8,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Pablo Barrios",659
+434138,63,67,64.7,92.5,NA,NA,"BallTouch","SecondHalf","Successful","Pablo Barrios",525
+434138,63,84,61.2,19.9,63.6,34,"Pass","SecondHalf","Successful","Pablo Barrios",704
+434138,63,53,75.3,93.6,68.3,83.2,"Pass","SecondHalf","Successful","Pablo Barrios",420
+434138,63,53,77.8,89.1,NA,NA,"BallRecovery","SecondHalf","Successful","Pablo Barrios",419
+434138,63,88,41.6,76.3,35.3,86.1,"Pass","SecondHalf","Successful","Pablo Barrios",734
+434138,63,86,62.3,74.1,62.5,78.6,"Pass","SecondHalf","Successful","Pablo Barrios",717
+434138,63,29,13.2,71.4,NA,NA,"BlockedPass","FirstHalf","Successful","Pablo Barrios",209
+434138,63,69,57.8,73.9,55,43.9,"Pass","SecondHalf","Successful","Pablo Barrios",560
+434138,63,56,58.6,35.8,NA,NA,"Foul","SecondHalf","Successful","Pablo Barrios",446
+434138,63,15,40.6,89,NA,NA,"Interception","FirstHalf","Successful","Pablo Barrios",119
+434138,63,11,36.1,24.1,38.8,3,"Pass","FirstHalf","Successful","Pablo Barrios",88
+434138,63,69,57.6,86.7,NA,NA,"BallRecovery","SecondHalf","Successful","Pablo Barrios",548
+434138,63,43,40.1,93.7,29.7,83.1,"Pass","FirstHalf","Successful","Pablo Barrios",297
+434138,63,50,30.5,42.6,19.3,36,"Pass","SecondHalf","Successful","Pablo Barrios",385
+434138,63,1,33,28.5,NA,NA,"BallRecovery","FirstHalf","Successful","Pablo Barrios",23
+434138,63,83,70.2,76.9,71.1,82.3,"Pass","SecondHalf","Successful","Pablo Barrios",689
+434138,63,80,46.6,83,NA,NA,"BallTouch","SecondHalf","Successful","Pablo Barrios",664
+434138,63,21,30.9,56.8,31.2,55.2,"Pass","FirstHalf","Unsuccessful","Pablo Barrios",158
+434138,63,1,37.9,33.3,48.4,6.3,"Pass","FirstHalf","Successful","Pablo Barrios",24
+434138,63,92,65,29.5,NA,NA,"Interception","SecondHalf","Successful","Pablo Barrios",791
+434138,63,70,37,5.5,26,24.9,"Pass","SecondHalf","Successful","Pablo Barrios",578
+434138,63,73,59.3,7.6,72.5,2.7,"OffsidePass","SecondHalf","Successful","Pablo Barrios",598
+434138,63,29,11.8,72.2,NA,NA,"CornerAwarded","FirstHalf","Unsuccessful","Pablo Barrios",210
+434138,63,58,37.8,16.8,39.3,5.2,"Pass","SecondHalf","Successful","Pablo Barrios",475
+434138,63,15,43.8,84.9,NA,NA,"Foul","FirstHalf","Successful","Pablo Barrios",121
+434138,63,89,71.5,25,79.6,4.5,"Pass","SecondHalf","Successful","Pablo Barrios",754
+434138,63,75,27.7,33,18.5,37.3,"Pass","SecondHalf","Successful","Pablo Barrios",615
+434138,63,92,62.2,21.4,79.2,14.4,"Pass","SecondHalf","Unsuccessful","Pablo Barrios",796
+434138,63,21,31.6,86.2,NA,NA,"Foul","FirstHalf","Unsuccessful","Pablo Barrios",166
+434138,63,16,70.4,48.3,88.5,90.4,"Pass","FirstHalf","Successful","Pablo Barrios",134
+434138,63,93,75.9,6.2,91.5,71.8,"Pass","SecondHalf","Successful","Pablo Barrios",806
+434138,63,21,14.8,36.1,NA,NA,"BallTouch","FirstHalf","Successful","Pablo Barrios",159
+434138,63,88,37.9,88.8,52.8,95.8,"Pass","SecondHalf","Successful","Pablo Barrios",744
+434138,63,43,24.4,97,38.8,100,"Pass","FirstHalf","Unsuccessful","Pablo Barrios",301
+434138,63,67,65.9,28.8,59.1,50.5,"Pass","SecondHalf","Successful","Pablo Barrios",522
+434138,63,32,14.4,68.3,NA,NA,"Tackle","FirstHalf","Unsuccessful","Pablo Barrios",225
+434138,63,78,56.7,91.5,NA,NA,"BallTouch","SecondHalf","Successful","Pablo Barrios",647
+434138,63,28,13.4,63.4,NA,NA,"Save","FirstHalf","Successful","Pablo Barrios",204
+434138,63,49,21.3,75.1,30.4,76.9,"Pass","FirstHalf","Successful","Pablo Barrios",336
+434138,63,78,31.7,71.4,46.6,91,"Pass","SecondHalf","Successful","Pablo Barrios",654
+434138,63,60,31.3,58.6,38.8,93,"Pass","SecondHalf","Successful","Pablo Barrios",494
+434138,63,59,40.4,8.5,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Pablo Barrios",488
+454343,65,93,81,85.1,87.5,95.3,"Pass","SecondHalf","Successful","Marc Casadó",971
+454343,65,92,30.9,69.9,NA,NA,"BallRecovery","SecondHalf","Successful","Marc Casadó",962
+454343,65,72,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Marc Casadó",808
+454343,65,79,28.5,53.9,23.9,28.6,"Pass","SecondHalf","Successful","Marc Casadó",860
+454343,65,83,27,83,NA,NA,"Tackle","SecondHalf","Unsuccessful","Marc Casadó",908
+454343,65,80,57.5,32.4,39.2,28.8,"Pass","SecondHalf","Successful","Marc Casadó",867
+454343,65,95,70.8,74.8,78.8,93.6,"Pass","SecondHalf","Successful","Marc Casadó",985
+454343,65,88,62.8,50.3,NA,NA,"BlockedPass","SecondHalf","Successful","Marc Casadó",932
+454343,65,93,89.4,93.3,73.7,92.3,"Pass","SecondHalf","Successful","Marc Casadó",969
+454343,65,77,29.7,37.4,NA,NA,"BallTouch","SecondHalf","Unsuccessful","Marc Casadó",841
+454343,65,80,40.2,35.5,35.7,23.1,"Pass","SecondHalf","Successful","Marc Casadó",871
+454343,65,86,40.8,27,NA,NA,"Foul","SecondHalf","Unsuccessful","Marc Casadó",924
+454343,65,74,32.8,77.2,29.4,93,"Pass","SecondHalf","Successful","Marc Casadó",989
+454343,65,92,33,68.8,84.3,92.9,"Pass","SecondHalf","Successful","Marc Casadó",963
+480249,65,5,48.4,8.4,38.5,23.1,"Pass","FirstHalf","Successful","Lamine Yamal",63
+480249,65,11,53.5,46.9,71.2,50.1,"Pass","FirstHalf","Successful","Lamine Yamal",123
+480249,65,76,0,0,NA,NA,"CornerAwarded","SecondHalf","Successful","Lamine Yamal",831
+480249,65,14,80.5,29.5,NA,NA,"MissedShots","FirstHalf","Successful","Lamine Yamal",149
+480249,65,11,38.9,35.5,NA,NA,"BallRecovery","FirstHalf","Successful","Lamine Yamal",122
+480249,65,5,56,7.1,58.8,14.9,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",62
+480249,65,3,31.7,28.8,NA,NA,"BallRecovery","FirstHalf","Successful","Lamine Yamal",22
+480249,65,78,79.4,15.4,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Lamine Yamal",849
+480249,65,64,64.7,5.5,61,24.1,"Pass","SecondHalf","Successful","Lamine Yamal",749
+480249,65,24,73.2,100,65.5,94.2,"Pass","FirstHalf","Successful","Lamine Yamal",261
+480249,65,23,70.7,76.4,80.7,95.4,"Pass","FirstHalf","Successful","Lamine Yamal",249
+480249,65,28,84,34,NA,NA,"SavedShot","FirstHalf","Successful","Lamine Yamal",307
+480249,65,26,65.8,22.7,69.8,36.9,"Pass","FirstHalf","Successful","Lamine Yamal",283
+480249,65,68,66.5,23.1,NA,NA,"BallRecovery","SecondHalf","Successful","Lamine Yamal",781
+480249,65,46,46.5,11.6,72.7,26.5,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",517
+480249,65,76,99.5,0.5,97.9,63.1,"Pass","SecondHalf","Unsuccessful","Lamine Yamal",830
+480249,65,32,78,4.6,77.5,21.8,"Pass","FirstHalf","Successful","Lamine Yamal",372
+480249,65,58,67.6,6.4,89.2,15.3,"Pass","SecondHalf","Unsuccessful","Lamine Yamal",687
+480249,65,59,67,23.1,NA,NA,"BallTouch","SecondHalf","Successful","Lamine Yamal",692
+480249,65,52,64.4,10,NA,NA,"TakeOn","SecondHalf","Successful","Lamine Yamal",627
+480249,65,38,96.8,10.4,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Lamine Yamal",432
+480249,65,68,86.8,36.2,NA,NA,"MissedShots","SecondHalf","Successful","Lamine Yamal",782
+480249,65,75,82.3,6.4,NA,NA,"BallRecovery","SecondHalf","Successful","Lamine Yamal",826
+480249,65,67,32.6,8.5,34.2,7,"Pass","SecondHalf","Unsuccessful","Lamine Yamal",773
+480249,65,4,38.6,10.3,38.3,17.3,"Pass","FirstHalf","Successful","Lamine Yamal",35
+480249,65,33,81.7,12,100,13.1,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",382
+480249,65,80,65.5,5.3,55.1,7.9,"Pass","SecondHalf","Successful","Lamine Yamal",865
+480249,65,3,32.5,29.2,77.8,64.2,"Pass","FirstHalf","Successful","Lamine Yamal",23
+480249,65,46,74.7,35.1,61,62.1,"Pass","SecondHalf","Successful","Lamine Yamal",568
+480249,65,46,74.6,27.1,69.8,30.4,"Pass","SecondHalf","Successful","Lamine Yamal",566
+480249,65,42,62.3,7.6,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Lamine Yamal",470
+480249,65,29,34.5,7.9,43.5,30.3,"Pass","FirstHalf","Successful","Lamine Yamal",322
+480249,65,4,41.8,22.1,42,33.9,"Pass","FirstHalf","Successful","Lamine Yamal",37
+480249,65,4,34.3,6.2,NA,NA,"TakeOn","FirstHalf","Successful","Lamine Yamal",49
+480249,65,81,73.7,15.3,72.2,41.6,"Pass","SecondHalf","Successful","Lamine Yamal",887
+480249,65,9,28.1,3.3,7.9,43.7,"Pass","FirstHalf","Successful","Lamine Yamal",105
+480249,65,37,83.7,7.6,74.1,23.3,"Pass","FirstHalf","Successful","Lamine Yamal",413
+480249,65,81,83.6,23.7,85.6,7.3,"Pass","SecondHalf","Successful","Lamine Yamal",885
+480249,65,27,63.2,7.1,63.4,10.7,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",291
+480249,65,42,41.7,7.3,NA,NA,"TakeOn","FirstHalf","Successful","Lamine Yamal",469
+480249,65,18,53.3,4.1,63,67.9,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",193
+480249,65,44,71.2,30.4,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Lamine Yamal",495
+480249,65,37,93.9,20,NA,NA,"Tackle","FirstHalf","Unsuccessful","Lamine Yamal",419
+480249,65,1,43,5.6,82.5,50.3,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",13
+480249,65,9,38.3,2,NA,NA,"BallRecovery","FirstHalf","Successful","Lamine Yamal",104
+480249,65,59,66.3,4.4,59,17.1,"Pass","SecondHalf","Successful","Lamine Yamal",700
+480249,65,7,72.4,11.7,73.6,33.6,"Pass","FirstHalf","Successful","Lamine Yamal",85
+480249,65,75,86.6,11.7,96.1,26.1,"Pass","SecondHalf","Successful","Lamine Yamal",827
+480249,65,44,63.5,11.6,NA,NA,"TakeOn","FirstHalf","Successful","Lamine Yamal",491
+480249,65,5,61,12.9,61.3,4.5,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",66
+480249,65,83,40.9,11.7,NA,NA,"BallTouch","SecondHalf","Successful","Lamine Yamal",905
+480249,65,78,40.8,4.4,41.5,4.7,"Pass","SecondHalf","Unsuccessful","Lamine Yamal",847
+480249,65,21,69.7,3.8,72.4,12.3,"Pass","FirstHalf","Successful","Lamine Yamal",227
+480249,65,51,44.3,4.9,32.5,15.9,"Pass","SecondHalf","Successful","Lamine Yamal",623
+480249,65,15,39,6.2,59.4,11,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",159
+480249,65,22,93.3,24.2,NA,NA,"TakeOn","FirstHalf","Successful","Lamine Yamal",239
+480249,65,23,71.6,96.6,79.6,72.4,"Pass","FirstHalf","Successful","Lamine Yamal",258
+480249,65,14,86.9,28.7,NA,NA,"TakeOn","FirstHalf","Successful","Lamine Yamal",151
+480249,65,59,68,23.9,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Lamine Yamal",691
+480249,65,49,85.8,83.5,72.5,69.1,"Pass","FirstHalf","Successful","Lamine Yamal",534
+480249,65,79,38.4,4.1,30,2.5,"Pass","SecondHalf","Successful","Lamine Yamal",855
+480249,65,32,78.6,27,77.2,16.6,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",369
+480249,65,28,74,5.8,68.1,9.2,"Pass","FirstHalf","Successful","Lamine Yamal",302
+480249,65,24,73.6,6.7,77.4,24.3,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",277
+480249,65,23,66.5,85.4,65.8,51.9,"Pass","FirstHalf","Successful","Lamine Yamal",251
+480249,65,54,37.3,31.4,NA,NA,"Foul","SecondHalf","Unsuccessful","Lamine Yamal",641
+480249,65,23,77.1,77.2,68.8,92.9,"Pass","FirstHalf","Successful","Lamine Yamal",255
+480249,65,67,44.7,14.6,63.5,68.3,"OffsidePass","SecondHalf","Successful","Lamine Yamal",777
+480249,65,46,56.9,8,NA,NA,"BallTouch","FirstHalf","Successful","Lamine Yamal",522
+480249,65,22,74.7,7,NA,NA,"TakeOn","FirstHalf","Successful","Lamine Yamal",238
+480249,65,36,42.3,4.5,NA,NA,"Aerial","FirstHalf","Unsuccessful","Lamine Yamal",396
+480249,65,63,47.2,10,44.4,22.7,"Pass","SecondHalf","Successful","Lamine Yamal",736
+480249,65,62,62.7,4.1,53.6,8,"Pass","SecondHalf","Successful","Lamine Yamal",720
+480249,65,9,39.9,3.5,39.3,6.5,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",103
+480249,65,37,79.2,14.8,92.2,50.3,"Pass","FirstHalf","Successful","Lamine Yamal",415
+480249,65,46,68.8,50.3,58.8,65.7,"Pass","SecondHalf","Successful","Lamine Yamal",570
+480249,65,44,67,23.1,80,38.6,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",492
+480249,65,22,96,29.1,92.7,39.9,"Pass","FirstHalf","Unsuccessful","Lamine Yamal",240
+480249,65,87,0,0,NA,NA,"SubstitutionOff","SecondHalf","Successful","Lamine Yamal",925
+480249,65,5,46,7.1,35.7,10.9,"Pass","FirstHalf","Successful","Lamine Yamal",56
+480249,65,47,79.4,49.9,75.8,38.6,"Pass","SecondHalf","Successful","Lamine Yamal",578
+480249,65,8,37.8,11,NA,NA,"TakeOn","FirstHalf","Successful","Lamine Yamal",100
+480249,65,31,43.1,17.9,NA,NA,"BallRecovery","FirstHalf","Successful","Lamine Yamal",337
+480249,65,81,68.4,18.3,NA,NA,"BallRecovery","SecondHalf","Successful","Lamine Yamal",884
+480249,65,37,95.7,19.7,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Lamine Yamal",418
+480249,65,83,44.2,12.6,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Lamine Yamal",904
+480249,65,26,66.1,22.1,NA,NA,"BallRecovery","FirstHalf","Successful","Lamine Yamal",282
+480249,65,52,80.9,46.2,86,64.4,"Pass","SecondHalf","Successful","Lamine Yamal",629
+480249,65,15,56.9,3.1,58.1,14.1,"Pass","FirstHalf","Successful","Lamine Yamal",163
+480249,65,37,71.4,16.1,60.1,14.3,"Pass","FirstHalf","Successful","Lamine Yamal",429
+480249,65,31,52.7,28.9,54.3,51.5,"Pass","FirstHalf","Successful","Lamine Yamal",338
+480249,65,30,97.6,15.2,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Lamine Yamal",330
+480249,65,80,53.5,12.2,55.5,11.1,"Pass","SecondHalf","Unsuccessful","Lamine Yamal",874
+480249,65,4,38.6,10.3,NA,NA,"BallRecovery","FirstHalf","Successful","Lamine Yamal",34
+480249,65,32,85.6,31.7,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Lamine Yamal",368
+480249,65,31,79.7,7.7,NA,NA,"TakeOn","FirstHalf","Unsuccessful","Lamine Yamal",348
+480249,65,8,41.3,16.7,NA,NA,"BallTouch","FirstHalf","Unsuccessful","Lamine Yamal",101
+480249,65,52,78.8,35.6,NA,NA,"TakeOn","SecondHalf","Successful","Lamine Yamal",628
+498386,65,83,27,46.9,33.8,20.1,"Pass","SecondHalf","Successful","Pau Cubarsí",901
+498386,65,40,32.8,29.6,NA,NA,"Foul","FirstHalf","Successful","Pau Cubarsí",447
+498386,65,46,29.1,36.7,28.7,64.8,"Pass","SecondHalf","Successful","Pau Cubarsí",557
+498386,65,80,31.1,26.2,14.4,32.4,"Pass","SecondHalf","Successful","Pau Cubarsí",878
+498386,65,5,37.1,32.8,56.4,6.5,"Pass","FirstHalf","Successful","Pau Cubarsí",61
+498386,65,41,31.5,39.2,30.5,70,"Pass","FirstHalf","Successful","Pau Cubarsí",448
+498386,65,37,68.3,13.8,62.7,27.9,"Pass","FirstHalf","Successful","Pau Cubarsí",425
+498386,65,16,19.4,21.8,39.1,10.3,"Clearance","FirstHalf","Successful","Pau Cubarsí",168
+498386,65,31,46.9,47.2,62.6,84.8,"Pass","FirstHalf","Successful","Pau Cubarsí",343
+498386,65,44,39.7,62.9,61.1,97.1,"Pass","FirstHalf","Successful","Pau Cubarsí",501
+498386,65,47,56,44.9,NA,NA,"Foul","SecondHalf","Unsuccessful","Pau Cubarsí",582
+498386,65,43,41.5,29.1,45.5,44,"Pass","FirstHalf","Successful","Pau Cubarsí",479
+498386,65,80,35.9,25.2,40.2,35.5,"Pass","SecondHalf","Successful","Pau Cubarsí",870
+498386,65,28,52.9,53.4,64,50.9,"Pass","FirstHalf","Successful","Pau Cubarsí",305
+498386,65,42,27.5,24.4,NA,NA,"BallRecovery","FirstHalf","Successful","Pau Cubarsí",456
+498386,65,5,32.2,40.4,34.4,65.8,"Pass","FirstHalf","Successful","Pau Cubarsí",58
+498386,65,44,31.7,42.2,34,20.3,"Pass","FirstHalf","Successful","Pau Cubarsí",499
+498386,65,82,10.9,51.5,12.3,79.4,"Clearance","SecondHalf","Successful","Pau Cubarsí",896
+498386,65,32,22.3,38,36.6,53,"Pass","FirstHalf","Successful","Pau Cubarsí",365
+498386,65,45,19.7,33.6,27.2,0,"Pass","SecondHalf","Unsuccessful","Pau Cubarsí",550
+498386,65,31,56.6,51,66.8,56.4,"Pass","FirstHalf","Successful","Pau Cubarsí",355
+498386,65,80,35.1,20.4,19.1,43.4,"Pass","SecondHalf","Successful","Pau Cubarsí",876
+498386,65,74,48.4,94.2,NA,NA,"ShieldBallOpp","SecondHalf","Successful","Pau Cubarsí",815
+498386,65,90,12.1,45.3,NA,NA,"Aerial","SecondHalf","Unsuccessful","Pau Cubarsí",943
+498386,65,80,39.6,29.9,18.9,54.8,"Pass","SecondHalf","Successful","Pau Cubarsí",868
+498386,65,55,27.2,33.9,27.7,66.1,"Pass","SecondHalf","Successful","Pau Cubarsí",654
+498386,65,3,9.1,53.6,15.7,57.9,"Clearance","FirstHalf","Successful","Pau Cubarsí",19
+498386,65,25,34.3,35.7,43.4,46,"Pass","FirstHalf","Successful","Pau Cubarsí",278
+498386,65,31,59.3,19.1,64.2,37.4,"Pass","FirstHalf","Successful","Pau Cubarsí",351
+498386,65,52,31.7,45.5,36.7,22.2,"Pass","SecondHalf","Successful","Pau Cubarsí",625
+498386,65,29,27.9,68.7,36.6,67,"Pass","FirstHalf","Successful","Pau Cubarsí",318
+498386,65,4,30.8,27.4,31.7,61.4,"Pass","FirstHalf","Successful","Pau Cubarsí",42
+498386,65,34,56.7,37.1,63.3,9.5,"Pass","FirstHalf","Successful","Pau Cubarsí",390
+498386,65,82,40.7,28.6,41.7,5,"Pass","SecondHalf","Successful","Pau Cubarsí",893
+498386,65,17,26.3,42.1,21.3,14.4,"Pass","FirstHalf","Successful","Pau Cubarsí",184
+498386,65,91,8,33.7,10.2,7.3,"Clearance","SecondHalf","Successful","Pau Cubarsí",956
+498386,65,42,23,63.1,NA,NA,"BallRecovery","FirstHalf","Successful","Pau Cubarsí",451
+498386,65,36,29.2,22.3,27.4,13.2,"Clearance","FirstHalf","Successful","Pau Cubarsí",399
+498386,65,24,44.7,24.3,41.4,7.6,"Pass","FirstHalf","Successful","Pau Cubarsí",264
+498386,65,49,44.4,46.6,67.5,64.9,"Pass","FirstHalf","Unsuccessful","Pau Cubarsí",538
+498386,65,49,43.6,48.1,NA,NA,"Aerial","FirstHalf","Successful","Pau Cubarsí",996
+498386,65,9,32,40.9,38.6,17.9,"Pass","FirstHalf","Successful","Pau Cubarsí",107
+498386,65,42,22.1,38.2,24.5,10.1,"Pass","FirstHalf","Successful","Pau Cubarsí",467
+498386,65,15,26.9,32.7,26.4,10.1,"Pass","FirstHalf","Successful","Pau Cubarsí",156
+498386,65,17,22.4,36,33.7,75.1,"Pass","FirstHalf","Successful","Pau Cubarsí",178
+498386,65,68,36.5,5.3,48,15.8,"Pass","SecondHalf","Successful","Pau Cubarsí",778
+498386,65,20,30.8,52.3,NA,NA,"BlockedPass","FirstHalf","Successful","Pau Cubarsí",197
+498386,65,43,8.5,31.2,8,4.9,"Pass","FirstHalf","Successful","Pau Cubarsí",486
+498386,65,50,55.7,79.7,71.1,65.2,"Pass","SecondHalf","Successful","Pau Cubarsí",608
+498386,65,8,51.6,51.7,NA,NA,"Aerial","FirstHalf","Unsuccessful","Pau Cubarsí",95
+498386,65,7,60.6,43.6,75.2,5.2,"Pass","FirstHalf","Successful","Pau Cubarsí",84
+498386,65,43,40.4,27.6,55.2,22.1,"Pass","FirstHalf","Successful","Pau Cubarsí",477
+498386,65,89,8.8,68.4,NA,NA,"Challenge","SecondHalf","Unsuccessful","Pau Cubarsí",938
+498386,65,68,37,4,NA,NA,"BallRecovery","SecondHalf","Successful","Pau Cubarsí",998
+498386,65,62,34.7,25.3,61.8,13.1,"Pass","SecondHalf","Successful","Pau Cubarsí",718
+498386,65,5,29.9,34.3,32.7,14.1,"Pass","FirstHalf","Successful","Pau Cubarsí",54
+498386,65,79,23.9,28.6,38.2,5.3,"Pass","SecondHalf","Successful","Pau Cubarsí",861
+498386,65,4,32.8,27.1,43.2,6.1,"Pass","FirstHalf","Successful","Pau Cubarsí",40
+498386,65,45,45.6,56.9,64.3,97.5,"Pass","FirstHalf","Successful","Pau Cubarsí",508
+498386,65,7,44.9,43.3,56.4,78.1,"Pass","FirstHalf","Successful","Pau Cubarsí",71
+498386,65,69,5.8,25.3,22.7,7.1,"Clearance","SecondHalf","Successful","Pau Cubarsí",790
+498386,65,69,23.5,24.9,29.7,3.7,"Pass","SecondHalf","Successful","Pau Cubarsí",787
+498386,65,28,43.3,43.8,56.7,43.4,"Pass","FirstHalf","Successful","Pau Cubarsí",299
+498386,65,50,55.7,79.7,NA,NA,"BallRecovery","SecondHalf","Successful","Pau Cubarsí",607
+498386,65,42,27.5,24.4,31.1,15.6,"Pass","FirstHalf","Successful","Pau Cubarsí",457
+498386,65,67,12,30.3,18.2,9.7,"Pass","SecondHalf","Successful","Pau Cubarsí",770
+498386,65,37,68.1,10.1,76.2,13.5,"Pass","FirstHalf","Successful","Pau Cubarsí",423
+498386,65,22,55.4,56.9,60.1,81.5,"Pass","FirstHalf","Successful","Pau Cubarsí",234
+498386,65,30,37.3,51.8,24.4,39.8,"Pass","FirstHalf","Unsuccessful","Pau Cubarsí",333
+498386,65,8,65.6,31.9,63.6,62.9,"Pass","FirstHalf","Successful","Pau Cubarsí",90
+498386,65,37,61.9,17.9,68.7,12.5,"Pass","FirstHalf","Successful","Pau Cubarsí",427
+498386,65,28,52.6,34.9,46.4,66.9,"Pass","FirstHalf","Successful","Pau Cubarsí",310
+498386,65,60,36.1,14.9,NA,NA,"BallRecovery","SecondHalf","Successful","Pau Cubarsí",706
+498386,65,17,32.1,36,36,68.7,"Pass","FirstHalf","Successful","Pau Cubarsí",180
+498386,65,49,38.9,31.3,39.8,52.4,"Pass","SecondHalf","Successful","Pau Cubarsí",596
+498386,65,60,36.1,14.9,10,42.7,"Pass","SecondHalf","Successful","Pau Cubarsí",707
+498386,65,11,36.2,49.6,45.1,69.7,"Pass","FirstHalf","Successful","Pau Cubarsí",128
+498386,65,24,61.1,43.7,68.5,56.3,"Pass","FirstHalf","Successful","Pau Cubarsí",274
+498386,65,11,45.6,28.5,71.4,23.4,"Pass","FirstHalf","Successful","Pau Cubarsí",132
+498386,65,79,24.7,13.1,7,54.3,"Pass","SecondHalf","Successful","Pau Cubarsí",857
+498386,65,63,33.4,35.2,41.9,88,"Pass","SecondHalf","Successful","Pau Cubarsí",739
+498386,65,33,55.2,52.8,67.8,60.2,"Pass","FirstHalf","Successful","Pau Cubarsí",379
+498386,65,62,33.2,31.2,36.2,15.3,"Pass","SecondHalf","Successful","Pau Cubarsí",716
+498386,65,80,36.5,20.6,45.8,4.1,"Pass","SecondHalf","Successful","Pau Cubarsí",872
+498386,65,45,38,53.4,41.4,21.3,"Pass","FirstHalf","Successful","Pau Cubarsí",504
+498386,65,63,44.5,41.8,46.4,71.4,"Pass","SecondHalf","Successful","Pau Cubarsí",731
+498386,65,43,39.5,30.7,38,73,"Pass","FirstHalf","Successful","Pau Cubarsí",481
+498386,65,45,34.5,31.9,NA,NA,"OffsideProvoked","SecondHalf","Successful","Pau Cubarsí",556
+498386,65,38,60.9,14.3,57.7,36.1,"Pass","FirstHalf","Successful","Pau Cubarsí",430
+498386,65,20,48.2,58.1,61.9,73.8,"Pass","FirstHalf","Successful","Pau Cubarsí",208
+498386,65,59,39.5,62.3,60.8,86,"Pass","SecondHalf","Successful","Pau Cubarsí",696
+498386,65,4,24,37.4,23.8,12.9,"Pass","FirstHalf","Successful","Pau Cubarsí",47
+498386,65,59,54.9,47.9,63.7,49.3,"Pass","SecondHalf","Successful","Pau Cubarsí",702
+498386,65,4,19.4,31.6,19.5,69.6,"Pass","FirstHalf","Successful","Pau Cubarsí",50
+498386,65,27,43.6,60.7,NA,NA,"OffsideProvoked","FirstHalf","Successful","Pau Cubarsí",293
+498386,65,74,12.9,41.3,56.3,30.4,"Pass","SecondHalf","Unsuccessful","Pau Cubarsí",813
+498386,65,5,41.5,24.3,54.9,9.2,"Pass","FirstHalf","Successful","Pau Cubarsí",64
+498386,65,7,41.5,61.5,57.6,83.2,"Pass","FirstHalf","Successful","Pau Cubarsí",79
+498386,65,77,20.5,29.5,27.8,4.1,"Pass","SecondHalf","Successful","Pau Cubarsí",839
+498386,65,42,23,63.1,8.1,52.5,"Pass","FirstHalf","Successful","Pau Cubarsí",452
+498386,65,91,9.2,41.5,7.7,31.5,"Clearance","SecondHalf","Successful","Pau Cubarsí",955
+498386,65,55,25.2,29.4,43.5,16.2,"Pass","SecondHalf","Successful","Pau Cubarsí",649
+498386,65,63,55,60.3,55.4,24,"Pass","SecondHalf","Successful","Pau Cubarsí",729
+498386,65,79,15.8,17,31.8,7,"Pass","SecondHalf","Unsuccessful","Pau Cubarsí",853
+498386,65,80,28.9,6.5,54.1,54.6,"Pass","SecondHalf","Unsuccessful","Pau Cubarsí",880
+498386,65,87,15.1,15.8,16.7,15.6,"Pass","SecondHalf","Unsuccessful","Pau Cubarsí",929
+498386,65,46,33.6,48.9,45.9,60.3,"Pass","SecondHalf","Successful","Pau Cubarsí",559
+498386,65,37,60.3,40.3,76.4,5.6,"Pass","FirstHalf","Successful","Pau Cubarsí",412
+498386,65,4,38.4,36.6,60.2,11.4,"Pass","FirstHalf","Unsuccessful","Pau Cubarsí",31
+498386,65,1,4.1,39.2,10.9,24.6,"Clearance","FirstHalf","Successful","Pau Cubarsí",8
+498386,65,43,35.4,21.9,40.6,61.7,"Pass","FirstHalf","Successful","Pau Cubarsí",475
+498386,65,48,32.7,32.4,30.2,62.3,"Pass","SecondHalf","Successful","Pau Cubarsí",588
+498386,65,36,29.2,22.3,NA,NA,"Aerial","FirstHalf","Successful","Pau Cubarsí",398
+498386,65,48,3,90.3,NA,NA,"BallTouch","SecondHalf","Successful","Pau Cubarsí",585
+498386,65,42,19,15.8,8.3,47.8,"Pass","FirstHalf","Successful","Pau Cubarsí",459
+512879,65,89,10.8,66.7,NA,NA,"Tackle","SecondHalf","Unsuccessful","Gerard Martín",939
+512879,65,8,63.6,62.9,79.2,63.4,"Pass","FirstHalf","Successful","Gerard Martín",91
+512879,65,92,8,70.8,35,70.5,"Pass","SecondHalf","Unsuccessful","Gerard Martín",959
+512879,65,46,27,82.2,NA,NA,"Foul","FirstHalf","Unsuccessful","Gerard Martín",520
+512879,65,22,69.1,76.7,73.5,64.2,"Pass","FirstHalf","Successful","Gerard Martín",244
+512879,65,4,31.8,61.8,47.4,82.6,"Pass","FirstHalf","Successful","Gerard Martín",43
+512879,65,46,32.7,76.4,38.3,95,"Pass","SecondHalf","Successful","Gerard Martín",561
+512879,65,4,13.4,70,19.1,34.8,"Pass","FirstHalf","Successful","Gerard Martín",53
+512879,65,10,40.2,87.7,NA,NA,"BlockedPass","FirstHalf","Successful","Gerard Martín",115
+512879,65,60,39.2,81.1,61.3,37.1,"Pass","SecondHalf","Unsuccessful","Gerard Martín",705
+512879,65,23,67.7,68.2,77,94.1,"Pass","FirstHalf","Successful","Gerard Martín",253
+512879,65,55,30.8,67.2,25.2,29.4,"Pass","SecondHalf","Successful","Gerard Martín",648
+512879,65,66,28.1,85,21.9,100,"Clearance","SecondHalf","Successful","Gerard Martín",761
+512879,65,70,26,79.4,33.8,84.5,"Pass","SecondHalf","Successful","Gerard Martín",792
+512879,65,79,26.3,69.4,32.4,56.9,"Pass","SecondHalf","Successful","Gerard Martín",859
+512879,65,9,55.7,72.3,67.2,95.7,"Pass","FirstHalf","Successful","Gerard Martín",110
+512879,65,15,30.4,70,42.9,72.4,"Pass","FirstHalf","Successful","Gerard Martín",154
+512879,65,21,59.6,80.8,71.7,95.3,"Pass","FirstHalf","Successful","Gerard Martín",214
+512879,65,42,21.7,71.5,31.7,62.7,"Pass","FirstHalf","Successful","Gerard Martín",461
+512879,65,12,5.1,54.2,0,74.4,"Clearance","FirstHalf","Successful","Gerard Martín",139
+512879,65,7,60.1,82.7,76.8,66.6,"Pass","FirstHalf","Unsuccessful","Gerard Martín",74
+512879,65,4,29,59.3,29.4,32.4,"Pass","FirstHalf","Successful","Gerard Martín",39
+512879,65,44,37.7,87.7,37.4,59,"Pass","FirstHalf","Successful","Gerard Martín",503
+512879,65,41,38.6,83,77.9,76.9,"Pass","FirstHalf","Unsuccessful","Gerard Martín",449
+512879,65,39,10.8,56.2,NA,NA,"Aerial","FirstHalf","Successful","Gerard Martín",437
+512879,65,43,29.1,77.2,9.1,60.8,"Pass","FirstHalf","Successful","Gerard Martín",484
+512879,65,5,34.4,65.8,40.9,90.9,"Pass","FirstHalf","Successful","Gerard Martín",59
+512879,65,46,0,0,NA,NA,"Card","FirstHalf","Successful","Gerard Martín",521
+512879,65,10,42.6,95.6,NA,NA,"Tackle","FirstHalf","Successful","Gerard Martín",116
+512879,65,46,58.1,66,65.4,68.5,"Pass","SecondHalf","Successful","Gerard Martín",571
+512879,65,32,65.6,65.7,65,50.7,"Pass","FirstHalf","Successful","Gerard Martín",377
+512879,65,24,48.4,81.2,44.7,24.3,"Pass","FirstHalf","Successful","Gerard Martín",263
+512879,65,83,31.6,86.2,27.1,47.8,"Pass","SecondHalf","Successful","Gerard Martín",900
+512879,65,0,4,18.6,4,12.5,"Clearance","FirstHalf","Successful","Gerard Martín",5
+512879,65,39,39.1,85.6,61,89.4,"Pass","FirstHalf","Successful","Gerard Martín",443
+512879,65,63,32.3,79.6,8.5,51.5,"Pass","SecondHalf","Successful","Gerard Martín",741
+512879,65,56,18.8,91.1,44.7,78.2,"Pass","SecondHalf","Successful","Gerard Martín",658
+512879,65,84,12.1,83.8,NA,NA,"BallTouch","SecondHalf","Successful","Gerard Martín",909
+512879,65,17,37.5,69.3,44,94.5,"Pass","FirstHalf","Successful","Gerard Martín",181
+512879,65,29,40,85.4,42.9,70.3,"Pass","FirstHalf","Successful","Gerard Martín",313
+512879,65,22,65.1,56,67.8,74.8,"Pass","FirstHalf","Successful","Gerard Martín",230
+512879,65,38,41.5,76.7,40.9,30.9,"Pass","FirstHalf","Unsuccessful","Gerard Martín",435
+512879,65,92,22,77.3,29.8,85.3,"Clearance","SecondHalf","Successful","Gerard Martín",960
+512879,65,45,25.1,59.6,19.7,33.6,"Pass","SecondHalf","Successful","Gerard Martín",549
+512879,65,4,22,70.8,27.3,94.2,"Pass","FirstHalf","Successful","Gerard Martín",51
+512879,65,12,1.5,68.9,NA,NA,"CornerAwarded","FirstHalf","Unsuccessful","Gerard Martín",140
+512879,65,48,32.1,60.5,41.8,16.2,"Pass","SecondHalf","Successful","Gerard Martín",589
+512879,65,45,34.9,90.1,NA,NA,"BlockedPass","FirstHalf","Successful","Gerard Martín",511
+512879,65,85,23.4,50.5,NA,NA,"OffsideProvoked","SecondHalf","Successful","Gerard Martín",914
+512879,65,48,4.1,46.6,20.5,17,"Clearance","FirstHalf","Successful","Gerard Martín",525
+512879,65,46,54.6,64.9,57.1,79.3,"Pass","SecondHalf","Successful","Gerard Martín",573
+512879,65,63,24.7,89.9,40,66.9,"Pass","SecondHalf","Successful","Gerard Martín",744
+512879,65,52,40.9,63.4,47.7,38.5,"Clearance","SecondHalf","Successful","Gerard Martín",633
+512879,65,17,34,72.9,27.5,47.9,"Pass","FirstHalf","Successful","Gerard Martín",183
+512879,65,44,49.1,46.4,19.2,53.2,"Pass","FirstHalf","Successful","Gerard Martín",497
+512879,65,24,57.5,77.9,54.1,44.3,"Pass","FirstHalf","Successful","Gerard Martín",273
+512879,65,49,58.5,79.1,69.6,95.4,"Pass","SecondHalf","Successful","Gerard Martín",602
+512879,65,92,8,70.8,NA,NA,"BallRecovery","SecondHalf","Successful","Gerard Martín",958
+512879,65,57,46.7,85.2,NA,NA,"Interception","SecondHalf","Successful","Gerard Martín",674
+512879,65,31,62.6,84.8,75.2,96.9,"Pass","FirstHalf","Successful","Gerard Martín",344
+512879,65,74,13.6,85.1,12.9,41.8,"Pass","SecondHalf","Successful","Gerard Martín",812
+512879,65,7,59.3,83.6,73,96.3,"Pass","FirstHalf","Successful","Gerard Martín",80
+512879,65,84,24.5,67.8,38.2,71.1,"Pass","SecondHalf","Unsuccessful","Gerard Martín",913
+512879,65,10,19.5,88.4,33.7,100,"Clearance","FirstHalf","Successful","Gerard Martín",118
+512879,65,37,60.8,80.6,68,65.1,"Pass","FirstHalf","Successful","Gerard Martín",410
+512879,65,82,40,71.1,40.7,28.9,"Pass","SecondHalf","Successful","Gerard Martín",892
+512879,65,17,33.7,75.1,28.5,42.4,"Pass","FirstHalf","Successful","Gerard Martín",179
+512879,65,94,8.4,79.5,NA,NA,"CornerAwarded","SecondHalf","Unsuccessful","Gerard Martín",977
+512879,65,43,43.3,53,40,28.6,"Pass","FirstHalf","Successful","Gerard Martín",476
+512879,65,46,28.7,64.8,29.7,38.3,"Pass","SecondHalf","Successful","Gerard Martín",558
+512879,65,7,56.4,78.1,65.1,97.4,"Pass","FirstHalf","Successful","Gerard Martín",72
+512879,65,84,7,86.2,NA,NA,"CornerAwarded","SecondHalf","Unsuccessful","Gerard Martín",910
+512879,65,55,27.7,68.2,57.8,82.7,"Pass","SecondHalf","Unsuccessful","Gerard Martín",655
+512879,65,63,56.6,74.7,67.6,59.7,"Pass","SecondHalf","Successful","Gerard Martín",732
+512879,65,4,26.8,72.4,23.6,41.6,"Pass","FirstHalf","Successful","Gerard Martín",46
+512879,65,45,24.7,57.3,NA,NA,"BallRecovery","SecondHalf","Successful","Gerard Martín",548
+512879,65,94,4.1,81.4,NA,NA,"Tackle","SecondHalf","Successful","Gerard Martín",976
+512879,65,33,61.7,79,67.7,93.9,"Pass","FirstHalf","Successful","Gerard Martín",387
+512879,65,32,30.9,83.8,10.6,61.8,"Pass","FirstHalf","Successful","Gerard Martín",362
+512879,65,66,15.3,86.7,NA,NA,"Interception","SecondHalf","Successful","Gerard Martín",763
+512879,65,42,24.3,71.4,22.2,40.1,"Pass","FirstHalf","Successful","Gerard Martín",466
+512879,65,29,47.1,71.4,59.9,95.4,"Pass","FirstHalf","Successful","Gerard Martín",311
+512879,65,22,60.1,81.2,68.2,94.8,"Pass","FirstHalf","Successful","Gerard Martín",235
+512879,65,32,67.6,68.8,71.4,67.6,"Pass","FirstHalf","Unsuccessful","Gerard Martín",376
+512879,65,86,22.9,77,8.7,52.8,"Pass","SecondHalf","Successful","Gerard Martín",922
+512879,65,43,38.7,74.5,44.2,95.3,"Pass","FirstHalf","Successful","Gerard Martín",482
+512879,65,46,60.3,62.4,68.8,50.3,"Pass","SecondHalf","Successful","Gerard Martín",569
+512879,65,24,61.3,60.3,70.9,89.3,"Pass","FirstHalf","Successful","Gerard Martín",271
+512879,65,78,12.5,47.4,NA,NA,"Challenge","SecondHalf","Unsuccessful","Gerard Martín",850
+512879,65,28,31.3,71.1,31.1,41.9,"Pass","FirstHalf","Successful","Gerard Martín",298
+512879,65,52,39.9,64.6,NA,NA,"Aerial","SecondHalf","Successful","Gerard Martín",632
+512879,65,39,10.7,55.4,17.5,42.3,"Clearance","FirstHalf","Successful","Gerard Martín",438
+512879,65,69,8.8,29.9,NA,NA,"Interception","SecondHalf","Successful","Gerard Martín",789
+512879,65,59,41.7,85.1,39.5,62.3,"Pass","SecondHalf","Successful","Gerard Martín",695
+572375,65,72,0,0,NA,NA,"SubstitutionOn","SecondHalf","Successful","Dro Fernández",806
+572375,65,95,60.7,75,80.3,90.6,"Pass","SecondHalf","Successful","Dro Fernández",982
+572375,65,78,54.7,17.3,66,5.5,"Pass","SecondHalf","Successful","Dro Fernández",848
+572375,65,82,14.5,86.4,NA,NA,"TakeOn","SecondHalf","Unsuccessful","Dro Fernández",999
+572375,65,83,46.6,32.8,55,14.9,"Pass","SecondHalf","Successful","Dro Fernández",903
+572375,65,82,15.2,82.2,NA,NA,"Foul","SecondHalf","Successful","Dro Fernández",897
+572375,65,79,65.9,15.6,64.1,2.9,"Pass","SecondHalf","Successful","Dro Fernández",864
+572375,65,75,96.9,31.6,NA,NA,"CornerAwarded","SecondHalf","Successful","Dro Fernández",829
+572375,65,75,96.1,26.1,95.9,27.4,"Pass","SecondHalf","Unsuccessful","Dro Fernández",828
+572375,65,95,76.2,61.4,71.4,75,"Pass","SecondHalf","Successful","Dro Fernández",984
+572375,65,75,69.1,10.6,83.1,6.4,"Pass","SecondHalf","Successful","Dro Fernández",825
+572375,65,95,61.3,75.8,NA,NA,"Aerial","SecondHalf","Successful","Dro Fernández",981
+NA,63,0,0,0,NA,NA,"Start","FirstHalf","Successful",NA,2
+NA,65,0,0,0,NA,NA,"Start","FirstHalf","Successful",NA,2
+NA,65,73,0,0,NA,NA,"FormationChange","SecondHalf","Successful",NA,820
+NA,63,62,0,0,NA,NA,"FormationChange","SecondHalf","Successful",NA,503
+NA,65,0,0,0,NA,NA,"End","PostGame","Successful",NA,992
+NA,63,45,0,0,NA,NA,"Start","SecondHalf","Successful",NA,346
+NA,65,45,0,0,NA,NA,"Start","SecondHalf","Successful",NA,541
+NA,65,50,0,0,NA,NA,"End","FirstHalf","Successful",NA,540
+NA,63,0,0,0,NA,NA,"End","PostGame","Successful",NA,818
+NA,65,0,0,0,NA,NA,"FormationSet","PreMatch","Successful",NA,1
+NA,63,13,0,0,NA,NA,"FormationChange","FirstHalf","Successful",NA,109
+NA,65,97,0,0,NA,NA,"End","SecondHalf","Successful",NA,991
+NA,65,87,0,0,NA,NA,"FormationChange","SecondHalf","Successful",NA,933
+NA,63,97,0,0,NA,NA,"End","SecondHalf","Successful",NA,817
+NA,63,50,0,0,NA,NA,"End","FirstHalf","Successful",NA,343
+NA,63,0,0,0,NA,NA,"FormationSet","PreMatch","Successful",NA,1
+NA,63,74,0,0,NA,NA,"FormationChange","SecondHalf","Successful",NA,609
