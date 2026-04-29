@@ -1,0 +1,22 @@
+Package: campodados
+Title: Acesso Remoto ao Banco de Dados de Futebol â€” Campo AnalÃ­tico
+Version: 0.1.0
+Authors@R: 
+    person("Campo AnalÃ­tico", email = "contato@campoanalitico.com.br", role = c("aut", "cre"))
+Description: 
+    FunÃ§Ãµes para acessar remotamente o banco de dados de futebol hospedado
+    no GitHub do Campo AnalÃ­tico. Permite carregar partidas, jogadores, times,
+    estatÃ­sticas, transferÃªncias e estÃ¡dios diretamente no R sem necessidade
+    de download manual dos arquivos.
+License: MIT + file LICENSE
+URL: https://github.com/campoanaliticoestudos/Banco-de-dados-futebol
+BugReports: https://github.com/campoanaliticoestudos/Banco-de-dados-futebol/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports:
+    utils
+Suggests:
+    dplyr,
+    ggplot2,
+    tidyr
