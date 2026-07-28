@@ -1,0 +1,1392 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,1235,Atletico MG,0,FirstHalf,Start,Successful,0,0,,
+2,,,1221,Bahia,0,FirstHalf,Start,Successful,0,0,,
+3,396067,Nicolás Acevedo,1221,Bahia,0,FirstHalf,Pass,Successful,49.7,50,52.1,48
+4,77636,Willian José,1221,Bahia,0,FirstHalf,Pass,Successful,52.1,48,37.4,69.6
+5,402198,Santiago Ramos Mingo,1221,Bahia,0,FirstHalf,Pass,Successful,37.4,69.6,30.3,52.3
+6,279581,David Duarte,1221,Bahia,0,FirstHalf,Pass,Successful,30.3,52.3,30.7,25.6
+7,518031,Román Gómez,1221,Bahia,0,FirstHalf,Pass,Successful,30.7,25.6,43.4,13.5
+8,373515,Erick,1221,Bahia,0,FirstHalf,Pass,Successful,43.2,13.5,37.1,23.3
+9,396067,Nicolás Acevedo,1221,Bahia,0,FirstHalf,Pass,Successful,37.1,23.3,62.1,22.9
+10,356785,Ademir,1221,Bahia,0,FirstHalf,Pass,Successful,62.1,22.9,60.6,34.2
+11,77636,Willian José,1221,Bahia,0,FirstHalf,Pass,Unsuccessful,60.6,34.2,69.3,0
+4,326646,Renan Lodi,1235,Atletico MG,0,FirstHalf,Pass,Successful,17.7,100,21.4,89.1
+5,478494,Tomás Pérez,1235,Atletico MG,0,FirstHalf,Pass,Successful,20.5,89.4,13.9,95.6
+6,326646,Renan Lodi,1235,Atletico MG,0,FirstHalf,Foul,Successful,21.6,91.8,,
+13,549062,Erick Pulga,1221,Bahia,0,FirstHalf,Foul,Unsuccessful,78.4,8.2,,
+7,284115,Lyanco,1235,Atletico MG,0,FirstHalf,Pass,Successful,13.2,76.7,5.7,63.4
+8,355663,Everson,1235,Atletico MG,0,FirstHalf,Pass,Successful,11.7,57.8,14.9,23
+9,397498,Natanael,1235,Atletico MG,0,FirstHalf,Pass,Successful,22.1,16.4,35.4,5.2
+10,336102,Tomás Cuello,1235,Atletico MG,0,FirstHalf,Pass,Successful,30.8,15,11.1,33.6
+11,355663,Everson,1235,Atletico MG,0,FirstHalf,Pass,Unsuccessful,11.8,36.3,25.5,64.6
+14,356785,Ademir,1221,Bahia,1,FirstHalf,TakeOn,Unsuccessful,72.4,35,,
+12,317789,Maycon,1235,Atletico MG,1,FirstHalf,Tackle,Unsuccessful,27.6,65,,
+16,356785,Ademir,1221,Bahia,1,FirstHalf,BallTouch,Successful,70.8,43.6,,
+39,349496,Ruan Tressoldi,1235,Atletico MG,1,FirstHalf,Clearance,Successful,25.9,57.6,26.2,59.9
+15,356785,Ademir,1221,Bahia,1,FirstHalf,BlockedPass,Successful,69.3,33.9,,
+13,355663,Everson,1235,Atletico MG,1,FirstHalf,KeeperPickup,Successful,7.5,51.2,,
+15,355663,Everson,1235,Atletico MG,1,FirstHalf,Pass,Successful,21.4,49.6,61.9,2.9
+16,336102,Tomás Cuello,1235,Atletico MG,1,FirstHalf,Pass,Successful,63.7,12.5,72,88.3
+17,326646,Renan Lodi,1235,Atletico MG,1,FirstHalf,TakeOn,Unsuccessful,95.2,85.8,,
+17,518031,Román Gómez,1221,Bahia,1,FirstHalf,Tackle,Successful,4.8,14.2,,
+19,326646,Renan Lodi,1235,Atletico MG,2,FirstHalf,Pass,Unsuccessful,88.2,100,88.2,68.1
+19,279581,David Duarte,1221,Bahia,2,FirstHalf,Clearance,Successful,15.1,28.8,28.5,24.8
+20,284115,Lyanco,1235,Atletico MG,2,FirstHalf,Pass,Successful,70.8,74.1,36.6,59.7
+21,349496,Ruan Tressoldi,1235,Atletico MG,2,FirstHalf,Pass,Successful,36.6,59.7,28.3,49
+22,355663,Everson,1235,Atletico MG,2,FirstHalf,Pass,Successful,28.3,49,76.3,84.2
+23,326646,Renan Lodi,1235,Atletico MG,2,FirstHalf,Pass,Successful,76.8,84.5,67.1,87.8
+24,101642,Bernard,1235,Atletico MG,2,FirstHalf,Pass,Successful,67.1,87.8,60.3,77.2
+25,317789,Maycon,1235,Atletico MG,2,FirstHalf,Pass,Successful,60.4,75.6,62.6,58.4
+26,478494,Tomás Pérez,1235,Atletico MG,2,FirstHalf,Pass,Successful,62.6,58.4,65.6,45.1
+27,438188,Victor Hugo,1235,Atletico MG,2,FirstHalf,Pass,Successful,65.1,46,59,55.5
+28,478494,Tomás Pérez,1235,Atletico MG,2,FirstHalf,Pass,Successful,55.5,48.8,59.6,20.9
+29,397498,Natanael,1235,Atletico MG,2,FirstHalf,Pass,Successful,59.6,20.9,72.1,5.5
+30,336102,Tomás Cuello,1235,Atletico MG,2,FirstHalf,Pass,Successful,72.9,8.9,59.9,9.4
+31,397498,Natanael,1235,Atletico MG,2,FirstHalf,Pass,Successful,60.3,12,54.6,26.1
+32,349496,Ruan Tressoldi,1235,Atletico MG,2,FirstHalf,Pass,Successful,54.7,30,51.8,58.1
+33,284115,Lyanco,1235,Atletico MG,2,FirstHalf,Pass,Successful,55.6,64.3,62.2,83.8
+21,356785,Ademir,1221,Bahia,2,FirstHalf,Challenge,Unsuccessful,28.6,12.4,,
+34,101642,Bernard,1235,Atletico MG,2,FirstHalf,TakeOn,Successful,71.4,87.6,,
+35,101642,Bernard,1235,Atletico MG,2,FirstHalf,Pass,Successful,71.7,83.8,89.8,81.4
+36,326646,Renan Lodi,1235,Atletico MG,2,FirstHalf,Pass,Unsuccessful,93.7,73.3,87.2,58.8
+22,389163,Rodrigo Nestor,1221,Bahia,2,FirstHalf,Clearance,Successful,11,32.7,21.7,25.9
+37,317789,Maycon,1235,Atletico MG,2,FirstHalf,Pass,Unsuccessful,78.3,73.8,100,72
+24,330555,Ronaldo,1221,Bahia,3,FirstHalf,Pass,Successful,2.7,49.7,10.4,48.3
+25,396067,Nicolás Acevedo,1221,Bahia,3,FirstHalf,Pass,Successful,11.6,43.9,12.6,22.6
+26,279581,David Duarte,1221,Bahia,3,FirstHalf,Pass,Successful,20,21.5,8.5,44.4
+27,330555,Ronaldo,1221,Bahia,3,FirstHalf,Pass,Successful,9.7,47.3,18,77.3
+28,402198,Santiago Ramos Mingo,1221,Bahia,3,FirstHalf,Pass,Successful,22.2,72.7,22,45.3
+29,279581,David Duarte,1221,Bahia,3,FirstHalf,Pass,Successful,35,34.7,38.9,12.4
+30,518031,Román Gómez,1221,Bahia,3,FirstHalf,Pass,Unsuccessful,40.7,12.6,100,11.8
+40,284115,Lyanco,1235,Atletico MG,3,FirstHalf,ShieldBallOpp,Successful,2.5,88,,
+42,355663,Everson,1235,Atletico MG,3,FirstHalf,Pass,Successful,3.6,48.7,37,7.2
+52,336102,Tomás Cuello,1235,Atletico MG,3,FirstHalf,Pass,Successful,38.8,7,47.2,6.7
+43,397498,Natanael,1235,Atletico MG,3,FirstHalf,TakeOn,Successful,59.3,7.1,,
+33,476466,Zé Guilherme,1221,Bahia,3,FirstHalf,Challenge,Unsuccessful,40.7,92.9,,
+44,397498,Natanael,1235,Atletico MG,4,FirstHalf,Foul,Successful,63,14.3,,
+32,396067,Nicolás Acevedo,1221,Bahia,4,FirstHalf,Foul,Unsuccessful,37,85.8,,
+45,397498,Natanael,1235,Atletico MG,4,FirstHalf,Pass,Successful,57.5,8.9,48.6,23.9
+46,349496,Ruan Tressoldi,1235,Atletico MG,4,FirstHalf,Pass,Successful,48.3,26.8,53.9,53.3
+47,317789,Maycon,1235,Atletico MG,4,FirstHalf,Pass,Successful,54.7,55.5,53.7,80.5
+48,284115,Lyanco,1235,Atletico MG,4,FirstHalf,Pass,Successful,49.6,79.9,44.7,52.5
+49,349496,Ruan Tressoldi,1235,Atletico MG,4,FirstHalf,Pass,Successful,44.1,50,44.5,24
+50,397498,Natanael,1235,Atletico MG,4,FirstHalf,Pass,Successful,45,25,59.4,6.2
+51,336102,Tomás Cuello,1235,Atletico MG,4,FirstHalf,BallTouch,Unsuccessful,52.1,17,,
+35,549062,Erick Pulga,1221,Bahia,4,FirstHalf,BallRecovery,Successful,54.4,74.4,,
+36,549062,Erick Pulga,1221,Bahia,4,FirstHalf,Pass,Successful,59.4,77.7,58.7,86.4
+37,476466,Zé Guilherme,1221,Bahia,4,FirstHalf,Pass,Successful,58.7,86.4,64.1,91.8
+38,389163,Rodrigo Nestor,1221,Bahia,5,FirstHalf,Pass,Successful,64.1,91.8,45.4,79.4
+39,402198,Santiago Ramos Mingo,1221,Bahia,5,FirstHalf,Pass,Successful,45.4,79.4,57.5,90.5
+40,389163,Rodrigo Nestor,1221,Bahia,5,FirstHalf,Pass,Successful,57.4,88.2,56.5,74.4
+41,396067,Nicolás Acevedo,1221,Bahia,5,FirstHalf,Pass,Successful,56.3,59.9,55.3,28.3
+42,518031,Román Gómez,1221,Bahia,5,FirstHalf,Pass,Successful,55.3,28.3,66.2,3.3
+43,356785,Ademir,1221,Bahia,5,FirstHalf,BallTouch,Unsuccessful,94.1,27.4,,
+55,284115,Lyanco,1235,Atletico MG,5,FirstHalf,Pass,Successful,4.2,59.4,3.5,49.4
+56,355663,Everson,1235,Atletico MG,6,FirstHalf,Pass,Successful,16.5,48.2,54.7,5
+57,336102,Tomás Cuello,1235,Atletico MG,6,FirstHalf,Pass,Successful,58,8.6,59.6,15.5
+58,438188,Victor Hugo,1235,Atletico MG,6,FirstHalf,Pass,Successful,59.8,14.3,55.6,9.5
+59,478494,Tomás Pérez,1235,Atletico MG,6,FirstHalf,Pass,Unsuccessful,55.6,9.5,68.4,23.1
+45,549062,Erick Pulga,1221,Bahia,6,FirstHalf,Interception,Successful,31.6,76.9,,
+60,438188,Victor Hugo,1235,Atletico MG,6,FirstHalf,TakeOn,Unsuccessful,67.7,25.6,,
+46,476466,Zé Guilherme,1221,Bahia,6,FirstHalf,Tackle,Unsuccessful,32.3,74.4,,
+47,476466,Zé Guilherme,1221,Bahia,6,FirstHalf,Challenge,Unsuccessful,30.8,70.7,,
+61,322162,Mateo Cassierra,1235,Atletico MG,6,FirstHalf,TakeOn,Successful,69.2,29.3,,
+62,322162,Mateo Cassierra,1235,Atletico MG,6,FirstHalf,Pass,Successful,80.3,31.6,91.6,24.3
+63,336102,Tomás Cuello,1235,Atletico MG,6,FirstHalf,SavedShot,Successful,91.5,24.3,,
+48,330555,Ronaldo,1221,Bahia,6,FirstHalf,Save,Successful,1.6,56.2,,
+64,326646,Renan Lodi,1235,Atletico MG,6,FirstHalf,Pass,Successful,97.4,71.7,92.2,79.9
+65,101642,Bernard,1235,Atletico MG,6,FirstHalf,Pass,Successful,89.9,86,83,68.2
+66,317789,Maycon,1235,Atletico MG,6,FirstHalf,Pass,Successful,77.3,70.3,69.2,46.1
+67,349496,Ruan Tressoldi,1235,Atletico MG,6,FirstHalf,Pass,Unsuccessful,69.2,46.1,73.5,24.9
+49,476466,Zé Guilherme,1221,Bahia,6,FirstHalf,Interception,Successful,26.5,75.1,,
+68,355663,Everson,1235,Atletico MG,6,FirstHalf,BallRecovery,Successful,12.8,40.9,,
+70,355663,Everson,1235,Atletico MG,6,FirstHalf,Pass,Successful,14,42.5,23.6,77.5
+71,284115,Lyanco,1235,Atletico MG,6,FirstHalf,Pass,Successful,27.3,83.2,42.6,96
+72,326646,Renan Lodi,1235,Atletico MG,6,FirstHalf,BallTouch,Unsuccessful,42.6,96,,
+11089,336102,Tomás Cuello,1235,Atletico MG,7,FirstHalf,OffsideGiven,Unsuccessful,96.4,21.2,,
+51,518031,Román Gómez,1221,Bahia,7,FirstHalf,Pass,Unsuccessful,54.7,0,68,12.4
+74,317789,Maycon,1235,Atletico MG,7,FirstHalf,Interception,Successful,32,87.6,,
+75,101642,Bernard,1235,Atletico MG,7,FirstHalf,BallRecovery,Successful,29.3,93.6,,
+76,101642,Bernard,1235,Atletico MG,7,FirstHalf,Pass,Successful,29.6,93.8,26,93.9
+77,326646,Renan Lodi,1235,Atletico MG,7,FirstHalf,Pass,Unsuccessful,27.1,93.5,43,78.1
+52,396067,Nicolás Acevedo,1221,Bahia,7,FirstHalf,Interception,Successful,57,21.9,,
+78,438188,Victor Hugo,1235,Atletico MG,7,FirstHalf,Foul,Successful,44.4,68.6,,
+53,279581,David Duarte,1221,Bahia,7,FirstHalf,Foul,Unsuccessful,55.6,31.4,,
+79,284115,Lyanco,1235,Atletico MG,7,FirstHalf,Pass,Successful,40.9,70.2,48.7,73.5
+80,317789,Maycon,1235,Atletico MG,7,FirstHalf,Pass,Successful,54,77.8,42.4,74.7
+81,284115,Lyanco,1235,Atletico MG,7,FirstHalf,Pass,Successful,42.4,74.7,37.7,55.4
+82,349496,Ruan Tressoldi,1235,Atletico MG,7,FirstHalf,Pass,Successful,38.3,56.9,53.3,83.5
+83,317789,Maycon,1235,Atletico MG,7,FirstHalf,Pass,Successful,61.1,82.4,63.2,74.2
+84,478494,Tomás Pérez,1235,Atletico MG,7,FirstHalf,Pass,Successful,63.4,75.3,68.3,91.4
+85,326646,Renan Lodi,1235,Atletico MG,7,FirstHalf,Pass,Successful,68.3,91.5,58.8,90
+86,317789,Maycon,1235,Atletico MG,7,FirstHalf,Pass,Successful,58.1,89.9,48,80
+87,284115,Lyanco,1235,Atletico MG,7,FirstHalf,Pass,Successful,48,80,42.5,57.3
+88,349496,Ruan Tressoldi,1235,Atletico MG,7,FirstHalf,Pass,Successful,47,50,48,17.1
+89,397498,Natanael,1235,Atletico MG,7,FirstHalf,OffsidePass,Successful,54.4,15.3,96.4,21.2
+55,476466,Zé Guilherme,1221,Bahia,7,FirstHalf,OffsideProvoked,Successful,28.5,93.4,,
+56,402198,Santiago Ramos Mingo,1221,Bahia,8,FirstHalf,Pass,Successful,28,75.6,14.2,62.9
+57,330555,Ronaldo,1221,Bahia,8,FirstHalf,Pass,Successful,14.2,62.9,31.1,40.9
+58,279581,David Duarte,1221,Bahia,8,FirstHalf,Pass,Successful,31.1,40.9,30.5,15.6
+59,518031,Román Gómez,1221,Bahia,8,FirstHalf,Pass,Successful,30.5,15.6,10.2,45.3
+60,330555,Ronaldo,1221,Bahia,8,FirstHalf,Pass,Successful,10.2,45.3,25.5,75.3
+61,402198,Santiago Ramos Mingo,1221,Bahia,8,FirstHalf,Pass,Successful,29,73,25.7,59.9
+62,279581,David Duarte,1221,Bahia,8,FirstHalf,Pass,Unsuccessful,33.5,49.3,84.3,59.3
+94,355663,Everson,1235,Atletico MG,9,FirstHalf,Claim,Unsuccessful,15.7,40.7,,
+93,355663,Everson,1235,Atletico MG,9,FirstHalf,KeeperPickup,Successful,11.4,42.5,,
+99,355663,Everson,1235,Atletico MG,9,FirstHalf,KeeperPickup,Successful,13.9,51,,
+100,355663,Everson,1235,Atletico MG,10,FirstHalf,Pass,Successful,11.9,52.4,23.7,71.1
+101,284115,Lyanco,1235,Atletico MG,10,FirstHalf,Pass,Successful,23.7,71.1,8.5,51.3
+102,355663,Everson,1235,Atletico MG,10,FirstHalf,Pass,Successful,8.5,54,13.6,82.1
+103,284115,Lyanco,1235,Atletico MG,10,FirstHalf,Pass,Successful,19.2,87.1,5.4,68.8
+104,355663,Everson,1235,Atletico MG,10,FirstHalf,Pass,Unsuccessful,13.9,55.4,67.9,23.1
+67,402198,Santiago Ramos Mingo,1221,Bahia,10,FirstHalf,Pass,Unsuccessful,32.2,74.6,31.7,65.8
+105,322162,Mateo Cassierra,1235,Atletico MG,10,FirstHalf,Pass,Successful,61.4,35.5,75.1,6.8
+106,336102,Tomás Cuello,1235,Atletico MG,10,FirstHalf,Pass,Unsuccessful,80.6,9.8,85.3,12.5
+68,476466,Zé Guilherme,1221,Bahia,10,FirstHalf,Clearance,Successful,14.7,87.5,,
+107,336102,Tomás Cuello,1235,Atletico MG,10,FirstHalf,CornerAwarded,Successful,85.4,12,,
+69,476466,Zé Guilherme,1221,Bahia,10,FirstHalf,CornerAwarded,Unsuccessful,14.6,87.9,,
+108,317789,Maycon,1235,Atletico MG,11,FirstHalf,Pass,Successful,99.5,0.5,89.9,52.4
+109,336102,Tomás Cuello,1235,Atletico MG,11,FirstHalf,Pass,Successful,93.8,32.7,87,56
+110,322162,Mateo Cassierra,1235,Atletico MG,11,FirstHalf,SavedShot,Successful,87,56,,
+70,389163,Rodrigo Nestor,1221,Bahia,11,FirstHalf,Save,Successful,6.6,47.8,,
+71,389163,Rodrigo Nestor,1221,Bahia,11,FirstHalf,CornerAwarded,Unsuccessful,7.6,51.3,,
+111,322162,Mateo Cassierra,1235,Atletico MG,11,FirstHalf,CornerAwarded,Successful,94.2,50.1,,
+112,317789,Maycon,1235,Atletico MG,11,FirstHalf,Pass,Successful,99.5,0.5,84.1,17.3
+113,336102,Tomás Cuello,1235,Atletico MG,11,FirstHalf,Pass,Unsuccessful,84.1,17.3,94.2,44.8
+72,279581,David Duarte,1221,Bahia,11,FirstHalf,Clearance,Successful,6.6,51.5,26.8,62
+73,356785,Ademir,1221,Bahia,11,FirstHalf,BallTouch,Unsuccessful,26.7,61.2,,
+114,326646,Renan Lodi,1235,Atletico MG,11,FirstHalf,Pass,Successful,60.4,37.1,29.1,53.3
+115,355663,Everson,1235,Atletico MG,11,FirstHalf,Pass,Successful,29.8,55.2,34.9,79.4
+116,478494,Tomás Pérez,1235,Atletico MG,11,FirstHalf,Pass,Successful,36.4,56.1,31.6,22.8
+117,397498,Natanael,1235,Atletico MG,11,FirstHalf,Pass,Successful,35.6,29.5,30.6,71.5
+118,284115,Lyanco,1235,Atletico MG,11,FirstHalf,Pass,Successful,33,72.9,36.9,82.9
+119,326646,Renan Lodi,1235,Atletico MG,11,FirstHalf,Pass,Successful,35.8,81.4,18.2,49
+120,355663,Everson,1235,Atletico MG,12,FirstHalf,Pass,Successful,20.2,50.4,24.2,74.5
+121,284115,Lyanco,1235,Atletico MG,12,FirstHalf,Pass,Successful,35.8,80.6,56.6,93.5
+122,101642,Bernard,1235,Atletico MG,12,FirstHalf,Pass,Successful,63.9,89.4,59.6,67.6
+123,317789,Maycon,1235,Atletico MG,12,FirstHalf,Pass,Successful,59.6,67.8,58.2,82
+124,478494,Tomás Pérez,1235,Atletico MG,12,FirstHalf,Pass,Successful,58,84.5,48,77.9
+125,284115,Lyanco,1235,Atletico MG,12,FirstHalf,Pass,Successful,47,77.5,51.3,29.4
+126,397498,Natanael,1235,Atletico MG,12,FirstHalf,Pass,Successful,60.1,25.6,66.1,11.4
+127,438188,Victor Hugo,1235,Atletico MG,12,FirstHalf,Pass,Successful,62.5,11.6,54.3,15.2
+128,397498,Natanael,1235,Atletico MG,12,FirstHalf,Pass,Successful,55.5,17.6,53.3,28.9
+129,317789,Maycon,1235,Atletico MG,12,FirstHalf,Pass,Unsuccessful,55.8,31.3,88.8,57.8
+74,330555,Ronaldo,1221,Bahia,12,FirstHalf,BallRecovery,Successful,13.1,42.6,,
+75,330555,Ronaldo,1221,Bahia,12,FirstHalf,Pass,Successful,12.7,42,15,34.4
+76,279581,David Duarte,1221,Bahia,12,FirstHalf,Pass,Successful,20.2,30.9,25.7,27.4
+77,373515,Erick,1221,Bahia,12,FirstHalf,Pass,Successful,25.7,27.4,10.5,48.8
+78,330555,Ronaldo,1221,Bahia,12,FirstHalf,Pass,Successful,10.5,48.8,22.1,73.5
+79,402198,Santiago Ramos Mingo,1221,Bahia,12,FirstHalf,Pass,Successful,22.1,73.5,25.3,62
+80,396067,Nicolás Acevedo,1221,Bahia,12,FirstHalf,Pass,Successful,30.5,60.3,37.1,79.9
+81,389163,Rodrigo Nestor,1221,Bahia,12,FirstHalf,Pass,Successful,37.1,79.9,30.5,50.8
+82,279581,David Duarte,1221,Bahia,12,FirstHalf,Pass,Successful,34.9,38.3,37.3,12.4
+83,518031,Román Gómez,1221,Bahia,13,FirstHalf,Pass,Unsuccessful,37.3,12.4,67.4,0
+131,284115,Lyanco,1235,Atletico MG,13,FirstHalf,Pass,Successful,29.9,100,9.7,83.3
+132,355663,Everson,1235,Atletico MG,13,FirstHalf,Pass,Successful,5.8,73,12.3,89.3
+133,284115,Lyanco,1235,Atletico MG,13,FirstHalf,Pass,Successful,12.6,89.3,5.1,70.9
+134,355663,Everson,1235,Atletico MG,13,FirstHalf,Pass,Successful,7,67.6,18.2,13.5
+135,397498,Natanael,1235,Atletico MG,13,FirstHalf,Pass,Unsuccessful,19,13.5,59.4,16.5
+85,402198,Santiago Ramos Mingo,1221,Bahia,13,FirstHalf,Aerial,Successful,40.6,83.5,,
+136,438188,Victor Hugo,1235,Atletico MG,13,FirstHalf,Aerial,Unsuccessful,59.4,16.5,,
+86,402198,Santiago Ramos Mingo,1221,Bahia,13,FirstHalf,Pass,Successful,40.6,83.5,39,86.4
+87,396067,Nicolás Acevedo,1221,Bahia,13,FirstHalf,BallTouch,Unsuccessful,39,86.4,,
+138,478494,Tomás Pérez,1235,Atletico MG,13,FirstHalf,Pass,Successful,57.2,0,54.6,10.4
+139,336102,Tomás Cuello,1235,Atletico MG,13,FirstHalf,Pass,Successful,54.1,11.7,43.4,34.6
+140,349496,Ruan Tressoldi,1235,Atletico MG,13,FirstHalf,Pass,Successful,43.5,34.6,44.6,66.6
+141,284115,Lyanco,1235,Atletico MG,13,FirstHalf,Pass,Successful,53.7,72.1,61.8,92.7
+142,326646,Renan Lodi,1235,Atletico MG,13,FirstHalf,Pass,Successful,62.4,93,42.9,86.9
+143,284115,Lyanco,1235,Atletico MG,13,FirstHalf,Pass,Successful,39.8,86.8,23.1,56.4
+144,355663,Everson,1235,Atletico MG,13,FirstHalf,Pass,Successful,28.9,55.5,84.1,10.3
+145,336102,Tomás Cuello,1235,Atletico MG,14,FirstHalf,BallTouch,Unsuccessful,84.1,10.3,,
+89,476466,Zé Guilherme,1221,Bahia,14,FirstHalf,BallRecovery,Successful,15,85.8,,
+90,476466,Zé Guilherme,1221,Bahia,14,FirstHalf,Pass,Successful,15,85.8,28.4,88.4
+91,389163,Rodrigo Nestor,1221,Bahia,14,FirstHalf,Pass,Successful,28.4,88.5,23.9,93.4
+92,476466,Zé Guilherme,1221,Bahia,14,FirstHalf,Pass,Successful,24.9,92.8,23.5,85.8
+93,389163,Rodrigo Nestor,1221,Bahia,14,FirstHalf,TakeOn,Successful,26.2,88.8,,
+146,336102,Tomás Cuello,1235,Atletico MG,14,FirstHalf,Challenge,Unsuccessful,73.8,11.3,,
+94,389163,Rodrigo Nestor,1221,Bahia,14,FirstHalf,Pass,Unsuccessful,23.5,85.8,26.9,86.5
+147,478494,Tomás Pérez,1235,Atletico MG,14,FirstHalf,BlockedPass,Successful,73.1,13.5,,
+167,478494,Tomás Pérez,1235,Atletico MG,14,FirstHalf,Dispossessed,Successful,63.4,22,,
+95,476466,Zé Guilherme,1221,Bahia,14,FirstHalf,Tackle,Unsuccessful,36.6,78,,
+148,438188,Victor Hugo,1235,Atletico MG,14,FirstHalf,Pass,Successful,68.1,11.9,74.9,7.9
+150,336102,Tomás Cuello,1235,Atletico MG,14,FirstHalf,Pass,Unsuccessful,75.1,8,78,10.7
+96,402198,Santiago Ramos Mingo,1221,Bahia,14,FirstHalf,BallTouch,Successful,14.2,77.9,,
+152,478494,Tomás Pérez,1235,Atletico MG,14,FirstHalf,Pass,Successful,66.2,23.6,78,16.5
+156,336102,Tomás Cuello,1235,Atletico MG,15,FirstHalf,Pass,Successful,66.1,13.7,54,29.8
+157,349496,Ruan Tressoldi,1235,Atletico MG,15,FirstHalf,Pass,Successful,54.5,30.9,53.8,69.7
+158,284115,Lyanco,1235,Atletico MG,15,FirstHalf,Pass,Successful,55.3,71.7,68.8,90.2
+159,326646,Renan Lodi,1235,Atletico MG,15,FirstHalf,Pass,Successful,66.6,88.3,54.1,82.1
+160,284115,Lyanco,1235,Atletico MG,15,FirstHalf,Pass,Successful,54.1,82.1,45.7,60
+161,349496,Ruan Tressoldi,1235,Atletico MG,15,FirstHalf,Pass,Successful,46.2,60,56.5,85.3
+162,284115,Lyanco,1235,Atletico MG,15,FirstHalf,Pass,Successful,64.9,90.8,69.6,88.1
+163,326646,Renan Lodi,1235,Atletico MG,15,FirstHalf,Pass,Successful,69.6,88.1,71.1,94.2
+164,101642,Bernard,1235,Atletico MG,15,FirstHalf,BallTouch,Unsuccessful,71.1,94.1,,
+101,356785,Ademir,1221,Bahia,15,FirstHalf,Dispossessed,Successful,26.2,5.8,,
+165,101642,Bernard,1235,Atletico MG,15,FirstHalf,Tackle,Successful,73.8,94.2,,
+104,518031,Román Gómez,1221,Bahia,15,FirstHalf,Pass,Successful,22.7,0,24.3,25
+105,396067,Nicolás Acevedo,1221,Bahia,15,FirstHalf,Pass,Successful,24.3,25,19.7,56.4
+106,402198,Santiago Ramos Mingo,1221,Bahia,15,FirstHalf,Pass,Successful,22.8,65.6,21.1,37.3
+107,279581,David Duarte,1221,Bahia,15,FirstHalf,Pass,Successful,21.1,37.1,21.3,69.7
+108,402198,Santiago Ramos Mingo,1221,Bahia,16,FirstHalf,Pass,Successful,21.7,70.8,15.9,35.3
+109,279581,David Duarte,1221,Bahia,16,FirstHalf,Pass,Unsuccessful,27.1,30.9,59.3,74.7
+168,336102,Tomás Cuello,1235,Atletico MG,16,FirstHalf,BallRecovery,Successful,35.7,20.1,,
+169,336102,Tomás Cuello,1235,Atletico MG,16,FirstHalf,Pass,Successful,28.5,22.7,28.9,35.8
+170,349496,Ruan Tressoldi,1235,Atletico MG,16,FirstHalf,Pass,Successful,35.2,36.7,36.4,69.3
+171,284115,Lyanco,1235,Atletico MG,16,FirstHalf,Pass,Successful,36.3,66.9,52,69.6
+172,101642,Bernard,1235,Atletico MG,16,FirstHalf,TakeOn,Unsuccessful,55.3,71,,
+110,373515,Erick,1221,Bahia,16,FirstHalf,Tackle,Successful,44.7,29,,
+111,549062,Erick Pulga,1221,Bahia,16,FirstHalf,BallRecovery,Successful,57.6,18.6,,
+112,549062,Erick Pulga,1221,Bahia,16,FirstHalf,Pass,Successful,63.3,14.5,61.5,30.7
+113,396067,Nicolás Acevedo,1221,Bahia,16,FirstHalf,Pass,Successful,61.5,30.7,62.5,7.6
+114,373515,Erick,1221,Bahia,16,FirstHalf,Pass,Successful,62.5,7.6,51.6,32.7
+115,279581,David Duarte,1221,Bahia,16,FirstHalf,Pass,Successful,51.5,34.2,53.3,65.6
+116,402198,Santiago Ramos Mingo,1221,Bahia,16,FirstHalf,Pass,Successful,54.3,67.6,68.5,90.8
+117,476466,Zé Guilherme,1221,Bahia,16,FirstHalf,Pass,Successful,68.5,90.8,61.1,88.2
+118,389163,Rodrigo Nestor,1221,Bahia,16,FirstHalf,Pass,Successful,60.5,87.3,46.6,76.5
+119,402198,Santiago Ramos Mingo,1221,Bahia,16,FirstHalf,Pass,Successful,46.6,76.5,43.8,51.2
+120,279581,David Duarte,1221,Bahia,16,FirstHalf,Pass,Successful,43.8,51.2,45.4,29.2
+121,518031,Román Gómez,1221,Bahia,17,FirstHalf,TakeOn,Successful,54.3,17.1,,
+173,101642,Bernard,1235,Atletico MG,17,FirstHalf,Challenge,Unsuccessful,45.8,82.8,,
+122,518031,Román Gómez,1221,Bahia,17,FirstHalf,Pass,Successful,60.5,27.4,70.3,31.8
+123,549062,Erick Pulga,1221,Bahia,17,FirstHalf,Pass,Successful,70.3,31.8,62.9,33.5
+124,518031,Román Gómez,1221,Bahia,17,FirstHalf,Pass,Successful,62.9,33.5,60.6,48.3
+125,396067,Nicolás Acevedo,1221,Bahia,17,FirstHalf,Pass,Successful,60.6,48.3,70.3,55.2
+126,389163,Rodrigo Nestor,1221,Bahia,17,FirstHalf,Pass,Successful,70.3,55.2,66,65
+127,402198,Santiago Ramos Mingo,1221,Bahia,17,FirstHalf,MissedShots,Successful,66.7,64.6,,
+175,355663,Everson,1235,Atletico MG,17,FirstHalf,Pass,Successful,2.7,50.4,16.2,28.9
+176,397498,Natanael,1235,Atletico MG,17,FirstHalf,Pass,Successful,16.7,28.3,5,48.7
+177,355663,Everson,1235,Atletico MG,17,FirstHalf,Pass,Successful,8.8,57.3,20.8,90.3
+179,326646,Renan Lodi,1235,Atletico MG,17,FirstHalf,Foul,Successful,37.6,90.4,,
+129,373515,Erick,1221,Bahia,17,FirstHalf,Foul,Unsuccessful,62.4,9.6,,
+180,284115,Lyanco,1235,Atletico MG,18,FirstHalf,Pass,Successful,28.6,83.3,39.1,84.4
+181,317789,Maycon,1235,Atletico MG,18,FirstHalf,Pass,Unsuccessful,39.2,88.6,68.5,89.9
+130,518031,Román Gómez,1221,Bahia,18,FirstHalf,Clearance,Successful,24.2,6.2,23.8,0
+183,326646,Renan Lodi,1235,Atletico MG,18,FirstHalf,Pass,Successful,69,100,74.3,83.9
+184,101642,Bernard,1235,Atletico MG,18,FirstHalf,Pass,Successful,74.3,83.9,93.6,91.8
+185,326646,Renan Lodi,1235,Atletico MG,18,FirstHalf,Pass,Unsuccessful,93.4,91.4,93.1,85.7
+132,518031,Román Gómez,1221,Bahia,18,FirstHalf,Clearance,Successful,6.9,14.3,,
+187,326646,Renan Lodi,1235,Atletico MG,18,FirstHalf,Pass,Successful,80.4,100,65.2,94.2
+188,284115,Lyanco,1235,Atletico MG,18,FirstHalf,Pass,Successful,62.6,91.5,62.7,38.9
+189,397498,Natanael,1235,Atletico MG,18,FirstHalf,Pass,Successful,62.5,37.1,65.8,16.2
+190,438188,Victor Hugo,1235,Atletico MG,18,FirstHalf,Pass,Successful,68.8,10.9,80.2,3.2
+191,336102,Tomás Cuello,1235,Atletico MG,18,FirstHalf,Pass,Successful,81.5,5,72.4,7
+192,438188,Victor Hugo,1235,Atletico MG,18,FirstHalf,Pass,Successful,72.3,8.8,92.1,68.1
+193,326646,Renan Lodi,1235,Atletico MG,18,FirstHalf,MissedShots,Successful,92.1,68.1,,
+136,330555,Ronaldo,1221,Bahia,19,FirstHalf,Pass,Successful,3.5,48.3,21.1,57.6
+137,402198,Santiago Ramos Mingo,1221,Bahia,19,FirstHalf,Pass,Successful,21.1,57.6,27.2,40.4
+138,396067,Nicolás Acevedo,1221,Bahia,19,FirstHalf,Pass,Successful,27.3,40.4,17,31.8
+139,279581,David Duarte,1221,Bahia,19,FirstHalf,Pass,Successful,18.7,30.5,28.6,40.9
+177,396067,Nicolás Acevedo,1221,Bahia,19,FirstHalf,Pass,Successful,25.8,38.2,27.3,13.9
+140,518031,Román Gómez,1221,Bahia,19,FirstHalf,Pass,Successful,26.1,15.4,21,71.4
+141,402198,Santiago Ramos Mingo,1221,Bahia,19,FirstHalf,Pass,Unsuccessful,21.5,70.2,33.5,87.6
+195,336102,Tomás Cuello,1235,Atletico MG,19,FirstHalf,Interception,Successful,66.5,12.4,,
+142,402198,Santiago Ramos Mingo,1221,Bahia,19,FirstHalf,Clearance,Successful,21.2,79.1,26.7,81.5
+196,336102,Tomás Cuello,1235,Atletico MG,19,FirstHalf,BlockedPass,Successful,71.4,13.4,,
+198,336102,Tomás Cuello,1235,Atletico MG,19,FirstHalf,BallRecovery,Successful,71.6,13.5,,
+197,336102,Tomás Cuello,1235,Atletico MG,19,FirstHalf,TakeOn,Unsuccessful,72.9,16.8,,
+143,402198,Santiago Ramos Mingo,1221,Bahia,19,FirstHalf,Tackle,Unsuccessful,27.1,83.2,,
+245,336102,Tomás Cuello,1235,Atletico MG,19,FirstHalf,TakeOn,Unsuccessful,84.5,31.3,,
+144,476466,Zé Guilherme,1221,Bahia,19,FirstHalf,Clearance,Successful,15.2,69.7,26.4,70.5
+200,438188,Victor Hugo,1235,Atletico MG,19,FirstHalf,Pass,Successful,77.7,25.3,89,4.6
+201,478494,Tomás Pérez,1235,Atletico MG,19,FirstHalf,Pass,Unsuccessful,95.4,4.6,89.5,42.1
+145,279581,David Duarte,1221,Bahia,19,FirstHalf,Clearance,Successful,8.3,53.9,26.1,87.4
+146,77636,Willian José,1221,Bahia,19,FirstHalf,Pass,Successful,26.1,87.4,37.8,69.4
+148,549062,Erick Pulga,1221,Bahia,19,FirstHalf,BallRecovery,Successful,37.8,69.4,,
+147,549062,Erick Pulga,1221,Bahia,19,FirstHalf,TakeOn,Unsuccessful,39.6,71.6,,
+202,349496,Ruan Tressoldi,1235,Atletico MG,19,FirstHalf,Tackle,Successful,60.4,28.4,,
+203,349496,Ruan Tressoldi,1235,Atletico MG,19,FirstHalf,Pass,Successful,59.3,21.6,67.9,19.8
+204,438188,Victor Hugo,1235,Atletico MG,19,FirstHalf,BallRecovery,Successful,70.1,18.9,,
+205,438188,Victor Hugo,1235,Atletico MG,19,FirstHalf,Dispossessed,Successful,75.4,29.6,,
+149,389163,Rodrigo Nestor,1221,Bahia,19,FirstHalf,Tackle,Unsuccessful,24.6,70.4,,
+206,438188,Victor Hugo,1235,Atletico MG,19,FirstHalf,BallTouch,Successful,73.1,19.8,,
+150,389163,Rodrigo Nestor,1221,Bahia,19,FirstHalf,BallRecovery,Successful,23.2,55.9,,
+151,389163,Rodrigo Nestor,1221,Bahia,19,FirstHalf,Pass,Successful,23.2,55.9,24.2,44.1
+152,373515,Erick,1221,Bahia,19,FirstHalf,Pass,Successful,24.2,44.1,30.9,24.4
+153,518031,Román Gómez,1221,Bahia,19,FirstHalf,Pass,Unsuccessful,32.4,23.9,77,19.7
+207,284115,Lyanco,1235,Atletico MG,19,FirstHalf,BallRecovery,Successful,9,81.1,,
+208,284115,Lyanco,1235,Atletico MG,19,FirstHalf,Pass,Successful,9,81.1,13.4,52.8
+209,355663,Everson,1235,Atletico MG,19,FirstHalf,Pass,Successful,10,53.3,27.8,22.4
+210,397498,Natanael,1235,Atletico MG,19,FirstHalf,Pass,Successful,30,22.8,27,34.5
+211,349496,Ruan Tressoldi,1235,Atletico MG,20,FirstHalf,Pass,Successful,28.1,35.5,33.7,63.3
+212,317789,Maycon,1235,Atletico MG,20,FirstHalf,Pass,Successful,37.2,67.9,53.3,89.7
+213,326646,Renan Lodi,1235,Atletico MG,20,FirstHalf,Pass,Unsuccessful,56.9,89.6,89.5,56.6
+154,330555,Ronaldo,1221,Bahia,20,FirstHalf,KeeperPickup,Successful,8.5,39.7,,
+155,330555,Ronaldo,1221,Bahia,20,FirstHalf,Pass,Successful,8.5,39.7,11.9,25.9
+156,279581,David Duarte,1221,Bahia,20,FirstHalf,Pass,Successful,26.8,35.6,25,66.2
+157,402198,Santiago Ramos Mingo,1221,Bahia,20,FirstHalf,Pass,Successful,25,66.4,24.9,42.7
+158,279581,David Duarte,1221,Bahia,20,FirstHalf,Pass,Successful,26.2,39.2,29.4,16.6
+159,518031,Román Gómez,1221,Bahia,20,FirstHalf,Pass,Successful,32.4,14.7,43.9,18.5
+160,373515,Erick,1221,Bahia,20,FirstHalf,Pass,Successful,57.7,15.6,65.7,24.2
+161,549062,Erick Pulga,1221,Bahia,20,FirstHalf,Pass,Successful,65.7,13,57.1,14.4
+162,518031,Román Gómez,1221,Bahia,20,FirstHalf,Pass,Successful,57.1,14.4,53.8,32.7
+163,396067,Nicolás Acevedo,1221,Bahia,20,FirstHalf,Pass,Successful,54,32.4,62.3,61.5
+164,389163,Rodrigo Nestor,1221,Bahia,20,FirstHalf,Pass,Successful,66.3,65.9,75.4,90.9
+165,476466,Zé Guilherme,1221,Bahia,20,FirstHalf,Pass,Unsuccessful,82.4,91.5,89.8,57.1
+214,284115,Lyanco,1235,Atletico MG,20,FirstHalf,Clearance,Successful,9.6,37,11.5,8.6
+215,336102,Tomás Cuello,1235,Atletico MG,20,FirstHalf,Clearance,Successful,11.5,8.6,29.8,16.7
+166,396067,Nicolás Acevedo,1221,Bahia,20,FirstHalf,Aerial,Successful,70.2,83.3,,
+216,438188,Victor Hugo,1235,Atletico MG,20,FirstHalf,Aerial,Unsuccessful,29.8,16.7,,
+167,396067,Nicolás Acevedo,1221,Bahia,21,FirstHalf,Pass,Successful,70.2,83.3,71,83.2
+168,476466,Zé Guilherme,1221,Bahia,21,FirstHalf,Pass,Successful,71,83.2,74.7,75.9
+169,389163,Rodrigo Nestor,1221,Bahia,21,FirstHalf,Pass,Successful,74.7,75.9,68.3,73.2
+170,476466,Zé Guilherme,1221,Bahia,21,FirstHalf,Pass,Unsuccessful,68.8,73.3,92.9,59.4
+217,355663,Everson,1235,Atletico MG,21,FirstHalf,KeeperPickup,Successful,7.2,37.7,,
+218,355663,Everson,1235,Atletico MG,21,FirstHalf,Pass,Successful,11.6,43.9,14.6,19.4
+219,397498,Natanael,1235,Atletico MG,21,FirstHalf,Pass,Successful,18.5,23.1,29.8,32.7
+220,478494,Tomás Pérez,1235,Atletico MG,21,FirstHalf,Pass,Successful,30,32.7,57.1,6.4
+171,476466,Zé Guilherme,1221,Bahia,21,FirstHalf,Challenge,Unsuccessful,27.6,86.5,,
+221,336102,Tomás Cuello,1235,Atletico MG,21,FirstHalf,TakeOn,Successful,72.4,13.5,,
+222,336102,Tomás Cuello,1235,Atletico MG,21,FirstHalf,Pass,Unsuccessful,87.2,23.7,89.1,36.7
+172,279581,David Duarte,1221,Bahia,21,FirstHalf,Clearance,Successful,9.2,50.6,14.6,68.6
+223,336102,Tomás Cuello,1235,Atletico MG,21,FirstHalf,Pass,Successful,88.4,33.7,82.5,49.1
+224,101642,Bernard,1235,Atletico MG,21,FirstHalf,SavedShot,Successful,82.5,49.1,,
+173,279581,David Duarte,1221,Bahia,21,FirstHalf,Save,Successful,14.8,50.9,,
+174,356785,Ademir,1221,Bahia,21,FirstHalf,BallRecovery,Successful,30.3,39.1,,
+175,356785,Ademir,1221,Bahia,21,FirstHalf,Pass,Successful,84.6,16.6,79.6,50.5
+176,549062,Erick Pulga,1221,Bahia,21,FirstHalf,SavedShot,Successful,79.6,50.5,,
+226,478494,Tomás Pérez,1235,Atletico MG,21,FirstHalf,Save,Successful,18.2,49.1,,
+227,317789,Maycon,1235,Atletico MG,21,FirstHalf,Clearance,Successful,19.5,23.7,27.7,30.7
+228,438188,Victor Hugo,1235,Atletico MG,21,FirstHalf,BallRecovery,Successful,27.8,30.7,,
+11239,397498,Natanael,1235,Atletico MG,22,FirstHalf,OffsideGiven,Unsuccessful,92.2,27.7,,
+229,438188,Victor Hugo,1235,Atletico MG,22,FirstHalf,Pass,Successful,53.8,48.1,59,73.2
+230,101642,Bernard,1235,Atletico MG,22,FirstHalf,Pass,Successful,67.6,72.7,67.3,61.1
+231,438188,Victor Hugo,1235,Atletico MG,22,FirstHalf,Pass,Successful,66.5,64.5,65.8,76.3
+232,101642,Bernard,1235,Atletico MG,22,FirstHalf,Pass,Successful,65.2,76.4,55.6,59.4
+233,478494,Tomás Pérez,1235,Atletico MG,22,FirstHalf,Pass,Successful,55.3,57.6,63.2,46.6
+234,317789,Maycon,1235,Atletico MG,22,FirstHalf,Pass,Successful,63.2,46.6,56.6,59.3
+235,478494,Tomás Pérez,1235,Atletico MG,22,FirstHalf,Pass,Successful,56.5,59.3,56.4,49
+236,317789,Maycon,1235,Atletico MG,22,FirstHalf,Pass,Successful,56.4,49,57.2,14.1
+237,397498,Natanael,1235,Atletico MG,22,FirstHalf,Pass,Successful,59.3,14.1,71.4,3.1
+238,336102,Tomás Cuello,1235,Atletico MG,22,FirstHalf,Dispossessed,Successful,77.2,21.3,,
+178,476466,Zé Guilherme,1221,Bahia,22,FirstHalf,Tackle,Unsuccessful,22.8,78.8,,
+239,438188,Victor Hugo,1235,Atletico MG,22,FirstHalf,OffsidePass,Successful,76.8,27,92.2,27.7
+179,518031,Román Gómez,1221,Bahia,22,FirstHalf,OffsideProvoked,Successful,15.4,37,,
+180,330555,Ronaldo,1221,Bahia,23,FirstHalf,Pass,Successful,11.1,56.8,11,41.1
+181,396067,Nicolás Acevedo,1221,Bahia,23,FirstHalf,Pass,Successful,11,41.1,22.4,17.3
+182,279581,David Duarte,1221,Bahia,23,FirstHalf,Pass,Unsuccessful,22.4,17.3,69.7,27.9
+241,284115,Lyanco,1235,Atletico MG,23,FirstHalf,Pass,Successful,30.5,70.5,36,86.8
+242,326646,Renan Lodi,1235,Atletico MG,23,FirstHalf,BallRecovery,Successful,36.1,86.8,,
+243,326646,Renan Lodi,1235,Atletico MG,23,FirstHalf,Pass,Unsuccessful,41.3,86.2,55.6,67.9
+183,396067,Nicolás Acevedo,1221,Bahia,23,FirstHalf,BallRecovery,Successful,43.8,35.1,,
+184,396067,Nicolás Acevedo,1221,Bahia,23,FirstHalf,Pass,Successful,56.8,35,58.4,29.1
+185,77636,Willian José,1221,Bahia,23,FirstHalf,Pass,Successful,58.4,29.1,43.6,57.4
+186,402198,Santiago Ramos Mingo,1221,Bahia,23,FirstHalf,Pass,Successful,43.6,57.4,49.9,46.7
+187,396067,Nicolás Acevedo,1221,Bahia,23,FirstHalf,Pass,Successful,54.2,50.3,58.8,70.2
+188,389163,Rodrigo Nestor,1221,Bahia,23,FirstHalf,Pass,Successful,61.4,69.6,57.8,58.6
+189,396067,Nicolás Acevedo,1221,Bahia,23,FirstHalf,Pass,Successful,56.7,56.2,54.7,25.9
+190,518031,Román Gómez,1221,Bahia,23,FirstHalf,Pass,Successful,57.2,24.8,65.1,6.5
+191,356785,Ademir,1221,Bahia,23,FirstHalf,Pass,Successful,65.1,6.5,76.4,14.2
+192,373515,Erick,1221,Bahia,23,FirstHalf,Pass,Successful,80.7,8.3,68.4,7.4
+193,518031,Román Gómez,1221,Bahia,23,FirstHalf,Pass,Successful,67.8,9.5,54.3,32.4
+194,279581,David Duarte,1221,Bahia,23,FirstHalf,Pass,Successful,54.6,39.2,55.4,68.6
+195,402198,Santiago Ramos Mingo,1221,Bahia,23,FirstHalf,Pass,Successful,55.4,68.6,65,70.9
+196,389163,Rodrigo Nestor,1221,Bahia,23,FirstHalf,Pass,Successful,64.8,70.9,59.7,49.5
+197,279581,David Duarte,1221,Bahia,23,FirstHalf,Pass,Successful,61.8,43.3,71.8,48.8
+198,77636,Willian José,1221,Bahia,24,FirstHalf,Pass,Successful,72,48.8,71.7,31.2
+199,373515,Erick,1221,Bahia,24,FirstHalf,Pass,Successful,71.7,31.2,83.5,9.5
+200,356785,Ademir,1221,Bahia,24,FirstHalf,Pass,Successful,83.4,9.5,74.4,18
+201,518031,Román Gómez,1221,Bahia,24,FirstHalf,Pass,Unsuccessful,75,24.1,100,63.5
+246,284115,Lyanco,1235,Atletico MG,24,FirstHalf,Pass,Successful,3.5,60.3,5.6,48.4
+247,355663,Everson,1235,Atletico MG,24,FirstHalf,Pass,Successful,11.5,48.7,52.8,4
+248,336102,Tomás Cuello,1235,Atletico MG,24,FirstHalf,Pass,Successful,53.3,4.7,56.7,10.3
+249,438188,Victor Hugo,1235,Atletico MG,24,FirstHalf,Pass,Successful,44.7,9.5,44.1,18.6
+250,478494,Tomás Pérez,1235,Atletico MG,24,FirstHalf,Pass,Successful,45.4,16.1,67.7,16.8
+251,438188,Victor Hugo,1235,Atletico MG,24,FirstHalf,Pass,Unsuccessful,70.6,23.9,86.9,44.2
+204,518031,Román Gómez,1221,Bahia,24,FirstHalf,BallRecovery,Successful,16.1,61.1,,
+205,518031,Román Gómez,1221,Bahia,24,FirstHalf,Pass,Successful,14.3,66.5,28,90.6
+206,476466,Zé Guilherme,1221,Bahia,25,FirstHalf,Pass,Successful,28,90.5,23.3,80.9
+207,396067,Nicolás Acevedo,1221,Bahia,25,FirstHalf,Pass,Successful,23.5,79.3,25.6,62
+208,373515,Erick,1221,Bahia,25,FirstHalf,Pass,Successful,36.3,50.6,58,71.4
+209,389163,Rodrigo Nestor,1221,Bahia,25,FirstHalf,Pass,Successful,58.6,69,69.2,37.6
+210,77636,Willian José,1221,Bahia,25,FirstHalf,Pass,Successful,69.2,37.6,85,15.6
+211,356785,Ademir,1221,Bahia,25,FirstHalf,Pass,Successful,82.4,22.4,79.4,41.5
+212,373515,Erick,1221,Bahia,25,FirstHalf,MissedShots,Successful,79.4,41.5,,
+254,284115,Lyanco,1235,Atletico MG,25,FirstHalf,Pass,Successful,3.3,58.5,10.3,47.3
+255,355663,Everson,1235,Atletico MG,25,FirstHalf,Pass,Successful,13,46.6,43.6,22.7
+256,438188,Victor Hugo,1235,Atletico MG,25,FirstHalf,Aerial,Successful,43.6,22.7,,
+214,402198,Santiago Ramos Mingo,1221,Bahia,25,FirstHalf,Aerial,Unsuccessful,56.4,77.3,,
+257,438188,Victor Hugo,1235,Atletico MG,25,FirstHalf,Pass,Unsuccessful,43.6,22.7,59.3,13.1
+238,402198,Santiago Ramos Mingo,1221,Bahia,25,FirstHalf,BallTouch,Successful,51.9,73.2,,
+215,396067,Nicolás Acevedo,1221,Bahia,26,FirstHalf,BallTouch,Unsuccessful,41.4,78.8,,
+259,336102,Tomás Cuello,1235,Atletico MG,26,FirstHalf,Pass,Successful,54.4,0,44.8,19.4
+260,478494,Tomás Pérez,1235,Atletico MG,26,FirstHalf,Pass,Successful,45.1,26.1,35.8,67.3
+261,284115,Lyanco,1235,Atletico MG,26,FirstHalf,Pass,Successful,35.8,67.3,39,80.6
+262,326646,Renan Lodi,1235,Atletico MG,26,FirstHalf,Pass,Successful,38.9,80.8,32.3,65.4
+263,284115,Lyanco,1235,Atletico MG,26,FirstHalf,Pass,Successful,32.3,65.4,39.7,80.6
+264,317789,Maycon,1235,Atletico MG,26,FirstHalf,Pass,Successful,39.4,79.7,49.3,69.6
+265,478494,Tomás Pérez,1235,Atletico MG,26,FirstHalf,Pass,Unsuccessful,56.6,72.4,66.2,71.4
+217,373515,Erick,1221,Bahia,26,FirstHalf,Interception,Successful,33.8,28.6,,
+266,317789,Maycon,1235,Atletico MG,26,FirstHalf,Pass,Successful,45.7,88.7,63.4,94.4
+267,101642,Bernard,1235,Atletico MG,26,FirstHalf,Pass,Successful,66.8,89.7,67.8,63.4
+268,438188,Victor Hugo,1235,Atletico MG,26,FirstHalf,Pass,Successful,68.1,66.7,67.1,83.9
+269,317789,Maycon,1235,Atletico MG,26,FirstHalf,Pass,Successful,67.1,83.9,77.5,91.7
+270,101642,Bernard,1235,Atletico MG,26,FirstHalf,Pass,Unsuccessful,84.7,86.9,92.8,76
+218,518031,Román Gómez,1221,Bahia,26,FirstHalf,BlockedPass,Successful,7.2,24,,
+272,101642,Bernard,1235,Atletico MG,26,FirstHalf,Dispossessed,Successful,89.7,89.3,,
+219,518031,Román Gómez,1221,Bahia,26,FirstHalf,Tackle,Successful,10.3,10.7,,
+220,356785,Ademir,1221,Bahia,26,FirstHalf,Clearance,Successful,13.9,6.9,12.4,0
+274,101642,Bernard,1235,Atletico MG,26,FirstHalf,Pass,Successful,85.1,100,89.6,84.5
+275,326646,Renan Lodi,1235,Atletico MG,27,FirstHalf,Pass,Unsuccessful,92.4,83.2,92.3,82
+222,518031,Román Gómez,1221,Bahia,27,FirstHalf,Clearance,Successful,7.7,18,,
+223,518031,Román Gómez,1221,Bahia,27,FirstHalf,BallTouch,Unsuccessful,6.9,22.7,,
+276,326646,Renan Lodi,1235,Atletico MG,27,FirstHalf,TakeOn,Unsuccessful,93.4,81,,
+224,518031,Román Gómez,1221,Bahia,27,FirstHalf,Tackle,Successful,6.6,19,,
+225,518031,Román Gómez,1221,Bahia,27,FirstHalf,BallRecovery,Successful,2.7,13.5,,
+226,518031,Román Gómez,1221,Bahia,27,FirstHalf,Pass,Unsuccessful,2.9,11.9,21.2,8.9
+277,317789,Maycon,1235,Atletico MG,27,FirstHalf,Interception,Successful,78.8,91.1,,
+278,317789,Maycon,1235,Atletico MG,27,FirstHalf,BallRecovery,Successful,77.8,91.1,,
+279,317789,Maycon,1235,Atletico MG,27,FirstHalf,Pass,Successful,78.4,91.7,86.8,91.2
+280,101642,Bernard,1235,Atletico MG,27,FirstHalf,Pass,Successful,86.8,91.2,83.4,84.5
+281,317789,Maycon,1235,Atletico MG,27,FirstHalf,Pass,Successful,82.8,87.4,82.6,93.3
+282,101642,Bernard,1235,Atletico MG,27,FirstHalf,Pass,Successful,81.9,93.2,78,61.1
+283,438188,Victor Hugo,1235,Atletico MG,27,FirstHalf,BallTouch,Unsuccessful,76.4,58.7,,
+227,476466,Zé Guilherme,1221,Bahia,27,FirstHalf,BallRecovery,Successful,23,70.9,,
+228,476466,Zé Guilherme,1221,Bahia,27,FirstHalf,TakeOn,Successful,59.8,64.8,,
+284,478494,Tomás Pérez,1235,Atletico MG,27,FirstHalf,Challenge,Unsuccessful,40.2,35.2,,
+229,476466,Zé Guilherme,1221,Bahia,27,FirstHalf,Pass,Successful,59.9,57,68.7,30.6
+230,77636,Willian José,1221,Bahia,27,FirstHalf,Pass,Successful,70.9,31.2,76.2,11.5
+231,356785,Ademir,1221,Bahia,27,FirstHalf,Pass,Successful,78.9,9.1,67.3,11.2
+232,518031,Román Gómez,1221,Bahia,27,FirstHalf,Pass,Successful,66.7,13,67.1,32.6
+233,396067,Nicolás Acevedo,1221,Bahia,27,FirstHalf,Pass,Successful,66.6,32.6,64.4,14.2
+234,518031,Román Gómez,1221,Bahia,27,FirstHalf,Pass,Successful,71.5,14.8,67.2,13.5
+235,356785,Ademir,1221,Bahia,27,FirstHalf,Pass,Successful,67.2,12.4,62.3,27.3
+236,396067,Nicolás Acevedo,1221,Bahia,27,FirstHalf,Pass,Successful,64.8,43.9,62.6,69.4
+241,389163,Rodrigo Nestor,1221,Bahia,29,FirstHalf,Pass,Successful,59.8,69.6,55,47.6
+242,279581,David Duarte,1221,Bahia,29,FirstHalf,Pass,Successful,55,47.6,59.7,23.6
+243,518031,Román Gómez,1221,Bahia,29,FirstHalf,Pass,Successful,59.4,24.2,53.9,46.7
+244,279581,David Duarte,1221,Bahia,29,FirstHalf,Pass,Successful,53.9,46.7,57.4,74
+245,402198,Santiago Ramos Mingo,1221,Bahia,29,FirstHalf,Pass,Successful,57.4,73.7,66.9,70.8
+246,389163,Rodrigo Nestor,1221,Bahia,29,FirstHalf,Pass,Successful,67.1,70.3,70.9,57.7
+247,77636,Willian José,1221,Bahia,29,FirstHalf,Pass,Unsuccessful,70.9,57.7,100,76.5
+289,284115,Lyanco,1235,Atletico MG,30,FirstHalf,Pass,Successful,4.2,56.4,4.6,46.6
+290,355663,Everson,1235,Atletico MG,30,FirstHalf,Pass,Successful,7.9,50.9,27,86.8
+291,326646,Renan Lodi,1235,Atletico MG,30,FirstHalf,Pass,Unsuccessful,35.5,84.8,39.6,84.8
+249,356785,Ademir,1221,Bahia,30,FirstHalf,BlockedPass,Successful,60.4,15.2,,
+293,326646,Renan Lodi,1235,Atletico MG,30,FirstHalf,Pass,Successful,43.5,100,24.7,92.4
+294,284115,Lyanco,1235,Atletico MG,30,FirstHalf,Pass,Successful,32.7,74.7,26.9,57.5
+295,349496,Ruan Tressoldi,1235,Atletico MG,30,FirstHalf,Pass,Successful,27.2,55.4,29.1,24.3
+296,397498,Natanael,1235,Atletico MG,31,FirstHalf,Pass,Unsuccessful,34.2,17.1,65.1,21.6
+251,402198,Santiago Ramos Mingo,1221,Bahia,31,FirstHalf,Pass,Successful,27.3,72.7,36.1,83.5
+253,389163,Rodrigo Nestor,1221,Bahia,31,FirstHalf,BallRecovery,Successful,37.1,80.8,,
+252,389163,Rodrigo Nestor,1221,Bahia,31,FirstHalf,Pass,Unsuccessful,36.1,83.5,62.1,63.9
+297,349496,Ruan Tressoldi,1235,Atletico MG,31,FirstHalf,Pass,Successful,40.2,27,42.6,38.5
+298,317789,Maycon,1235,Atletico MG,31,FirstHalf,Pass,Successful,41.8,38.8,29.5,53.4
+299,284115,Lyanco,1235,Atletico MG,31,FirstHalf,BallRecovery,Successful,29.1,55.8,,
+300,284115,Lyanco,1235,Atletico MG,31,FirstHalf,Pass,Successful,28.7,56.1,7.2,65.8
+301,355663,Everson,1235,Atletico MG,31,FirstHalf,Pass,Successful,7.7,67.3,13.1,89.3
+302,284115,Lyanco,1235,Atletico MG,31,FirstHalf,Pass,Unsuccessful,16.5,92.6,22.8,91.8
+254,356785,Ademir,1221,Bahia,31,FirstHalf,Interception,Successful,77.2,8.2,,
+255,373515,Erick,1221,Bahia,31,FirstHalf,BallRecovery,Successful,70.9,16.5,,
+256,373515,Erick,1221,Bahia,31,FirstHalf,Pass,Successful,70.9,16.5,93.5,30.6
+257,549062,Erick Pulga,1221,Bahia,31,FirstHalf,TakeOn,Successful,94,28.7,,
+303,349496,Ruan Tressoldi,1235,Atletico MG,31,FirstHalf,Challenge,Unsuccessful,6,71.4,,
+258,549062,Erick Pulga,1221,Bahia,31,FirstHalf,Pass,Unsuccessful,99.1,28.2,96.6,45.9
+305,355663,Everson,1235,Atletico MG,31,FirstHalf,Interception,Successful,3.4,54.1,,
+304,355663,Everson,1235,Atletico MG,31,FirstHalf,KeeperPickup,Successful,8.5,58.4,,
+307,355663,Everson,1235,Atletico MG,31,FirstHalf,Pass,Unsuccessful,20.3,53.7,53.3,33
+259,396067,Nicolás Acevedo,1221,Bahia,31,FirstHalf,Aerial,Successful,46.7,67,,
+308,438188,Victor Hugo,1235,Atletico MG,31,FirstHalf,Aerial,Unsuccessful,53.3,33,,
+260,396067,Nicolás Acevedo,1221,Bahia,31,FirstHalf,Pass,Unsuccessful,46.7,67,54.9,75.3
+309,478494,Tomás Pérez,1235,Atletico MG,32,FirstHalf,Pass,Successful,39.1,20.4,23.9,25.3
+310,349496,Ruan Tressoldi,1235,Atletico MG,32,FirstHalf,BallTouch,Successful,25,24.7,,
+311,397498,Natanael,1235,Atletico MG,32,FirstHalf,Pass,Unsuccessful,26.4,1.9,39.5,2.8
+261,389163,Rodrigo Nestor,1221,Bahia,32,FirstHalf,Interception,Successful,60.5,97.2,,
+313,397498,Natanael,1235,Atletico MG,32,FirstHalf,Pass,Successful,34.5,0,42.5,28
+314,336102,Tomás Cuello,1235,Atletico MG,32,FirstHalf,Pass,Successful,42.9,29.5,36.1,55.1
+315,326646,Renan Lodi,1235,Atletico MG,32,FirstHalf,Pass,Successful,60,67.5,68.1,87.5
+316,101642,Bernard,1235,Atletico MG,32,FirstHalf,Pass,Unsuccessful,87.3,87.5,92.4,0
+266,402198,Santiago Ramos Mingo,1221,Bahia,32,FirstHalf,Pass,Successful,12.5,100,14.7,93.1
+270,389163,Rodrigo Nestor,1221,Bahia,32,FirstHalf,BallTouch,Successful,9.6,90.9,,
+318,336102,Tomás Cuello,1235,Atletico MG,32,FirstHalf,BallRecovery,Successful,89.9,1.9,,
+319,336102,Tomás Cuello,1235,Atletico MG,33,FirstHalf,Pass,Successful,92.8,23.6,88.3,35.2
+320,322162,Mateo Cassierra,1235,Atletico MG,33,FirstHalf,MissedShots,Successful,86.4,39.4,,
+267,279581,David Duarte,1221,Bahia,33,FirstHalf,Clearance,Successful,11.8,58.2,38,87.9
+268,77636,Willian José,1221,Bahia,33,FirstHalf,BallTouch,Successful,38,87.9,,
+322,397498,Natanael,1235,Atletico MG,33,FirstHalf,Pass,Successful,56.2,0,62.9,10.1
+323,336102,Tomás Cuello,1235,Atletico MG,33,FirstHalf,Pass,Successful,63.7,11,58.3,4.3
+324,397498,Natanael,1235,Atletico MG,33,FirstHalf,Foul,Successful,60.6,14.4,,
+271,389163,Rodrigo Nestor,1221,Bahia,33,FirstHalf,Foul,Unsuccessful,39.4,85.6,,
+325,438188,Victor Hugo,1235,Atletico MG,33,FirstHalf,Pass,Successful,61.2,20.6,53.6,59.1
+326,284115,Lyanco,1235,Atletico MG,33,FirstHalf,Pass,Successful,56.3,66,56.9,80
+327,326646,Renan Lodi,1235,Atletico MG,33,FirstHalf,Pass,Successful,57,80,39.6,65.1
+328,284115,Lyanco,1235,Atletico MG,33,FirstHalf,Pass,Successful,42.6,64.6,53.7,82
+329,317789,Maycon,1235,Atletico MG,33,FirstHalf,Pass,Successful,56.6,83.2,70.4,92.3
+330,101642,Bernard,1235,Atletico MG,34,FirstHalf,Pass,Successful,66.8,73.5,72.9,8.2
+331,336102,Tomás Cuello,1235,Atletico MG,34,FirstHalf,Pass,Successful,71.6,16.8,96.4,75.7
+332,326646,Renan Lodi,1235,Atletico MG,34,FirstHalf,BallTouch,Unsuccessful,96.4,75.7,,
+273,330555,Ronaldo,1221,Bahia,34,FirstHalf,Pass,Successful,5,37,14,12.9
+274,518031,Román Gómez,1221,Bahia,34,FirstHalf,Pass,Successful,61.5,30,74.7,7.2
+275,356785,Ademir,1221,Bahia,34,FirstHalf,Pass,Successful,80.5,18.9,87.8,48.8
+276,77636,Willian José,1221,Bahia,34,FirstHalf,Aerial,Successful,87.8,48.8,,
+336,349496,Ruan Tressoldi,1235,Atletico MG,34,FirstHalf,Aerial,Unsuccessful,12.2,51.2,,
+277,77636,Willian José,1221,Bahia,34,FirstHalf,ShotOnPost,Successful,87.8,48.8,,
+335,349496,Ruan Tressoldi,1235,Atletico MG,34,FirstHalf,Clearance,Successful,7.6,50,38.9,23.6
+278,476466,Zé Guilherme,1221,Bahia,34,FirstHalf,Pass,Successful,63.4,79.6,61.7,65.5
+279,396067,Nicolás Acevedo,1221,Bahia,34,FirstHalf,Pass,Successful,61.7,65.5,69,82.9
+280,389163,Rodrigo Nestor,1221,Bahia,34,FirstHalf,Pass,Successful,68.7,82,77.9,85.6
+281,476466,Zé Guilherme,1221,Bahia,34,FirstHalf,Pass,Unsuccessful,77.9,85.6,77.9,81.7
+337,397498,Natanael,1235,Atletico MG,34,FirstHalf,Clearance,Successful,22.1,18.3,,
+282,476466,Zé Guilherme,1221,Bahia,34,FirstHalf,BallTouch,Successful,77.9,81.7,,
+338,336102,Tomás Cuello,1235,Atletico MG,34,FirstHalf,Dispossessed,Successful,28.4,40.4,,
+283,476466,Zé Guilherme,1221,Bahia,34,FirstHalf,Tackle,Successful,71.6,59.6,,
+284,373515,Erick,1221,Bahia,34,FirstHalf,Pass,Successful,75.7,54.1,69.3,65
+285,396067,Nicolás Acevedo,1221,Bahia,34,FirstHalf,Pass,Successful,69.3,65,64.8,50.3
+286,279581,David Duarte,1221,Bahia,34,FirstHalf,Pass,Successful,64.8,50.3,67.9,28.9
+287,518031,Román Gómez,1221,Bahia,34,FirstHalf,Pass,Successful,67.9,28.9,79,10
+288,356785,Ademir,1221,Bahia,35,FirstHalf,Pass,Successful,79.5,11,76.7,33.6
+289,396067,Nicolás Acevedo,1221,Bahia,35,FirstHalf,Pass,Unsuccessful,90.7,26.5,87,44.7
+341,284115,Lyanco,1235,Atletico MG,35,FirstHalf,Clearance,Successful,8.1,69,2.8,100
+291,518031,Román Gómez,1221,Bahia,35,FirstHalf,Pass,Successful,96.3,0,95.8,8
+292,356785,Ademir,1221,Bahia,35,FirstHalf,Pass,Successful,95.8,8,88.5,4.2
+293,518031,Román Gómez,1221,Bahia,35,FirstHalf,Pass,Successful,77.9,9.8,87.1,6.2
+294,356785,Ademir,1221,Bahia,35,FirstHalf,Pass,Successful,87.1,6.2,74.4,7.6
+295,518031,Román Gómez,1221,Bahia,35,FirstHalf,Pass,Successful,70.8,13.2,65.9,56.1
+296,402198,Santiago Ramos Mingo,1221,Bahia,35,FirstHalf,Pass,Successful,68.6,65.9,73.9,89.7
+297,476466,Zé Guilherme,1221,Bahia,35,FirstHalf,Pass,Successful,73.9,89.7,74.2,79.7
+298,389163,Rodrigo Nestor,1221,Bahia,35,FirstHalf,Pass,Successful,74.2,79.7,90.8,86.8
+299,476466,Zé Guilherme,1221,Bahia,35,FirstHalf,TakeOn,Unsuccessful,91.8,88,,
+344,397498,Natanael,1235,Atletico MG,35,FirstHalf,Tackle,Successful,8.3,12,,
+345,397498,Natanael,1235,Atletico MG,35,FirstHalf,CornerAwarded,Unsuccessful,8.8,11.6,,
+300,476466,Zé Guilherme,1221,Bahia,35,FirstHalf,CornerAwarded,Successful,91.3,88.4,,
+301,389163,Rodrigo Nestor,1221,Bahia,36,FirstHalf,Pass,Unsuccessful,99.5,99.5,86.1,45.9
+346,349496,Ruan Tressoldi,1235,Atletico MG,36,FirstHalf,Aerial,Successful,13.9,54.1,,
+302,518031,Román Gómez,1221,Bahia,36,FirstHalf,Aerial,Unsuccessful,86.1,45.9,,
+347,349496,Ruan Tressoldi,1235,Atletico MG,36,FirstHalf,Clearance,Successful,13.9,54.1,34.2,34.2
+303,549062,Erick Pulga,1221,Bahia,36,FirstHalf,Pass,Successful,63.7,66.7,65.7,15.1
+304,356785,Ademir,1221,Bahia,36,FirstHalf,Pass,Unsuccessful,65.7,15.1,100,75.8
+349,355663,Everson,1235,Atletico MG,36,FirstHalf,Pass,Successful,2.6,52.7,7.1,71.7
+350,284115,Lyanco,1235,Atletico MG,36,FirstHalf,Pass,Successful,10.5,73.3,19.7,93.3
+351,326646,Renan Lodi,1235,Atletico MG,36,FirstHalf,Pass,Successful,23.9,91.7,20.4,70
+352,284115,Lyanco,1235,Atletico MG,36,FirstHalf,Pass,Successful,20.4,69.9,29.9,73.6
+353,317789,Maycon,1235,Atletico MG,36,FirstHalf,Pass,Successful,29.5,74.7,26.2,89.6
+354,326646,Renan Lodi,1235,Atletico MG,36,FirstHalf,Pass,Successful,27.6,90.8,23.2,70.3
+355,284115,Lyanco,1235,Atletico MG,36,FirstHalf,Pass,Successful,26.2,69.3,33.6,61.8
+356,478494,Tomás Pérez,1235,Atletico MG,36,FirstHalf,Pass,Successful,33.2,62.3,25.1,67.8
+357,284115,Lyanco,1235,Atletico MG,36,FirstHalf,Pass,Successful,26,65.5,30.9,20
+358,397498,Natanael,1235,Atletico MG,37,FirstHalf,Pass,Successful,36,21.8,41.9,12.2
+359,336102,Tomás Cuello,1235,Atletico MG,37,FirstHalf,Pass,Unsuccessful,41.1,5,41.1,7.7
+306,476466,Zé Guilherme,1221,Bahia,37,FirstHalf,BlockedPass,Successful,58.9,92.3,,
+361,336102,Tomás Cuello,1235,Atletico MG,37,FirstHalf,BallTouch,Successful,39.3,3.1,,
+308,389163,Rodrigo Nestor,1221,Bahia,37,FirstHalf,Pass,Successful,49.3,100,32.5,89.6
+309,402198,Santiago Ramos Mingo,1221,Bahia,37,FirstHalf,Pass,Successful,32.4,89.6,38.9,94.9
+310,396067,Nicolás Acevedo,1221,Bahia,37,FirstHalf,Pass,Successful,40.3,87.4,32.1,53.9
+311,279581,David Duarte,1221,Bahia,37,FirstHalf,Pass,Successful,33.2,44.2,40,14.1
+312,518031,Román Gómez,1221,Bahia,37,FirstHalf,Foul,Successful,26.4,14.5,,
+363,101642,Bernard,1235,Atletico MG,37,FirstHalf,Foul,Unsuccessful,73.6,85.5,,
+313,518031,Román Gómez,1221,Bahia,37,FirstHalf,Pass,Successful,38.5,15.9,24.6,25.1
+314,279581,David Duarte,1221,Bahia,37,FirstHalf,Pass,Successful,23.6,22.1,8.1,43.3
+315,330555,Ronaldo,1221,Bahia,37,FirstHalf,Pass,Successful,12.2,41.7,25.5,71.7
+316,402198,Santiago Ramos Mingo,1221,Bahia,37,FirstHalf,Pass,Successful,27.4,71.2,27.3,33.9
+317,279581,David Duarte,1221,Bahia,37,FirstHalf,Pass,Successful,31.1,34.7,33.8,13.8
+318,518031,Román Gómez,1221,Bahia,37,FirstHalf,Pass,Unsuccessful,33.8,13.8,59.2,16
+364,284115,Lyanco,1235,Atletico MG,37,FirstHalf,Clearance,Successful,27.2,86.5,27.3,100
+320,518031,Román Gómez,1221,Bahia,38,FirstHalf,Pass,Successful,60.7,0,37,9.4
+321,279581,David Duarte,1221,Bahia,38,FirstHalf,Pass,Successful,38.4,39.4,36.9,68.3
+322,402198,Santiago Ramos Mingo,1221,Bahia,38,FirstHalf,Pass,Successful,33.3,63.5,14.3,52
+323,330555,Ronaldo,1221,Bahia,38,FirstHalf,Pass,Successful,18.1,51.8,26.7,63.3
+324,396067,Nicolás Acevedo,1221,Bahia,38,FirstHalf,Pass,Successful,26,63.5,21.5,89.1
+325,402198,Santiago Ramos Mingo,1221,Bahia,38,FirstHalf,Pass,Unsuccessful,21.5,89.1,60.8,87.4
+366,336102,Tomás Cuello,1235,Atletico MG,38,FirstHalf,BallRecovery,Successful,28.5,11.7,,
+367,336102,Tomás Cuello,1235,Atletico MG,38,FirstHalf,Pass,Successful,28,14.3,9.9,29.8
+368,355663,Everson,1235,Atletico MG,38,FirstHalf,Pass,Unsuccessful,9.9,29.8,38.5,0
+327,476466,Zé Guilherme,1221,Bahia,38,FirstHalf,Pass,Successful,49.3,100,38.5,85.5
+328,402198,Santiago Ramos Mingo,1221,Bahia,38,FirstHalf,Pass,Successful,38.2,82.9,37.6,50
+329,279581,David Duarte,1221,Bahia,39,FirstHalf,Pass,Successful,54.7,32.6,56.5,8.9
+330,518031,Román Gómez,1221,Bahia,39,FirstHalf,Pass,Unsuccessful,56.4,9.2,59.8,15.9
+370,101642,Bernard,1235,Atletico MG,39,FirstHalf,Interception,Successful,40.2,84.1,,
+331,330555,Ronaldo,1221,Bahia,39,FirstHalf,Pass,Successful,25.7,58.5,38.7,74.4
+332,402198,Santiago Ramos Mingo,1221,Bahia,39,FirstHalf,Pass,Successful,38,74,45.6,76.7
+333,389163,Rodrigo Nestor,1221,Bahia,39,FirstHalf,Pass,Successful,44.3,72.4,28.5,54.7
+334,279581,David Duarte,1221,Bahia,39,FirstHalf,Pass,Successful,26.6,53.5,6.9,53.8
+335,330555,Ronaldo,1221,Bahia,39,FirstHalf,Pass,Unsuccessful,6.9,53.8,31.7,0
+372,326646,Renan Lodi,1235,Atletico MG,39,FirstHalf,Pass,Successful,67.6,100,40.5,78.7
+373,284115,Lyanco,1235,Atletico MG,39,FirstHalf,Pass,Successful,40.1,79.9,56,85.3
+374,317789,Maycon,1235,Atletico MG,39,FirstHalf,Pass,Successful,63.4,87.7,67.6,72.6
+375,101642,Bernard,1235,Atletico MG,39,FirstHalf,Pass,Successful,66.8,74.1,54.5,80.6
+376,284115,Lyanco,1235,Atletico MG,39,FirstHalf,Pass,Successful,55.1,80.6,60.9,90.2
+377,326646,Renan Lodi,1235,Atletico MG,39,FirstHalf,Pass,Unsuccessful,60.9,89.4,65.6,92.6
+337,356785,Ademir,1221,Bahia,39,FirstHalf,Interception,Successful,34.4,7.4,,
+379,326646,Renan Lodi,1235,Atletico MG,39,FirstHalf,Pass,Successful,68.6,100,54.1,91.4
+380,284115,Lyanco,1235,Atletico MG,39,FirstHalf,Pass,Successful,54,91.1,40.5,70.9
+381,349496,Ruan Tressoldi,1235,Atletico MG,39,FirstHalf,Pass,Successful,40,69.9,45.5,89.3
+382,284115,Lyanco,1235,Atletico MG,40,FirstHalf,Pass,Successful,57.5,89.9,42.3,80.6
+383,317789,Maycon,1235,Atletico MG,40,FirstHalf,Pass,Successful,41.8,78.7,25.7,47
+384,355663,Everson,1235,Atletico MG,40,FirstHalf,Pass,Successful,25.7,47,40.1,17
+385,397498,Natanael,1235,Atletico MG,40,FirstHalf,Pass,Successful,53.8,17.6,54,8.5
+386,336102,Tomás Cuello,1235,Atletico MG,40,FirstHalf,Pass,Successful,56.5,4.3,67.1,6.5
+387,438188,Victor Hugo,1235,Atletico MG,40,FirstHalf,Pass,Unsuccessful,67.1,6.5,65.2,6.5
+339,389163,Rodrigo Nestor,1221,Bahia,40,FirstHalf,BlockedPass,Successful,34.8,93.5,,
+389,397498,Natanael,1235,Atletico MG,40,FirstHalf,Pass,Successful,56.7,0,62.2,6.7
+390,438188,Victor Hugo,1235,Atletico MG,40,FirstHalf,Pass,Successful,62.5,6.7,58.3,4.9
+391,397498,Natanael,1235,Atletico MG,40,FirstHalf,Pass,Successful,58.4,4.9,63.7,7.3
+392,438188,Victor Hugo,1235,Atletico MG,40,FirstHalf,Pass,Successful,63.4,7.6,68.5,11.7
+393,336102,Tomás Cuello,1235,Atletico MG,40,FirstHalf,Pass,Successful,68.5,11.7,89,31
+403,101642,Bernard,1235,Atletico MG,40,FirstHalf,Dispossessed,Successful,90.4,22,,
+342,279581,David Duarte,1221,Bahia,40,FirstHalf,Tackle,Unsuccessful,9.5,78.1,,
+394,101642,Bernard,1235,Atletico MG,40,FirstHalf,Pass,Successful,90.8,15.3,89,28
+395,438188,Victor Hugo,1235,Atletico MG,40,FirstHalf,Pass,Successful,91.2,29.4,84.4,46.1
+396,322162,Mateo Cassierra,1235,Atletico MG,40,FirstHalf,SavedShot,Successful,84.4,46.1,,
+343,518031,Román Gómez,1221,Bahia,40,FirstHalf,Save,Successful,10.6,53.6,,
+350,373515,Erick,1221,Bahia,40,FirstHalf,BallTouch,Successful,10.3,49.2,,
+405,322162,Mateo Cassierra,1235,Atletico MG,40,FirstHalf,Pass,Successful,77.3,32.8,73.5,31
+397,478494,Tomás Pérez,1235,Atletico MG,40,FirstHalf,Pass,Successful,72.3,37.7,73.2,50.4
+398,317789,Maycon,1235,Atletico MG,40,FirstHalf,Pass,Successful,73.3,53.4,77.7,81.5
+399,326646,Renan Lodi,1235,Atletico MG,40,FirstHalf,Pass,Successful,72.9,78.4,68.8,69.4
+400,317789,Maycon,1235,Atletico MG,40,FirstHalf,Pass,Unsuccessful,68.8,69.4,86.5,46
+344,402198,Santiago Ramos Mingo,1221,Bahia,40,FirstHalf,Clearance,Successful,8.7,66.2,24.3,62.6
+401,478494,Tomás Pérez,1235,Atletico MG,40,FirstHalf,Pass,Successful,72.1,39.7,77.2,9.1
+402,336102,Tomás Cuello,1235,Atletico MG,41,FirstHalf,Pass,Unsuccessful,80,15,97.8,49.6
+345,330555,Ronaldo,1221,Bahia,41,FirstHalf,Claim,Successful,2.2,50.4,,
+346,330555,Ronaldo,1221,Bahia,41,FirstHalf,Pass,Successful,9.2,44.4,24.9,33.6
+347,373515,Erick,1221,Bahia,41,FirstHalf,Pass,Successful,60.1,31.2,70.2,11.9
+348,356785,Ademir,1221,Bahia,41,FirstHalf,MissedShots,Successful,78.4,30.3,,
+406,355663,Everson,1235,Atletico MG,42,FirstHalf,Pass,Unsuccessful,3.7,53,66.3,29.1
+351,279581,David Duarte,1221,Bahia,42,FirstHalf,Aerial,Successful,33.7,70.9,,
+407,322162,Mateo Cassierra,1235,Atletico MG,42,FirstHalf,Aerial,Unsuccessful,66.3,29.1,,
+352,279581,David Duarte,1221,Bahia,42,FirstHalf,Pass,Successful,33.7,70.9,29.6,68.9
+353,396067,Nicolás Acevedo,1221,Bahia,42,FirstHalf,Aerial,Successful,29.6,68.9,,
+408,317789,Maycon,1235,Atletico MG,42,FirstHalf,Aerial,Unsuccessful,70.4,31.1,,
+354,396067,Nicolás Acevedo,1221,Bahia,42,FirstHalf,Pass,Successful,29.6,68.9,36.5,62.9
+355,77636,Willian José,1221,Bahia,42,FirstHalf,BallRecovery,Successful,37.7,62.1,,
+356,77636,Willian José,1221,Bahia,42,FirstHalf,Pass,Unsuccessful,37.7,62.1,63.5,45.9
+409,326646,Renan Lodi,1235,Atletico MG,42,FirstHalf,Pass,Successful,39.6,43.3,60.1,79.6
+410,101642,Bernard,1235,Atletico MG,42,FirstHalf,BallRecovery,Successful,63.9,78.8,,
+411,101642,Bernard,1235,Atletico MG,42,FirstHalf,Pass,Successful,66.3,69.6,74.9,7.7
+412,336102,Tomás Cuello,1235,Atletico MG,42,FirstHalf,Pass,Successful,75.2,9.1,73.6,16.7
+413,317789,Maycon,1235,Atletico MG,42,FirstHalf,Pass,Successful,76.3,17.4,96.1,23.3
+414,336102,Tomás Cuello,1235,Atletico MG,42,FirstHalf,Pass,Successful,96.1,23.3,91.5,62.6
+415,326646,Renan Lodi,1235,Atletico MG,42,FirstHalf,Aerial,Successful,91.5,62.6,,
+357,518031,Román Gómez,1221,Bahia,42,FirstHalf,Aerial,Unsuccessful,8.5,37.4,,
+416,326646,Renan Lodi,1235,Atletico MG,42,FirstHalf,MissedShots,Successful,91.5,62.6,,
+359,330555,Ronaldo,1221,Bahia,42,FirstHalf,Pass,Successful,2.1,46.1,9.3,43.6
+360,396067,Nicolás Acevedo,1221,Bahia,42,FirstHalf,Pass,Successful,10.2,43.5,18.7,78.3
+361,402198,Santiago Ramos Mingo,1221,Bahia,43,FirstHalf,Pass,Successful,20.1,77.9,12.6,61.5
+362,330555,Ronaldo,1221,Bahia,43,FirstHalf,Pass,Successful,12.6,61.5,18.6,34.7
+363,279581,David Duarte,1221,Bahia,43,FirstHalf,Pass,Successful,23.6,32.6,29.7,9.4
+364,518031,Román Gómez,1221,Bahia,43,FirstHalf,Pass,Successful,30.1,9.1,54.9,11.5
+365,373515,Erick,1221,Bahia,43,FirstHalf,Pass,Unsuccessful,54.9,11.5,58.8,11.2
+418,326646,Renan Lodi,1235,Atletico MG,43,FirstHalf,BlockedPass,Successful,41.2,88.8,,
+419,317789,Maycon,1235,Atletico MG,43,FirstHalf,BallRecovery,Successful,39,83.2,,
+420,317789,Maycon,1235,Atletico MG,43,FirstHalf,Pass,Successful,39,83.2,37.7,90.8
+421,326646,Renan Lodi,1235,Atletico MG,43,FirstHalf,Pass,Successful,37.7,90.8,35.8,78.1
+422,478494,Tomás Pérez,1235,Atletico MG,43,FirstHalf,Pass,Successful,35.8,78.1,29.6,86
+423,284115,Lyanco,1235,Atletico MG,43,FirstHalf,Pass,Successful,29.6,86,23.8,61.8
+424,349496,Ruan Tressoldi,1235,Atletico MG,43,FirstHalf,Pass,Successful,24.5,62.9,27.8,86.3
+425,284115,Lyanco,1235,Atletico MG,43,FirstHalf,Pass,Successful,29,86.9,26.8,62.4
+426,349496,Ruan Tressoldi,1235,Atletico MG,43,FirstHalf,Pass,Successful,28.5,61.2,31.8,70.5
+427,317789,Maycon,1235,Atletico MG,43,FirstHalf,Pass,Successful,35,73,55.6,94.4
+428,326646,Renan Lodi,1235,Atletico MG,43,FirstHalf,Pass,Successful,58.8,94.1,39.8,66
+429,349496,Ruan Tressoldi,1235,Atletico MG,43,FirstHalf,Pass,Successful,46.9,53.9,42,24.3
+430,397498,Natanael,1235,Atletico MG,43,FirstHalf,Pass,Successful,42,24.3,96.9,5.2
+431,336102,Tomás Cuello,1235,Atletico MG,43,FirstHalf,BallTouch,Unsuccessful,97,6.1,,
+366,389163,Rodrigo Nestor,1221,Bahia,43,FirstHalf,BallRecovery,Successful,9.7,86.8,,
+367,389163,Rodrigo Nestor,1221,Bahia,43,FirstHalf,Pass,Successful,9.7,86.8,5.4,65.9
+368,402198,Santiago Ramos Mingo,1221,Bahia,43,FirstHalf,Clearance,Successful,5.4,65.9,11.5,100
+433,336102,Tomás Cuello,1235,Atletico MG,44,FirstHalf,Pass,Successful,81.6,0,76.8,6.4
+434,438188,Victor Hugo,1235,Atletico MG,44,FirstHalf,Pass,Successful,71.5,7.1,60.8,18.9
+435,349496,Ruan Tressoldi,1235,Atletico MG,44,FirstHalf,Pass,Successful,58.7,26.2,57.2,53.9
+436,284115,Lyanco,1235,Atletico MG,44,FirstHalf,Pass,Successful,61.4,59.3,68.4,85.9
+437,101642,Bernard,1235,Atletico MG,44,FirstHalf,Pass,Successful,77.9,92.9,69.5,87.2
+438,326646,Renan Lodi,1235,Atletico MG,44,FirstHalf,Pass,Successful,70.3,88.1,56.5,47.9
+439,349496,Ruan Tressoldi,1235,Atletico MG,44,FirstHalf,Pass,Successful,53,43.6,62.5,17.1
+440,397498,Natanael,1235,Atletico MG,44,FirstHalf,Pass,Successful,64.4,19.8,56.8,46.3
+441,349496,Ruan Tressoldi,1235,Atletico MG,44,FirstHalf,Pass,Successful,57.1,46.7,63.4,76.9
+442,284115,Lyanco,1235,Atletico MG,44,FirstHalf,Pass,Successful,64,74.4,83.1,89.6
+443,101642,Bernard,1235,Atletico MG,44,FirstHalf,Pass,Successful,83.5,88,91.3,83.5
+444,326646,Renan Lodi,1235,Atletico MG,44,FirstHalf,Pass,Unsuccessful,91.3,83.5,91.2,82.9
+371,518031,Román Gómez,1221,Bahia,44,FirstHalf,Clearance,Successful,8.8,17.1,,
+445,326646,Renan Lodi,1235,Atletico MG,44,FirstHalf,CornerAwarded,Successful,91.4,85.2,,
+372,518031,Román Gómez,1221,Bahia,44,FirstHalf,CornerAwarded,Unsuccessful,8.6,14.8,,
+446,101642,Bernard,1235,Atletico MG,45,FirstHalf,Pass,Unsuccessful,99.7,99.2,91.8,46.9
+373,402198,Santiago Ramos Mingo,1221,Bahia,45,FirstHalf,Clearance,Successful,9.6,52.6,8.8,7.9
+447,101642,Bernard,1235,Atletico MG,45,FirstHalf,Pass,Successful,84.2,87.5,94.5,43.9
+448,349496,Ruan Tressoldi,1235,Atletico MG,45,FirstHalf,Goal,Successful,94.5,43.9,,
+374,77636,Willian José,1221,Bahia,46,FirstHalf,Pass,Successful,49.9,50.3,46.6,51.1
+375,396067,Nicolás Acevedo,1221,Bahia,46,FirstHalf,Pass,Successful,48.9,51.5,56.2,72.1
+376,389163,Rodrigo Nestor,1221,Bahia,46,FirstHalf,Pass,Successful,56.5,69.4,58.2,54.9
+377,396067,Nicolás Acevedo,1221,Bahia,46,FirstHalf,Pass,Successful,58.2,54.9,57.1,26.3
+378,518031,Román Gómez,1221,Bahia,46,FirstHalf,Pass,Successful,57.1,26.2,45.3,49.4
+379,279581,David Duarte,1221,Bahia,46,FirstHalf,Pass,Successful,45.3,49.4,44,75.2
+380,402198,Santiago Ramos Mingo,1221,Bahia,46,FirstHalf,Pass,Successful,44,75.2,60.4,75.5
+381,389163,Rodrigo Nestor,1221,Bahia,46,FirstHalf,Pass,Successful,63.7,75.9,63.6,58.3
+382,396067,Nicolás Acevedo,1221,Bahia,46,FirstHalf,Pass,Successful,66.2,58.8,90.4,72.1
+383,549062,Erick Pulga,1221,Bahia,46,FirstHalf,TakeOn,Unsuccessful,91.2,70.6,,
+450,397498,Natanael,1235,Atletico MG,46,FirstHalf,Clearance,Successful,7.8,36.6,0,33.6
+384,549062,Erick Pulga,1221,Bahia,46,FirstHalf,CornerAwarded,Successful,97.4,69.2,,
+451,397498,Natanael,1235,Atletico MG,46,FirstHalf,CornerAwarded,Unsuccessful,2.6,30.8,,
+386,389163,Rodrigo Nestor,1221,Bahia,47,FirstHalf,Pass,Unsuccessful,99.5,99.5,93.7,45.3
+452,284115,Lyanco,1235,Atletico MG,47,FirstHalf,Aerial,Successful,6.3,54.7,,
+387,518031,Román Gómez,1221,Bahia,47,FirstHalf,Aerial,Unsuccessful,93.7,45.3,,
+453,284115,Lyanco,1235,Atletico MG,47,FirstHalf,Clearance,Successful,6.3,54.7,17.9,57
+454,101642,Bernard,1235,Atletico MG,47,FirstHalf,Clearance,Successful,19.4,58.5,41.6,89.7
+388,356785,Ademir,1221,Bahia,47,FirstHalf,Pass,Successful,52.3,13.6,38.9,38.8
+389,,,1221,Bahia,48,FirstHalf,End,Successful,0,0,,
+455,,,1235,Atletico MG,48,FirstHalf,End,Successful,0,0,,
+11396,356785,Ademir,1221,Bahia,45,SecondHalf,OffsideGiven,Unsuccessful,67.8,42.7,,
+392,402198,Santiago Ramos Mingo,1221,Bahia,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+393,436527,Marcos Victor,1221,Bahia,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+456,,,1235,Atletico MG,45,SecondHalf,Start,Successful,0,0,,
+394,,,1221,Bahia,45,SecondHalf,Start,Successful,0,0,,
+457,322162,Mateo Cassierra,1235,Atletico MG,45,SecondHalf,Pass,Successful,50.2,50.3,34.2,59.6
+464,,,1221,Bahia,45,SecondHalf,FormationChange,Successful,0,0,,
+458,317789,Maycon,1235,Atletico MG,45,SecondHalf,Pass,Successful,34,60,38.3,89.6
+459,326646,Renan Lodi,1235,Atletico MG,45,SecondHalf,Pass,Successful,37,89,28.4,75.6
+460,284115,Lyanco,1235,Atletico MG,45,SecondHalf,Pass,Successful,27.3,73.9,10,54.3
+461,355663,Everson,1235,Atletico MG,45,SecondHalf,Pass,Unsuccessful,10.8,53.3,67,48.7
+427,436527,Marcos Victor,1221,Bahia,45,SecondHalf,Aerial,Successful,33,51.3,,
+462,322162,Mateo Cassierra,1235,Atletico MG,45,SecondHalf,Aerial,Unsuccessful,67,48.7,,
+430,436527,Marcos Victor,1221,Bahia,45,SecondHalf,Pass,Unsuccessful,33,51.3,42.1,49.4
+486,478494,Tomás Pérez,1235,Atletico MG,45,SecondHalf,BallTouch,Unsuccessful,56.9,48.2,,
+395,373515,Erick,1221,Bahia,45,SecondHalf,BallRecovery,Successful,47,45.4,,
+446,373515,Erick,1221,Bahia,45,SecondHalf,Pass,Successful,45.4,42.7,47,58.8
+396,389163,Rodrigo Nestor,1221,Bahia,45,SecondHalf,OffsidePass,Successful,55.7,59.6,67.8,42.7
+463,284115,Lyanco,1235,Atletico MG,45,SecondHalf,OffsideProvoked,Successful,35.6,70.1,,
+464,349496,Ruan Tressoldi,1235,Atletico MG,45,SecondHalf,Pass,Successful,27.5,48.1,27.4,29.2
+465,397498,Natanael,1235,Atletico MG,45,SecondHalf,Pass,Successful,27.4,29.2,35.3,32.1
+466,438188,Victor Hugo,1235,Atletico MG,45,SecondHalf,BallTouch,Unsuccessful,35.1,33,,
+467,478494,Tomás Pérez,1235,Atletico MG,45,SecondHalf,Challenge,Unsuccessful,28.4,37.4,,
+400,396067,Nicolás Acevedo,1221,Bahia,45,SecondHalf,TakeOn,Successful,71.6,62.6,,
+401,396067,Nicolás Acevedo,1221,Bahia,45,SecondHalf,BallRecovery,Successful,64,69.3,,
+402,396067,Nicolás Acevedo,1221,Bahia,45,SecondHalf,Pass,Successful,63.5,68.2,65.1,41.5
+403,77636,Willian José,1221,Bahia,46,SecondHalf,Pass,Successful,63.8,38.2,43.9,22.1
+404,518031,Román Gómez,1221,Bahia,46,SecondHalf,Pass,Successful,43.9,22.1,38.3,35.3
+405,436527,Marcos Victor,1221,Bahia,46,SecondHalf,Pass,Successful,38.3,35.3,43.8,16.6
+406,518031,Román Gómez,1221,Bahia,46,SecondHalf,Pass,Successful,44.1,17.6,55.6,48.8
+407,389163,Rodrigo Nestor,1221,Bahia,46,SecondHalf,Pass,Successful,55.6,48.8,41.4,73.7
+408,279581,David Duarte,1221,Bahia,46,SecondHalf,Pass,Successful,42.3,67.9,46.6,21.8
+409,518031,Román Gómez,1221,Bahia,46,SecondHalf,Pass,Successful,56,23.6,67.4,33.6
+410,396067,Nicolás Acevedo,1221,Bahia,46,SecondHalf,Pass,Successful,67,32.7,76.4,14.5
+411,373515,Erick,1221,Bahia,46,SecondHalf,Dispossessed,Successful,75.6,15.7,,
+470,101642,Bernard,1235,Atletico MG,46,SecondHalf,Tackle,Successful,24.4,84.3,,
+471,326646,Renan Lodi,1235,Atletico MG,46,SecondHalf,Pass,Successful,16.6,93,11.9,84.2
+472,317789,Maycon,1235,Atletico MG,46,SecondHalf,BallRecovery,Successful,11.9,84.2,,
+473,317789,Maycon,1235,Atletico MG,46,SecondHalf,Pass,Unsuccessful,12.3,84.5,50.7,85.4
+412,436527,Marcos Victor,1221,Bahia,46,SecondHalf,BallRecovery,Successful,45.2,11.2,,
+413,436527,Marcos Victor,1221,Bahia,46,SecondHalf,Pass,Successful,45.2,11,32.3,32.4
+414,330555,Ronaldo,1221,Bahia,46,SecondHalf,Pass,Successful,32.1,32.7,38.1,50.2
+415,279581,David Duarte,1221,Bahia,46,SecondHalf,Pass,Successful,38.4,51.7,47,64.9
+416,389163,Rodrigo Nestor,1221,Bahia,46,SecondHalf,Pass,Successful,49.2,63.6,60.7,72.6
+417,549062,Erick Pulga,1221,Bahia,46,SecondHalf,Pass,Successful,60.7,75.9,70.2,92.1
+418,476466,Zé Guilherme,1221,Bahia,47,SecondHalf,Pass,Unsuccessful,70.2,92.1,89.2,84.3
+474,349496,Ruan Tressoldi,1235,Atletico MG,47,SecondHalf,Clearance,Successful,8.5,14.4,9.7,0
+420,476466,Zé Guilherme,1221,Bahia,47,SecondHalf,Pass,Successful,81.7,100,77.9,90.9
+421,549062,Erick Pulga,1221,Bahia,47,SecondHalf,Pass,Successful,77.9,90.9,79.6,96.4
+422,476466,Zé Guilherme,1221,Bahia,47,SecondHalf,Pass,Successful,79.6,96.4,66.7,89.6
+423,279581,David Duarte,1221,Bahia,47,SecondHalf,Pass,Successful,66.7,89.6,70.6,70
+424,396067,Nicolás Acevedo,1221,Bahia,47,SecondHalf,Pass,Successful,74.5,71.2,87.4,61.5
+425,549062,Erick Pulga,1221,Bahia,47,SecondHalf,SavedShot,Successful,87.4,61.5,,
+476,355663,Everson,1235,Atletico MG,47,SecondHalf,Save,Successful,1.4,49.9,,
+477,317789,Maycon,1235,Atletico MG,47,SecondHalf,Clearance,Successful,10.4,44.3,8.2,83.2
+426,356785,Ademir,1221,Bahia,47,SecondHalf,Pass,Unsuccessful,92.9,13.6,93.6,16.6
+485,326646,Renan Lodi,1235,Atletico MG,47,SecondHalf,BallTouch,Successful,1.7,79.9,,
+478,317789,Maycon,1235,Atletico MG,47,SecondHalf,Clearance,Successful,10,63.4,25,67.8
+428,518031,Román Gómez,1221,Bahia,47,SecondHalf,Pass,Successful,77.8,31.5,78,41.3
+429,396067,Nicolás Acevedo,1221,Bahia,47,SecondHalf,SavedShot,Successful,78,41.3,,
+480,355663,Everson,1235,Atletico MG,47,SecondHalf,Save,Successful,3.3,50.6,,
+481,355663,Everson,1235,Atletico MG,47,SecondHalf,KeeperPickup,Successful,3.3,50.6,,
+483,355663,Everson,1235,Atletico MG,47,SecondHalf,Pass,Unsuccessful,12.1,43.6,59.1,22.4
+431,279581,David Duarte,1221,Bahia,47,SecondHalf,Aerial,Successful,40.9,77.6,,
+484,438188,Victor Hugo,1235,Atletico MG,47,SecondHalf,Aerial,Unsuccessful,59.1,22.4,,
+432,279581,David Duarte,1221,Bahia,47,SecondHalf,Pass,Successful,40.9,77.6,48.8,87.6
+433,389163,Rodrigo Nestor,1221,Bahia,47,SecondHalf,BallRecovery,Successful,53.8,90,,
+434,389163,Rodrigo Nestor,1221,Bahia,48,SecondHalf,Pass,Successful,72.6,91.4,67.9,75.9
+435,396067,Nicolás Acevedo,1221,Bahia,48,SecondHalf,Pass,Successful,64.1,65.9,61.6,27.3
+436,518031,Román Gómez,1221,Bahia,48,SecondHalf,Pass,Successful,61.6,27.3,70.8,7.4
+437,356785,Ademir,1221,Bahia,48,SecondHalf,Pass,Successful,91.7,17,90.6,45.2
+438,373515,Erick,1221,Bahia,48,SecondHalf,MissedShots,Successful,90.6,45.2,,
+488,355663,Everson,1235,Atletico MG,48,SecondHalf,Pass,Successful,3.8,48.7,14.2,65.5
+489,284115,Lyanco,1235,Atletico MG,48,SecondHalf,Pass,Successful,13.4,65.4,8.4,48.7
+490,355663,Everson,1235,Atletico MG,48,SecondHalf,Pass,Unsuccessful,11.9,50.6,58.3,75.1
+440,518031,Román Gómez,1221,Bahia,48,SecondHalf,Pass,Unsuccessful,41.7,28.8,65.8,35
+491,317789,Maycon,1235,Atletico MG,48,SecondHalf,Dispossessed,Successful,32.6,71.1,,
+441,356785,Ademir,1221,Bahia,48,SecondHalf,Tackle,Successful,67.4,28.9,,
+442,396067,Nicolás Acevedo,1221,Bahia,48,SecondHalf,Foul,Successful,39.8,28,,
+492,478494,Tomás Pérez,1235,Atletico MG,48,SecondHalf,Foul,Unsuccessful,60.2,72,,
+443,373515,Erick,1221,Bahia,49,SecondHalf,Pass,Successful,45.6,26.5,40.8,31.8
+444,396067,Nicolás Acevedo,1221,Bahia,49,SecondHalf,Pass,Successful,41.4,33.6,55,57
+445,389163,Rodrigo Nestor,1221,Bahia,49,SecondHalf,Pass,Successful,55,57,67.5,92
+447,476466,Zé Guilherme,1221,Bahia,49,SecondHalf,Pass,Successful,67.5,92,61.4,78
+448,279581,David Duarte,1221,Bahia,49,SecondHalf,Pass,Successful,61.5,75.8,65.5,61.2
+449,396067,Nicolás Acevedo,1221,Bahia,49,SecondHalf,Pass,Successful,65.6,61.2,70.5,45.3
+450,373515,Erick,1221,Bahia,49,SecondHalf,Pass,Successful,70.5,45.3,61,39.1
+451,518031,Román Gómez,1221,Bahia,49,SecondHalf,MissedShots,Successful,72.1,38.7,,
+494,284115,Lyanco,1235,Atletico MG,49,SecondHalf,Pass,Successful,3.9,59.6,7.5,47
+495,355663,Everson,1235,Atletico MG,49,SecondHalf,Pass,Successful,7.5,47,45.3,81.4
+496,322162,Mateo Cassierra,1235,Atletico MG,49,SecondHalf,BallTouch,Unsuccessful,45,81.4,,
+453,373515,Erick,1221,Bahia,49,SecondHalf,BallRecovery,Successful,66.5,35,,
+454,373515,Erick,1221,Bahia,49,SecondHalf,Pass,Successful,66.5,35,76.3,44.5
+455,77636,Willian José,1221,Bahia,49,SecondHalf,Pass,Successful,76.3,44.5,65.9,59.1
+456,373515,Erick,1221,Bahia,49,SecondHalf,Pass,Successful,66.2,59.1,73.5,50
+457,549062,Erick Pulga,1221,Bahia,49,SecondHalf,Pass,Unsuccessful,73.4,50.9,88.4,78.8
+497,336102,Tomás Cuello,1235,Atletico MG,49,SecondHalf,BallRecovery,Successful,5.7,16.8,,
+498,336102,Tomás Cuello,1235,Atletico MG,50,SecondHalf,Pass,Unsuccessful,5.7,14.3,42.3,14.4
+458,279581,David Duarte,1221,Bahia,50,SecondHalf,BallRecovery,Successful,60.3,75.8,,
+459,279581,David Duarte,1221,Bahia,50,SecondHalf,Pass,Successful,60.3,75.8,40.8,52.3
+460,436527,Marcos Victor,1221,Bahia,50,SecondHalf,Pass,Successful,40.8,52.3,62.5,84.7
+461,389163,Rodrigo Nestor,1221,Bahia,50,SecondHalf,Pass,Successful,62.5,84.7,73.9,93.4
+462,476466,Zé Guilherme,1221,Bahia,50,SecondHalf,Pass,Successful,73.1,93.4,73.4,73.3
+463,396067,Nicolás Acevedo,1221,Bahia,50,SecondHalf,BallTouch,Unsuccessful,73.4,73.3,,
+499,101642,Bernard,1235,Atletico MG,50,SecondHalf,BallRecovery,Successful,35.2,37.3,,
+500,101642,Bernard,1235,Atletico MG,50,SecondHalf,Pass,Successful,35.2,37.3,47.4,46.7
+501,438188,Victor Hugo,1235,Atletico MG,50,SecondHalf,Pass,Successful,51.7,49.4,62.2,71.5
+502,322162,Mateo Cassierra,1235,Atletico MG,50,SecondHalf,Pass,Successful,74,69.7,69.7,67
+503,101642,Bernard,1235,Atletico MG,50,SecondHalf,Pass,Successful,69.7,67,69.4,62
+504,317789,Maycon,1235,Atletico MG,50,SecondHalf,Pass,Successful,69.4,62,86.6,91.8
+505,326646,Renan Lodi,1235,Atletico MG,50,SecondHalf,Pass,Successful,86.2,91.7,68.6,79.1
+506,101642,Bernard,1235,Atletico MG,50,SecondHalf,Pass,Successful,68.6,78.8,70.5,67.8
+507,317789,Maycon,1235,Atletico MG,50,SecondHalf,Pass,Successful,70.2,67.6,65.2,60.8
+508,284115,Lyanco,1235,Atletico MG,50,SecondHalf,Pass,Successful,65.1,59.4,66.6,69
+509,317789,Maycon,1235,Atletico MG,50,SecondHalf,Pass,Successful,66.6,69,78.9,93.9
+510,326646,Renan Lodi,1235,Atletico MG,50,SecondHalf,Pass,Successful,78.9,93.9,72.1,92
+511,101642,Bernard,1235,Atletico MG,50,SecondHalf,Pass,Successful,71.6,87.1,62.8,67.8
+512,284115,Lyanco,1235,Atletico MG,50,SecondHalf,Pass,Successful,62.7,65.7,63,29.1
+513,397498,Natanael,1235,Atletico MG,50,SecondHalf,Pass,Successful,65.2,19.1,70.1,8.6
+514,336102,Tomás Cuello,1235,Atletico MG,50,SecondHalf,Pass,Successful,70.6,6.2,72.9,16.5
+518,397498,Natanael,1235,Atletico MG,51,SecondHalf,Foul,Successful,57.6,22.2,,
+465,389163,Rodrigo Nestor,1221,Bahia,51,SecondHalf,Foul,Unsuccessful,42.4,77.8,,
+519,101642,Bernard,1235,Atletico MG,51,SecondHalf,Pass,Unsuccessful,75.7,12.3,89.3,39.4
+466,476466,Zé Guilherme,1221,Bahia,51,SecondHalf,Clearance,Successful,15.6,66.8,23,55.8
+467,77636,Willian José,1221,Bahia,51,SecondHalf,Pass,Successful,22.1,57.7,33.2,64.7
+468,549062,Erick Pulga,1221,Bahia,51,SecondHalf,BallRecovery,Successful,33.2,64.7,,
+470,549062,Erick Pulga,1221,Bahia,51,SecondHalf,Foul,Successful,38.3,52.7,,
+520,101642,Bernard,1235,Atletico MG,51,SecondHalf,Foul,Unsuccessful,61.8,47.2,,
+471,436527,Marcos Victor,1221,Bahia,52,SecondHalf,Pass,Successful,39.4,44.5,43.7,72.1
+472,279581,David Duarte,1221,Bahia,52,SecondHalf,Pass,Successful,46.2,74.4,44,50.2
+473,436527,Marcos Victor,1221,Bahia,52,SecondHalf,Pass,Successful,44.1,48.6,45.9,18.8
+474,518031,Román Gómez,1221,Bahia,52,SecondHalf,Pass,Successful,45.9,18.8,66.7,35.4
+475,396067,Nicolás Acevedo,1221,Bahia,52,SecondHalf,Pass,Successful,65.5,26.5,60.1,16.5
+476,356785,Ademir,1221,Bahia,52,SecondHalf,Pass,Successful,60.1,16.5,63.6,32.3
+477,77636,Willian José,1221,Bahia,52,SecondHalf,Pass,Successful,63.6,32.3,71.2,35
+478,356785,Ademir,1221,Bahia,52,SecondHalf,Pass,Successful,71.2,42.6,68.4,61.7
+479,389163,Rodrigo Nestor,1221,Bahia,52,SecondHalf,MissedShots,Successful,73.4,63,,
+524,355663,Everson,1235,Atletico MG,53,SecondHalf,Pass,Unsuccessful,3.5,55.4,58.2,66.1
+481,373515,Erick,1221,Bahia,53,SecondHalf,Aerial,Successful,41.8,33.9,,
+525,322162,Mateo Cassierra,1235,Atletico MG,53,SecondHalf,Aerial,Unsuccessful,58.2,66.1,,
+482,373515,Erick,1221,Bahia,53,SecondHalf,BallTouch,Successful,41.9,19.1,,
+527,326646,Renan Lodi,1235,Atletico MG,53,SecondHalf,Pass,Successful,64.6,100,45.3,92.4
+528,284115,Lyanco,1235,Atletico MG,53,SecondHalf,Pass,Successful,41,90.8,30.4,67.8
+529,349496,Ruan Tressoldi,1235,Atletico MG,53,SecondHalf,Pass,Successful,30.4,67.8,28.9,37.9
+530,397498,Natanael,1235,Atletico MG,53,SecondHalf,Pass,Unsuccessful,34,51.5,66,100
+485,518031,Román Gómez,1221,Bahia,53,SecondHalf,Pass,Successful,40,0,32.9,9.5
+486,436527,Marcos Victor,1221,Bahia,53,SecondHalf,Pass,Successful,29.1,9.8,12.2,34.5
+487,330555,Ronaldo,1221,Bahia,53,SecondHalf,Pass,Successful,12.2,34.5,22.7,68.6
+488,279581,David Duarte,1221,Bahia,54,SecondHalf,Pass,Successful,27,65.6,30.2,40.8
+489,436527,Marcos Victor,1221,Bahia,54,SecondHalf,Pass,Successful,33.9,41.8,35.3,71.4
+490,279581,David Duarte,1221,Bahia,54,SecondHalf,Pass,Successful,40.5,67.9,37,39.4
+491,436527,Marcos Victor,1221,Bahia,54,SecondHalf,Pass,Successful,37,39.4,47.2,42.4
+492,396067,Nicolás Acevedo,1221,Bahia,54,SecondHalf,Pass,Successful,47.2,42.4,39.9,22.7
+493,518031,Román Gómez,1221,Bahia,54,SecondHalf,Pass,Successful,40.6,25.7,38.3,33.6
+494,436527,Marcos Victor,1221,Bahia,54,SecondHalf,Pass,Successful,38.3,33.6,43.8,33.3
+495,396067,Nicolás Acevedo,1221,Bahia,54,SecondHalf,Pass,Successful,43.8,33.3,39.3,21.5
+496,518031,Román Gómez,1221,Bahia,54,SecondHalf,Pass,Unsuccessful,39.3,21.5,62.5,17.1
+532,284115,Lyanco,1235,Atletico MG,54,SecondHalf,Interception,Successful,37.5,82.9,,
+535,326646,Renan Lodi,1235,Atletico MG,54,SecondHalf,BallTouch,Unsuccessful,44.6,90.6,,
+497,356785,Ademir,1221,Bahia,54,SecondHalf,TakeOn,Successful,47.4,8.8,,
+533,101642,Bernard,1235,Atletico MG,54,SecondHalf,Challenge,Unsuccessful,52.6,91.2,,
+498,356785,Ademir,1221,Bahia,54,SecondHalf,Pass,Successful,44.4,10.4,36.5,26.7
+499,436527,Marcos Victor,1221,Bahia,54,SecondHalf,Pass,Successful,45.7,35.3,45,66.7
+500,279581,David Duarte,1221,Bahia,54,SecondHalf,Pass,Successful,59,70,63.6,58
+501,389163,Rodrigo Nestor,1221,Bahia,54,SecondHalf,Pass,Successful,63.9,67.7,70,85.8
+502,279581,David Duarte,1221,Bahia,54,SecondHalf,Pass,Successful,70,85.8,65.8,80.9
+503,389163,Rodrigo Nestor,1221,Bahia,54,SecondHalf,Pass,Successful,65.8,80.9,63.5,58
+504,396067,Nicolás Acevedo,1221,Bahia,55,SecondHalf,Pass,Successful,62.9,51.8,60.3,27.7
+505,518031,Román Gómez,1221,Bahia,55,SecondHalf,Pass,Successful,61.8,26.5,71.2,23.9
+506,373515,Erick,1221,Bahia,55,SecondHalf,Pass,Successful,71.2,23.9,67.9,11.5
+507,356785,Ademir,1221,Bahia,55,SecondHalf,Pass,Successful,67.9,11.5,89,29.5
+508,396067,Nicolás Acevedo,1221,Bahia,55,SecondHalf,MissedShots,Successful,89,29.5,,
+537,355663,Everson,1235,Atletico MG,55,SecondHalf,Pass,Unsuccessful,4.1,51.8,68.3,48.7
+510,279581,David Duarte,1221,Bahia,55,SecondHalf,Aerial,Successful,31.7,51.3,,
+538,438188,Victor Hugo,1235,Atletico MG,55,SecondHalf,Aerial,Unsuccessful,68.3,48.7,,
+511,279581,David Duarte,1221,Bahia,55,SecondHalf,Pass,Unsuccessful,31.7,51.3,68.1,34.4
+539,349496,Ruan Tressoldi,1235,Atletico MG,55,SecondHalf,BallTouch,Unsuccessful,35.4,59.1,,
+540,349496,Ruan Tressoldi,1235,Atletico MG,55,SecondHalf,Error,Successful,38.6,64.3,,
+512,356785,Ademir,1221,Bahia,55,SecondHalf,Pass,Successful,68.1,34.4,61.8,45.3
+513,77636,Willian José,1221,Bahia,55,SecondHalf,BallRecovery,Successful,64.1,45.9,,
+514,77636,Willian José,1221,Bahia,55,SecondHalf,Pass,Successful,64.1,45.9,74.5,68.2
+515,389163,Rodrigo Nestor,1221,Bahia,55,SecondHalf,Pass,Successful,81.7,72.7,93.1,35.3
+516,356785,Ademir,1221,Bahia,56,SecondHalf,Goal,Successful,93.1,37.2,,
+541,322162,Mateo Cassierra,1235,Atletico MG,57,SecondHalf,Pass,Successful,49.8,49.6,42,44.2
+542,478494,Tomás Pérez,1235,Atletico MG,57,SecondHalf,Pass,Successful,41.8,44.2,44,56.3
+543,317789,Maycon,1235,Atletico MG,57,SecondHalf,Pass,Successful,43.4,51.2,38.5,20.1
+544,397498,Natanael,1235,Atletico MG,57,SecondHalf,Pass,Successful,38.5,20.1,57.1,7.1
+545,336102,Tomás Cuello,1235,Atletico MG,57,SecondHalf,Pass,Successful,58,8.6,28.7,43.1
+546,349496,Ruan Tressoldi,1235,Atletico MG,57,SecondHalf,Pass,Successful,28.7,43.6,7.6,31.9
+547,355663,Everson,1235,Atletico MG,57,SecondHalf,Pass,Successful,5.9,33.1,22.2,78.5
+548,284115,Lyanco,1235,Atletico MG,57,SecondHalf,Pass,Successful,24.4,79,31.6,94.8
+549,326646,Renan Lodi,1235,Atletico MG,57,SecondHalf,Pass,Unsuccessful,26.7,92.9,35.8,95.9
+517,518031,Román Gómez,1221,Bahia,57,SecondHalf,Interception,Successful,64.2,4.1,,
+551,326646,Renan Lodi,1235,Atletico MG,57,SecondHalf,Pass,Unsuccessful,33.7,100,60.4,100
+520,518031,Román Gómez,1221,Bahia,57,SecondHalf,Pass,Successful,42.6,0,36.1,9.2
+521,436527,Marcos Victor,1221,Bahia,57,SecondHalf,Pass,Successful,36.1,9.2,40.3,15.9
+522,396067,Nicolás Acevedo,1221,Bahia,57,SecondHalf,Pass,Successful,40.7,26.3,33.2,59.2
+523,279581,David Duarte,1221,Bahia,58,SecondHalf,Pass,Successful,33.3,59.2,30.2,33.2
+527,436527,Marcos Victor,1221,Bahia,60,SecondHalf,Pass,Successful,42,55.9,48.4,75.5
+528,279581,David Duarte,1221,Bahia,60,SecondHalf,Pass,Successful,61.6,79,72.7,88.1
+529,389163,Rodrigo Nestor,1221,Bahia,60,SecondHalf,Pass,Successful,72.7,88.1,68.4,68.6
+530,396067,Nicolás Acevedo,1221,Bahia,60,SecondHalf,Pass,Successful,67.7,70.3,45,77.1
+531,279581,David Duarte,1221,Bahia,60,SecondHalf,Pass,Successful,52,75.2,87.7,91.8
+532,476466,Zé Guilherme,1221,Bahia,60,SecondHalf,BallTouch,Successful,87.7,91.8,,
+533,389163,Rodrigo Nestor,1221,Bahia,60,SecondHalf,BallTouch,Unsuccessful,87.6,91.8,,
+557,397498,Natanael,1235,Atletico MG,60,SecondHalf,Foul,Successful,13.3,11.1,,
+534,389163,Rodrigo Nestor,1221,Bahia,60,SecondHalf,Foul,Unsuccessful,86.6,89,,
+558,355663,Everson,1235,Atletico MG,61,SecondHalf,Pass,Unsuccessful,11.4,10,68.9,11.1
+535,476466,Zé Guilherme,1221,Bahia,61,SecondHalf,Pass,Unsuccessful,28,88.7,40,86.2
+559,397498,Natanael,1235,Atletico MG,61,SecondHalf,Pass,Unsuccessful,61.8,9.7,74,37.3
+536,436527,Marcos Victor,1221,Bahia,61,SecondHalf,Clearance,Successful,25.3,55.5,33.4,61.8
+537,279581,David Duarte,1221,Bahia,61,SecondHalf,Pass,Unsuccessful,33.4,61.8,38.9,58.9
+560,317789,Maycon,1235,Atletico MG,61,SecondHalf,Pass,Successful,67,37,65.6,68.8
+561,326646,Renan Lodi,1235,Atletico MG,61,SecondHalf,SavedShot,Successful,67.5,67.9,,
+538,436527,Marcos Victor,1221,Bahia,61,SecondHalf,Save,Successful,18.2,40.8,,
+562,326646,Renan Lodi,1235,Atletico MG,61,SecondHalf,CornerAwarded,Successful,76.8,59.4,,
+539,436527,Marcos Victor,1221,Bahia,61,SecondHalf,CornerAwarded,Unsuccessful,23.2,40.6,,
+563,317789,Maycon,1235,Atletico MG,61,SecondHalf,Pass,Unsuccessful,99.5,0.5,91,54.3
+540,518031,Román Gómez,1221,Bahia,61,SecondHalf,Aerial,Successful,9,45.7,,
+564,284115,Lyanco,1235,Atletico MG,61,SecondHalf,Aerial,Unsuccessful,91,54.3,,
+541,518031,Román Gómez,1221,Bahia,61,SecondHalf,Clearance,Successful,9,45.7,26.8,47
+542,356785,Ademir,1221,Bahia,61,SecondHalf,Aerial,Successful,26.8,47,,
+565,326646,Renan Lodi,1235,Atletico MG,61,SecondHalf,Aerial,Unsuccessful,73.2,53,,
+543,356785,Ademir,1221,Bahia,61,SecondHalf,Clearance,Successful,26.8,47,45,34.2
+566,101642,Bernard,1235,Atletico MG,61,SecondHalf,Pass,Successful,56.3,65.7,31.2,54.5
+567,355663,Everson,1235,Atletico MG,61,SecondHalf,Pass,Successful,30.2,59.4,41.1,90.8
+568,101642,Bernard,1235,Atletico MG,62,SecondHalf,Pass,Successful,39,87.7,26.1,66.7
+569,355663,Everson,1235,Atletico MG,62,SecondHalf,Pass,Successful,30.5,62,85.6,81.2
+570,326646,Renan Lodi,1235,Atletico MG,62,SecondHalf,Dispossessed,Successful,86.6,84,,
+587,436527,Marcos Victor,1221,Bahia,62,SecondHalf,Tackle,Successful,13.4,15.9,,
+544,436527,Marcos Victor,1221,Bahia,62,SecondHalf,BallRecovery,Successful,26.5,14.1,,
+545,436527,Marcos Victor,1221,Bahia,62,SecondHalf,Pass,Successful,26.5,14.1,26.9,30.4
+546,518031,Román Gómez,1221,Bahia,62,SecondHalf,Pass,Unsuccessful,26.9,30.4,56.5,15.6
+571,284115,Lyanco,1235,Atletico MG,62,SecondHalf,Pass,Successful,33.7,94.5,12.2,73.2
+572,355663,Everson,1235,Atletico MG,62,SecondHalf,BallRecovery,Successful,12.2,73.2,,
+573,355663,Everson,1235,Atletico MG,62,SecondHalf,Pass,Unsuccessful,12.2,73.2,35,100
+548,518031,Román Gómez,1221,Bahia,62,SecondHalf,Pass,Successful,62.9,0,62.4,9.8
+549,396067,Nicolás Acevedo,1221,Bahia,62,SecondHalf,Pass,Successful,63,30.6,60.7,71.1
+550,279581,David Duarte,1221,Bahia,62,SecondHalf,Pass,Successful,62,70.5,69.7,59.4
+551,396067,Nicolás Acevedo,1221,Bahia,63,SecondHalf,Pass,Successful,68.6,63.9,72.7,82.9
+552,389163,Rodrigo Nestor,1221,Bahia,63,SecondHalf,Pass,Unsuccessful,76.1,84.9,90.6,36.7
+575,284115,Lyanco,1235,Atletico MG,63,SecondHalf,Clearance,Successful,8.2,57,24.6,54.8
+553,373515,Erick,1221,Bahia,63,SecondHalf,Aerial,Successful,75.4,45.2,,
+576,478494,Tomás Pérez,1235,Atletico MG,63,SecondHalf,Aerial,Unsuccessful,24.6,54.8,,
+554,373515,Erick,1221,Bahia,63,SecondHalf,Pass,Unsuccessful,75.4,45.2,83.6,65.8
+577,317789,Maycon,1235,Atletico MG,63,SecondHalf,Dispossessed,Successful,20.1,42.6,,
+556,396067,Nicolás Acevedo,1221,Bahia,63,SecondHalf,Tackle,Successful,79.9,57.4,,
+557,549062,Erick Pulga,1221,Bahia,63,SecondHalf,Pass,Successful,86.3,62,84,61.2
+555,396067,Nicolás Acevedo,1221,Bahia,63,SecondHalf,SavedShot,Successful,84,61.2,,
+578,397498,Natanael,1235,Atletico MG,63,SecondHalf,Save,Successful,12.8,40.8,,
+558,476466,Zé Guilherme,1221,Bahia,63,SecondHalf,Pass,Successful,73.5,97.8,76.7,84.9
+559,389163,Rodrigo Nestor,1221,Bahia,63,SecondHalf,Pass,Successful,76.7,84.9,68.9,78.7
+560,279581,David Duarte,1221,Bahia,63,SecondHalf,Pass,Successful,68.7,77.9,57,53
+561,436527,Marcos Victor,1221,Bahia,63,SecondHalf,Pass,Successful,57,53,64.5,87.6
+562,389163,Rodrigo Nestor,1221,Bahia,63,SecondHalf,Pass,Successful,64.9,88.1,73.4,70.9
+563,549062,Erick Pulga,1221,Bahia,63,SecondHalf,Pass,Successful,73.1,75.8,77.6,95.6
+564,476466,Zé Guilherme,1221,Bahia,63,SecondHalf,Pass,Successful,77.6,95.6,91.1,87.1
+565,549062,Erick Pulga,1221,Bahia,63,SecondHalf,Pass,Successful,92.3,89.9,88.4,74.7
+566,476466,Zé Guilherme,1221,Bahia,63,SecondHalf,BallTouch,Unsuccessful,88.5,74.7,,
+579,478494,Tomás Pérez,1235,Atletico MG,63,SecondHalf,BallRecovery,Successful,8.1,24,,
+580,478494,Tomás Pérez,1235,Atletico MG,63,SecondHalf,Pass,Unsuccessful,8.1,24,44.2,8.8
+567,279581,David Duarte,1221,Bahia,63,SecondHalf,Pass,Successful,63.9,88.1,71.8,72.1
+568,389163,Rodrigo Nestor,1221,Bahia,63,SecondHalf,BallRecovery,Successful,71.8,72.1,,
+569,389163,Rodrigo Nestor,1221,Bahia,63,SecondHalf,Pass,Successful,71.8,72.1,87.2,87.9
+570,476466,Zé Guilherme,1221,Bahia,63,SecondHalf,Pass,Successful,83.5,84.1,77.1,72.1
+571,77636,Willian José,1221,Bahia,63,SecondHalf,Pass,Successful,77.1,72.1,71.6,59.4
+572,436527,Marcos Victor,1221,Bahia,63,SecondHalf,Pass,Successful,71.6,59.4,77.2,70
+573,279581,David Duarte,1221,Bahia,63,SecondHalf,Pass,Successful,77.2,70,78.4,89.4
+574,389163,Rodrigo Nestor,1221,Bahia,64,SecondHalf,Pass,Successful,78.4,89.3,68.4,80.6
+575,279581,David Duarte,1221,Bahia,64,SecondHalf,Pass,Successful,68.4,80.6,59.8,62.9
+576,436527,Marcos Victor,1221,Bahia,64,SecondHalf,Pass,Successful,59.8,62.9,46.8,24.1
+577,518031,Román Gómez,1221,Bahia,64,SecondHalf,Pass,Successful,46.8,24.1,61.3,17.4
+578,356785,Ademir,1221,Bahia,64,SecondHalf,Pass,Successful,61.3,17.4,43.6,15.1
+579,518031,Román Gómez,1221,Bahia,64,SecondHalf,Pass,Successful,43.7,15.1,40.8,35.9
+580,436527,Marcos Victor,1221,Bahia,64,SecondHalf,Pass,Successful,43.8,61.5,52.9,90.8
+581,279581,David Duarte,1221,Bahia,64,SecondHalf,Pass,Unsuccessful,60.7,91.7,68,89.7
+581,336102,Tomás Cuello,1235,Atletico MG,64,SecondHalf,BlockedPass,Successful,32,10.3,,
+582,279581,David Duarte,1221,Bahia,64,SecondHalf,Pass,Successful,66.1,94.4,64.5,81.8
+583,396067,Nicolás Acevedo,1221,Bahia,64,SecondHalf,Pass,Successful,64.1,73.7,71.8,60.3
+584,77636,Willian José,1221,Bahia,64,SecondHalf,Pass,Unsuccessful,71.8,60.6,76,63.6
+582,317789,Maycon,1235,Atletico MG,64,SecondHalf,BlockedPass,Successful,24,36.4,,
+583,397498,Natanael,1235,Atletico MG,64,SecondHalf,BallRecovery,Successful,26.8,35.4,,
+584,397498,Natanael,1235,Atletico MG,64,SecondHalf,Pass,Successful,26.8,35.4,36.1,39.1
+585,322162,Mateo Cassierra,1235,Atletico MG,64,SecondHalf,Pass,Successful,36.2,34.5,58.5,14.4
+586,336102,Tomás Cuello,1235,Atletico MG,64,SecondHalf,Pass,Unsuccessful,63.3,10,100,21.8
+585,436527,Marcos Victor,1221,Bahia,64,SecondHalf,ShieldBallOpp,Successful,6.6,77,,
+588,438188,Victor Hugo,1235,Atletico MG,66,SecondHalf,SubstitutionOff,Successful,0,0,,
+589,75752,Dudu,1235,Atletico MG,66,SecondHalf,SubstitutionOn,Successful,0,0,,
+590,317789,Maycon,1235,Atletico MG,66,SecondHalf,SubstitutionOff,Successful,0,0,,
+591,605866,Mamady Cissé,1235,Atletico MG,66,SecondHalf,SubstitutionOn,Successful,0,0,,
+638,,,1235,Atletico MG,66,SecondHalf,FormationChange,Successful,0,0,,
+588,330555,Ronaldo,1221,Bahia,66,SecondHalf,Pass,Successful,4.7,56.4,25.3,69.3
+589,279581,David Duarte,1221,Bahia,66,SecondHalf,Pass,Successful,25.3,69.3,29.1,36.5
+590,436527,Marcos Victor,1221,Bahia,66,SecondHalf,Pass,Successful,29.1,36.5,27.4,61.4
+591,279581,David Duarte,1221,Bahia,66,SecondHalf,Pass,Successful,27.4,61.4,9.5,47.6
+592,330555,Ronaldo,1221,Bahia,66,SecondHalf,Pass,Successful,11.8,48,18.8,22.4
+593,436527,Marcos Victor,1221,Bahia,66,SecondHalf,Pass,Successful,18.8,22.4,24.7,77.4
+594,279581,David Duarte,1221,Bahia,66,SecondHalf,Pass,Successful,24.7,77.4,36.4,90.3
+595,476466,Zé Guilherme,1221,Bahia,66,SecondHalf,BallTouch,Unsuccessful,36.4,90.3,,
+592,101642,Bernard,1235,Atletico MG,66,SecondHalf,Pass,Successful,66.4,23.1,89.8,6.7
+593,397498,Natanael,1235,Atletico MG,66,SecondHalf,BallRecovery,Successful,90.2,6.8,,
+594,397498,Natanael,1235,Atletico MG,66,SecondHalf,Pass,Successful,90.7,9.4,77.9,49.4
+595,75752,Dudu,1235,Atletico MG,66,SecondHalf,Dispossessed,Successful,77.4,52.8,,
+596,373515,Erick,1221,Bahia,66,SecondHalf,Tackle,Unsuccessful,22.6,47.3,,
+632,75752,Dudu,1235,Atletico MG,66,SecondHalf,BallTouch,Successful,75.2,47,,
+596,322162,Mateo Cassierra,1235,Atletico MG,66,SecondHalf,Pass,Successful,73.5,61.2,87.1,86.3
+597,326646,Renan Lodi,1235,Atletico MG,66,SecondHalf,Pass,Successful,85.7,85.9,74,75.3
+598,478494,Tomás Pérez,1235,Atletico MG,67,SecondHalf,Pass,Unsuccessful,72.4,91.2,72.3,93.2
+598,356785,Ademir,1221,Bahia,67,SecondHalf,BlockedPass,Successful,27.7,6.8,,
+600,326646,Renan Lodi,1235,Atletico MG,67,SecondHalf,Pass,Successful,75.7,100,52.1,85.4
+601,284115,Lyanco,1235,Atletico MG,67,SecondHalf,Pass,Successful,45.7,82.1,47.3,41.9
+602,349496,Ruan Tressoldi,1235,Atletico MG,67,SecondHalf,Pass,Successful,60.8,31.6,73.1,9.5
+604,336102,Tomás Cuello,1235,Atletico MG,67,SecondHalf,Foul,Successful,66.5,13.5,,
+600,476466,Zé Guilherme,1221,Bahia,67,SecondHalf,Foul,Unsuccessful,33.5,86.5,,
+605,101642,Bernard,1235,Atletico MG,67,SecondHalf,Pass,Successful,69.2,8,62.6,20.9
+606,397498,Natanael,1235,Atletico MG,67,SecondHalf,Pass,Successful,61.8,24,52.7,63.7
+607,284115,Lyanco,1235,Atletico MG,67,SecondHalf,Pass,Successful,52.7,63.6,54.5,79.1
+608,326646,Renan Lodi,1235,Atletico MG,67,SecondHalf,Pass,Successful,54.5,79.1,61.8,94.4
+609,75752,Dudu,1235,Atletico MG,67,SecondHalf,Pass,Successful,61.7,93.9,45.7,88.3
+610,326646,Renan Lodi,1235,Atletico MG,67,SecondHalf,Pass,Successful,44.6,87.5,40.5,67
+611,284115,Lyanco,1235,Atletico MG,67,SecondHalf,Pass,Successful,37.1,61.8,42.5,21.2
+612,397498,Natanael,1235,Atletico MG,67,SecondHalf,Pass,Unsuccessful,43.3,18.6,63.7,12.2
+601,476466,Zé Guilherme,1221,Bahia,67,SecondHalf,Interception,Successful,36.3,87.8,,
+613,397498,Natanael,1235,Atletico MG,67,SecondHalf,Pass,Successful,37.1,11.7,41.7,25
+614,605866,Mamady Cissé,1235,Atletico MG,67,SecondHalf,Pass,Successful,37.3,28.2,32.5,54
+615,284115,Lyanco,1235,Atletico MG,68,SecondHalf,Pass,Successful,42,52.7,58.6,88.7
+616,326646,Renan Lodi,1235,Atletico MG,68,SecondHalf,Pass,Successful,65.1,86.6,67.4,81.1
+617,75752,Dudu,1235,Atletico MG,68,SecondHalf,Pass,Successful,64.2,92,46.6,78.7
+618,478494,Tomás Pérez,1235,Atletico MG,68,SecondHalf,Pass,Successful,44.7,74.7,52.5,48.8
+619,349496,Ruan Tressoldi,1235,Atletico MG,68,SecondHalf,Pass,Successful,53,46.6,59.6,17.4
+620,397498,Natanael,1235,Atletico MG,68,SecondHalf,Pass,Successful,62.8,17.6,74.4,7.1
+621,336102,Tomás Cuello,1235,Atletico MG,68,SecondHalf,Pass,Unsuccessful,74.4,7.4,74.5,10.7
+602,389163,Rodrigo Nestor,1221,Bahia,68,SecondHalf,BlockedPass,Successful,25.5,89.3,,
+623,397498,Natanael,1235,Atletico MG,68,SecondHalf,Pass,Successful,80.1,0,77.7,7.4
+604,389163,Rodrigo Nestor,1221,Bahia,68,SecondHalf,Challenge,Unsuccessful,20.2,91,,
+624,101642,Bernard,1235,Atletico MG,68,SecondHalf,TakeOn,Successful,79.8,9,,
+625,101642,Bernard,1235,Atletico MG,68,SecondHalf,BallTouch,Unsuccessful,86.1,8.8,,
+606,389163,Rodrigo Nestor,1221,Bahia,68,SecondHalf,BallRecovery,Successful,22.4,90.2,,
+607,389163,Rodrigo Nestor,1221,Bahia,68,SecondHalf,Pass,Successful,22.4,90.2,16.6,77.3
+608,396067,Nicolás Acevedo,1221,Bahia,68,SecondHalf,Pass,Unsuccessful,16.7,77.3,35.7,100
+627,397498,Natanael,1235,Atletico MG,68,SecondHalf,Pass,Successful,63.3,0,71.6,19.1
+628,336102,Tomás Cuello,1235,Atletico MG,68,SecondHalf,Pass,Successful,71.7,19.1,69,8
+629,397498,Natanael,1235,Atletico MG,69,SecondHalf,Pass,Successful,69,8,74.9,9.4
+630,101642,Bernard,1235,Atletico MG,69,SecondHalf,Pass,Successful,74.8,9.4,69.1,12.3
+631,397498,Natanael,1235,Atletico MG,69,SecondHalf,Pass,Unsuccessful,75.4,16.1,78.3,70.9
+610,518031,Román Gómez,1221,Bahia,69,SecondHalf,Clearance,Successful,14.7,35.6,27,11
+611,356785,Ademir,1221,Bahia,69,SecondHalf,BallRecovery,Successful,27.4,11.5,,
+612,356785,Ademir,1221,Bahia,69,SecondHalf,Pass,Successful,40.4,11.9,25.4,22.7
+613,436527,Marcos Victor,1221,Bahia,69,SecondHalf,Pass,Successful,25.4,22.7,29.7,31.5
+614,373515,Erick,1221,Bahia,69,SecondHalf,Pass,Successful,30.8,32.3,30.9,47
+615,396067,Nicolás Acevedo,1221,Bahia,69,SecondHalf,Pass,Successful,33.4,47.3,28.2,40.4
+616,436527,Marcos Victor,1221,Bahia,69,SecondHalf,Pass,Successful,31.2,44.5,37.6,73.7
+617,279581,David Duarte,1221,Bahia,69,SecondHalf,Pass,Unsuccessful,63.5,92.1,63.3,63.2
+633,75752,Dudu,1235,Atletico MG,69,SecondHalf,Pass,Successful,44.7,26.1,67.6,14.9
+634,101642,Bernard,1235,Atletico MG,69,SecondHalf,BallRecovery,Successful,73.5,18.8,,
+618,279581,David Duarte,1221,Bahia,69,SecondHalf,Challenge,Unsuccessful,18,72.3,,
+635,101642,Bernard,1235,Atletico MG,69,SecondHalf,TakeOn,Successful,82,27.7,,
+636,101642,Bernard,1235,Atletico MG,69,SecondHalf,MissedShots,Successful,87.6,37.6,,
+620,330555,Ronaldo,1221,Bahia,70,SecondHalf,Pass,Successful,2.7,51.1,9.8,30.4
+621,436527,Marcos Victor,1221,Bahia,70,SecondHalf,Pass,Successful,11.6,28.5,27.7,10.9
+622,518031,Román Gómez,1221,Bahia,70,SecondHalf,Pass,Successful,28.5,11.9,28.4,31.4
+623,396067,Nicolás Acevedo,1221,Bahia,70,SecondHalf,Pass,Successful,28.5,31.4,28.3,11.6
+624,518031,Román Gómez,1221,Bahia,70,SecondHalf,Pass,Successful,28.3,11.6,11.8,39.4
+625,330555,Ronaldo,1221,Bahia,70,SecondHalf,Pass,Successful,11.8,39.4,23.7,74.9
+626,279581,David Duarte,1221,Bahia,70,SecondHalf,Pass,Unsuccessful,32.6,72,85.1,39.8
+640,355663,Everson,1235,Atletico MG,70,SecondHalf,KeeperPickup,Successful,12.4,62.7,,
+642,355663,Everson,1235,Atletico MG,70,SecondHalf,Pass,Unsuccessful,12.8,59.7,76.8,73
+627,518031,Román Gómez,1221,Bahia,71,SecondHalf,BallRecovery,Successful,34.1,17.7,,
+628,518031,Román Gómez,1221,Bahia,71,SecondHalf,Pass,Successful,34.1,17.7,11.2,34.1
+629,330555,Ronaldo,1221,Bahia,71,SecondHalf,Pass,Successful,11.2,34.8,25.9,27.7
+630,436527,Marcos Victor,1221,Bahia,71,SecondHalf,Pass,Successful,25.9,27.7,31.3,9.7
+631,518031,Román Gómez,1221,Bahia,71,SecondHalf,Pass,Successful,32,10.6,30.7,29.8
+632,396067,Nicolás Acevedo,1221,Bahia,71,SecondHalf,Pass,Successful,46.6,51.4,66.2,91.2
+633,476466,Zé Guilherme,1221,Bahia,71,SecondHalf,Pass,Successful,66.7,91.1,76.8,90.2
+634,549062,Erick Pulga,1221,Bahia,71,SecondHalf,Pass,Successful,76.8,90.2,74.2,73.2
+635,389163,Rodrigo Nestor,1221,Bahia,71,SecondHalf,Pass,Successful,74.2,73.2,74.9,50.8
+636,77636,Willian José,1221,Bahia,71,SecondHalf,Pass,Successful,74.9,50.8,86.9,15.3
+637,356785,Ademir,1221,Bahia,71,SecondHalf,SavedShot,Successful,85.4,22.4,,
+643,326646,Renan Lodi,1235,Atletico MG,71,SecondHalf,Save,Successful,11.6,72.4,,
+644,605866,Mamady Cissé,1235,Atletico MG,71,SecondHalf,BallRecovery,Successful,12.6,39.2,,
+645,605866,Mamady Cissé,1235,Atletico MG,71,SecondHalf,Pass,Successful,12.6,38.6,20.2,13.4
+646,101642,Bernard,1235,Atletico MG,71,SecondHalf,Pass,Unsuccessful,19.1,11.9,20.5,10.1
+638,279581,David Duarte,1221,Bahia,71,SecondHalf,BlockedPass,Successful,79.5,89.9,,
+640,356785,Ademir,1221,Bahia,72,SecondHalf,SubstitutionOff,Successful,0,0,,
+641,101467,Éverton Ribeiro,1221,Bahia,72,SecondHalf,SubstitutionOn,Successful,0,0,,
+642,77636,Willian José,1221,Bahia,72,SecondHalf,SubstitutionOff,Successful,0,0,,
+643,534217,Ruan Pablo,1221,Bahia,72,SecondHalf,SubstitutionOn,Successful,0,0,,
+653,,,1221,Bahia,72,SecondHalf,FormationChange,Successful,0,0,,
+648,397498,Natanael,1235,Atletico MG,72,SecondHalf,Pass,Successful,36.6,0,38.8,10.9
+649,336102,Tomás Cuello,1235,Atletico MG,72,SecondHalf,Pass,Successful,38.1,10.9,29.9,10.4
+650,397498,Natanael,1235,Atletico MG,72,SecondHalf,Pass,Successful,30.9,10.4,35.8,18.9
+651,605866,Mamady Cissé,1235,Atletico MG,72,SecondHalf,BallTouch,Unsuccessful,35.6,18.6,,
+652,478494,Tomás Pérez,1235,Atletico MG,72,SecondHalf,Pass,Unsuccessful,37.4,27,75,100
+644,396067,Nicolás Acevedo,1221,Bahia,72,SecondHalf,Pass,Unsuccessful,65.5,70,67.8,62.7
+646,518031,Román Gómez,1221,Bahia,72,SecondHalf,Pass,Successful,41.7,0,45,15
+647,396067,Nicolás Acevedo,1221,Bahia,72,SecondHalf,Pass,Successful,45,15,39.4,5.1
+648,518031,Román Gómez,1221,Bahia,72,SecondHalf,Pass,Successful,39.4,5.1,27.7,14.1
+649,436527,Marcos Victor,1221,Bahia,72,SecondHalf,Pass,Successful,24.9,16.2,11.2,42.6
+650,330555,Ronaldo,1221,Bahia,73,SecondHalf,Pass,Successful,11.2,42.6,17.4,74.7
+651,279581,David Duarte,1221,Bahia,73,SecondHalf,Pass,Unsuccessful,33.2,77.1,45.5,75.5
+654,397498,Natanael,1235,Atletico MG,73,SecondHalf,BallRecovery,Successful,47.2,18.2,,
+655,397498,Natanael,1235,Atletico MG,73,SecondHalf,Pass,Successful,46.1,20.4,55.5,35.1
+656,478494,Tomás Pérez,1235,Atletico MG,73,SecondHalf,Pass,Successful,55.5,35.1,62.8,25.9
+657,605866,Mamady Cissé,1235,Atletico MG,73,SecondHalf,Pass,Successful,62.4,26.2,64.9,37.1
+658,75752,Dudu,1235,Atletico MG,73,SecondHalf,Pass,Successful,64.9,37.1,62,23.9
+659,605866,Mamady Cissé,1235,Atletico MG,73,SecondHalf,Pass,Successful,61.2,23.6,66.3,7.7
+660,397498,Natanael,1235,Atletico MG,73,SecondHalf,Pass,Successful,66.5,8.8,72.3,5.2
+661,336102,Tomás Cuello,1235,Atletico MG,73,SecondHalf,Pass,Successful,70.9,5.8,65,8.9
+662,75752,Dudu,1235,Atletico MG,73,SecondHalf,Pass,Successful,68.8,13.5,75.4,20.6
+663,397498,Natanael,1235,Atletico MG,73,SecondHalf,Pass,Successful,75.5,20.6,87.5,8.9
+664,336102,Tomás Cuello,1235,Atletico MG,73,SecondHalf,Pass,Unsuccessful,87.5,8.9,87.2,100
+655,518031,Román Gómez,1221,Bahia,73,SecondHalf,Pass,Successful,18.7,0,13.2,7.6
+656,436527,Marcos Victor,1221,Bahia,74,SecondHalf,Pass,Unsuccessful,10.3,20.1,30.5,65.2
+661,436527,Marcos Victor,1221,Bahia,74,SecondHalf,Error,Successful,16.7,37.1,,
+666,397498,Natanael,1235,Atletico MG,74,SecondHalf,Interception,Successful,69.5,34.8,,
+667,397498,Natanael,1235,Atletico MG,74,SecondHalf,BallRecovery,Successful,88.1,27,,
+668,397498,Natanael,1235,Atletico MG,74,SecondHalf,Pass,Unsuccessful,87.6,29.5,88.5,48.1
+657,279581,David Duarte,1221,Bahia,74,SecondHalf,BallTouch,Successful,12.7,63.9,,
+658,476466,Zé Guilherme,1221,Bahia,74,SecondHalf,TakeOn,Unsuccessful,14.8,87.9,,
+669,336102,Tomás Cuello,1235,Atletico MG,74,SecondHalf,Tackle,Successful,85.2,12.1,,
+670,336102,Tomás Cuello,1235,Atletico MG,74,SecondHalf,TakeOn,Unsuccessful,94.2,7.2,,
+659,476466,Zé Guilherme,1221,Bahia,74,SecondHalf,Tackle,Successful,5.8,92.7,,
+671,336102,Tomás Cuello,1235,Atletico MG,74,SecondHalf,CornerAwarded,Successful,94,6.9,,
+660,476466,Zé Guilherme,1221,Bahia,74,SecondHalf,CornerAwarded,Unsuccessful,5.9,93,,
+672,101642,Bernard,1235,Atletico MG,74,SecondHalf,Pass,Successful,99.5,0.5,91.7,51.2
+673,322162,Mateo Cassierra,1235,Atletico MG,75,SecondHalf,Aerial,Successful,91.7,51.2,,
+662,279581,David Duarte,1221,Bahia,75,SecondHalf,Aerial,Unsuccessful,8.3,48.8,,
+674,322162,Mateo Cassierra,1235,Atletico MG,75,SecondHalf,MissedShots,Successful,91.7,51.2,,
+664,330555,Ronaldo,1221,Bahia,75,SecondHalf,Pass,Successful,5,37,63.8,45.3
+665,534217,Ruan Pablo,1221,Bahia,75,SecondHalf,BallTouch,Unsuccessful,63.8,45.3,,
+676,397498,Natanael,1235,Atletico MG,75,SecondHalf,BallRecovery,Successful,21.7,27.4,,
+677,397498,Natanael,1235,Atletico MG,75,SecondHalf,Pass,Successful,22.5,25.8,36.9,10.3
+678,605866,Mamady Cissé,1235,Atletico MG,75,SecondHalf,Pass,Unsuccessful,44,7.3,72.2,4.6
+666,476466,Zé Guilherme,1221,Bahia,75,SecondHalf,Clearance,Successful,37.7,91.4,42.2,100
+680,397498,Natanael,1235,Atletico MG,75,SecondHalf,Pass,Successful,67.7,0,53.8,13.5
+682,605866,Mamady Cissé,1235,Atletico MG,75,SecondHalf,Pass,Successful,62.8,11.4,69.5,21.8
+683,101642,Bernard,1235,Atletico MG,75,SecondHalf,Pass,Unsuccessful,69.5,21.8,54.9,53.6
+669,549062,Erick Pulga,1221,Bahia,75,SecondHalf,BallRecovery,Successful,47.3,42.6,,
+670,549062,Erick Pulga,1221,Bahia,75,SecondHalf,Pass,Successful,59.2,45.5,77.7,94.6
+684,101642,Bernard,1235,Atletico MG,75,SecondHalf,Challenge,Unsuccessful,27,11.4,,
+671,534217,Ruan Pablo,1221,Bahia,75,SecondHalf,TakeOn,Successful,73,88.6,,
+672,534217,Ruan Pablo,1221,Bahia,75,SecondHalf,Pass,Successful,74.1,78.7,74,35.9
+673,518031,Román Gómez,1221,Bahia,75,SecondHalf,MissedShots,Successful,74,35.9,,
+686,355663,Everson,1235,Atletico MG,76,SecondHalf,Pass,Unsuccessful,4.9,52.7,64.3,82.4
+675,373515,Erick,1221,Bahia,76,SecondHalf,Pass,Successful,37,17,57,25.7
+676,549062,Erick Pulga,1221,Bahia,76,SecondHalf,Dispossessed,Successful,55.7,25,,
+687,284115,Lyanco,1235,Atletico MG,76,SecondHalf,Tackle,Successful,44.3,75,,
+688,75752,Dudu,1235,Atletico MG,76,SecondHalf,Pass,Successful,60,63.3,58.9,38.9
+689,605866,Mamady Cissé,1235,Atletico MG,76,SecondHalf,Pass,Successful,58.1,41,63.3,27.6
+690,397498,Natanael,1235,Atletico MG,76,SecondHalf,Pass,Successful,63.3,27.6,78.9,9.7
+691,336102,Tomás Cuello,1235,Atletico MG,76,SecondHalf,Foul,Successful,75.8,9,,
+677,476466,Zé Guilherme,1221,Bahia,76,SecondHalf,Foul,Unsuccessful,24.2,91,,
+678,476466,Zé Guilherme,1221,Bahia,76,SecondHalf,Card,Successful,0,0,,
+692,101642,Bernard,1235,Atletico MG,77,SecondHalf,Pass,Unsuccessful,82.8,5.9,92.8,34.8
+679,476466,Zé Guilherme,1221,Bahia,77,SecondHalf,Clearance,Successful,11.6,64.1,0,67.6
+693,101642,Bernard,1235,Atletico MG,77,SecondHalf,CornerAwarded,Successful,98.1,33.3,,
+680,476466,Zé Guilherme,1221,Bahia,77,SecondHalf,CornerAwarded,Unsuccessful,2,66.7,,
+694,101642,Bernard,1235,Atletico MG,78,SecondHalf,Pass,Unsuccessful,99.5,0.5,91.7,36.4
+681,476466,Zé Guilherme,1221,Bahia,78,SecondHalf,Clearance,Successful,10.8,62.4,15.1,100
+696,397498,Natanael,1235,Atletico MG,78,SecondHalf,Pass,Successful,84.8,0,88.5,8.6
+697,336102,Tomás Cuello,1235,Atletico MG,78,SecondHalf,Dispossessed,Successful,83.8,9.2,,
+695,476466,Zé Guilherme,1221,Bahia,78,SecondHalf,Tackle,Successful,16.2,90.8,,
+683,476466,Zé Guilherme,1221,Bahia,78,SecondHalf,Pass,Unsuccessful,21.5,91.7,34,87.4
+698,75752,Dudu,1235,Atletico MG,78,SecondHalf,Pass,Successful,61.6,9.7,25.5,27.3
+699,355663,Everson,1235,Atletico MG,78,SecondHalf,Pass,Unsuccessful,26,27.1,88.8,53.6
+684,330555,Ronaldo,1221,Bahia,78,SecondHalf,KeeperPickup,Successful,13.2,45.5,,
+685,330555,Ronaldo,1221,Bahia,78,SecondHalf,Pass,Successful,13.2,45.5,29.6,13.9
+686,518031,Román Gómez,1221,Bahia,78,SecondHalf,Pass,Successful,29.6,13.9,36.9,43
+687,396067,Nicolás Acevedo,1221,Bahia,78,SecondHalf,Pass,Successful,36.8,43,45.5,28.3
+688,373515,Erick,1221,Bahia,78,SecondHalf,Pass,Successful,45.5,28.3,58.8,33.8
+689,101467,Éverton Ribeiro,1221,Bahia,78,SecondHalf,Pass,Successful,58.9,33.8,80,6
+690,549062,Erick Pulga,1221,Bahia,78,SecondHalf,Pass,Unsuccessful,95.8,9.1,89.1,56.7
+700,336102,Tomás Cuello,1235,Atletico MG,78,SecondHalf,Clearance,Successful,12.1,35.4,27,33.4
+691,389163,Rodrigo Nestor,1221,Bahia,78,SecondHalf,Pass,Successful,76,72.3,83.9,81.8
+692,476466,Zé Guilherme,1221,Bahia,78,SecondHalf,TakeOn,Successful,88.6,81,,
+701,336102,Tomás Cuello,1235,Atletico MG,78,SecondHalf,Challenge,Unsuccessful,11.4,19,,
+693,476466,Zé Guilherme,1221,Bahia,78,SecondHalf,Pass,Unsuccessful,88.9,79.9,88.5,57.9
+702,349496,Ruan Tressoldi,1235,Atletico MG,78,SecondHalf,Clearance,Successful,10.1,42.4,0,10.7
+694,476466,Zé Guilherme,1221,Bahia,78,SecondHalf,CornerAwarded,Successful,96.2,76.8,,
+703,349496,Ruan Tressoldi,1235,Atletico MG,78,SecondHalf,CornerAwarded,Unsuccessful,3.7,23.2,,
+696,476466,Zé Guilherme,1221,Bahia,79,SecondHalf,SubstitutionOff,Successful,0,0,,
+697,355705,Iago Borduchi,1221,Bahia,79,SecondHalf,SubstitutionOn,Successful,0,0,,
+698,389163,Rodrigo Nestor,1221,Bahia,79,SecondHalf,Pass,Successful,99.5,99.4,91.8,51.2
+699,373515,Erick,1221,Bahia,79,SecondHalf,Aerial,Successful,91.8,51.2,,
+704,349496,Ruan Tressoldi,1235,Atletico MG,79,SecondHalf,Aerial,Unsuccessful,8.2,48.8,,
+700,373515,Erick,1221,Bahia,79,SecondHalf,BallTouch,Successful,91.8,51.2,,
+701,279581,David Duarte,1221,Bahia,80,SecondHalf,Pass,Successful,87.1,47.9,91.1,41.5
+702,518031,Román Gómez,1221,Bahia,80,SecondHalf,MissedShots,Successful,89.4,42.3,,
+708,355663,Everson,1235,Atletico MG,81,SecondHalf,Pass,Unsuccessful,3.5,48.7,60.5,93.5
+704,373515,Erick,1221,Bahia,81,SecondHalf,Aerial,Successful,39.5,6.5,,
+709,322162,Mateo Cassierra,1235,Atletico MG,81,SecondHalf,Aerial,Unsuccessful,60.5,93.5,,
+705,373515,Erick,1221,Bahia,81,SecondHalf,Pass,Unsuccessful,39.5,6.5,60.1,0
+711,326646,Renan Lodi,1235,Atletico MG,81,SecondHalf,Pass,Successful,56.8,100,72.1,75.9
+712,322162,Mateo Cassierra,1235,Atletico MG,81,SecondHalf,Aerial,Successful,72.1,75.9,,
+707,396067,Nicolás Acevedo,1221,Bahia,81,SecondHalf,Aerial,Unsuccessful,27.9,24.1,,
+713,322162,Mateo Cassierra,1235,Atletico MG,81,SecondHalf,BallTouch,Unsuccessful,70.8,76.9,,
+708,373515,Erick,1221,Bahia,81,SecondHalf,Pass,Unsuccessful,36.1,27,63.3,50
+714,349496,Ruan Tressoldi,1235,Atletico MG,81,SecondHalf,Pass,Successful,44.6,52.8,47.5,29.8
+715,397498,Natanael,1235,Atletico MG,81,SecondHalf,Pass,Successful,55.3,22.2,70.8,9.4
+716,336102,Tomás Cuello,1235,Atletico MG,81,SecondHalf,Pass,Successful,71.3,8.5,87.6,9.7
+717,397498,Natanael,1235,Atletico MG,81,SecondHalf,Pass,Unsuccessful,87.9,9.7,90.6,44.5
+709,436527,Marcos Victor,1221,Bahia,81,SecondHalf,Clearance,Successful,13.4,54.9,14,100
+730,397498,Natanael,1235,Atletico MG,81,SecondHalf,Pass,Successful,83.3,0,75.7,6.7
+718,336102,Tomás Cuello,1235,Atletico MG,81,SecondHalf,Pass,Successful,76.6,9.4,85.5,6.4
+719,397498,Natanael,1235,Atletico MG,81,SecondHalf,Pass,Successful,89.9,7.1,83.5,12.9
+720,605866,Mamady Cissé,1235,Atletico MG,81,SecondHalf,Pass,Successful,83.5,12.9,77.8,33.9
+721,101642,Bernard,1235,Atletico MG,81,SecondHalf,Pass,Successful,77.8,33.9,93.1,34
+722,397498,Natanael,1235,Atletico MG,81,SecondHalf,MissedShots,Successful,93.1,34,,
+712,330555,Ronaldo,1221,Bahia,82,SecondHalf,Pass,Unsuccessful,3.8,44.1,32.2,36.2
+713,396067,Nicolás Acevedo,1221,Bahia,82,SecondHalf,Dispossessed,Successful,27.4,39.2,,
+724,101642,Bernard,1235,Atletico MG,82,SecondHalf,Tackle,Successful,72.6,60.8,,
+714,396067,Nicolás Acevedo,1221,Bahia,82,SecondHalf,Error,Successful,32.2,36.2,,
+725,322162,Mateo Cassierra,1235,Atletico MG,82,SecondHalf,BallRecovery,Successful,80,51.3,,
+726,322162,Mateo Cassierra,1235,Atletico MG,82,SecondHalf,SavedShot,Successful,80,51.3,,
+715,330555,Ronaldo,1221,Bahia,82,SecondHalf,Save,Successful,3.9,48.8,,
+716,330555,Ronaldo,1221,Bahia,82,SecondHalf,KeeperPickup,Successful,3.9,48.8,,
+717,330555,Ronaldo,1221,Bahia,82,SecondHalf,Pass,Successful,10.8,50.3,23.1,25.3
+718,396067,Nicolás Acevedo,1221,Bahia,82,SecondHalf,Pass,Successful,23.1,25.3,42,30
+719,373515,Erick,1221,Bahia,82,SecondHalf,Pass,Successful,42,30,37.6,13.3
+720,518031,Román Gómez,1221,Bahia,82,SecondHalf,Pass,Successful,37.5,13.8,47.4,14.7
+721,101467,Éverton Ribeiro,1221,Bahia,82,SecondHalf,Pass,Successful,47.4,14.7,40.2,26
+722,518031,Román Gómez,1221,Bahia,82,SecondHalf,Pass,Successful,40.2,26,32.4,63.2
+723,279581,David Duarte,1221,Bahia,82,SecondHalf,Pass,Successful,37.8,71.8,58.2,97.1
+724,355705,Iago Borduchi,1221,Bahia,82,SecondHalf,Pass,Unsuccessful,58.2,97.5,60.7,94
+728,336102,Tomás Cuello,1235,Atletico MG,82,SecondHalf,BlockedPass,Successful,39.3,6,,
+746,101642,Bernard,1235,Atletico MG,82,SecondHalf,BallTouch,Successful,54.3,7.4,,
+726,355705,Iago Borduchi,1221,Bahia,82,SecondHalf,Pass,Successful,44.6,100,36.6,87.6
+727,396067,Nicolás Acevedo,1221,Bahia,82,SecondHalf,Pass,Successful,30.4,83.4,13.8,64.7
+728,330555,Ronaldo,1221,Bahia,83,SecondHalf,Pass,Successful,13.8,64.7,36.2,53.5
+729,101467,Éverton Ribeiro,1221,Bahia,83,SecondHalf,Pass,Successful,30.2,49.2,36.2,13.6
+730,518031,Román Gómez,1221,Bahia,83,SecondHalf,Pass,Successful,44.8,16.3,44,27.9
+731,101467,Éverton Ribeiro,1221,Bahia,83,SecondHalf,Pass,Successful,67,24.1,63.4,39.8
+732,389163,Rodrigo Nestor,1221,Bahia,83,SecondHalf,SavedShot,Successful,70.3,53.5,,
+731,355663,Everson,1235,Atletico MG,83,SecondHalf,Save,Successful,4.7,46.1,,
+733,389163,Rodrigo Nestor,1221,Bahia,83,SecondHalf,CornerAwarded,Successful,82.8,53.7,,
+732,355663,Everson,1235,Atletico MG,83,SecondHalf,CornerAwarded,Unsuccessful,17.2,46.3,,
+734,101467,Éverton Ribeiro,1221,Bahia,84,SecondHalf,Pass,Successful,99.5,0.5,95.3,87.7
+735,279581,David Duarte,1221,Bahia,84,SecondHalf,Pass,Successful,95.3,87.7,78.3,85.6
+736,355705,Iago Borduchi,1221,Bahia,84,SecondHalf,SavedShot,Successful,79.1,75.2,,
+733,605866,Mamady Cissé,1235,Atletico MG,84,SecondHalf,Save,Successful,17.2,29.2,,
+737,389163,Rodrigo Nestor,1221,Bahia,84,SecondHalf,MissedShots,Successful,64.5,59.3,,
+735,355663,Everson,1235,Atletico MG,84,SecondHalf,Pass,Successful,2.9,44.9,31.2,15.9
+760,397498,Natanael,1235,Atletico MG,84,SecondHalf,Pass,Successful,29.1,19.8,48,7.4
+736,336102,Tomás Cuello,1235,Atletico MG,84,SecondHalf,Dispossessed,Successful,49,22,,
+739,355705,Iago Borduchi,1221,Bahia,84,SecondHalf,Tackle,Unsuccessful,51,78,,
+737,397498,Natanael,1235,Atletico MG,84,SecondHalf,BallTouch,Successful,44.1,24.3,,
+740,336102,Tomás Cuello,1235,Atletico MG,84,SecondHalf,TakeOn,Unsuccessful,59,21.2,,
+740,389163,Rodrigo Nestor,1221,Bahia,84,SecondHalf,Tackle,Successful,41,78.9,,
+741,101642,Bernard,1235,Atletico MG,85,SecondHalf,SubstitutionOff,Successful,0,0,,
+742,379307,Reinier,1235,Atletico MG,85,SecondHalf,SubstitutionOn,Successful,0,0,,
+743,397498,Natanael,1235,Atletico MG,85,SecondHalf,Pass,Successful,49.5,0,61.3,16.5
+744,379307,Reinier,1235,Atletico MG,85,SecondHalf,Pass,Unsuccessful,60.9,17,61.8,16.4
+745,,,1235,Atletico MG,85,SecondHalf,Foul,Successful,55.2,13.8,,
+742,389163,Rodrigo Nestor,1221,Bahia,85,SecondHalf,Foul,Unsuccessful,44.8,86.2,,
+743,549062,Erick Pulga,1221,Bahia,86,SecondHalf,SubstitutionOff,Successful,0,0,,
+744,570313,Kauê Furquim,1221,Bahia,86,SecondHalf,SubstitutionOn,Successful,0,0,,
+747,478494,Tomás Pérez,1235,Atletico MG,86,SecondHalf,Pass,Successful,61.7,16.7,63.1,6.7
+748,397498,Natanael,1235,Atletico MG,86,SecondHalf,Pass,Successful,62.4,8,48.5,25.2
+749,349496,Ruan Tressoldi,1235,Atletico MG,86,SecondHalf,Pass,Successful,46.2,29.5,31.8,54.6
+750,355663,Everson,1235,Atletico MG,86,SecondHalf,Pass,Unsuccessful,32.4,54.9,70.4,64.9
+745,436527,Marcos Victor,1221,Bahia,86,SecondHalf,Pass,Unsuccessful,31.2,50.3,41.9,41.5
+751,349496,Ruan Tressoldi,1235,Atletico MG,86,SecondHalf,Pass,Unsuccessful,57.7,64.6,69.7,76.1
+746,518031,Román Gómez,1221,Bahia,86,SecondHalf,Aerial,Successful,30.3,23.9,,
+752,75752,Dudu,1235,Atletico MG,86,SecondHalf,Aerial,Unsuccessful,69.7,76.1,,
+747,518031,Román Gómez,1221,Bahia,86,SecondHalf,Pass,Unsuccessful,30.3,23.9,38.9,0
+754,379307,Reinier,1235,Atletico MG,86,SecondHalf,Pass,Successful,67.4,100,60.6,92.7
+755,284115,Lyanco,1235,Atletico MG,86,SecondHalf,Pass,Successful,60.5,92.6,67.2,95.6
+756,379307,Reinier,1235,Atletico MG,86,SecondHalf,Pass,Successful,66.2,95.1,64.3,87.5
+757,605866,Mamady Cissé,1235,Atletico MG,86,SecondHalf,Pass,Successful,64.4,86.8,68,78.8
+749,396067,Nicolás Acevedo,1221,Bahia,86,SecondHalf,Challenge,Unsuccessful,34.6,30.4,,
+758,379307,Reinier,1235,Atletico MG,86,SecondHalf,TakeOn,Successful,65.4,69.6,,
+759,379307,Reinier,1235,Atletico MG,86,SecondHalf,Foul,Successful,66.8,63,,
+751,373515,Erick,1221,Bahia,86,SecondHalf,Foul,Unsuccessful,33.2,37,,
+752,373515,Erick,1221,Bahia,86,SecondHalf,Card,Successful,0,0,,
+761,326646,Renan Lodi,1235,Atletico MG,87,SecondHalf,Pass,Successful,68,69.4,93.2,35.4
+762,349496,Ruan Tressoldi,1235,Atletico MG,87,SecondHalf,MissedShots,Successful,93.2,35.4,,
+754,330555,Ronaldo,1221,Bahia,87,SecondHalf,Pass,Successful,3.7,50.3,15,19.2
+755,436527,Marcos Victor,1221,Bahia,87,SecondHalf,Pass,Successful,15,19.2,3.8,44.5
+756,330555,Ronaldo,1221,Bahia,87,SecondHalf,Pass,Successful,3.8,44.5,9.2,20.3
+757,436527,Marcos Victor,1221,Bahia,87,SecondHalf,Pass,Successful,9.2,20.3,22.8,7.2
+758,518031,Román Gómez,1221,Bahia,88,SecondHalf,Pass,Unsuccessful,27.4,13.8,46.1,9.4
+764,326646,Renan Lodi,1235,Atletico MG,88,SecondHalf,Clearance,Successful,47.4,91.2,48.3,92.6
+760,101467,Éverton Ribeiro,1221,Bahia,88,SecondHalf,BallTouch,Successful,64.2,13.6,,
+766,326646,Renan Lodi,1235,Atletico MG,88,SecondHalf,Pass,Successful,61.2,100,30,87.5
+767,284115,Lyanco,1235,Atletico MG,88,SecondHalf,Pass,Successful,26.7,86.6,11.1,66.9
+768,355663,Everson,1235,Atletico MG,88,SecondHalf,Pass,Successful,11.1,66.7,27,94.7
+769,284115,Lyanco,1235,Atletico MG,88,SecondHalf,Pass,Successful,29.5,93.5,35.4,84.7
+770,478494,Tomás Pérez,1235,Atletico MG,88,SecondHalf,Pass,Unsuccessful,30.5,96.2,40.8,95.1
+761,570313,Kauê Furquim,1221,Bahia,88,SecondHalf,Dispossessed,Successful,62.8,11.7,,
+771,326646,Renan Lodi,1235,Atletico MG,88,SecondHalf,Tackle,Successful,37.2,88.3,,
+762,101467,Éverton Ribeiro,1221,Bahia,88,SecondHalf,BallTouch,Unsuccessful,63.5,12.9,,
+772,326646,Renan Lodi,1235,Atletico MG,88,SecondHalf,BallRecovery,Successful,35.8,86.3,,
+773,326646,Renan Lodi,1235,Atletico MG,88,SecondHalf,Pass,Successful,35.4,85.3,29.7,83
+774,284115,Lyanco,1235,Atletico MG,88,SecondHalf,Pass,Successful,29.6,82.3,34.1,67.5
+775,605866,Mamady Cissé,1235,Atletico MG,88,SecondHalf,Pass,Successful,33.9,63,33.5,25.2
+776,397498,Natanael,1235,Atletico MG,88,SecondHalf,Pass,Successful,33.8,26.5,57.7,4.9
+777,336102,Tomás Cuello,1235,Atletico MG,88,SecondHalf,Foul,Successful,90.8,16,,
+766,279581,David Duarte,1221,Bahia,88,SecondHalf,Foul,Unsuccessful,9.2,84,,
+779,75752,Dudu,1235,Atletico MG,90,SecondHalf,Pass,Successful,96.7,15,92.3,53.4
+780,322162,Mateo Cassierra,1235,Atletico MG,90,SecondHalf,ShotOnPost,Successful,92.3,53.4,,
+768,330555,Ronaldo,1221,Bahia,90,SecondHalf,Pass,Unsuccessful,4.5,52.7,64.7,78.8
+782,349496,Ruan Tressoldi,1235,Atletico MG,90,SecondHalf,Aerial,Successful,35.3,21.2,,
+769,534217,Ruan Pablo,1221,Bahia,90,SecondHalf,Aerial,Unsuccessful,64.7,78.8,,
+783,349496,Ruan Tressoldi,1235,Atletico MG,90,SecondHalf,Clearance,Successful,35.3,21.2,63.7,0
+771,355705,Iago Borduchi,1221,Bahia,91,SecondHalf,Pass,Successful,53.9,100,67.2,78.2
+772,389163,Rodrigo Nestor,1221,Bahia,91,SecondHalf,BallTouch,Successful,67.2,78.2,,
+773,396067,Nicolás Acevedo,1221,Bahia,91,SecondHalf,Pass,Unsuccessful,61.4,74.6,74.3,77
+785,284115,Lyanco,1235,Atletico MG,91,SecondHalf,Clearance,Successful,20.1,20.3,46.5,7.4
+774,355705,Iago Borduchi,1221,Bahia,91,SecondHalf,Pass,Successful,58.9,83.5,68.6,78.2
+775,101467,Éverton Ribeiro,1221,Bahia,91,SecondHalf,Pass,Unsuccessful,68.6,78.2,82.1,74.1
+786,478494,Tomás Pérez,1235,Atletico MG,91,SecondHalf,BallRecovery,Successful,9.6,16.7,,
+787,478494,Tomás Pérez,1235,Atletico MG,91,SecondHalf,Pass,Unsuccessful,8.5,13.7,21.2,0
+777,355705,Iago Borduchi,1221,Bahia,91,SecondHalf,Pass,Successful,80.6,100,72.6,89
+778,101467,Éverton Ribeiro,1221,Bahia,91,SecondHalf,Pass,Successful,72.6,89,83.8,92
+779,355705,Iago Borduchi,1221,Bahia,91,SecondHalf,Pass,Unsuccessful,94.7,95.8,98.2,64.9
+789,397498,Natanael,1235,Atletico MG,91,SecondHalf,Clearance,Successful,5.1,28.3,8.8,13.8
+790,605866,Mamady Cissé,1235,Atletico MG,91,SecondHalf,Clearance,Successful,8.7,13.5,18.4,0
+781,355705,Iago Borduchi,1221,Bahia,92,SecondHalf,Pass,Successful,77,100,83.5,94.4
+782,101467,Éverton Ribeiro,1221,Bahia,92,SecondHalf,Pass,Unsuccessful,83.5,94.4,86,92
+792,397498,Natanael,1235,Atletico MG,92,SecondHalf,BlockedPass,Successful,14,8,,
+783,101467,Éverton Ribeiro,1221,Bahia,92,SecondHalf,BallTouch,Successful,86,92,,
+794,397498,Natanael,1235,Atletico MG,92,SecondHalf,Pass,Successful,17.3,0,27.7,23.1
+817,379307,Reinier,1235,Atletico MG,92,SecondHalf,Dispossessed,Successful,28.8,34.8,,
+811,396067,Nicolás Acevedo,1221,Bahia,92,SecondHalf,Tackle,Unsuccessful,71.2,65.2,,
+796,284115,Lyanco,1235,Atletico MG,92,SecondHalf,Pass,Unsuccessful,24.8,28.6,29.8,29.1
+797,379307,Reinier,1235,Atletico MG,92,SecondHalf,Challenge,Unsuccessful,32.7,32.6,,
+785,373515,Erick,1221,Bahia,92,SecondHalf,TakeOn,Successful,67.3,67.4,,
+786,373515,Erick,1221,Bahia,92,SecondHalf,BallRecovery,Successful,63.9,56.1,,
+787,373515,Erick,1221,Bahia,92,SecondHalf,BallTouch,Unsuccessful,64.5,54.1,,
+798,284115,Lyanco,1235,Atletico MG,92,SecondHalf,Pass,Successful,29.7,73.2,36.2,79
+799,75752,Dudu,1235,Atletico MG,92,SecondHalf,BallRecovery,Successful,36.1,73.3,,
+788,101467,Éverton Ribeiro,1221,Bahia,92,SecondHalf,Challenge,Unsuccessful,64.5,38,,
+800,75752,Dudu,1235,Atletico MG,92,SecondHalf,TakeOn,Successful,35.5,62,,
+801,75752,Dudu,1235,Atletico MG,92,SecondHalf,Pass,Successful,39,69.7,65.7,83.9
+802,284115,Lyanco,1235,Atletico MG,92,SecondHalf,Pass,Successful,73.7,75,73.6,67.2
+803,379307,Reinier,1235,Atletico MG,92,SecondHalf,Pass,Successful,73.3,66.3,85.7,29.8
+804,336102,Tomás Cuello,1235,Atletico MG,92,SecondHalf,SavedShot,Successful,86.4,30.1,,
+789,330555,Ronaldo,1221,Bahia,92,SecondHalf,Save,Successful,3.9,53.8,,
+805,336102,Tomás Cuello,1235,Atletico MG,92,SecondHalf,Pass,Unsuccessful,92.8,18.5,81.7,51.2
+790,389163,Rodrigo Nestor,1221,Bahia,92,SecondHalf,Clearance,Successful,14.2,55.8,36.3,33.9
+791,534217,Ruan Pablo,1221,Bahia,92,SecondHalf,BallRecovery,Successful,36.3,33.9,,
+792,534217,Ruan Pablo,1221,Bahia,93,SecondHalf,Pass,Successful,36.3,33.9,32.4,44.7
+793,101467,Éverton Ribeiro,1221,Bahia,93,SecondHalf,Pass,Successful,32.4,44.7,51,44.4
+794,534217,Ruan Pablo,1221,Bahia,93,SecondHalf,Pass,Successful,64.3,43.2,73.2,22.4
+795,570313,Kauê Furquim,1221,Bahia,93,SecondHalf,Pass,Successful,73.2,23.2,86.4,60.3
+796,389163,Rodrigo Nestor,1221,Bahia,93,SecondHalf,SavedShot,Successful,84,59.7,,
+809,349496,Ruan Tressoldi,1235,Atletico MG,93,SecondHalf,Save,Successful,9.8,41.5,,
+797,570313,Kauê Furquim,1221,Bahia,93,SecondHalf,Pass,Successful,84.2,12.3,77.5,15.6
+798,101467,Éverton Ribeiro,1221,Bahia,93,SecondHalf,Pass,Successful,77.5,15.6,67.9,13.3
+799,518031,Román Gómez,1221,Bahia,93,SecondHalf,Pass,Successful,68.8,13.3,81.1,7.9
+800,570313,Kauê Furquim,1221,Bahia,93,SecondHalf,Pass,Successful,78.2,11.9,75,19.8
+801,101467,Éverton Ribeiro,1221,Bahia,93,SecondHalf,Foul,Successful,75,20.3,,
+808,75752,Dudu,1235,Atletico MG,93,SecondHalf,Foul,Unsuccessful,25,79.8,,
+802,389163,Rodrigo Nestor,1221,Bahia,94,SecondHalf,Pass,Unsuccessful,77.1,15.9,89.7,38.6
+810,478494,Tomás Pérez,1235,Atletico MG,94,SecondHalf,Clearance,Successful,9.3,61.2,9.4,21.9
+803,355705,Iago Borduchi,1221,Bahia,94,SecondHalf,Pass,Successful,93.2,80.8,93.1,44.6
+804,279581,David Duarte,1221,Bahia,94,SecondHalf,Aerial,Successful,93.1,44.6,,
+816,336102,Tomás Cuello,1235,Atletico MG,94,SecondHalf,Aerial,Unsuccessful,6.9,55.4,,
+805,279581,David Duarte,1221,Bahia,94,SecondHalf,ShotOnPost,Successful,93.1,44.6,,
+811,349496,Ruan Tressoldi,1235,Atletico MG,94,SecondHalf,Clearance,Successful,9.5,31,51.5,23.6
+806,101467,Éverton Ribeiro,1221,Bahia,94,SecondHalf,Pass,Successful,58.4,75,24.8,48.3
+807,330555,Ronaldo,1221,Bahia,95,SecondHalf,Pass,Unsuccessful,25.5,43.8,78.1,38.6
+808,,,1221,Bahia,95,SecondHalf,End,Successful,0,0,,
+813,,,1235,Atletico MG,95,SecondHalf,End,Successful,0,0,,
+809,,,1221,Bahia,0,PostGame,End,Successful,0,0,,
+814,,,1235,Atletico MG,0,PostGame,End,Successful,0,0,,
+1,,,1221,Bahia,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,1235,Atletico MG,0,PreMatch,FormationSet,Successful,0,0,,

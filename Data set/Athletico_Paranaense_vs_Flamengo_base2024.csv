@@ -1,0 +1,1346 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,1243,Athletico Paranaense,0,FirstHalf,Start,Successful,0,0,,
+2,,,1239,Flamengo,0,FirstHalf,Start,Successful,0,0,,
+3,318475,Pedro,1239,Flamengo,0,FirstHalf,Pass,Successful,50,50,20.8,58.4
+4,303902,Agustín Rossi,1239,Flamengo,0,FirstHalf,Pass,Unsuccessful,23.9,57.5,70.2,100
+4,410318,Gastón Benavídez,1243,Athletico Paranaense,0,FirstHalf,Pass,Unsuccessful,26.3,0,58.6,6.8
+6,100995,Alex Sandro,1239,Flamengo,0,FirstHalf,Pass,Successful,39.3,94.1,36.2,81.1
+7,355684,Léo Ortiz,1239,Flamengo,0,FirstHalf,Pass,Unsuccessful,36.2,81.1,55.1,93.5
+5,410318,Gastón Benavídez,1243,Athletico Paranaense,0,FirstHalf,Pass,Unsuccessful,43.6,10.5,68.7,16.1
+8,146761,Léo Pereira,1239,Flamengo,0,FirstHalf,Pass,Unsuccessful,29.5,85.6,62.5,30.6
+6,445159,Léo Derik,1243,Athletico Paranaense,0,FirstHalf,Pass,Unsuccessful,33.1,83.6,51.7,55
+9,355684,Léo Ortiz,1239,Flamengo,0,FirstHalf,Pass,Successful,46.5,42.5,44.7,14.1
+10,145385,Guillermo Varela,1239,Flamengo,0,FirstHalf,BallRecovery,Successful,45,14.1,,
+11,145385,Guillermo Varela,1239,Flamengo,0,FirstHalf,Pass,Successful,45,14.1,57.8,16.2
+12,371036,Jorge Carrascal,1239,Flamengo,0,FirstHalf,BallTouch,Unsuccessful,55.7,13.7,,
+7,517830,Felipinho,1243,Athletico Paranaense,0,FirstHalf,Pass,Unsuccessful,36.9,80.1,38,82.2
+417,371036,Jorge Carrascal,1239,Flamengo,0,FirstHalf,BlockedPass,Successful,62,17.8,,
+13,319756,Lucas Paquetá,1239,Flamengo,0,FirstHalf,Foul,Successful,44.6,13.2,,
+8,517830,Felipinho,1243,Athletico Paranaense,0,FirstHalf,Foul,Unsuccessful,55.4,86.8,,
+14,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,Pass,Successful,44.7,11.9,34,25.8
+15,88300,Danilo,1239,Flamengo,1,FirstHalf,Pass,Successful,34.3,25.3,14.4,46.7
+16,303902,Agustín Rossi,1239,Flamengo,1,FirstHalf,Pass,Successful,14.4,46.7,24.6,48.7
+17,355684,Léo Ortiz,1239,Flamengo,1,FirstHalf,Pass,Successful,31.7,60.9,52.1,76.1
+18,381594,Samuel Lino,1239,Flamengo,1,FirstHalf,Pass,Unsuccessful,52.1,76.1,52.3,69.7
+9,114096,Jádson,1243,Athletico Paranaense,1,FirstHalf,Interception,Successful,47.7,30.3,,
+10,517829,Arthur Dias,1243,Athletico Paranaense,1,FirstHalf,BallRecovery,Successful,54.8,24.4,,
+11,517829,Arthur Dias,1243,Athletico Paranaense,1,FirstHalf,Pass,Successful,54.8,24.4,63.1,63.4
+12,462994,Bruno Zapelli,1243,Athletico Paranaense,1,FirstHalf,TakeOn,Unsuccessful,68.2,63.3,,
+19,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,Tackle,Successful,31.8,36.8,,
+20,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,BallRecovery,Successful,27.2,28,,
+21,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,Pass,Successful,26.9,24.4,31.7,9.7
+22,145385,Guillermo Varela,1239,Flamengo,1,FirstHalf,Pass,Successful,32,9.8,30.6,23.3
+23,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,Pass,Successful,30.6,28.5,25.9,63.9
+24,146761,Léo Pereira,1239,Flamengo,1,FirstHalf,Pass,Successful,26.4,67.3,32.6,89
+25,100995,Alex Sandro,1239,Flamengo,1,FirstHalf,Pass,Successful,56.7,95.6,60.9,83.5
+26,112161,Saúl,1239,Flamengo,1,FirstHalf,Pass,Unsuccessful,60.9,83.5,61.6,83.3
+13,517830,Felipinho,1243,Athletico Paranaense,1,FirstHalf,BlockedPass,Successful,38.4,16.7,,
+14,410318,Gastón Benavídez,1243,Athletico Paranaense,1,FirstHalf,BallRecovery,Successful,24.4,13.7,,
+15,410318,Gastón Benavídez,1243,Athletico Paranaense,1,FirstHalf,Pass,Successful,24.4,13.7,29.2,2.7
+16,114096,Jádson,1243,Athletico Paranaense,1,FirstHalf,Pass,Successful,33.4,5.3,43.8,16.3
+17,279539,Steven Mendoza,1243,Athletico Paranaense,1,FirstHalf,Pass,Unsuccessful,43.8,16.3,35.6,34.9
+27,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,Pass,Successful,57.7,68.8,68.2,76.1
+28,318475,Pedro,1239,Flamengo,1,FirstHalf,BallRecovery,Successful,68.2,76.1,,
+29,318475,Pedro,1239,Flamengo,1,FirstHalf,Pass,Successful,65.6,75.9,60,75.1
+30,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,Pass,Successful,60,75.1,66.3,92.6
+31,381594,Samuel Lino,1239,Flamengo,1,FirstHalf,Pass,Successful,69.5,90.9,64,85.7
+32,319756,Lucas Paquetá,1239,Flamengo,1,FirstHalf,Pass,Successful,64,85.7,68.7,94.4
+33,381594,Samuel Lino,1239,Flamengo,2,FirstHalf,Pass,Successful,71.7,95.6,65.9,86.2
+34,319756,Lucas Paquetá,1239,Flamengo,2,FirstHalf,Pass,Successful,68.6,74.4,59.9,75.1
+35,112161,Saúl,1239,Flamengo,2,FirstHalf,Pass,Successful,59.9,75.1,66.8,95.1
+36,100995,Alex Sandro,1239,Flamengo,2,FirstHalf,Pass,Unsuccessful,66.8,95.5,100,87.7
+18,517829,Arthur Dias,1243,Athletico Paranaense,2,FirstHalf,ShieldBallOpp,Successful,2.7,11.7,,
+20,101675,Santos,1243,Athletico Paranaense,2,FirstHalf,Pass,Unsuccessful,5,49.2,63,84.8
+38,145385,Guillermo Varela,1239,Flamengo,2,FirstHalf,Pass,Unsuccessful,37.7,18.8,66.6,45.5
+21,114096,Jádson,1243,Athletico Paranaense,2,FirstHalf,Pass,Successful,33.4,70.2,38.3,93
+22,445159,Léo Derik,1243,Athletico Paranaense,2,FirstHalf,Pass,Successful,38.3,93,62.3,87.5
+24,533161,Kevin Viveros,1243,Athletico Paranaense,2,FirstHalf,Foul,Successful,54.7,86.3,,
+39,88300,Danilo,1239,Flamengo,2,FirstHalf,Foul,Unsuccessful,45.3,13.6,,
+25,445159,Léo Derik,1243,Athletico Paranaense,3,FirstHalf,Pass,Successful,55.5,82.7,77.6,7.6
+26,410318,Gastón Benavídez,1243,Athletico Paranaense,3,FirstHalf,Pass,Successful,77.6,7.6,76.9,29.3
+27,279539,Steven Mendoza,1243,Athletico Paranaense,3,FirstHalf,SavedShot,Successful,84.5,27.1,,
+40,146761,Léo Pereira,1239,Flamengo,3,FirstHalf,Save,Successful,12,67.9,,
+41,146761,Léo Pereira,1239,Flamengo,3,FirstHalf,CornerAwarded,Unsuccessful,13,71.4,,
+28,279539,Steven Mendoza,1243,Athletico Paranaense,3,FirstHalf,CornerAwarded,Successful,86.9,28.5,,
+29,404979,Lucas Esquivel,1243,Athletico Paranaense,3,FirstHalf,Pass,Successful,99.6,0.9,94.3,29.5
+30,279539,Steven Mendoza,1243,Athletico Paranaense,3,FirstHalf,Pass,Successful,94.3,29.5,86.4,40.9
+31,410318,Gastón Benavídez,1243,Athletico Paranaense,3,FirstHalf,SavedShot,Successful,86.4,40.9,,
+42,371036,Jorge Carrascal,1239,Flamengo,3,FirstHalf,Save,Successful,8.4,58.1,,
+43,371036,Jorge Carrascal,1239,Flamengo,3,FirstHalf,CornerAwarded,Unsuccessful,12.1,58.6,,
+32,410318,Gastón Benavídez,1243,Athletico Paranaense,3,FirstHalf,CornerAwarded,Successful,88,41.4,,
+33,404979,Lucas Esquivel,1243,Athletico Paranaense,4,FirstHalf,Pass,Successful,99.5,0.5,95.2,37.4
+34,533161,Kevin Viveros,1243,Athletico Paranaense,4,FirstHalf,Pass,Unsuccessful,96.4,36.4,96.6,40.1
+44,318475,Pedro,1239,Flamengo,4,FirstHalf,BallTouch,Successful,3.6,59.9,,
+45,355684,Léo Ortiz,1239,Flamengo,4,FirstHalf,Clearance,Successful,2.8,60,13.6,93.3
+35,404979,Lucas Esquivel,1243,Athletico Paranaense,4,FirstHalf,Pass,Unsuccessful,81.1,9.2,83.5,59.9
+46,146761,Léo Pereira,1239,Flamengo,4,FirstHalf,Clearance,Successful,18.3,45.8,43.3,35.5
+36,445159,Léo Derik,1243,Athletico Paranaense,4,FirstHalf,Pass,Successful,54.1,67,59.6,88.8
+37,462994,Bruno Zapelli,1243,Athletico Paranaense,4,FirstHalf,Pass,Successful,59.6,88.8,48.6,71.1
+38,445159,Léo Derik,1243,Athletico Paranaense,4,FirstHalf,Pass,Successful,48.6,71.1,43,30.5
+39,114096,Jádson,1243,Athletico Paranaense,4,FirstHalf,Pass,Successful,43,30.5,57.8,5.9
+40,410318,Gastón Benavídez,1243,Athletico Paranaense,4,FirstHalf,Pass,Successful,57.8,5.9,91,3.9
+41,533161,Kevin Viveros,1243,Athletico Paranaense,4,FirstHalf,Pass,Unsuccessful,92.9,5.6,92.3,41.6
+47,355684,Léo Ortiz,1239,Flamengo,4,FirstHalf,Clearance,Successful,7.1,60.8,35,95.4
+42,114096,Jádson,1243,Athletico Paranaense,4,FirstHalf,Foul,Successful,54.6,5.8,,
+48,381594,Samuel Lino,1239,Flamengo,4,FirstHalf,Foul,Unsuccessful,45.4,94.2,,
+43,410318,Gastón Benavídez,1243,Athletico Paranaense,5,FirstHalf,Pass,Successful,56,5.9,37.1,16.3
+44,517829,Arthur Dias,1243,Athletico Paranaense,5,FirstHalf,Pass,Successful,37.3,16.9,31,48.4
+45,477736,Juan Aguirre,1243,Athletico Paranaense,5,FirstHalf,Pass,Successful,31,45.3,56.2,7.6
+46,410318,Gastón Benavídez,1243,Athletico Paranaense,5,FirstHalf,Pass,Unsuccessful,56.2,7.6,76.1,21
+49,146761,Léo Pereira,1239,Flamengo,5,FirstHalf,BallRecovery,Successful,20.3,80.8,,
+50,146761,Léo Pereira,1239,Flamengo,5,FirstHalf,Pass,Successful,20.3,80.8,2.3,68.5
+51,303902,Agustín Rossi,1239,Flamengo,5,FirstHalf,Pass,Successful,2.6,75.9,37.6,87.2
+54,112161,Saúl,1239,Flamengo,5,FirstHalf,Aerial,Successful,37.6,87.2,,
+47,410318,Gastón Benavídez,1243,Athletico Paranaense,5,FirstHalf,Aerial,Unsuccessful,62.4,12.8,,
+52,112161,Saúl,1239,Flamengo,5,FirstHalf,Pass,Unsuccessful,37.6,87.2,57.6,89.7
+48,477736,Juan Aguirre,1243,Athletico Paranaense,5,FirstHalf,Interception,Successful,42.4,10.3,,
+49,410318,Gastón Benavídez,1243,Athletico Paranaense,5,FirstHalf,Pass,Unsuccessful,47.8,8.8,45.6,14.6
+53,112161,Saúl,1239,Flamengo,5,FirstHalf,TakeOn,Unsuccessful,54.6,86.5,,
+50,517829,Arthur Dias,1243,Athletico Paranaense,5,FirstHalf,Tackle,Successful,45.4,13.6,,
+51,410318,Gastón Benavídez,1243,Athletico Paranaense,5,FirstHalf,BallRecovery,Successful,52.8,6.3,,
+52,410318,Gastón Benavídez,1243,Athletico Paranaense,5,FirstHalf,Pass,Successful,52.8,6.3,70.3,6.6
+53,279539,Steven Mendoza,1243,Athletico Paranaense,5,FirstHalf,Pass,Successful,70.3,8.5,68.7,24.5
+55,114096,Jádson,1243,Athletico Paranaense,5,FirstHalf,Foul,Successful,63.7,19.4,,
+55,112161,Saúl,1239,Flamengo,5,FirstHalf,Foul,Unsuccessful,36.3,80.5,,
+56,462994,Bruno Zapelli,1243,Athletico Paranaense,6,FirstHalf,Pass,Unsuccessful,64.9,11,85.8,47.5
+57,146761,Léo Pereira,1239,Flamengo,6,FirstHalf,Foul,Successful,15.6,49.6,,
+57,533161,Kevin Viveros,1243,Athletico Paranaense,6,FirstHalf,Foul,Unsuccessful,84.4,50.4,,
+58,303902,Agustín Rossi,1239,Flamengo,7,FirstHalf,Pass,Successful,16,45.7,24.1,57.5
+59,146761,Léo Pereira,1239,Flamengo,7,FirstHalf,Pass,Successful,25.4,58.7,39.1,96
+60,100995,Alex Sandro,1239,Flamengo,7,FirstHalf,Pass,Successful,40.8,92,20.6,74.7
+61,146761,Léo Pereira,1239,Flamengo,7,FirstHalf,Pass,Successful,13.8,73.5,10,41.8
+62,303902,Agustín Rossi,1239,Flamengo,7,FirstHalf,Pass,Successful,12.4,38,42,75.6
+63,112161,Saúl,1239,Flamengo,7,FirstHalf,Pass,Unsuccessful,42,75.6,61,85.1
+58,410318,Gastón Benavídez,1243,Athletico Paranaense,7,FirstHalf,BallRecovery,Successful,33.4,20.5,,
+59,410318,Gastón Benavídez,1243,Athletico Paranaense,7,FirstHalf,Pass,Successful,33.4,20.5,7.4,47.5
+60,101675,Santos,1243,Athletico Paranaense,7,FirstHalf,Pass,Unsuccessful,5.3,70.9,46.5,73.4
+64,319756,Lucas Paquetá,1239,Flamengo,7,FirstHalf,Pass,Unsuccessful,53,24.7,43.3,3.2
+61,445159,Léo Derik,1243,Athletico Paranaense,7,FirstHalf,TakeOn,Unsuccessful,77.8,71.8,,
+65,88300,Danilo,1239,Flamengo,7,FirstHalf,Tackle,Unsuccessful,22.2,28.2,,
+62,410318,Gastón Benavídez,1243,Athletico Paranaense,7,FirstHalf,SavedShot,Successful,75.5,34.5,,
+66,100995,Alex Sandro,1239,Flamengo,7,FirstHalf,Save,Successful,14.6,58.5,,
+67,100995,Alex Sandro,1239,Flamengo,7,FirstHalf,CornerAwarded,Unsuccessful,17.9,67.9,,
+63,410318,Gastón Benavídez,1243,Athletico Paranaense,7,FirstHalf,CornerAwarded,Successful,82.1,32.1,,
+64,404979,Lucas Esquivel,1243,Athletico Paranaense,8,FirstHalf,Pass,Successful,99.5,0.5,92.8,42.3
+79,517830,Felipinho,1243,Athletico Paranaense,8,FirstHalf,BallTouch,Successful,92,47.2,,
+68,88300,Danilo,1239,Flamengo,8,FirstHalf,Clearance,Successful,7.7,47.9,51.2,66.6
+65,279539,Steven Mendoza,1243,Athletico Paranaense,8,FirstHalf,BallTouch,Unsuccessful,94,49.9,,
+66,445159,Léo Derik,1243,Athletico Paranaense,8,FirstHalf,Pass,Successful,49.4,29.6,58.1,4.8
+67,404979,Lucas Esquivel,1243,Athletico Paranaense,8,FirstHalf,Pass,Successful,58.1,4.6,39.9,17.4
+68,445159,Léo Derik,1243,Athletico Paranaense,8,FirstHalf,Pass,Successful,38.1,31.7,37,45.7
+69,462994,Bruno Zapelli,1243,Athletico Paranaense,8,FirstHalf,Pass,Successful,44.9,56.5,38.7,77.5
+70,445159,Léo Derik,1243,Athletico Paranaense,8,FirstHalf,Pass,Successful,38.7,77.5,43,68.3
+71,462994,Bruno Zapelli,1243,Athletico Paranaense,8,FirstHalf,Pass,Successful,43,67.7,36,28.4
+72,517829,Arthur Dias,1243,Athletico Paranaense,9,FirstHalf,Pass,Successful,36,28.4,30.9,43.7
+73,477736,Juan Aguirre,1243,Athletico Paranaense,9,FirstHalf,Pass,Successful,30.4,44,8.8,51.8
+74,101675,Santos,1243,Athletico Paranaense,9,FirstHalf,Pass,Successful,7.7,51.3,14.6,21.2
+75,477736,Juan Aguirre,1243,Athletico Paranaense,9,FirstHalf,Pass,Unsuccessful,14.4,16.1,54.8,20
+69,146761,Léo Pereira,1239,Flamengo,9,FirstHalf,Pass,Successful,45.3,79.3,53.5,70.9
+70,112161,Saúl,1239,Flamengo,9,FirstHalf,BallRecovery,Successful,53,69.6,,
+71,112161,Saúl,1239,Flamengo,9,FirstHalf,Pass,Successful,53,69.6,38.6,50.1
+72,88300,Danilo,1239,Flamengo,9,FirstHalf,Pass,Successful,38.6,48.1,38.8,24.1
+73,145385,Guillermo Varela,1239,Flamengo,9,FirstHalf,Pass,Successful,38.8,24.1,11.6,43.4
+74,303902,Agustín Rossi,1239,Flamengo,9,FirstHalf,Pass,Successful,9.8,45.4,27.1,79.6
+75,100995,Alex Sandro,1239,Flamengo,9,FirstHalf,Pass,Successful,31.3,77.9,36,54.9
+76,355684,Léo Ortiz,1239,Flamengo,9,FirstHalf,Pass,Successful,38.1,48.8,53.8,10.6
+77,145385,Guillermo Varela,1239,Flamengo,9,FirstHalf,Pass,Successful,49.5,14.1,33.4,23.4
+78,88300,Danilo,1239,Flamengo,9,FirstHalf,Pass,Successful,34.4,24.3,37.4,62.7
+79,146761,Léo Pereira,1239,Flamengo,9,FirstHalf,Pass,Successful,56,66.4,64.8,88.6
+80,381594,Samuel Lino,1239,Flamengo,9,FirstHalf,Pass,Successful,64.8,88.6,65.6,72.6
+81,112161,Saúl,1239,Flamengo,9,FirstHalf,Pass,Successful,65.6,72.6,86.2,83.6
+82,381594,Samuel Lino,1239,Flamengo,9,FirstHalf,Pass,Unsuccessful,89.7,83.6,98.1,41
+76,445159,Léo Derik,1243,Athletico Paranaense,9,FirstHalf,Clearance,Successful,2.4,58.5,4.5,76.8
+83,145385,Guillermo Varela,1239,Flamengo,9,FirstHalf,Pass,Successful,93.8,24.9,87.4,34.9
+84,319756,Lucas Paquetá,1239,Flamengo,9,FirstHalf,MissedShots,Successful,87.4,34.9,,
+80,101675,Santos,1243,Athletico Paranaense,10,FirstHalf,Pass,Successful,5,49.7,71.7,61.2
+81,533161,Kevin Viveros,1243,Athletico Paranaense,10,FirstHalf,Pass,Successful,71.7,61.2,69.1,50.4
+82,279539,Steven Mendoza,1243,Athletico Paranaense,10,FirstHalf,Pass,Unsuccessful,72.3,50.3,79.7,56.3
+86,88300,Danilo,1239,Flamengo,10,FirstHalf,Clearance,Successful,14.8,45.4,23.2,44.4
+83,462994,Bruno Zapelli,1243,Athletico Paranaense,10,FirstHalf,Pass,Successful,70.4,53.8,74.9,22
+84,410318,Gastón Benavídez,1243,Athletico Paranaense,10,FirstHalf,Pass,Successful,75.5,22.2,86.7,36.2
+87,303902,Agustín Rossi,1239,Flamengo,10,FirstHalf,Error,Successful,2.5,56.6,,
+85,279539,Steven Mendoza,1243,Athletico Paranaense,10,FirstHalf,Goal,Successful,89.2,35.8,,
+88,318475,Pedro,1239,Flamengo,12,FirstHalf,Pass,Successful,49.9,49.9,36.1,50.3
+89,355684,Léo Ortiz,1239,Flamengo,12,FirstHalf,Pass,Successful,36,51.3,42.6,95.1
+90,100995,Alex Sandro,1239,Flamengo,12,FirstHalf,Pass,Successful,42,94.4,36,75.6
+91,146761,Léo Pereira,1239,Flamengo,12,FirstHalf,Pass,Successful,43.8,58.4,36.3,49.1
+92,88300,Danilo,1239,Flamengo,12,FirstHalf,Pass,Successful,46.5,40.9,96.2,15
+93,145385,Guillermo Varela,1239,Flamengo,12,FirstHalf,Pass,Unsuccessful,96.2,15,100,36.4
+87,101675,Santos,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,5.2,50.9,7.4,42.5
+88,477736,Juan Aguirre,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,10.6,38.9,8,16.8
+89,517829,Arthur Dias,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,8,27.3,12.4,75.5
+90,404979,Lucas Esquivel,1243,Athletico Paranaense,13,FirstHalf,Pass,Unsuccessful,12.4,75.5,59.9,76.6
+95,88300,Danilo,1239,Flamengo,13,FirstHalf,Pass,Unsuccessful,42.1,20.3,53.7,38.9
+91,279539,Steven Mendoza,1243,Athletico Paranaense,13,FirstHalf,Pass,Unsuccessful,44.5,61.8,28.2,66.1
+96,371036,Jorge Carrascal,1239,Flamengo,13,FirstHalf,BallRecovery,Successful,64.1,36,,
+97,371036,Jorge Carrascal,1239,Flamengo,13,FirstHalf,Pass,Successful,64.1,36,67.4,50.1
+98,318475,Pedro,1239,Flamengo,13,FirstHalf,Pass,Unsuccessful,67.4,50.1,89.5,40.6
+92,101675,Santos,1243,Athletico Paranaense,13,FirstHalf,KeeperPickup,Successful,12.1,55.2,,
+93,101675,Santos,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,12.1,55.2,27.4,87.3
+94,445159,Léo Derik,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,29.2,90.3,37.4,81.9
+95,279539,Steven Mendoza,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,34.7,85.1,31.3,98.8
+96,462994,Bruno Zapelli,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,41.5,78.3,31.1,76.1
+97,517830,Felipinho,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,32.7,91.2,26.7,74.3
+98,404979,Lucas Esquivel,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,26.7,74.3,19.2,54.8
+99,477736,Juan Aguirre,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,19.2,54.8,21.7,17.8
+100,517829,Arthur Dias,1243,Athletico Paranaense,13,FirstHalf,Pass,Successful,21.7,17.8,27.5,7.8
+101,114096,Jádson,1243,Athletico Paranaense,13,FirstHalf,Pass,Unsuccessful,28.1,9.2,68.5,29.6
+99,88300,Danilo,1239,Flamengo,14,FirstHalf,BallRecovery,Successful,28,74.2,,
+100,88300,Danilo,1239,Flamengo,14,FirstHalf,Pass,Successful,27.8,74.2,9,46.9
+101,303902,Agustín Rossi,1239,Flamengo,14,FirstHalf,Pass,Successful,10.5,48.2,28,78.1
+102,146761,Léo Pereira,1239,Flamengo,14,FirstHalf,Pass,Successful,52.6,83.9,43.1,68.2
+103,355684,Léo Ortiz,1239,Flamengo,14,FirstHalf,Pass,Successful,43.4,64.5,56.2,63
+104,319756,Lucas Paquetá,1239,Flamengo,14,FirstHalf,Pass,Successful,56.2,63,56.5,82
+105,146761,Léo Pereira,1239,Flamengo,14,FirstHalf,Pass,Successful,63.2,79.9,74,96.3
+106,100995,Alex Sandro,1239,Flamengo,14,FirstHalf,Pass,Successful,73.4,95.6,67.1,91.7
+107,381594,Samuel Lino,1239,Flamengo,14,FirstHalf,Pass,Successful,65.1,89.7,64.7,73.6
+108,319756,Lucas Paquetá,1239,Flamengo,14,FirstHalf,Pass,Successful,64.7,73.6,55.8,86.3
+109,146761,Léo Pereira,1239,Flamengo,14,FirstHalf,Pass,Successful,56.7,85.1,69.5,73.5
+110,112161,Saúl,1239,Flamengo,14,FirstHalf,Pass,Successful,69.5,73.5,63,90.5
+111,381594,Samuel Lino,1239,Flamengo,14,FirstHalf,Pass,Successful,64.9,72.4,64.8,56.1
+112,319756,Lucas Paquetá,1239,Flamengo,14,FirstHalf,Pass,Successful,64.8,56.1,75.7,43.1
+113,371036,Jorge Carrascal,1239,Flamengo,14,FirstHalf,Pass,Successful,75.7,43.1,84.2,47
+114,318475,Pedro,1239,Flamengo,14,FirstHalf,BallTouch,Unsuccessful,84.2,47,,
+102,477736,Juan Aguirre,1243,Athletico Paranaense,14,FirstHalf,Clearance,Successful,12.9,54.3,0,77.1
+115,318475,Pedro,1239,Flamengo,14,FirstHalf,CornerAwarded,Successful,94.4,32.7,,
+103,477736,Juan Aguirre,1243,Athletico Paranaense,14,FirstHalf,CornerAwarded,Unsuccessful,5.6,67.3,,
+116,371036,Jorge Carrascal,1239,Flamengo,15,FirstHalf,Pass,Successful,99.5,0.5,91.3,54.5
+120,318475,Pedro,1239,Flamengo,15,FirstHalf,Aerial,Successful,91.3,54.5,,
+104,410318,Gastón Benavídez,1243,Athletico Paranaense,15,FirstHalf,Aerial,Unsuccessful,8.7,45.5,,
+117,318475,Pedro,1239,Flamengo,15,FirstHalf,SavedShot,Successful,91.3,54.5,,
+105,517829,Arthur Dias,1243,Athletico Paranaense,15,FirstHalf,Save,Successful,6.7,46.4,,
+118,88300,Danilo,1239,Flamengo,15,FirstHalf,Pass,Successful,92.5,65.4,80.2,65.7
+119,381594,Samuel Lino,1239,Flamengo,15,FirstHalf,SavedShot,Successful,80.2,65.7,,
+106,101675,Santos,1243,Athletico Paranaense,15,FirstHalf,Save,Successful,3,48.9,,
+107,101675,Santos,1243,Athletico Paranaense,15,FirstHalf,KeeperPickup,Successful,3,48.9,,
+108,101675,Santos,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,9.2,48.1,12.7,25.1
+146,517829,Arthur Dias,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,31.8,16.9,45.4,13.9
+163,114096,Jádson,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,43.5,19.1,38.3,37.2
+164,517830,Felipinho,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,36.4,41,36,74.3
+111,404979,Lucas Esquivel,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,35,76,43,63.4
+112,517830,Felipinho,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,46.2,60.1,37,25.6
+113,517829,Arthur Dias,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,39.6,29.6,54.2,3.9
+114,410318,Gastón Benavídez,1243,Athletico Paranaense,15,FirstHalf,Pass,Successful,56.8,6.5,68.7,23
+115,114096,Jádson,1243,Athletico Paranaense,15,FirstHalf,BallTouch,Successful,68.7,23,,
+116,410318,Gastón Benavídez,1243,Athletico Paranaense,16,FirstHalf,Pass,Unsuccessful,71.6,29.3,89,33.5
+121,146761,Léo Pereira,1239,Flamengo,16,FirstHalf,Interception,Successful,11,66.5,,
+122,146761,Léo Pereira,1239,Flamengo,16,FirstHalf,BallRecovery,Successful,12.3,67.8,,
+123,146761,Léo Pereira,1239,Flamengo,16,FirstHalf,Pass,Successful,12.3,67.8,24.5,66.6
+124,112161,Saúl,1239,Flamengo,16,FirstHalf,Pass,Successful,24.5,66.6,10.7,85.6
+125,100995,Alex Sandro,1239,Flamengo,16,FirstHalf,Pass,Successful,12.9,90.2,43.1,67.9
+126,318475,Pedro,1239,Flamengo,16,FirstHalf,Aerial,Successful,43.1,67.9,,
+117,477736,Juan Aguirre,1243,Athletico Paranaense,16,FirstHalf,Aerial,Unsuccessful,56.9,32.1,,
+127,318475,Pedro,1239,Flamengo,16,FirstHalf,Pass,Successful,43.1,67.9,37.5,70.2
+128,112161,Saúl,1239,Flamengo,16,FirstHalf,Pass,Successful,37.5,70.2,46.4,50.6
+129,371036,Jorge Carrascal,1239,Flamengo,16,FirstHalf,Dispossessed,Successful,47,45.8,,
+118,404979,Lucas Esquivel,1243,Athletico Paranaense,16,FirstHalf,Tackle,Unsuccessful,53,54.3,,
+130,319756,Lucas Paquetá,1239,Flamengo,16,FirstHalf,Pass,Successful,45.5,46.9,44.5,23
+131,145385,Guillermo Varela,1239,Flamengo,16,FirstHalf,Pass,Successful,46.3,23.3,48.7,33.7
+132,319756,Lucas Paquetá,1239,Flamengo,16,FirstHalf,Pass,Unsuccessful,54.4,35.2,100,74.8
+120,101675,Santos,1243,Athletico Paranaense,16,FirstHalf,Pass,Unsuccessful,5.2,44.2,47.6,43.2
+134,355684,Léo Ortiz,1239,Flamengo,16,FirstHalf,Pass,Successful,52.7,56.3,62,59.4
+135,112161,Saúl,1239,Flamengo,16,FirstHalf,Pass,Successful,62,59.4,47.4,79.1
+136,100995,Alex Sandro,1239,Flamengo,16,FirstHalf,BallRecovery,Successful,49.3,87.7,,
+137,100995,Alex Sandro,1239,Flamengo,17,FirstHalf,Pass,Successful,54,88.4,65.4,69.3
+138,318475,Pedro,1239,Flamengo,17,FirstHalf,BallTouch,Unsuccessful,65.4,69.3,,
+121,517829,Arthur Dias,1243,Athletico Paranaense,17,FirstHalf,BallRecovery,Successful,25.9,29.3,,
+122,517829,Arthur Dias,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,26.9,35.7,30.3,48.2
+123,517830,Felipinho,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,29.4,48.9,20.5,69.9
+124,404979,Lucas Esquivel,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,21.9,68.9,43.3,4.4
+125,410318,Gastón Benavídez,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,55.1,5.3,43.6,21.7
+126,114096,Jádson,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,43.6,21.7,45.4,34.7
+127,517830,Felipinho,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,44.8,29.8,36.4,47.9
+128,477736,Juan Aguirre,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,47.2,57.5,44.8,76.1
+129,404979,Lucas Esquivel,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,44.8,76.1,63.4,75.6
+130,462994,Bruno Zapelli,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,66.9,83.1,64.5,97.4
+131,445159,Léo Derik,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,68.6,89.7,67.6,95.2
+132,462994,Bruno Zapelli,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,67.6,95.2,58.4,84.8
+133,404979,Lucas Esquivel,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,58.7,81.7,42.5,65.3
+134,477736,Juan Aguirre,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,40.1,63.1,37.7,27.9
+135,517829,Arthur Dias,1243,Athletico Paranaense,17,FirstHalf,Pass,Successful,36,24.2,39.9,3.7
+136,410318,Gastón Benavídez,1243,Athletico Paranaense,17,FirstHalf,Pass,Unsuccessful,41,3.9,63.3,32.8
+139,355684,Léo Ortiz,1239,Flamengo,17,FirstHalf,Pass,Unsuccessful,33.6,68.2,45,75
+137,114096,Jádson,1243,Athletico Paranaense,18,FirstHalf,BallTouch,Successful,59.6,27.6,,
+138,279539,Steven Mendoza,1243,Athletico Paranaense,18,FirstHalf,Pass,Unsuccessful,65.7,38.2,100,72.1
+142,303902,Agustín Rossi,1239,Flamengo,18,FirstHalf,Pass,Successful,3.9,50,12.8,63.6
+143,146761,Léo Pereira,1239,Flamengo,18,FirstHalf,Pass,Successful,18.5,65.7,29.4,59.6
+144,355684,Léo Ortiz,1239,Flamengo,18,FirstHalf,Pass,Successful,35.1,58.2,34.3,35.5
+145,88300,Danilo,1239,Flamengo,18,FirstHalf,Pass,Successful,43.5,30.9,46.7,35.4
+146,319756,Lucas Paquetá,1239,Flamengo,18,FirstHalf,Pass,Successful,45.6,36,36.5,54.6
+147,355684,Léo Ortiz,1239,Flamengo,18,FirstHalf,Pass,Successful,36.7,56.1,37.1,78.2
+148,146761,Léo Pereira,1239,Flamengo,18,FirstHalf,Pass,Unsuccessful,40.5,72,77.3,83.9
+140,477736,Juan Aguirre,1243,Athletico Paranaense,18,FirstHalf,Pass,Successful,22.4,14.6,29.3,6.8
+141,410318,Gastón Benavídez,1243,Athletico Paranaense,18,FirstHalf,BallRecovery,Successful,28.5,8,,
+142,410318,Gastón Benavídez,1243,Athletico Paranaense,18,FirstHalf,Pass,Successful,28.5,8,36.8,22.4
+143,114096,Jádson,1243,Athletico Paranaense,18,FirstHalf,Pass,Successful,34.7,19,30.4,29.5
+148,477736,Juan Aguirre,1243,Athletico Paranaense,19,FirstHalf,Pass,Successful,29.5,33,43.5,7
+149,410318,Gastón Benavídez,1243,Athletico Paranaense,19,FirstHalf,Pass,Successful,45.5,8.5,34.1,25.9
+150,517829,Arthur Dias,1243,Athletico Paranaense,19,FirstHalf,Pass,Successful,34.1,25.9,30.4,46.7
+151,477736,Juan Aguirre,1243,Athletico Paranaense,19,FirstHalf,Pass,Successful,30.4,47.5,29.7,64.3
+152,404979,Lucas Esquivel,1243,Athletico Paranaense,19,FirstHalf,Pass,Successful,30.7,67.7,37.3,94.1
+153,445159,Léo Derik,1243,Athletico Paranaense,19,FirstHalf,Pass,Successful,37.3,94.1,39.4,81
+154,462994,Bruno Zapelli,1243,Athletico Paranaense,19,FirstHalf,Pass,Unsuccessful,37,98.3,45.8,85.6
+152,145385,Guillermo Varela,1239,Flamengo,19,FirstHalf,Interception,Successful,54.2,14.4,,
+153,112161,Saúl,1239,Flamengo,19,FirstHalf,BallRecovery,Successful,56.3,31.9,,
+154,112161,Saúl,1239,Flamengo,19,FirstHalf,Pass,Successful,56.9,32.5,66.6,61.4
+155,381594,Samuel Lino,1239,Flamengo,20,FirstHalf,BallTouch,Unsuccessful,66.6,61.4,,
+155,410318,Gastón Benavídez,1243,Athletico Paranaense,20,FirstHalf,BallRecovery,Successful,30.8,28.8,,
+156,410318,Gastón Benavídez,1243,Athletico Paranaense,20,FirstHalf,Pass,Successful,30.1,34,36.6,31.3
+157,114096,Jádson,1243,Athletico Paranaense,20,FirstHalf,Dispossessed,Successful,35.4,32,,
+156,112161,Saúl,1239,Flamengo,20,FirstHalf,Tackle,Successful,64.6,68,,
+157,112161,Saúl,1239,Flamengo,20,FirstHalf,BallRecovery,Successful,65.1,73,,
+158,112161,Saúl,1239,Flamengo,20,FirstHalf,Pass,Successful,63.2,77.2,60.3,78.8
+159,100995,Alex Sandro,1239,Flamengo,20,FirstHalf,Pass,Unsuccessful,60.3,78.8,62.6,74.8
+158,114096,Jádson,1243,Athletico Paranaense,20,FirstHalf,Interception,Successful,37.4,25.2,,
+160,112161,Saúl,1239,Flamengo,20,FirstHalf,BallTouch,Successful,58.7,76.1,,
+159,279539,Steven Mendoza,1243,Athletico Paranaense,20,FirstHalf,BallRecovery,Successful,47.9,26.4,,
+160,279539,Steven Mendoza,1243,Athletico Paranaense,20,FirstHalf,Pass,Successful,73.8,48.9,88.1,64
+161,533161,Kevin Viveros,1243,Athletico Paranaense,20,FirstHalf,MissedShots,Successful,90.2,70.4,,
+162,303902,Agustín Rossi,1239,Flamengo,20,FirstHalf,Pass,Successful,4.6,49.7,13.3,62.3
+163,146761,Léo Pereira,1239,Flamengo,20,FirstHalf,Pass,Successful,28.4,61.5,29,9.7
+164,145385,Guillermo Varela,1239,Flamengo,20,FirstHalf,Pass,Successful,38.8,11.3,31.2,25.9
+165,88300,Danilo,1239,Flamengo,20,FirstHalf,Pass,Successful,34.8,31.8,34,53.6
+166,146761,Léo Pereira,1239,Flamengo,20,FirstHalf,Pass,Successful,34.2,56.7,40.7,83.3
+167,100995,Alex Sandro,1239,Flamengo,21,FirstHalf,Pass,Successful,59.3,73.9,44.9,66.1
+168,146761,Léo Pereira,1239,Flamengo,21,FirstHalf,Pass,Successful,54.1,65.2,67.3,96.2
+169,381594,Samuel Lino,1239,Flamengo,21,FirstHalf,Pass,Unsuccessful,66.5,91.1,67.5,90.8
+165,410318,Gastón Benavídez,1243,Athletico Paranaense,21,FirstHalf,BlockedPass,Successful,32.5,9.2,,
+170,355684,Léo Ortiz,1239,Flamengo,21,FirstHalf,Pass,Successful,67.5,72.6,58.4,85.6
+171,100995,Alex Sandro,1239,Flamengo,21,FirstHalf,Pass,Successful,61.8,77,60.7,66.1
+172,146761,Léo Pereira,1239,Flamengo,21,FirstHalf,Pass,Successful,65.1,56.1,71.7,9.5
+173,145385,Guillermo Varela,1239,Flamengo,21,FirstHalf,Pass,Successful,71.7,9.7,63,15.3
+174,319756,Lucas Paquetá,1239,Flamengo,21,FirstHalf,Pass,Successful,62.6,12.6,68.8,27.7
+175,371036,Jorge Carrascal,1239,Flamengo,21,FirstHalf,Pass,Successful,63,31.6,46.1,28.8
+176,88300,Danilo,1239,Flamengo,21,FirstHalf,Pass,Successful,47,29.8,56.5,78.8
+177,100995,Alex Sandro,1239,Flamengo,21,FirstHalf,Pass,Successful,57.9,78.4,67.9,76.7
+178,371036,Jorge Carrascal,1239,Flamengo,21,FirstHalf,Pass,Successful,75.4,89.4,66.4,89.4
+179,100995,Alex Sandro,1239,Flamengo,21,FirstHalf,Pass,Successful,70,82.9,79.8,94.7
+180,381594,Samuel Lino,1239,Flamengo,21,FirstHalf,Pass,Successful,81.1,94.1,66.2,94.5
+181,100995,Alex Sandro,1239,Flamengo,21,FirstHalf,Pass,Successful,66.4,90.9,64.9,72.9
+182,319756,Lucas Paquetá,1239,Flamengo,21,FirstHalf,Pass,Unsuccessful,64.9,72.9,77.7,70.5
+166,517830,Felipinho,1243,Athletico Paranaense,21,FirstHalf,Interception,Successful,22.3,29.5,,
+167,114096,Jádson,1243,Athletico Paranaense,21,FirstHalf,BallRecovery,Successful,31.4,27.8,,
+168,114096,Jádson,1243,Athletico Paranaense,21,FirstHalf,Pass,Successful,31.4,27.8,32.4,52.1
+169,462994,Bruno Zapelli,1243,Athletico Paranaense,22,FirstHalf,Pass,Successful,31.7,56.7,61.9,85.9
+170,533161,Kevin Viveros,1243,Athletico Paranaense,22,FirstHalf,Pass,Unsuccessful,85.8,81.2,85.7,72.2
+183,88300,Danilo,1239,Flamengo,22,FirstHalf,BallTouch,Successful,10.3,24.6,,
+184,303902,Agustín Rossi,1239,Flamengo,22,FirstHalf,KeeperPickup,Successful,4.2,46.6,,
+185,303902,Agustín Rossi,1239,Flamengo,22,FirstHalf,Pass,Successful,12.7,44.5,14.5,59.6
+186,146761,Léo Pereira,1239,Flamengo,22,FirstHalf,Pass,Successful,21.9,66.7,28.5,88.1
+187,100995,Alex Sandro,1239,Flamengo,22,FirstHalf,Pass,Successful,39.9,76.4,37.1,61.7
+188,146761,Léo Pereira,1239,Flamengo,22,FirstHalf,Pass,Successful,41.4,58.4,41.2,21.2
+189,355684,Léo Ortiz,1239,Flamengo,22,FirstHalf,Pass,Successful,46.1,18.9,48.8,31.2
+190,319756,Lucas Paquetá,1239,Flamengo,22,FirstHalf,Pass,Successful,48.2,31,37.5,34.6
+191,88300,Danilo,1239,Flamengo,22,FirstHalf,Pass,Successful,37.5,34.8,41.5,13.1
+192,355684,Léo Ortiz,1239,Flamengo,22,FirstHalf,Pass,Successful,42.4,13.2,35.4,35.5
+193,88300,Danilo,1239,Flamengo,22,FirstHalf,Pass,Successful,35.6,44.2,33.2,58.8
+194,146761,Léo Pereira,1239,Flamengo,22,FirstHalf,Pass,Successful,35.8,65.2,42.9,92.9
+195,100995,Alex Sandro,1239,Flamengo,22,FirstHalf,Pass,Successful,41.3,89.3,34.6,56.6
+196,88300,Danilo,1239,Flamengo,22,FirstHalf,Pass,Successful,34.6,56.6,31.6,88.1
+197,100995,Alex Sandro,1239,Flamengo,22,FirstHalf,Pass,Successful,32.5,79.3,36,65.4
+198,319756,Lucas Paquetá,1239,Flamengo,23,FirstHalf,Pass,Unsuccessful,36.1,66.4,68.3,81.4
+171,410318,Gastón Benavídez,1243,Athletico Paranaense,23,FirstHalf,Interception,Successful,31.7,18.6,,
+200,381594,Samuel Lino,1239,Flamengo,23,FirstHalf,Pass,Successful,68.1,100,57.6,95.4
+201,100995,Alex Sandro,1239,Flamengo,23,FirstHalf,Pass,Successful,57.6,93.8,57.5,79.1
+202,319756,Lucas Paquetá,1239,Flamengo,23,FirstHalf,Pass,Successful,62.7,68.1,68.9,76.3
+203,381594,Samuel Lino,1239,Flamengo,23,FirstHalf,Pass,Unsuccessful,68.9,76.3,70,80.2
+173,410318,Gastón Benavídez,1243,Athletico Paranaense,23,FirstHalf,BlockedPass,Successful,30,19.8,,
+174,410318,Gastón Benavídez,1243,Athletico Paranaense,23,FirstHalf,Clearance,Successful,27.8,21.2,41.6,22.9
+204,146761,Léo Pereira,1239,Flamengo,23,FirstHalf,Pass,Successful,55.8,72.6,67.3,57.5
+205,355684,Léo Ortiz,1239,Flamengo,23,FirstHalf,TakeOn,Successful,67.8,50.2,,
+175,462994,Bruno Zapelli,1243,Athletico Paranaense,23,FirstHalf,Challenge,Unsuccessful,32.2,49.8,,
+206,355684,Léo Ortiz,1239,Flamengo,23,FirstHalf,Pass,Successful,67.2,54.9,69.8,28.5
+207,371036,Jorge Carrascal,1239,Flamengo,23,FirstHalf,Pass,Unsuccessful,73.1,24.6,92.7,54.9
+176,101675,Santos,1243,Athletico Paranaense,23,FirstHalf,Claim,Successful,7.3,45.1,,
+177,101675,Santos,1243,Athletico Paranaense,23,FirstHalf,Pass,Successful,13.2,44.8,15.7,81.9
+178,404979,Lucas Esquivel,1243,Athletico Paranaense,23,FirstHalf,Pass,Successful,15.9,85.1,32.1,84.4
+179,462994,Bruno Zapelli,1243,Athletico Paranaense,23,FirstHalf,Pass,Unsuccessful,32.7,84.2,47.2,64.6
+208,146761,Léo Pereira,1239,Flamengo,23,FirstHalf,BallRecovery,Successful,56.5,38,,
+209,146761,Léo Pereira,1239,Flamengo,23,FirstHalf,Pass,Successful,59.3,41.3,63.6,61.7
+210,319756,Lucas Paquetá,1239,Flamengo,23,FirstHalf,Pass,Successful,64.1,69.7,68.5,85.4
+211,100995,Alex Sandro,1239,Flamengo,24,FirstHalf,Pass,Successful,69.6,84.5,64,65.2
+212,146761,Léo Pereira,1239,Flamengo,24,FirstHalf,Pass,Successful,64.9,62.9,71.3,9.4
+213,145385,Guillermo Varela,1239,Flamengo,24,FirstHalf,Pass,Successful,71.4,9.4,89,13.5
+214,371036,Jorge Carrascal,1239,Flamengo,24,FirstHalf,Pass,Successful,82.9,9.4,75.9,28.3
+215,355684,Léo Ortiz,1239,Flamengo,24,FirstHalf,Pass,Successful,76.2,28.5,96.3,26.7
+216,145385,Guillermo Varela,1239,Flamengo,24,FirstHalf,Pass,Successful,96.3,26.7,92.6,47.8
+217,318475,Pedro,1239,Flamengo,24,FirstHalf,Pass,Unsuccessful,92.6,47.8,90.7,53.7
+181,410318,Gastón Benavídez,1243,Athletico Paranaense,24,FirstHalf,Clearance,Successful,8.8,47.5,14.4,68.7
+182,462994,Bruno Zapelli,1243,Athletico Paranaense,24,FirstHalf,Clearance,Successful,14.4,68.7,33,75.8
+183,533161,Kevin Viveros,1243,Athletico Paranaense,24,FirstHalf,BallRecovery,Successful,33,75.8,,
+184,533161,Kevin Viveros,1243,Athletico Paranaense,24,FirstHalf,Foul,Successful,63.6,90.4,,
+218,371036,Jorge Carrascal,1239,Flamengo,24,FirstHalf,Foul,Unsuccessful,36.4,9.5,,
+219,371036,Jorge Carrascal,1239,Flamengo,24,FirstHalf,Card,Successful,0,0,,
+187,404979,Lucas Esquivel,1243,Athletico Paranaense,27,FirstHalf,Pass,Successful,68,86.3,87.4,45
+188,517829,Arthur Dias,1243,Athletico Paranaense,27,FirstHalf,Aerial,Successful,87.4,45,,
+220,146761,Léo Pereira,1239,Flamengo,27,FirstHalf,Aerial,Unsuccessful,12.6,55,,
+189,517829,Arthur Dias,1243,Athletico Paranaense,27,FirstHalf,MissedShots,Successful,87.4,45,,
+192,445159,Léo Derik,1243,Athletico Paranaense,27,FirstHalf,SubstitutionOff,Successful,0,0,,
+193,605467,Claudinho,1243,Athletico Paranaense,27,FirstHalf,SubstitutionOn,Successful,0,0,,
+223,303902,Agustín Rossi,1239,Flamengo,28,FirstHalf,Pass,Successful,4.1,59,25,62.1
+224,146761,Léo Pereira,1239,Flamengo,28,FirstHalf,Pass,Successful,33.2,58.1,33.6,37.6
+225,88300,Danilo,1239,Flamengo,28,FirstHalf,Pass,Successful,39.3,32.2,47,46.3
+226,355684,Léo Ortiz,1239,Flamengo,28,FirstHalf,Pass,Successful,47,46.3,32.7,51.2
+227,146761,Léo Pereira,1239,Flamengo,28,FirstHalf,Pass,Unsuccessful,36.4,56.9,57,67.9
+194,517829,Arthur Dias,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,41.3,31.8,55.1,30
+195,114096,Jádson,1243,Athletico Paranaense,28,FirstHalf,BallRecovery,Successful,55.1,30,,
+196,114096,Jádson,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,45.6,30.8,45.2,42.5
+197,517830,Felipinho,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,45.2,42.5,45.9,26.9
+198,114096,Jádson,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,45.9,26.9,31.3,48.4
+199,477736,Juan Aguirre,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,31.3,48.4,30.2,72.4
+200,404979,Lucas Esquivel,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,31.5,69.5,33.7,24.4
+201,517829,Arthur Dias,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,45,25.1,65.2,92.9
+202,605467,Claudinho,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,65.2,92.9,69.8,79.5
+203,462994,Bruno Zapelli,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,69.8,79.5,61.1,89.1
+204,404979,Lucas Esquivel,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,61.1,89.1,62.3,70.7
+205,517830,Felipinho,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,62.1,73.1,58.4,90
+206,404979,Lucas Esquivel,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,57.8,90.3,37.6,61.6
+207,477736,Juan Aguirre,1243,Athletico Paranaense,28,FirstHalf,Pass,Successful,35.7,60.9,37.4,30
+208,517829,Arthur Dias,1243,Athletico Paranaense,29,FirstHalf,Pass,Successful,39.3,28.8,47.5,3.9
+209,410318,Gastón Benavídez,1243,Athletico Paranaense,29,FirstHalf,Pass,Successful,54.8,4.9,57.5,22.2
+210,462994,Bruno Zapelli,1243,Athletico Paranaense,29,FirstHalf,BallTouch,Unsuccessful,57.5,22.2,,
+228,100995,Alex Sandro,1239,Flamengo,29,FirstHalf,Pass,Unsuccessful,43.3,95,43.2,92.9
+211,410318,Gastón Benavídez,1243,Athletico Paranaense,29,FirstHalf,BlockedPass,Successful,56.8,7.1,,
+212,410318,Gastón Benavídez,1243,Athletico Paranaense,29,FirstHalf,Pass,Unsuccessful,54.7,12.5,70.3,9.8
+229,146761,Léo Pereira,1239,Flamengo,29,FirstHalf,BallRecovery,Successful,27.2,93.3,,
+230,146761,Léo Pereira,1239,Flamengo,29,FirstHalf,Pass,Successful,32.1,74.2,32.1,26.5
+231,145385,Guillermo Varela,1239,Flamengo,29,FirstHalf,Pass,Successful,44.8,13.1,46.3,28
+232,319756,Lucas Paquetá,1239,Flamengo,29,FirstHalf,Pass,Successful,46.3,22.8,45.9,9.5
+233,145385,Guillermo Varela,1239,Flamengo,29,FirstHalf,Pass,Successful,45.9,9.5,34,24.7
+234,88300,Danilo,1239,Flamengo,29,FirstHalf,Pass,Successful,34.4,39.4,29.6,71.2
+235,146761,Léo Pereira,1239,Flamengo,29,FirstHalf,Pass,Successful,27,91.5,33.9,97.5
+236,100995,Alex Sandro,1239,Flamengo,29,FirstHalf,Pass,Successful,34.3,98.7,41.6,97.8
+237,371036,Jorge Carrascal,1239,Flamengo,29,FirstHalf,Pass,Successful,41.6,97.8,53.8,94.4
+238,318475,Pedro,1239,Flamengo,29,FirstHalf,BallTouch,Unsuccessful,53.8,94.4,,
+214,410318,Gastón Benavídez,1243,Athletico Paranaense,30,FirstHalf,Pass,Successful,53.2,0,77,12.9
+215,462994,Bruno Zapelli,1243,Athletico Paranaense,30,FirstHalf,TakeOn,Unsuccessful,80.2,12.4,,
+240,88300,Danilo,1239,Flamengo,30,FirstHalf,Tackle,Successful,19.8,87.6,,
+217,410318,Gastón Benavídez,1243,Athletico Paranaense,30,FirstHalf,Pass,Unsuccessful,85.8,0,92.8,31.1
+242,146761,Léo Pereira,1239,Flamengo,30,FirstHalf,Clearance,Successful,5.1,70.6,9.5,73.3
+243,100995,Alex Sandro,1239,Flamengo,30,FirstHalf,BallTouch,Successful,7.7,72.7,,
+218,410318,Gastón Benavídez,1243,Athletico Paranaense,30,FirstHalf,CornerAwarded,Successful,92.6,28.8,,
+244,100995,Alex Sandro,1239,Flamengo,30,FirstHalf,CornerAwarded,Unsuccessful,7.5,71.3,,
+219,404979,Lucas Esquivel,1243,Athletico Paranaense,31,FirstHalf,Pass,Successful,99.5,0.5,91,42
+220,477736,Juan Aguirre,1243,Athletico Paranaense,31,FirstHalf,Aerial,Successful,91,42,,
+247,112161,Saúl,1239,Flamengo,31,FirstHalf,Aerial,Unsuccessful,9,58,,
+229,477736,Juan Aguirre,1243,Athletico Paranaense,31,FirstHalf,SavedShot,Successful,91,42,,
+245,112161,Saúl,1239,Flamengo,31,FirstHalf,Save,Successful,7.1,56.9,,
+246,112161,Saúl,1239,Flamengo,31,FirstHalf,CornerAwarded,Unsuccessful,4.2,59.4,,
+221,477736,Juan Aguirre,1243,Athletico Paranaense,31,FirstHalf,CornerAwarded,Successful,95.8,40.6,,
+222,404979,Lucas Esquivel,1243,Athletico Paranaense,31,FirstHalf,Pass,Unsuccessful,99.8,0.5,100,83.1
+249,303902,Agustín Rossi,1239,Flamengo,32,FirstHalf,Pass,Successful,4.9,41.9,24.3,7.9
+250,145385,Guillermo Varela,1239,Flamengo,32,FirstHalf,Pass,Successful,27.4,3.2,43.3,15
+251,381594,Samuel Lino,1239,Flamengo,32,FirstHalf,Pass,Successful,27.7,15.9,13.2,11.1
+252,88300,Danilo,1239,Flamengo,32,FirstHalf,Pass,Successful,13.2,11.7,3.8,41.2
+253,303902,Agustín Rossi,1239,Flamengo,32,FirstHalf,Pass,Successful,4.1,41.8,11.5,71.8
+254,146761,Léo Pereira,1239,Flamengo,32,FirstHalf,Pass,Successful,43.8,90.6,60.8,97.2
+255,100995,Alex Sandro,1239,Flamengo,32,FirstHalf,Pass,Successful,68,95.6,65,86.3
+256,371036,Jorge Carrascal,1239,Flamengo,32,FirstHalf,Pass,Successful,64.6,85,59.5,74.5
+257,355684,Léo Ortiz,1239,Flamengo,32,FirstHalf,Pass,Successful,59.8,73,65.2,58.2
+258,319756,Lucas Paquetá,1239,Flamengo,32,FirstHalf,Pass,Successful,68,57.9,77.7,59.1
+259,318475,Pedro,1239,Flamengo,32,FirstHalf,Pass,Successful,77.7,59.1,72.3,59.7
+260,319756,Lucas Paquetá,1239,Flamengo,32,FirstHalf,SavedShot,Successful,72.3,59.7,,
+224,517830,Felipinho,1243,Athletico Paranaense,32,FirstHalf,Save,Successful,25,41.3,,
+225,279539,Steven Mendoza,1243,Athletico Paranaense,32,FirstHalf,BallRecovery,Successful,30.4,39.8,,
+226,279539,Steven Mendoza,1243,Athletico Paranaense,32,FirstHalf,Pass,Successful,30.4,39.8,34,61.8
+227,533161,Kevin Viveros,1243,Athletico Paranaense,32,FirstHalf,BallTouch,Unsuccessful,34,61.8,,
+261,88300,Danilo,1239,Flamengo,32,FirstHalf,Foul,Successful,64.1,38.7,,
+228,533161,Kevin Viveros,1243,Athletico Paranaense,32,FirstHalf,Foul,Unsuccessful,36,61.3,,
+262,371036,Jorge Carrascal,1239,Flamengo,33,FirstHalf,Pass,Successful,65.4,39.1,89.9,52.2
+263,88300,Danilo,1239,Flamengo,33,FirstHalf,Aerial,Successful,89.9,52.2,,
+230,462994,Bruno Zapelli,1243,Athletico Paranaense,33,FirstHalf,Aerial,Unsuccessful,10.1,47.8,,
+264,88300,Danilo,1239,Flamengo,33,FirstHalf,MissedShots,Successful,89.9,52.2,,
+232,101675,Santos,1243,Athletico Paranaense,34,FirstHalf,Pass,Successful,5,49.1,31.5,27.6
+233,517830,Felipinho,1243,Athletico Paranaense,34,FirstHalf,BallTouch,Successful,31.5,27.6,,
+266,319756,Lucas Paquetá,1239,Flamengo,34,FirstHalf,Pass,Successful,57.4,73.2,65.7,85.4
+267,371036,Jorge Carrascal,1239,Flamengo,34,FirstHalf,BallRecovery,Successful,65.7,85.4,,
+268,371036,Jorge Carrascal,1239,Flamengo,34,FirstHalf,Pass,Successful,65.7,85.4,69.7,66.3
+269,318475,Pedro,1239,Flamengo,34,FirstHalf,Pass,Successful,69.7,66.3,57.5,64.2
+270,355684,Léo Ortiz,1239,Flamengo,34,FirstHalf,Pass,Successful,65.4,63.1,67.2,67.8
+271,112161,Saúl,1239,Flamengo,34,FirstHalf,Pass,Successful,64.4,45.8,68.6,34.6
+272,381594,Samuel Lino,1239,Flamengo,34,FirstHalf,Pass,Successful,68.9,32.5,70.7,7.4
+273,145385,Guillermo Varela,1239,Flamengo,34,FirstHalf,Pass,Successful,64.9,9.7,47.5,23.4
+274,88300,Danilo,1239,Flamengo,34,FirstHalf,Pass,Successful,52.9,27.9,54.3,44.2
+275,355684,Léo Ortiz,1239,Flamengo,34,FirstHalf,Pass,Successful,63.7,42.8,62.7,85.7
+276,100995,Alex Sandro,1239,Flamengo,34,FirstHalf,Pass,Successful,77.8,86.8,74.1,78.7
+277,319756,Lucas Paquetá,1239,Flamengo,34,FirstHalf,Pass,Unsuccessful,73.7,78.2,100,11.6
+234,605467,Claudinho,1243,Athletico Paranaense,34,FirstHalf,ShieldBallOpp,Successful,2,90,,
+236,101675,Santos,1243,Athletico Paranaense,35,FirstHalf,Pass,Successful,5,50.4,71.1,61.6
+237,533161,Kevin Viveros,1243,Athletico Paranaense,35,FirstHalf,Pass,Unsuccessful,71.1,61.6,96.9,65.3
+279,303902,Agustín Rossi,1239,Flamengo,35,FirstHalf,KeeperPickup,Successful,2,29.4,,
+280,303902,Agustín Rossi,1239,Flamengo,35,FirstHalf,Pass,Successful,4.1,30.9,27.3,82.1
+281,100995,Alex Sandro,1239,Flamengo,35,FirstHalf,Pass,Successful,61.3,92.1,66.2,97.1
+282,371036,Jorge Carrascal,1239,Flamengo,35,FirstHalf,Pass,Successful,62,62.9,62.5,20.6
+283,112161,Saúl,1239,Flamengo,35,FirstHalf,Pass,Unsuccessful,66.2,20.7,70.5,22.4
+238,462994,Bruno Zapelli,1243,Athletico Paranaense,35,FirstHalf,Interception,Successful,29.5,77.6,,
+239,605467,Claudinho,1243,Athletico Paranaense,35,FirstHalf,Pass,Unsuccessful,27.5,87.1,41.6,83.2
+284,145385,Guillermo Varela,1239,Flamengo,35,FirstHalf,Pass,Successful,61.3,9.5,49.8,24
+285,88300,Danilo,1239,Flamengo,36,FirstHalf,Pass,Successful,52.8,28.8,65.3,47.6
+286,371036,Jorge Carrascal,1239,Flamengo,36,FirstHalf,Pass,Successful,64.3,57.9,53.2,72.7
+287,146761,Léo Pereira,1239,Flamengo,36,FirstHalf,Pass,Successful,53.2,72.7,63.1,85.3
+288,319756,Lucas Paquetá,1239,Flamengo,36,FirstHalf,Pass,Successful,69.7,86.8,84.9,96.2
+289,100995,Alex Sandro,1239,Flamengo,36,FirstHalf,Pass,Successful,88.2,95.3,71.4,92.7
+290,319756,Lucas Paquetá,1239,Flamengo,36,FirstHalf,Pass,Successful,71.9,89,74.7,76.3
+291,371036,Jorge Carrascal,1239,Flamengo,36,FirstHalf,Pass,Successful,74.7,76.3,75.9,60.6
+292,355684,Léo Ortiz,1239,Flamengo,36,FirstHalf,Pass,Successful,75.9,60.6,88.8,67
+293,319756,Lucas Paquetá,1239,Flamengo,36,FirstHalf,Pass,Unsuccessful,88.8,67,100,34.9
+241,101675,Santos,1243,Athletico Paranaense,36,FirstHalf,Pass,Successful,5.1,49.6,5.9,42.1
+242,477736,Juan Aguirre,1243,Athletico Paranaense,36,FirstHalf,Pass,Successful,5.9,42.1,11.3,19.1
+243,517829,Arthur Dias,1243,Athletico Paranaense,36,FirstHalf,Pass,Successful,20.4,31.8,11.8,83.2
+244,404979,Lucas Esquivel,1243,Athletico Paranaense,37,FirstHalf,Pass,Successful,22.6,84.8,33.4,94.1
+245,605467,Claudinho,1243,Athletico Paranaense,37,FirstHalf,Pass,Successful,33.4,94.1,24.6,84.6
+246,404979,Lucas Esquivel,1243,Athletico Paranaense,37,FirstHalf,Pass,Successful,26.8,74.8,13.9,59
+247,477736,Juan Aguirre,1243,Athletico Paranaense,37,FirstHalf,Pass,Successful,13.9,59,2.6,45.7
+248,101675,Santos,1243,Athletico Paranaense,37,FirstHalf,Pass,Successful,2.6,45.7,55.8,74.8
+249,533161,Kevin Viveros,1243,Athletico Paranaense,37,FirstHalf,BallTouch,Successful,55.8,74.8,,
+295,145385,Guillermo Varela,1239,Flamengo,37,FirstHalf,Challenge,Unsuccessful,40.9,19.1,,
+250,462994,Bruno Zapelli,1243,Athletico Paranaense,37,FirstHalf,TakeOn,Successful,59.1,80.9,,
+251,462994,Bruno Zapelli,1243,Athletico Paranaense,37,FirstHalf,Dispossessed,Successful,67.7,83.2,,
+296,145385,Guillermo Varela,1239,Flamengo,37,FirstHalf,Tackle,Unsuccessful,32.3,16.8,,
+252,462994,Bruno Zapelli,1243,Athletico Paranaense,37,FirstHalf,Pass,Unsuccessful,89.6,82.6,89.7,77
+297,112161,Saúl,1239,Flamengo,37,FirstHalf,Clearance,Successful,10.3,23,,
+298,112161,Saúl,1239,Flamengo,37,FirstHalf,CornerAwarded,Unsuccessful,9.2,21.6,,
+253,462994,Bruno Zapelli,1243,Athletico Paranaense,37,FirstHalf,CornerAwarded,Successful,90.8,78.4,,
+254,462994,Bruno Zapelli,1243,Athletico Paranaense,38,FirstHalf,Pass,Unsuccessful,99.5,99.5,94,46.9
+299,303902,Agustín Rossi,1239,Flamengo,38,FirstHalf,Claim,Successful,6,53.1,,
+300,303902,Agustín Rossi,1239,Flamengo,38,FirstHalf,Pass,Successful,14.2,51.9,20.5,36.9
+301,88300,Danilo,1239,Flamengo,38,FirstHalf,Pass,Successful,38.7,18.5,55.7,7.9
+302,381594,Samuel Lino,1239,Flamengo,38,FirstHalf,Pass,Successful,55.7,7.9,36.5,15.2
+303,88300,Danilo,1239,Flamengo,38,FirstHalf,Pass,Successful,36.8,20.9,36.1,54.2
+304,146761,Léo Pereira,1239,Flamengo,38,FirstHalf,Pass,Successful,39.5,61.1,57.1,96.3
+305,371036,Jorge Carrascal,1239,Flamengo,38,FirstHalf,Pass,Successful,59.8,93.9,60.8,76.4
+306,319756,Lucas Paquetá,1239,Flamengo,38,FirstHalf,Pass,Successful,60.8,76.4,54.7,85
+307,371036,Jorge Carrascal,1239,Flamengo,38,FirstHalf,Pass,Successful,55.7,68.8,53.8,34.3
+308,88300,Danilo,1239,Flamengo,38,FirstHalf,Pass,Successful,54.9,35.7,52.2,56.9
+309,146761,Léo Pereira,1239,Flamengo,38,FirstHalf,Pass,Successful,52.9,57.9,61.1,88.6
+310,100995,Alex Sandro,1239,Flamengo,38,FirstHalf,Pass,Successful,66.7,86.2,63.9,70.5
+311,319756,Lucas Paquetá,1239,Flamengo,38,FirstHalf,TakeOn,Unsuccessful,66.7,69.8,,
+255,114096,Jádson,1243,Athletico Paranaense,38,FirstHalf,Tackle,Unsuccessful,33.3,30.2,,
+312,319756,Lucas Paquetá,1239,Flamengo,38,FirstHalf,BallTouch,Successful,65.7,69.7,,
+256,517830,Felipinho,1243,Athletico Paranaense,38,FirstHalf,Pass,Unsuccessful,27.6,31.7,29.7,29.3
+313,319756,Lucas Paquetá,1239,Flamengo,38,FirstHalf,BlockedPass,Successful,70.3,70.7,,
+314,319756,Lucas Paquetá,1239,Flamengo,38,FirstHalf,Foul,Successful,69.7,57.3,,
+258,517830,Felipinho,1243,Athletico Paranaense,38,FirstHalf,Foul,Unsuccessful,30.3,42.7,,
+260,517830,Felipinho,1243,Athletico Paranaense,39,FirstHalf,Card,Successful,0,0,,
+317,146761,Léo Pereira,1239,Flamengo,42,FirstHalf,MissedShots,Successful,70,53.6,,
+263,101675,Santos,1243,Athletico Paranaense,42,FirstHalf,Pass,Unsuccessful,4.8,41.1,63.2,37.7
+319,112161,Saúl,1239,Flamengo,42,FirstHalf,Pass,Unsuccessful,35.2,61.8,55.8,63.7
+264,477736,Juan Aguirre,1243,Athletico Paranaense,42,FirstHalf,Pass,Unsuccessful,39.3,34.9,66.2,27.4
+320,100995,Alex Sandro,1239,Flamengo,42,FirstHalf,TakeOn,Successful,32.6,72.6,,
+265,533161,Kevin Viveros,1243,Athletico Paranaense,42,FirstHalf,Challenge,Unsuccessful,67.4,27.4,,
+321,100995,Alex Sandro,1239,Flamengo,42,FirstHalf,BallRecovery,Successful,31.7,71.1,,
+322,100995,Alex Sandro,1239,Flamengo,42,FirstHalf,Pass,Successful,31.9,70.6,32.9,63.4
+323,355684,Léo Ortiz,1239,Flamengo,42,FirstHalf,Pass,Successful,32.9,63.4,40.4,73.5
+324,371036,Jorge Carrascal,1239,Flamengo,42,FirstHalf,Dispossessed,Successful,45.7,74.6,,
+266,410318,Gastón Benavídez,1243,Athletico Paranaense,42,FirstHalf,Tackle,Successful,54.3,25.4,,
+267,410318,Gastón Benavídez,1243,Athletico Paranaense,42,FirstHalf,Foul,Successful,48.8,25.4,,
+325,371036,Jorge Carrascal,1239,Flamengo,42,FirstHalf,Foul,Unsuccessful,51.2,74.6,,
+268,517829,Arthur Dias,1243,Athletico Paranaense,43,FirstHalf,Pass,Successful,47.2,28.1,42.6,69
+269,404979,Lucas Esquivel,1243,Athletico Paranaense,44,FirstHalf,Pass,Successful,44.6,69.9,62.1,93.2
+270,605467,Claudinho,1243,Athletico Paranaense,44,FirstHalf,Pass,Successful,59.8,93.4,41.5,77.3
+271,404979,Lucas Esquivel,1243,Athletico Paranaense,44,FirstHalf,Pass,Successful,41.6,75.8,29.7,43.2
+272,477736,Juan Aguirre,1243,Athletico Paranaense,44,FirstHalf,Pass,Successful,29.5,34.4,60.8,22.5
+273,410318,Gastón Benavídez,1243,Athletico Paranaense,44,FirstHalf,Pass,Unsuccessful,60.8,22.5,75.8,39.1
+326,88300,Danilo,1239,Flamengo,44,FirstHalf,Pass,Successful,23.6,62,26.8,73.2
+327,100995,Alex Sandro,1239,Flamengo,44,FirstHalf,BallRecovery,Successful,26.7,74.5,,
+328,100995,Alex Sandro,1239,Flamengo,44,FirstHalf,Pass,Successful,26.4,81.1,45.5,92.9
+329,371036,Jorge Carrascal,1239,Flamengo,44,FirstHalf,Pass,Successful,45.5,92.9,38.7,74.8
+330,112161,Saúl,1239,Flamengo,44,FirstHalf,Pass,Unsuccessful,38.7,74.8,54,66.9
+274,517830,Felipinho,1243,Athletico Paranaense,44,FirstHalf,BallRecovery,Successful,44.2,28.8,,
+275,517830,Felipinho,1243,Athletico Paranaense,44,FirstHalf,Pass,Unsuccessful,44.2,28.8,55.7,0
+332,100995,Alex Sandro,1239,Flamengo,44,FirstHalf,Pass,Successful,43.9,100,28.6,75.1
+333,146761,Léo Pereira,1239,Flamengo,44,FirstHalf,Pass,Successful,32.9,60.3,37.4,11.7
+334,145385,Guillermo Varela,1239,Flamengo,44,FirstHalf,Pass,Successful,41.9,7.7,39.2,27.3
+335,88300,Danilo,1239,Flamengo,44,FirstHalf,Pass,Successful,41.3,29.5,47.2,42.7
+336,319756,Lucas Paquetá,1239,Flamengo,44,FirstHalf,Pass,Successful,47.5,49.4,62,92.1
+337,100995,Alex Sandro,1239,Flamengo,44,FirstHalf,Pass,Successful,62,92.1,75.8,94.5
+338,371036,Jorge Carrascal,1239,Flamengo,44,FirstHalf,Pass,Successful,79.5,93.3,74,76
+339,319756,Lucas Paquetá,1239,Flamengo,44,FirstHalf,Pass,Unsuccessful,74.4,71.5,84.1,50.6
+277,404979,Lucas Esquivel,1243,Athletico Paranaense,45,FirstHalf,Interception,Successful,15.9,49.4,,
+278,533161,Kevin Viveros,1243,Athletico Paranaense,45,FirstHalf,BallTouch,Unsuccessful,25.7,45.2,,
+340,319756,Lucas Paquetá,1239,Flamengo,45,FirstHalf,Pass,Successful,70.9,54.6,60.8,70.6
+341,355684,Léo Ortiz,1239,Flamengo,45,FirstHalf,Pass,Successful,61.5,75.4,65.9,81.8
+342,371036,Jorge Carrascal,1239,Flamengo,45,FirstHalf,Pass,Successful,66.8,82.7,72.9,95.7
+343,100995,Alex Sandro,1239,Flamengo,45,FirstHalf,Pass,Successful,72.2,93.3,66.4,75.6
+344,319756,Lucas Paquetá,1239,Flamengo,45,FirstHalf,Pass,Successful,68.4,78.5,73.2,74.4
+345,371036,Jorge Carrascal,1239,Flamengo,45,FirstHalf,Pass,Successful,73.2,74.4,64,66
+346,146761,Léo Pereira,1239,Flamengo,45,FirstHalf,Pass,Successful,67.3,60,72.9,10.7
+347,145385,Guillermo Varela,1239,Flamengo,45,FirstHalf,Pass,Successful,72.1,5.9,53.8,25.5
+348,88300,Danilo,1239,Flamengo,45,FirstHalf,Pass,Successful,53.1,29.5,53.6,52.8
+349,146761,Léo Pereira,1239,Flamengo,45,FirstHalf,Pass,Successful,53.6,52.8,59.6,81.5
+350,355684,Léo Ortiz,1239,Flamengo,45,FirstHalf,Pass,Successful,59.2,79.9,73.5,75.7
+351,371036,Jorge Carrascal,1239,Flamengo,45,FirstHalf,Pass,Unsuccessful,72.9,69.7,95.5,0
+280,404979,Lucas Esquivel,1243,Athletico Paranaense,46,FirstHalf,Pass,Unsuccessful,8.8,100,35,92.2
+353,355684,Léo Ortiz,1239,Flamengo,46,FirstHalf,Pass,Unsuccessful,58,6.2,66.7,13.4
+281,605467,Claudinho,1243,Athletico Paranaense,46,FirstHalf,Pass,Unsuccessful,26.7,87.1,36.6,76.6
+354,112161,Saúl,1239,Flamengo,46,FirstHalf,Pass,Unsuccessful,58.9,21.2,89.1,32.1
+282,101675,Santos,1243,Athletico Paranaense,46,FirstHalf,KeeperPickup,Successful,8.5,68.9,,
+283,101675,Santos,1243,Athletico Paranaense,46,FirstHalf,Pass,Unsuccessful,8.5,68.9,60.4,36.6
+355,146761,Léo Pereira,1239,Flamengo,46,FirstHalf,Pass,Successful,39,60,46.6,71.4
+356,100995,Alex Sandro,1239,Flamengo,46,FirstHalf,BallRecovery,Successful,46.4,70.6,,
+357,100995,Alex Sandro,1239,Flamengo,46,FirstHalf,Pass,Unsuccessful,48,69.3,62,69.4
+284,114096,Jádson,1243,Athletico Paranaense,46,FirstHalf,Interception,Successful,38,30.6,,
+359,100995,Alex Sandro,1239,Flamengo,46,FirstHalf,Pass,Successful,64.6,100,48.9,89
+360,146761,Léo Pereira,1239,Flamengo,46,FirstHalf,Pass,Successful,60.2,65.8,63.7,6.2
+361,145385,Guillermo Varela,1239,Flamengo,46,FirstHalf,Pass,Successful,62.6,5.8,52.3,22.5
+362,88300,Danilo,1239,Flamengo,46,FirstHalf,Pass,Successful,51.6,29.4,60.5,4.3
+363,381594,Samuel Lino,1239,Flamengo,46,FirstHalf,Pass,Successful,59.2,5.9,38.3,40.9
+364,146761,Léo Pereira,1239,Flamengo,46,FirstHalf,Pass,Successful,38.3,49.7,54.5,73.5
+365,100995,Alex Sandro,1239,Flamengo,47,FirstHalf,Pass,Successful,69.4,82.9,63.6,64.3
+366,319756,Lucas Paquetá,1239,Flamengo,47,FirstHalf,Pass,Successful,64.1,59.3,68.6,33
+367,145385,Guillermo Varela,1239,Flamengo,47,FirstHalf,Pass,Successful,70.2,28.3,82.6,6.1
+368,381594,Samuel Lino,1239,Flamengo,47,FirstHalf,Pass,Successful,76.3,21.2,70.7,31.3
+369,319756,Lucas Paquetá,1239,Flamengo,47,FirstHalf,Pass,Successful,70.7,31.2,71.5,40.3
+370,355684,Léo Ortiz,1239,Flamengo,47,FirstHalf,Pass,Unsuccessful,71.5,40.3,85.2,39.8
+287,404979,Lucas Esquivel,1243,Athletico Paranaense,47,FirstHalf,Clearance,Successful,13.7,65.5,16.7,66.5
+371,381594,Samuel Lino,1239,Flamengo,47,FirstHalf,BallTouch,Successful,85.2,39.8,,
+288,517830,Felipinho,1243,Athletico Paranaense,47,FirstHalf,BallRecovery,Successful,28,69,,
+289,517830,Felipinho,1243,Athletico Paranaense,47,FirstHalf,Pass,Successful,29.1,85.4,21.5,95.1
+290,462994,Bruno Zapelli,1243,Athletico Paranaense,47,FirstHalf,Pass,Unsuccessful,23.1,89.3,79.2,51.6
+372,146761,Léo Pereira,1239,Flamengo,47,FirstHalf,Pass,Successful,29.9,48.4,16.2,33.6
+373,303902,Agustín Rossi,1239,Flamengo,47,FirstHalf,BallRecovery,Successful,18.9,27.6,,
+374,303902,Agustín Rossi,1239,Flamengo,47,FirstHalf,Pass,Unsuccessful,20.4,17.6,57.9,11.7
+291,605467,Claudinho,1243,Athletico Paranaense,47,FirstHalf,TakeOn,Unsuccessful,45.2,80.9,,
+375,355684,Léo Ortiz,1239,Flamengo,47,FirstHalf,Tackle,Successful,54.8,19.1,,
+376,355684,Léo Ortiz,1239,Flamengo,47,FirstHalf,Pass,Successful,43.6,22.5,41.2,12
+377,145385,Guillermo Varela,1239,Flamengo,47,FirstHalf,Pass,Unsuccessful,33.5,9.1,26.9,19.8
+293,533161,Kevin Viveros,1243,Athletico Paranaense,47,FirstHalf,BallTouch,Unsuccessful,71.2,81.2,,
+378,88300,Danilo,1239,Flamengo,47,FirstHalf,Pass,Successful,22.8,23.1,7.4,47.3
+379,303902,Agustín Rossi,1239,Flamengo,47,FirstHalf,Pass,Successful,7.4,47.3,23.9,74.5
+380,100995,Alex Sandro,1239,Flamengo,47,FirstHalf,Pass,Successful,24.3,74.1,29.9,62.1
+381,112161,Saúl,1239,Flamengo,47,FirstHalf,Pass,Unsuccessful,29.9,62.1,38.5,100
+295,410318,Gastón Benavídez,1243,Athletico Paranaense,48,FirstHalf,Pass,Successful,64.4,0,92.7,5.9
+296,279539,Steven Mendoza,1243,Athletico Paranaense,48,FirstHalf,Dispossessed,Successful,91.9,4.2,,
+383,100995,Alex Sandro,1239,Flamengo,48,FirstHalf,Tackle,Unsuccessful,8.1,95.8,,
+311,279539,Steven Mendoza,1243,Athletico Paranaense,48,FirstHalf,Dispossessed,Successful,88.6,7.9,,
+403,100995,Alex Sandro,1239,Flamengo,48,FirstHalf,Tackle,Unsuccessful,11.4,92.1,,
+297,279539,Steven Mendoza,1243,Athletico Paranaense,48,FirstHalf,BallTouch,Successful,92.3,3.7,,
+385,112161,Saúl,1239,Flamengo,48,FirstHalf,Pass,Unsuccessful,4.3,92.9,34.2,93.5
+298,517829,Arthur Dias,1243,Athletico Paranaense,48,FirstHalf,Pass,Unsuccessful,68.2,10,87,28.8
+386,146761,Léo Pereira,1239,Flamengo,48,FirstHalf,Pass,Successful,14.7,74.2,25.9,59.9
+387,381594,Samuel Lino,1239,Flamengo,48,FirstHalf,Pass,Successful,25.9,59.9,21.6,30.9
+388,145385,Guillermo Varela,1239,Flamengo,48,FirstHalf,BallRecovery,Successful,26.1,26.1,,
+389,145385,Guillermo Varela,1239,Flamengo,48,FirstHalf,Pass,Successful,34.7,14.3,39.4,30.6
+390,319756,Lucas Paquetá,1239,Flamengo,48,FirstHalf,Pass,Successful,39.4,30.6,27.7,20.3
+391,88300,Danilo,1239,Flamengo,48,FirstHalf,Pass,Successful,26.1,16.5,35.4,21.2
+392,319756,Lucas Paquetá,1239,Flamengo,48,FirstHalf,Pass,Successful,35.4,24.3,33.2,45.1
+393,355684,Léo Ortiz,1239,Flamengo,48,FirstHalf,Pass,Successful,38.7,48.4,36.5,70
+394,146761,Léo Pereira,1239,Flamengo,48,FirstHalf,Pass,Successful,36.6,70.9,48.6,94.2
+395,100995,Alex Sandro,1239,Flamengo,48,FirstHalf,Pass,Successful,54,96.6,45.5,71.1
+396,355684,Léo Ortiz,1239,Flamengo,48,FirstHalf,Pass,Unsuccessful,45.5,71.1,63.6,77.8
+299,517829,Arthur Dias,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,38.7,23.7,46.7,27.3
+300,462994,Bruno Zapelli,1243,Athletico Paranaense,49,FirstHalf,BallRecovery,Successful,46.7,27.3,,
+301,462994,Bruno Zapelli,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,46.7,27.3,48.1,6.8
+302,410318,Gastón Benavídez,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,48.1,6.8,60.5,25.7
+303,279539,Steven Mendoza,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,53.9,33.2,40.3,25.7
+304,517829,Arthur Dias,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,40.9,29.6,45.3,20.8
+305,114096,Jádson,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,43.6,22.9,32.4,50.4
+306,477736,Juan Aguirre,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,33.6,53.6,33.3,77.5
+307,404979,Lucas Esquivel,1243,Athletico Paranaense,49,FirstHalf,Pass,Successful,33,81.4,39.6,96.4
+308,605467,Claudinho,1243,Athletico Paranaense,49,FirstHalf,Pass,Unsuccessful,39.6,96.4,46.9,90.8
+402,145385,Guillermo Varela,1239,Flamengo,49,FirstHalf,BallTouch,Successful,58.6,5.6,,
+398,88300,Danilo,1239,Flamengo,49,FirstHalf,BallRecovery,Successful,35.3,8.3,,
+399,88300,Danilo,1239,Flamengo,49,FirstHalf,Pass,Successful,30.1,10.6,27.8,31.3
+400,146761,Léo Pereira,1239,Flamengo,49,FirstHalf,Pass,Successful,36.1,45.1,70.1,8.2
+401,381594,Samuel Lino,1239,Flamengo,49,FirstHalf,Foul,Successful,71.2,11.9,,
+309,404979,Lucas Esquivel,1243,Athletico Paranaense,49,FirstHalf,Foul,Unsuccessful,28.8,88.1,,
+310,,,1243,Athletico Paranaense,49,FirstHalf,Card,Successful,0,0,,
+404,371036,Jorge Carrascal,1239,Flamengo,50,FirstHalf,Pass,Unsuccessful,68.3,11.3,92.3,54.6
+313,517830,Felipinho,1243,Athletico Paranaense,50,FirstHalf,Clearance,Successful,8.3,42.3,11,8.3
+315,410318,Gastón Benavídez,1243,Athletico Paranaense,50,FirstHalf,Pass,Unsuccessful,13.9,4.9,44.6,23.7
+405,100995,Alex Sandro,1239,Flamengo,50,FirstHalf,Pass,Successful,56.6,67.5,55,60.3
+406,355684,Léo Ortiz,1239,Flamengo,50,FirstHalf,Pass,Successful,54.9,55.1,58.8,18.9
+407,145385,Guillermo Varela,1239,Flamengo,51,FirstHalf,Pass,Successful,59.9,15.8,67.3,5.9
+408,371036,Jorge Carrascal,1239,Flamengo,51,FirstHalf,Pass,Successful,66.2,8.3,47.8,30
+409,88300,Danilo,1239,Flamengo,51,FirstHalf,Pass,Successful,48.2,33.9,58.8,67.8
+410,146761,Léo Pereira,1239,Flamengo,51,FirstHalf,Pass,Unsuccessful,64.7,72.6,97,0
+317,404979,Lucas Esquivel,1243,Athletico Paranaense,51,FirstHalf,Pass,Unsuccessful,3.9,100,36,90.8
+412,355684,Léo Ortiz,1239,Flamengo,51,FirstHalf,Pass,Unsuccessful,64.6,7.6,100,7.7
+414,,,1239,Flamengo,52,FirstHalf,End,Successful,0,0,,
+319,,,1243,Athletico Paranaense,52,FirstHalf,End,Successful,0,0,,
+320,,,1243,Athletico Paranaense,45,SecondHalf,Start,Successful,0,0,,
+418,,,1239,Flamengo,45,SecondHalf,Start,Successful,0,0,,
+321,533161,Kevin Viveros,1243,Athletico Paranaense,45,SecondHalf,Pass,Successful,49.9,50.3,29.5,52.1
+322,477736,Juan Aguirre,1243,Athletico Paranaense,45,SecondHalf,Pass,Successful,29.5,52.1,29,72.7
+323,404979,Lucas Esquivel,1243,Athletico Paranaense,45,SecondHalf,Pass,Successful,29,73.9,55.3,79.5
+324,462994,Bruno Zapelli,1243,Athletico Paranaense,45,SecondHalf,Pass,Successful,55.3,79.5,69.1,64.6
+325,533161,Kevin Viveros,1243,Athletico Paranaense,45,SecondHalf,SavedShot,Successful,88.8,68.7,,
+419,146761,Léo Pereira,1239,Flamengo,45,SecondHalf,Save,Successful,7,38.1,,
+420,146761,Léo Pereira,1239,Flamengo,45,SecondHalf,CornerAwarded,Unsuccessful,9.6,35.2,,
+326,533161,Kevin Viveros,1243,Athletico Paranaense,45,SecondHalf,CornerAwarded,Successful,90.4,64.8,,
+327,462994,Bruno Zapelli,1243,Athletico Paranaense,45,SecondHalf,Pass,Successful,99.5,99.5,96.2,59.1
+330,410318,Gastón Benavídez,1243,Athletico Paranaense,45,SecondHalf,SavedShot,Successful,96.2,59.1,,
+421,303902,Agustín Rossi,1239,Flamengo,45,SecondHalf,Save,Successful,1.6,47.9,,
+328,279539,Steven Mendoza,1243,Athletico Paranaense,45,SecondHalf,MissedShots,Successful,88.8,50.3,,
+423,303902,Agustín Rossi,1239,Flamengo,46,SecondHalf,Pass,Successful,2.5,53,9.4,77.9
+424,146761,Léo Pereira,1239,Flamengo,46,SecondHalf,Pass,Successful,9.9,78.2,20.4,67.8
+425,355684,Léo Ortiz,1239,Flamengo,46,SecondHalf,Pass,Successful,15.6,67.2,7.1,84.5
+426,146761,Léo Pereira,1239,Flamengo,46,SecondHalf,Pass,Successful,13.2,88.3,40.7,76.3
+427,371036,Jorge Carrascal,1239,Flamengo,46,SecondHalf,Pass,Unsuccessful,42.4,69,64.7,44.6
+331,404979,Lucas Esquivel,1243,Athletico Paranaense,46,SecondHalf,Pass,Unsuccessful,31,57.9,46.1,71.9
+428,319756,Lucas Paquetá,1239,Flamengo,46,SecondHalf,Pass,Successful,59.1,29.7,66.1,11.1
+429,145385,Guillermo Varela,1239,Flamengo,46,SecondHalf,Pass,Unsuccessful,70.7,10.3,83.8,56.9
+332,410318,Gastón Benavídez,1243,Athletico Paranaense,46,SecondHalf,Clearance,Successful,15.8,41.1,32.4,47.4
+333,,,1243,Athletico Paranaense,46,SecondHalf,Foul,Successful,33.3,47.3,,
+430,355684,Léo Ortiz,1239,Flamengo,46,SecondHalf,Foul,Unsuccessful,66.7,52.7,,
+334,477736,Juan Aguirre,1243,Athletico Paranaense,47,SecondHalf,Pass,Successful,31,48.1,30.2,29.8
+335,517829,Arthur Dias,1243,Athletico Paranaense,47,SecondHalf,Pass,Successful,30.2,29.8,36.3,38.9
+336,114096,Jádson,1243,Athletico Paranaense,47,SecondHalf,Pass,Successful,36.3,38.9,38.4,8.5
+337,410318,Gastón Benavídez,1243,Athletico Paranaense,47,SecondHalf,Pass,Unsuccessful,38.4,8.5,90,18.1
+431,146761,Léo Pereira,1239,Flamengo,47,SecondHalf,BallTouch,Unsuccessful,15.3,83.5,,
+338,533161,Kevin Viveros,1243,Athletico Paranaense,47,SecondHalf,TakeOn,Unsuccessful,94,28.8,,
+432,88300,Danilo,1239,Flamengo,47,SecondHalf,Tackle,Unsuccessful,6,71.2,,
+443,146761,Léo Pereira,1239,Flamengo,47,SecondHalf,Error,Successful,13.3,72.1,,
+339,279539,Steven Mendoza,1243,Athletico Paranaense,47,SecondHalf,SavedShot,Successful,86.1,31.3,,
+433,303902,Agustín Rossi,1239,Flamengo,47,SecondHalf,Save,Successful,1.8,56,,
+434,303902,Agustín Rossi,1239,Flamengo,47,SecondHalf,CornerAwarded,Unsuccessful,6.6,61.2,,
+340,279539,Steven Mendoza,1243,Athletico Paranaense,47,SecondHalf,CornerAwarded,Successful,93.4,38.8,,
+341,404979,Lucas Esquivel,1243,Athletico Paranaense,47,SecondHalf,Pass,Unsuccessful,99.5,0.5,96.2,43.8
+603,355684,Léo Ortiz,1239,Flamengo,48,SecondHalf,Aerial,Successful,3.8,56.2,,
+345,517830,Felipinho,1243,Athletico Paranaense,48,SecondHalf,Aerial,Unsuccessful,96.2,43.8,,
+435,355684,Léo Ortiz,1239,Flamengo,48,SecondHalf,Clearance,Successful,3.8,56.2,11.2,26.2
+342,462994,Bruno Zapelli,1243,Athletico Paranaense,48,SecondHalf,BallTouch,Unsuccessful,88.4,78.3,,
+436,100995,Alex Sandro,1239,Flamengo,48,SecondHalf,Clearance,Successful,8.4,19.5,9,18.2
+343,462994,Bruno Zapelli,1243,Athletico Paranaense,48,SecondHalf,BallTouch,Successful,88.4,78.3,,
+438,145385,Guillermo Varela,1239,Flamengo,48,SecondHalf,Pass,Successful,13,0,24.1,2.2
+439,381594,Samuel Lino,1239,Flamengo,48,SecondHalf,Pass,Successful,24.1,2.2,14.8,2.9
+440,145385,Guillermo Varela,1239,Flamengo,48,SecondHalf,Pass,Unsuccessful,14.8,2.9,44.7,4.4
+346,477736,Juan Aguirre,1243,Athletico Paranaense,48,SecondHalf,Pass,Unsuccessful,58.5,93,72.3,94.7
+441,145385,Guillermo Varela,1239,Flamengo,48,SecondHalf,Pass,Unsuccessful,33.6,2.8,43,0
+348,605467,Claudinho,1243,Athletico Paranaense,48,SecondHalf,Pass,Successful,65.2,100,82.5,94.2
+349,533161,Kevin Viveros,1243,Athletico Paranaense,49,SecondHalf,BallTouch,Successful,82.5,94.2,,
+350,462994,Bruno Zapelli,1243,Athletico Paranaense,49,SecondHalf,Pass,Unsuccessful,93.9,92.7,93.7,89.1
+444,88300,Danilo,1239,Flamengo,49,SecondHalf,Clearance,Successful,6.3,10.9,,
+445,381594,Samuel Lino,1239,Flamengo,49,SecondHalf,Pass,Unsuccessful,5.7,1.6,28.8,16.4
+351,404979,Lucas Esquivel,1243,Athletico Paranaense,49,SecondHalf,Pass,Unsuccessful,71.3,85.3,68.6,72.7
+446,318475,Pedro,1239,Flamengo,49,SecondHalf,BallTouch,Successful,27.4,24,,
+352,404979,Lucas Esquivel,1243,Athletico Paranaense,49,SecondHalf,Pass,Successful,72.6,75.1,57.9,72.6
+353,477736,Juan Aguirre,1243,Athletico Paranaense,49,SecondHalf,Pass,Successful,57.9,72.6,67.8,92.2
+354,605467,Claudinho,1243,Athletico Paranaense,49,SecondHalf,Pass,Successful,67.6,91.2,59,83.6
+355,404979,Lucas Esquivel,1243,Athletico Paranaense,49,SecondHalf,Pass,Unsuccessful,59.7,82.9,80,81
+447,88300,Danilo,1239,Flamengo,49,SecondHalf,Interception,Successful,20,19,,
+448,146761,Léo Pereira,1239,Flamengo,49,SecondHalf,Pass,Successful,16,33,12.3,12.9
+449,88300,Danilo,1239,Flamengo,49,SecondHalf,BallRecovery,Successful,13.8,12.2,,
+450,88300,Danilo,1239,Flamengo,49,SecondHalf,Pass,Successful,14.4,12.2,21.4,27
+451,319756,Lucas Paquetá,1239,Flamengo,49,SecondHalf,Pass,Successful,19.1,27.9,7.4,50.3
+452,303902,Agustín Rossi,1239,Flamengo,49,SecondHalf,Pass,Successful,7.4,50.3,14.8,74.7
+453,100995,Alex Sandro,1239,Flamengo,49,SecondHalf,Pass,Successful,17.9,85.6,36,91.5
+454,371036,Jorge Carrascal,1239,Flamengo,49,SecondHalf,Pass,Successful,30.6,93.6,27,86.8
+455,100995,Alex Sandro,1239,Flamengo,49,SecondHalf,Pass,Successful,22.8,67,28.7,18
+456,145385,Guillermo Varela,1239,Flamengo,49,SecondHalf,Pass,Successful,47.7,12.9,56.3,2.5
+457,381594,Samuel Lino,1239,Flamengo,49,SecondHalf,Pass,Successful,56.2,4,53.8,25.5
+458,355684,Léo Ortiz,1239,Flamengo,49,SecondHalf,Pass,Successful,56.8,29.4,46.9,58.7
+459,146761,Léo Pereira,1239,Flamengo,49,SecondHalf,Pass,Successful,53.6,61.5,61.4,83.9
+460,100995,Alex Sandro,1239,Flamengo,50,SecondHalf,Pass,Successful,66.2,77.6,67.8,57.9
+461,355684,Léo Ortiz,1239,Flamengo,50,SecondHalf,Pass,Successful,67.7,54.8,68.6,34.3
+462,145385,Guillermo Varela,1239,Flamengo,50,SecondHalf,Pass,Successful,69.9,32.2,83.2,11.7
+463,381594,Samuel Lino,1239,Flamengo,50,SecondHalf,Pass,Successful,87.1,11.7,98,61.8
+464,371036,Jorge Carrascal,1239,Flamengo,50,SecondHalf,SavedShot,Successful,98,61.8,,
+362,101675,Santos,1243,Athletico Paranaense,50,SecondHalf,Save,Successful,0.7,45.7,,
+356,404979,Lucas Esquivel,1243,Athletico Paranaense,50,SecondHalf,Clearance,Successful,3.8,57.7,11,73.1
+357,605467,Claudinho,1243,Athletico Paranaense,50,SecondHalf,Clearance,Successful,11.9,74.8,73.1,72.1
+465,303902,Agustín Rossi,1239,Flamengo,50,SecondHalf,Pass,Successful,29.7,29.8,36.1,30.1
+466,88300,Danilo,1239,Flamengo,50,SecondHalf,Pass,Successful,37.3,28.8,50.4,11.7
+470,145385,Guillermo Varela,1239,Flamengo,50,SecondHalf,Pass,Successful,54.7,6.2,56.9,27.4
+471,319756,Lucas Paquetá,1239,Flamengo,50,SecondHalf,Pass,Successful,56.9,28,44.6,34.3
+472,88300,Danilo,1239,Flamengo,51,SecondHalf,Pass,Successful,44.6,34.3,43,54.3
+473,146761,Léo Pereira,1239,Flamengo,51,SecondHalf,Pass,Successful,46.5,62.3,61.2,87.7
+474,100995,Alex Sandro,1239,Flamengo,51,SecondHalf,Foul,Successful,61.6,87.2,,
+361,410318,Gastón Benavídez,1243,Athletico Paranaense,51,SecondHalf,Foul,Unsuccessful,38.4,12.8,,
+475,355684,Léo Ortiz,1239,Flamengo,51,SecondHalf,Pass,Successful,59.4,84.5,57.1,76.3
+476,146761,Léo Pereira,1239,Flamengo,51,SecondHalf,Pass,Successful,56.5,75,45.5,47.3
+477,88300,Danilo,1239,Flamengo,51,SecondHalf,Pass,Successful,43.5,43.6,44.3,16.7
+478,145385,Guillermo Varela,1239,Flamengo,51,SecondHalf,Pass,Successful,44.1,13.5,59,3.5
+479,381594,Samuel Lino,1239,Flamengo,51,SecondHalf,Pass,Successful,59,3.5,40.6,6.8
+480,145385,Guillermo Varela,1239,Flamengo,51,SecondHalf,Pass,Successful,40.6,7,34.3,26.8
+481,88300,Danilo,1239,Flamengo,51,SecondHalf,Pass,Successful,37.8,33.6,41.4,68.8
+482,146761,Léo Pereira,1239,Flamengo,51,SecondHalf,Pass,Successful,53.6,80.6,63.1,90.6
+483,371036,Jorge Carrascal,1239,Flamengo,51,SecondHalf,Pass,Successful,64.2,89.4,65.1,57.2
+484,381594,Samuel Lino,1239,Flamengo,51,SecondHalf,Pass,Successful,65.1,57.2,56.7,34.3
+485,88300,Danilo,1239,Flamengo,51,SecondHalf,Pass,Successful,58.2,29.4,65.6,9.2
+486,145385,Guillermo Varela,1239,Flamengo,51,SecondHalf,Pass,Successful,63.1,13.2,56.1,24.6
+487,88300,Danilo,1239,Flamengo,51,SecondHalf,Pass,Successful,57.2,23.6,70.5,2.9
+488,319756,Lucas Paquetá,1239,Flamengo,51,SecondHalf,Pass,Unsuccessful,73.8,4.1,98.5,38.3
+363,477736,Juan Aguirre,1243,Athletico Paranaense,51,SecondHalf,Clearance,Successful,3.2,60.7,0,62.1
+489,319756,Lucas Paquetá,1239,Flamengo,51,SecondHalf,CornerAwarded,Successful,100,38,,
+364,477736,Juan Aguirre,1243,Athletico Paranaense,51,SecondHalf,CornerAwarded,Unsuccessful,0,62,,
+490,371036,Jorge Carrascal,1239,Flamengo,52,SecondHalf,Pass,Unsuccessful,99.5,0.5,92.3,40.1
+365,533161,Kevin Viveros,1243,Athletico Paranaense,52,SecondHalf,Clearance,Successful,10.3,57,31.7,17.6
+491,381594,Samuel Lino,1239,Flamengo,52,SecondHalf,Pass,Successful,66.8,90.9,51.7,71.4
+492,100995,Alex Sandro,1239,Flamengo,52,SecondHalf,Pass,Successful,49.1,69.1,47,43.7
+493,145385,Guillermo Varela,1239,Flamengo,52,SecondHalf,Pass,Successful,46.6,40.7,58.4,22.8
+494,319756,Lucas Paquetá,1239,Flamengo,52,SecondHalf,Pass,Unsuccessful,59.4,22.2,92.6,80
+366,101675,Santos,1243,Athletico Paranaense,52,SecondHalf,KeeperPickup,Successful,8,24,,
+367,101675,Santos,1243,Athletico Paranaense,52,SecondHalf,Pass,Successful,13.4,35,61.4,30.5
+368,279539,Steven Mendoza,1243,Athletico Paranaense,53,SecondHalf,Pass,Successful,63.1,27.4,59,36.6
+369,462994,Bruno Zapelli,1243,Athletico Paranaense,53,SecondHalf,Pass,Successful,55.8,41.8,62.6,7.5
+370,410318,Gastón Benavídez,1243,Athletico Paranaense,53,SecondHalf,Pass,Successful,65.2,8.5,72.9,16.9
+371,462994,Bruno Zapelli,1243,Athletico Paranaense,53,SecondHalf,Pass,Successful,72.9,16.9,69.8,4.9
+372,410318,Gastón Benavídez,1243,Athletico Paranaense,53,SecondHalf,Pass,Successful,70,5.4,67.3,15.2
+373,462994,Bruno Zapelli,1243,Athletico Paranaense,53,SecondHalf,TakeOn,Unsuccessful,69.4,12.6,,
+496,112161,Saúl,1239,Flamengo,53,SecondHalf,Tackle,Unsuccessful,30.6,87.4,,
+374,462994,Bruno Zapelli,1243,Athletico Paranaense,53,SecondHalf,BallTouch,Successful,67.3,15.2,,
+498,100995,Alex Sandro,1239,Flamengo,53,SecondHalf,Pass,Successful,34.1,100,30.5,77.2
+499,146761,Léo Pereira,1239,Flamengo,53,SecondHalf,Pass,Successful,31.1,71.2,33.7,36.6
+500,88300,Danilo,1239,Flamengo,53,SecondHalf,Pass,Successful,36.9,27,56.6,8.6
+501,371036,Jorge Carrascal,1239,Flamengo,53,SecondHalf,Pass,Successful,56.6,8.6,44.3,21.5
+502,88300,Danilo,1239,Flamengo,53,SecondHalf,Pass,Successful,43.1,26.1,38.1,44.5
+503,146761,Léo Pereira,1239,Flamengo,53,SecondHalf,Pass,Successful,48.6,57.6,58.5,88.9
+504,355684,Léo Ortiz,1239,Flamengo,53,SecondHalf,Pass,Successful,62,94.1,66.8,87.7
+505,381594,Samuel Lino,1239,Flamengo,53,SecondHalf,Pass,Successful,66.8,87.7,45.1,74.7
+506,146761,Léo Pereira,1239,Flamengo,53,SecondHalf,Pass,Successful,46.2,66.4,45.7,44.5
+507,88300,Danilo,1239,Flamengo,53,SecondHalf,Pass,Successful,46.6,42.5,59,11.6
+508,145385,Guillermo Varela,1239,Flamengo,53,SecondHalf,Pass,Successful,61.3,7.1,85.9,3.7
+510,371036,Jorge Carrascal,1239,Flamengo,54,SecondHalf,Pass,Unsuccessful,99.2,7.4,97.3,7
+376,404979,Lucas Esquivel,1243,Athletico Paranaense,54,SecondHalf,BallTouch,Successful,3.3,91.5,,
+377,404979,Lucas Esquivel,1243,Athletico Paranaense,54,SecondHalf,CornerAwarded,Unsuccessful,0.8,94,,
+511,371036,Jorge Carrascal,1239,Flamengo,54,SecondHalf,CornerAwarded,Successful,99.1,6.1,,
+512,371036,Jorge Carrascal,1239,Flamengo,54,SecondHalf,Pass,Unsuccessful,99.5,0.5,95,34.8
+378,404979,Lucas Esquivel,1243,Athletico Paranaense,54,SecondHalf,Clearance,Successful,4.2,60.9,10.6,44.5
+513,145385,Guillermo Varela,1239,Flamengo,54,SecondHalf,Pass,Unsuccessful,73.7,36.6,86.4,58.7
+379,114096,Jádson,1243,Athletico Paranaense,54,SecondHalf,Clearance,Successful,10.6,44.5,27.5,64.3
+380,517829,Arthur Dias,1243,Athletico Paranaense,54,SecondHalf,Clearance,Successful,12.9,39.8,30.7,38.8
+381,114096,Jádson,1243,Athletico Paranaense,54,SecondHalf,Pass,Unsuccessful,31,38.9,32,48.2
+514,145385,Guillermo Varela,1239,Flamengo,54,SecondHalf,BlockedPass,Successful,68,51.8,,
+515,146761,Léo Pereira,1239,Flamengo,54,SecondHalf,Pass,Successful,65.8,59.6,67.9,76.4
+516,319756,Lucas Paquetá,1239,Flamengo,54,SecondHalf,Pass,Unsuccessful,67.9,76.4,87.3,54.6
+382,477736,Juan Aguirre,1243,Athletico Paranaense,54,SecondHalf,Clearance,Successful,12.7,48.1,19.3,10.9
+383,410318,Gastón Benavídez,1243,Athletico Paranaense,54,SecondHalf,Dispossessed,Successful,16.2,10.5,,
+517,112161,Saúl,1239,Flamengo,54,SecondHalf,Tackle,Successful,83.8,89.5,,
+518,112161,Saúl,1239,Flamengo,54,SecondHalf,Pass,Successful,91.8,97.5,85.6,96.2
+519,319756,Lucas Paquetá,1239,Flamengo,54,SecondHalf,Pass,Successful,85.5,96,74.5,88.1
+520,146761,Léo Pereira,1239,Flamengo,54,SecondHalf,Pass,Successful,78.6,88,86.1,95.7
+521,112161,Saúl,1239,Flamengo,54,SecondHalf,Pass,Unsuccessful,86.1,95.7,91.7,54
+384,477736,Juan Aguirre,1243,Athletico Paranaense,54,SecondHalf,Clearance,Successful,13.6,43.8,3.8,46.4
+385,101675,Santos,1243,Athletico Paranaense,54,SecondHalf,KeeperPickup,Successful,3.8,46.4,,
+386,101675,Santos,1243,Athletico Paranaense,55,SecondHalf,Pass,Successful,13.4,48.2,14.6,19.1
+387,517829,Arthur Dias,1243,Athletico Paranaense,55,SecondHalf,Pass,Unsuccessful,25.5,24,56.1,33.7
+522,146761,Léo Pereira,1239,Flamengo,55,SecondHalf,Pass,Unsuccessful,45.4,67.2,66.3,66.7
+388,517830,Felipinho,1243,Athletico Paranaense,55,SecondHalf,Pass,Successful,32,35,25,50.6
+389,477736,Juan Aguirre,1243,Athletico Paranaense,55,SecondHalf,Pass,Successful,25,50.6,25,72.7
+390,404979,Lucas Esquivel,1243,Athletico Paranaense,55,SecondHalf,Pass,Successful,25,72.7,72.8,91.7
+391,605467,Claudinho,1243,Athletico Paranaense,55,SecondHalf,BallTouch,Unsuccessful,72.8,91.7,,
+523,145385,Guillermo Varela,1239,Flamengo,55,SecondHalf,BallRecovery,Successful,20.9,8.9,,
+524,145385,Guillermo Varela,1239,Flamengo,55,SecondHalf,Pass,Successful,15.5,11.7,9.5,37.9
+525,303902,Agustín Rossi,1239,Flamengo,55,SecondHalf,Pass,Successful,9.5,37.9,14.5,3.7
+526,145385,Guillermo Varela,1239,Flamengo,55,SecondHalf,Pass,Successful,14.9,1.7,37.6,5.5
+527,371036,Jorge Carrascal,1239,Flamengo,55,SecondHalf,Pass,Successful,37.6,5.5,33.5,21
+528,355684,Léo Ortiz,1239,Flamengo,55,SecondHalf,Pass,Successful,33.5,21,45.3,27.4
+529,319756,Lucas Paquetá,1239,Flamengo,55,SecondHalf,Pass,Successful,45.3,27.4,46.1,43.4
+530,112161,Saúl,1239,Flamengo,55,SecondHalf,Pass,Unsuccessful,56.4,41.5,87.3,0
+393,114096,Jádson,1243,Athletico Paranaense,55,SecondHalf,Card,Successful,0,0,,
+394,404979,Lucas Esquivel,1243,Athletico Paranaense,56,SecondHalf,Pass,Successful,12.7,100,36.3,86.9
+395,533161,Kevin Viveros,1243,Athletico Paranaense,56,SecondHalf,Aerial,Successful,36.3,86.9,,
+532,319756,Lucas Paquetá,1239,Flamengo,56,SecondHalf,Aerial,Unsuccessful,63.7,13.1,,
+396,533161,Kevin Viveros,1243,Athletico Paranaense,56,SecondHalf,Pass,Successful,36.3,86.9,37.6,72.6
+397,279539,Steven Mendoza,1243,Athletico Paranaense,56,SecondHalf,Pass,Unsuccessful,37.6,72.6,30.4,67.8
+865,112161,Saúl,1239,Flamengo,56,SecondHalf,Interception,Successful,69.6,32.2,,
+533,112161,Saúl,1239,Flamengo,56,SecondHalf,BallRecovery,Successful,62.9,32.1,,
+534,112161,Saúl,1239,Flamengo,56,SecondHalf,Pass,Successful,61.6,34.2,52.8,57.8
+535,100995,Alex Sandro,1239,Flamengo,56,SecondHalf,Pass,Successful,52.8,57.8,46.6,22.2
+536,88300,Danilo,1239,Flamengo,56,SecondHalf,Pass,Successful,62.8,8.8,69.6,2
+537,145385,Guillermo Varela,1239,Flamengo,56,SecondHalf,Pass,Successful,64.7,4.7,50.1,14
+538,88300,Danilo,1239,Flamengo,56,SecondHalf,Pass,Successful,48.6,24.9,44.8,42.7
+539,146761,Léo Pereira,1239,Flamengo,56,SecondHalf,Pass,Successful,40.2,43.4,32.6,62.6
+540,100995,Alex Sandro,1239,Flamengo,56,SecondHalf,Pass,Successful,32.6,62.6,15.1,53.3
+541,303902,Agustín Rossi,1239,Flamengo,56,SecondHalf,Pass,Successful,22.9,39.5,27.3,23.9
+542,88300,Danilo,1239,Flamengo,56,SecondHalf,Pass,Successful,27.3,23.9,27.8,35.2
+543,355684,Léo Ortiz,1239,Flamengo,57,SecondHalf,Pass,Unsuccessful,27.8,35.2,58.5,31.2
+398,404979,Lucas Esquivel,1243,Athletico Paranaense,57,SecondHalf,BallRecovery,Successful,42.7,72.6,,
+399,404979,Lucas Esquivel,1243,Athletico Paranaense,57,SecondHalf,Pass,Successful,46.3,69.2,36,54.5
+400,477736,Juan Aguirre,1243,Athletico Paranaense,57,SecondHalf,Pass,Successful,29.2,40.6,26.3,15.6
+401,517829,Arthur Dias,1243,Athletico Paranaense,57,SecondHalf,Pass,Successful,26.4,11.9,66.5,22.2
+402,279539,Steven Mendoza,1243,Athletico Paranaense,57,SecondHalf,BallTouch,Unsuccessful,66.5,22.2,,
+544,112161,Saúl,1239,Flamengo,57,SecondHalf,Pass,Successful,32.3,82,37.2,68.1
+545,355684,Léo Ortiz,1239,Flamengo,57,SecondHalf,BallRecovery,Successful,37.2,68.1,,
+546,355684,Léo Ortiz,1239,Flamengo,57,SecondHalf,Pass,Successful,37.2,68.1,46.8,41.3
+547,371036,Jorge Carrascal,1239,Flamengo,57,SecondHalf,Pass,Successful,62.9,51.9,67.3,67
+548,381594,Samuel Lino,1239,Flamengo,57,SecondHalf,Pass,Successful,76.2,73.2,95.7,84.8
+549,100995,Alex Sandro,1239,Flamengo,57,SecondHalf,Pass,Successful,95.7,84.8,97.3,52.6
+550,318475,Pedro,1239,Flamengo,57,SecondHalf,MissedShots,Successful,97.3,52.6,,
+556,112161,Saúl,1239,Flamengo,58,SecondHalf,SubstitutionOff,Successful,0,0,,
+557,279575,Bruno Henrique,1239,Flamengo,58,SecondHalf,SubstitutionOn,Successful,0,0,,
+552,381594,Samuel Lino,1239,Flamengo,58,SecondHalf,SubstitutionOff,Successful,0,0,,
+553,146760,Everton,1239,Flamengo,58,SecondHalf,SubstitutionOn,Successful,0,0,,
+600,,,1239,Flamengo,58,SecondHalf,FormationChange,Successful,0,0,,
+405,101675,Santos,1243,Athletico Paranaense,58,SecondHalf,Pass,Successful,4.8,50.3,8.7,16.1
+406,517829,Arthur Dias,1243,Athletico Paranaense,58,SecondHalf,Pass,Unsuccessful,10.1,22.5,48.3,18.6
+554,146761,Léo Pereira,1239,Flamengo,58,SecondHalf,BallRecovery,Successful,58.5,93.2,,
+555,146761,Léo Pereira,1239,Flamengo,58,SecondHalf,Pass,Unsuccessful,59.4,93.9,79.5,63.7
+407,477736,Juan Aguirre,1243,Athletico Paranaense,58,SecondHalf,Pass,Unsuccessful,23.8,38.2,55.8,49.1
+558,88300,Danilo,1239,Flamengo,58,SecondHalf,Pass,Successful,45.4,44,64.4,36.9
+559,146760,Everton,1239,Flamengo,58,SecondHalf,Pass,Unsuccessful,62.5,38.3,64.1,38.3
+408,404979,Lucas Esquivel,1243,Athletico Paranaense,58,SecondHalf,BlockedPass,Successful,35.9,61.7,,
+409,517830,Felipinho,1243,Athletico Paranaense,58,SecondHalf,Pass,Unsuccessful,34.6,44.2,40.7,41.8
+560,319756,Lucas Paquetá,1239,Flamengo,58,SecondHalf,BallTouch,Successful,59.9,52.7,,
+410,517830,Felipinho,1243,Athletico Paranaense,58,SecondHalf,BallRecovery,Successful,43.3,45.3,,
+411,517830,Felipinho,1243,Athletico Paranaense,58,SecondHalf,Pass,Successful,43.3,45.3,49.5,33.3
+412,279539,Steven Mendoza,1243,Athletico Paranaense,58,SecondHalf,Pass,Unsuccessful,60,34.5,67.2,47.4
+583,355684,Léo Ortiz,1239,Flamengo,58,SecondHalf,Interception,Successful,32.8,52.6,,
+561,88300,Danilo,1239,Flamengo,58,SecondHalf,BallRecovery,Successful,28.9,55.1,,
+562,88300,Danilo,1239,Flamengo,58,SecondHalf,Pass,Successful,28.9,55.1,32.1,63.3
+563,319756,Lucas Paquetá,1239,Flamengo,58,SecondHalf,Pass,Successful,32,65.4,34.6,89.3
+564,100995,Alex Sandro,1239,Flamengo,58,SecondHalf,Pass,Successful,34.6,89.3,36.4,69.1
+565,319756,Lucas Paquetá,1239,Flamengo,58,SecondHalf,Pass,Successful,36.2,66.1,39.3,34.8
+566,88300,Danilo,1239,Flamengo,59,SecondHalf,Pass,Successful,56,29.2,64.7,35.2
+567,371036,Jorge Carrascal,1239,Flamengo,59,SecondHalf,Pass,Successful,66.5,31.6,82.4,26.7
+568,146760,Everton,1239,Flamengo,59,SecondHalf,SavedShot,Successful,84.2,29.5,,
+413,477736,Juan Aguirre,1243,Athletico Paranaense,59,SecondHalf,Save,Successful,13.1,67.3,,
+414,101675,Santos,1243,Athletico Paranaense,59,SecondHalf,KeeperPickup,Successful,2.7,37.2,,
+415,101675,Santos,1243,Athletico Paranaense,59,SecondHalf,Pass,Successful,13.3,44.8,12.7,76.8
+416,404979,Lucas Esquivel,1243,Athletico Paranaense,59,SecondHalf,Pass,Successful,13.6,80.9,25.9,96.1
+417,605467,Claudinho,1243,Athletico Paranaense,59,SecondHalf,Pass,Successful,25.1,92.5,31.4,71.1
+418,462994,Bruno Zapelli,1243,Athletico Paranaense,59,SecondHalf,Foul,Successful,35.8,73,,
+569,355684,Léo Ortiz,1239,Flamengo,59,SecondHalf,Foul,Unsuccessful,64.3,27,,
+419,517830,Felipinho,1243,Athletico Paranaense,59,SecondHalf,Pass,Successful,31.4,71.1,27,34.5
+420,517829,Arthur Dias,1243,Athletico Paranaense,59,SecondHalf,Pass,Successful,27,34.5,34.1,4.9
+421,410318,Gastón Benavídez,1243,Athletico Paranaense,59,SecondHalf,Pass,Unsuccessful,34.1,4.9,76.6,11.4
+570,146761,Léo Pereira,1239,Flamengo,59,SecondHalf,BallRecovery,Successful,14,86,,
+571,146761,Léo Pereira,1239,Flamengo,59,SecondHalf,Pass,Successful,14,86,10.2,65.8
+572,303902,Agustín Rossi,1239,Flamengo,59,SecondHalf,Pass,Successful,11.6,66.4,27.6,70.3
+573,319756,Lucas Paquetá,1239,Flamengo,59,SecondHalf,Pass,Successful,37.2,67.2,39.3,91.4
+574,100995,Alex Sandro,1239,Flamengo,59,SecondHalf,Pass,Successful,38.8,91.1,29.4,79
+575,146761,Léo Pereira,1239,Flamengo,60,SecondHalf,Pass,Successful,38.5,73.3,35.8,59.3
+576,319756,Lucas Paquetá,1239,Flamengo,60,SecondHalf,Pass,Successful,37.2,57.6,41,29.5
+577,88300,Danilo,1239,Flamengo,60,SecondHalf,Pass,Successful,55.1,28.2,61.6,5.8
+578,145385,Guillermo Varela,1239,Flamengo,60,SecondHalf,Pass,Successful,61.9,6.8,53.1,19.5
+579,88300,Danilo,1239,Flamengo,60,SecondHalf,Pass,Successful,53.8,24.3,52.8,44.3
+580,319756,Lucas Paquetá,1239,Flamengo,60,SecondHalf,Pass,Successful,55.5,51.3,63.2,83.6
+581,146761,Léo Pereira,1239,Flamengo,60,SecondHalf,Pass,Unsuccessful,71,84.5,77.8,62.3
+422,517830,Felipinho,1243,Athletico Paranaense,60,SecondHalf,Interception,Successful,22.2,37.7,,
+584,100995,Alex Sandro,1239,Flamengo,60,SecondHalf,Pass,Successful,68.2,100,56.3,95.3
+585,146761,Léo Pereira,1239,Flamengo,60,SecondHalf,Pass,Successful,58.3,86.5,55.3,47
+586,88300,Danilo,1239,Flamengo,60,SecondHalf,Pass,Successful,55.2,43.1,66,7
+587,146760,Everton,1239,Flamengo,60,SecondHalf,Pass,Successful,65.8,10,54.6,32.2
+588,88300,Danilo,1239,Flamengo,60,SecondHalf,Pass,Successful,54.4,35.1,54.2,58.1
+589,146761,Léo Pereira,1239,Flamengo,60,SecondHalf,Pass,Successful,63.1,69.3,72.6,90.8
+590,100995,Alex Sandro,1239,Flamengo,60,SecondHalf,Pass,Successful,76.8,89,88.9,94.8
+591,279575,Bruno Henrique,1239,Flamengo,60,SecondHalf,Pass,Successful,87.2,94.1,77.9,94.5
+592,100995,Alex Sandro,1239,Flamengo,61,SecondHalf,Pass,Successful,76.2,93.5,61.9,80.8
+593,146761,Léo Pereira,1239,Flamengo,61,SecondHalf,Pass,Successful,62.9,77,62.7,31
+594,88300,Danilo,1239,Flamengo,61,SecondHalf,Pass,Successful,62.7,29.8,67,9.1
+595,145385,Guillermo Varela,1239,Flamengo,61,SecondHalf,Pass,Unsuccessful,65.5,23.3,67.6,48.5
+424,279539,Steven Mendoza,1243,Athletico Paranaense,61,SecondHalf,BallRecovery,Successful,31,47.7,,
+425,279539,Steven Mendoza,1243,Athletico Paranaense,61,SecondHalf,Pass,Successful,31,47.7,45.6,60.7
+427,533161,Kevin Viveros,1243,Athletico Paranaense,61,SecondHalf,Foul,Successful,45.3,56.6,,
+596,145385,Guillermo Varela,1239,Flamengo,61,SecondHalf,Foul,Unsuccessful,54.7,43.4,,
+428,477736,Juan Aguirre,1243,Athletico Paranaense,61,SecondHalf,Pass,Successful,46,51.9,38.9,72.7
+429,404979,Lucas Esquivel,1243,Athletico Paranaense,61,SecondHalf,Pass,Successful,39.4,72.2,53.2,95.2
+430,605467,Claudinho,1243,Athletico Paranaense,61,SecondHalf,Pass,Successful,55,93.2,67.9,59.7
+431,533161,Kevin Viveros,1243,Athletico Paranaense,61,SecondHalf,BallTouch,Unsuccessful,68.2,59.4,,
+597,319756,Lucas Paquetá,1239,Flamengo,61,SecondHalf,BallRecovery,Successful,34.6,57.8,,
+598,319756,Lucas Paquetá,1239,Flamengo,61,SecondHalf,Pass,Successful,34.6,57.8,43.5,70.8
+599,279575,Bruno Henrique,1239,Flamengo,61,SecondHalf,Pass,Unsuccessful,54.5,70.3,66.4,75.3
+433,517829,Arthur Dias,1243,Athletico Paranaense,61,SecondHalf,Interception,Successful,33.6,24.7,,
+434,517829,Arthur Dias,1243,Athletico Paranaense,61,SecondHalf,BallRecovery,Successful,34.6,21.5,,
+435,517829,Arthur Dias,1243,Athletico Paranaense,61,SecondHalf,Pass,Successful,34.6,21.5,46.3,43.3
+436,533161,Kevin Viveros,1243,Athletico Paranaense,61,SecondHalf,Pass,Successful,52.5,46.5,47.4,83.9
+437,605467,Claudinho,1243,Athletico Paranaense,62,SecondHalf,Pass,Successful,51.9,81.4,50,70.2
+438,462994,Bruno Zapelli,1243,Athletico Paranaense,62,SecondHalf,Pass,Successful,50,70.2,46.3,60.4
+439,517830,Felipinho,1243,Athletico Paranaense,62,SecondHalf,Pass,Successful,46.5,59.9,36.3,26.9
+440,517829,Arthur Dias,1243,Athletico Paranaense,62,SecondHalf,Pass,Successful,36.3,28.4,33,73.6
+441,404979,Lucas Esquivel,1243,Athletico Paranaense,62,SecondHalf,Pass,Successful,33,73.6,43.8,96.1
+442,605467,Claudinho,1243,Athletico Paranaense,62,SecondHalf,BallTouch,Unsuccessful,43.8,96.1,,
+601,145385,Guillermo Varela,1239,Flamengo,62,SecondHalf,Pass,Unsuccessful,53.7,1.9,60.3,0
+444,404979,Lucas Esquivel,1243,Athletico Paranaense,62,SecondHalf,Pass,Successful,41.5,100,63,95.9
+445,605467,Claudinho,1243,Athletico Paranaense,62,SecondHalf,Pass,Unsuccessful,63,95.9,76.8,93.4
+604,145385,Guillermo Varela,1239,Flamengo,62,SecondHalf,Clearance,Successful,33.6,2,41.5,10
+446,462994,Bruno Zapelli,1243,Athletico Paranaense,62,SecondHalf,Pass,Successful,62.5,86.9,63.8,98.1
+447,605467,Claudinho,1243,Athletico Paranaense,62,SecondHalf,Pass,Unsuccessful,63.8,98.1,63.7,81.2
+605,318475,Pedro,1239,Flamengo,62,SecondHalf,Pass,Successful,42.6,18.9,34.2,23.4
+606,355684,Léo Ortiz,1239,Flamengo,62,SecondHalf,BallRecovery,Successful,34.6,24.3,,
+607,355684,Léo Ortiz,1239,Flamengo,62,SecondHalf,Pass,Successful,34.6,24.3,35,36.3
+608,319756,Lucas Paquetá,1239,Flamengo,62,SecondHalf,Pass,Successful,35.1,40.3,36.1,69.3
+609,100995,Alex Sandro,1239,Flamengo,62,SecondHalf,Pass,Successful,61.5,71.7,62.9,56.7
+610,319756,Lucas Paquetá,1239,Flamengo,62,SecondHalf,Pass,Successful,64,58.7,54.9,74.5
+611,146761,Léo Pereira,1239,Flamengo,63,SecondHalf,Pass,Successful,62.5,73.9,71,91.1
+612,100995,Alex Sandro,1239,Flamengo,63,SecondHalf,Pass,Successful,74.3,92.1,73,79.3
+613,279575,Bruno Henrique,1239,Flamengo,63,SecondHalf,Pass,Successful,73,79.3,61,89.9
+614,146761,Léo Pereira,1239,Flamengo,63,SecondHalf,Pass,Successful,62.2,87.8,64.6,64.6
+615,319756,Lucas Paquetá,1239,Flamengo,63,SecondHalf,Pass,Successful,64,63.4,60.6,33
+616,88300,Danilo,1239,Flamengo,63,SecondHalf,Pass,Successful,61.4,31.3,75.7,3.1
+617,146760,Everton,1239,Flamengo,63,SecondHalf,TakeOn,Successful,76.4,15.8,,
+448,605467,Claudinho,1243,Athletico Paranaense,63,SecondHalf,Challenge,Unsuccessful,23.6,84.3,,
+618,146760,Everton,1239,Flamengo,63,SecondHalf,Pass,Successful,75.7,23.9,71.3,43.6
+619,319756,Lucas Paquetá,1239,Flamengo,63,SecondHalf,Pass,Unsuccessful,71.3,43.6,89.9,46.9
+449,477736,Juan Aguirre,1243,Athletico Paranaense,63,SecondHalf,Clearance,Successful,12.3,54,10.9,44
+450,517829,Arthur Dias,1243,Athletico Paranaense,63,SecondHalf,Clearance,Successful,10.9,44,26.1,53.6
+620,319756,Lucas Paquetá,1239,Flamengo,63,SecondHalf,Pass,Successful,73.4,43.7,58.1,40
+621,355684,Léo Ortiz,1239,Flamengo,63,SecondHalf,Pass,Successful,56.2,40.9,62.4,66.6
+622,146761,Léo Pereira,1239,Flamengo,63,SecondHalf,Pass,Successful,63.7,69.4,77.8,62.4
+623,146760,Everton,1239,Flamengo,63,SecondHalf,Pass,Successful,77.8,62.4,80.3,70.8
+624,371036,Jorge Carrascal,1239,Flamengo,63,SecondHalf,Pass,Successful,80.3,70.8,89.3,65.7
+625,318475,Pedro,1239,Flamengo,63,SecondHalf,Pass,Unsuccessful,89.3,65.7,89.3,56.3
+451,477736,Juan Aguirre,1243,Athletico Paranaense,63,SecondHalf,Interception,Successful,10.7,43.7,,
+452,404979,Lucas Esquivel,1243,Athletico Paranaense,63,SecondHalf,Clearance,Successful,4.7,38.1,1.8,0
+454,462994,Bruno Zapelli,1243,Athletico Paranaense,64,SecondHalf,SubstitutionOff,Successful,0,0,,
+455,478179,João Cruz,1243,Athletico Paranaense,64,SecondHalf,SubstitutionOn,Successful,0,0,,
+459,404979,Lucas Esquivel,1243,Athletico Paranaense,64,SecondHalf,SubstitutionOff,Successful,0,0,,
+460,478317,Gilberto,1243,Athletico Paranaense,64,SecondHalf,SubstitutionOn,Successful,0,0,,
+627,100995,Alex Sandro,1239,Flamengo,64,SecondHalf,Pass,Successful,95,100,96.9,84.5
+469,,,1243,Athletico Paranaense,65,SecondHalf,FormationChange,Successful,0,0,,
+628,279575,Bruno Henrique,1239,Flamengo,65,SecondHalf,Pass,Successful,97.1,86.5,91.6,96.6
+629,100995,Alex Sandro,1239,Flamengo,65,SecondHalf,TakeOn,Unsuccessful,97.7,90.5,,
+457,478317,Gilberto,1243,Athletico Paranaense,65,SecondHalf,Tackle,Successful,2.3,9.5,,
+630,100995,Alex Sandro,1239,Flamengo,65,SecondHalf,CornerAwarded,Successful,99.8,89.9,,
+458,478317,Gilberto,1243,Athletico Paranaense,65,SecondHalf,CornerAwarded,Unsuccessful,0.2,10.2,,
+631,371036,Jorge Carrascal,1239,Flamengo,65,SecondHalf,Pass,Unsuccessful,99.5,99.5,92.4,49.7
+461,101675,Santos,1243,Athletico Paranaense,65,SecondHalf,Claim,Unsuccessful,7.6,50.3,,
+462,101675,Santos,1243,Athletico Paranaense,65,SecondHalf,KeeperPickup,Successful,9.4,47,,
+463,101675,Santos,1243,Athletico Paranaense,65,SecondHalf,Pass,Successful,9.4,47,31.6,80.2
+464,279539,Steven Mendoza,1243,Athletico Paranaense,65,SecondHalf,Pass,Successful,40.6,87.6,76.4,65.5
+465,114096,Jádson,1243,Athletico Paranaense,65,SecondHalf,BallTouch,Unsuccessful,78.9,66.3,,
+632,355684,Léo Ortiz,1239,Flamengo,65,SecondHalf,Foul,Successful,8.2,17.5,,
+466,114096,Jádson,1243,Athletico Paranaense,65,SecondHalf,Foul,Unsuccessful,91.8,82.6,,
+633,88300,Danilo,1239,Flamengo,66,SecondHalf,Pass,Successful,9.8,18.5,21.9,27.3
+634,355684,Léo Ortiz,1239,Flamengo,66,SecondHalf,Pass,Successful,32.4,38,36.3,68.5
+635,146761,Léo Pereira,1239,Flamengo,66,SecondHalf,Pass,Successful,47.8,71.4,61.1,81.7
+636,371036,Jorge Carrascal,1239,Flamengo,66,SecondHalf,Pass,Successful,64.4,76.7,63,65.8
+637,319756,Lucas Paquetá,1239,Flamengo,66,SecondHalf,Pass,Successful,63.2,69.6,64,93.8
+638,100995,Alex Sandro,1239,Flamengo,66,SecondHalf,Pass,Successful,65.6,91.4,56.6,80
+639,146761,Léo Pereira,1239,Flamengo,66,SecondHalf,Pass,Successful,56.6,79.1,50.6,60.2
+640,355684,Léo Ortiz,1239,Flamengo,66,SecondHalf,Pass,Successful,62.5,53.6,62,74.5
+641,146761,Léo Pereira,1239,Flamengo,66,SecondHalf,Pass,Successful,66,82.3,68.8,67.6
+642,319756,Lucas Paquetá,1239,Flamengo,66,SecondHalf,Pass,Successful,66.7,67.3,61.1,33.6
+643,88300,Danilo,1239,Flamengo,66,SecondHalf,Pass,Successful,60.9,32.2,69.6,4.1
+644,146760,Everton,1239,Flamengo,66,SecondHalf,Pass,Successful,68.5,5.2,59.8,24.7
+645,88300,Danilo,1239,Flamengo,66,SecondHalf,Pass,Successful,59.8,27.3,61.8,42.1
+646,355684,Léo Ortiz,1239,Flamengo,66,SecondHalf,Pass,Successful,64.4,41.2,59.1,30.9
+647,88300,Danilo,1239,Flamengo,66,SecondHalf,Pass,Successful,59.1,30.9,66.2,18.2
+648,145385,Guillermo Varela,1239,Flamengo,66,SecondHalf,Pass,Successful,65.6,21.6,60.6,39.5
+649,355684,Léo Ortiz,1239,Flamengo,66,SecondHalf,Pass,Successful,61.1,44.2,65.1,82.3
+650,146761,Léo Pereira,1239,Flamengo,67,SecondHalf,Pass,Unsuccessful,74.3,83.3,96.2,0
+471,605467,Claudinho,1243,Athletico Paranaense,67,SecondHalf,Pass,Unsuccessful,11.8,100,37.1,92
+652,145385,Guillermo Varela,1239,Flamengo,67,SecondHalf,BallTouch,Successful,60.7,3.8,,
+653,146761,Léo Pereira,1239,Flamengo,67,SecondHalf,Pass,Successful,54.7,26.8,53.3,11
+654,88300,Danilo,1239,Flamengo,67,SecondHalf,Pass,Successful,53.3,11,26.7,37.7
+655,303902,Agustín Rossi,1239,Flamengo,67,SecondHalf,BallRecovery,Successful,26.7,37.7,,
+656,303902,Agustín Rossi,1239,Flamengo,67,SecondHalf,Pass,Successful,29.7,39.4,39.4,66.3
+657,100995,Alex Sandro,1239,Flamengo,67,SecondHalf,Pass,Successful,43.3,72.1,43.7,51.3
+658,146761,Léo Pereira,1239,Flamengo,67,SecondHalf,Pass,Successful,43.7,51.3,52.5,45.7
+659,319756,Lucas Paquetá,1239,Flamengo,67,SecondHalf,Pass,Successful,52.5,45.7,48.2,17.6
+660,88300,Danilo,1239,Flamengo,67,SecondHalf,Pass,Successful,63.4,4,55.4,9.7
+661,319756,Lucas Paquetá,1239,Flamengo,68,SecondHalf,Pass,Successful,61,23.7,63.7,55.1
+662,146761,Léo Pereira,1239,Flamengo,68,SecondHalf,Pass,Successful,65.5,58.8,71.5,75.3
+663,100995,Alex Sandro,1239,Flamengo,68,SecondHalf,Pass,Successful,76.4,80.9,86.5,95
+664,279575,Bruno Henrique,1239,Flamengo,68,SecondHalf,Pass,Successful,74,79.6,65,70.8
+665,146761,Léo Pereira,1239,Flamengo,68,SecondHalf,Pass,Successful,69.8,72,84.4,92.1
+666,100995,Alex Sandro,1239,Flamengo,68,SecondHalf,Pass,Successful,80.6,90.2,67.8,83
+667,146761,Léo Pereira,1239,Flamengo,68,SecondHalf,Pass,Successful,72.4,75.1,67.5,54.3
+668,319756,Lucas Paquetá,1239,Flamengo,68,SecondHalf,Pass,Successful,67.5,53.4,76.2,30.9
+669,146760,Everton,1239,Flamengo,68,SecondHalf,Pass,Successful,80.6,26.8,82.8,12.5
+670,145385,Guillermo Varela,1239,Flamengo,68,SecondHalf,Pass,Successful,84.3,11.9,77,20.4
+671,146760,Everton,1239,Flamengo,68,SecondHalf,Pass,Unsuccessful,77,20.4,87.4,56.4
+472,477736,Juan Aguirre,1243,Athletico Paranaense,68,SecondHalf,Clearance,Successful,14.2,45.5,21.1,11.2
+672,100995,Alex Sandro,1239,Flamengo,68,SecondHalf,Pass,Successful,88.1,81.4,95.9,73.3
+673,371036,Jorge Carrascal,1239,Flamengo,68,SecondHalf,Pass,Successful,92.8,73.6,85.8,73.3
+674,279575,Bruno Henrique,1239,Flamengo,68,SecondHalf,Pass,Successful,87.5,73.2,90.7,90.3
+675,100995,Alex Sandro,1239,Flamengo,68,SecondHalf,Pass,Successful,91.2,95.4,86.8,86.2
+676,279575,Bruno Henrique,1239,Flamengo,68,SecondHalf,Pass,Successful,82.3,93.5,67.4,93.5
+677,146761,Léo Pereira,1239,Flamengo,68,SecondHalf,Pass,Successful,69,85.3,61.6,29.5
+678,88300,Danilo,1239,Flamengo,68,SecondHalf,Pass,Unsuccessful,68.2,27.3,94.4,80.6
+473,478317,Gilberto,1243,Athletico Paranaense,69,SecondHalf,Clearance,Successful,9.6,18.6,9.6,0
+680,279575,Bruno Henrique,1239,Flamengo,69,SecondHalf,Pass,Successful,92.6,100,80.8,95.4
+681,100995,Alex Sandro,1239,Flamengo,69,SecondHalf,Pass,Unsuccessful,84.9,94.2,88.5,51.5
+475,517829,Arthur Dias,1243,Athletico Paranaense,69,SecondHalf,Clearance,Successful,14.2,47,27.4,28.1
+476,279539,Steven Mendoza,1243,Athletico Paranaense,69,SecondHalf,Pass,Successful,27.4,28.1,30.8,39.9
+477,533161,Kevin Viveros,1243,Athletico Paranaense,69,SecondHalf,Foul,Successful,33.7,40.2,,
+682,88300,Danilo,1239,Flamengo,69,SecondHalf,Foul,Unsuccessful,66.3,59.8,,
+683,88300,Danilo,1239,Flamengo,69,SecondHalf,Card,Successful,0,0,,
+480,410318,Gastón Benavídez,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,39.4,24.4,34.8,45.5
+481,477736,Juan Aguirre,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,34.8,45.5,36,72.7
+482,517829,Arthur Dias,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,36,72.7,58.7,82.2
+483,478179,João Cruz,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,46.7,78.8,31.7,94.1
+484,517829,Arthur Dias,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,31.7,94.1,33.6,80.4
+485,478179,João Cruz,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,33.6,80.4,19.2,42.8
+486,477736,Juan Aguirre,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,19.2,42.8,19.2,25.1
+487,410318,Gastón Benavídez,1243,Athletico Paranaense,71,SecondHalf,Pass,Successful,18.4,16.1,43.5,14.6
+488,279539,Steven Mendoza,1243,Athletico Paranaense,71,SecondHalf,Pass,Unsuccessful,71.1,21.3,100,25.1
+687,303902,Agustín Rossi,1239,Flamengo,72,SecondHalf,Pass,Successful,4.3,50.6,10.9,30.9
+688,88300,Danilo,1239,Flamengo,72,SecondHalf,Pass,Successful,23,29.7,42.5,24.7
+689,319756,Lucas Paquetá,1239,Flamengo,72,SecondHalf,Pass,Successful,44,27.1,35.1,33.1
+690,88300,Danilo,1239,Flamengo,72,SecondHalf,Pass,Successful,36.8,39.7,40.4,67
+691,146761,Léo Pereira,1239,Flamengo,72,SecondHalf,Pass,Successful,58.2,72.4,68.2,73.6
+693,371036,Jorge Carrascal,1239,Flamengo,72,SecondHalf,Pass,Successful,77.6,82.6,73.8,68.4
+694,279575,Bruno Henrique,1239,Flamengo,72,SecondHalf,Pass,Successful,68.2,69,65.6,61.1
+695,355684,Léo Ortiz,1239,Flamengo,72,SecondHalf,Pass,Successful,68.2,59.4,85.8,57.5
+696,318475,Pedro,1239,Flamengo,72,SecondHalf,TakeOn,Unsuccessful,86,58.3,,
+491,517829,Arthur Dias,1243,Athletico Paranaense,72,SecondHalf,Tackle,Successful,14,41.8,,
+697,318475,Pedro,1239,Flamengo,72,SecondHalf,BallTouch,Successful,86,57.8,,
+492,101675,Santos,1243,Athletico Paranaense,72,SecondHalf,KeeperPickup,Successful,5.4,50.6,,
+493,101675,Santos,1243,Athletico Paranaense,72,SecondHalf,Pass,Successful,14.2,47.5,33.4,92.4
+494,605467,Claudinho,1243,Athletico Paranaense,72,SecondHalf,Pass,Successful,62.7,92.4,64.6,70.7
+495,478179,João Cruz,1243,Athletico Paranaense,72,SecondHalf,Pass,Unsuccessful,65.4,43.2,74.2,0
+699,100995,Alex Sandro,1239,Flamengo,73,SecondHalf,Pass,Successful,24.5,100,20,73.6
+700,146761,Léo Pereira,1239,Flamengo,73,SecondHalf,Pass,Successful,19.9,70.6,22.4,35.4
+701,88300,Danilo,1239,Flamengo,73,SecondHalf,Pass,Successful,28.5,28,46.4,2.2
+702,145385,Guillermo Varela,1239,Flamengo,73,SecondHalf,Pass,Successful,54.2,2.6,46.7,25.3
+703,319756,Lucas Paquetá,1239,Flamengo,73,SecondHalf,Pass,Successful,52,24.6,57.4,19.4
+704,146760,Everton,1239,Flamengo,73,SecondHalf,Pass,Successful,57.4,19.7,37.7,26.1
+705,88300,Danilo,1239,Flamengo,73,SecondHalf,Pass,Successful,40.8,29.4,45.7,44.5
+706,355684,Léo Ortiz,1239,Flamengo,73,SecondHalf,Pass,Successful,55.9,54.9,51.7,75.9
+707,146761,Léo Pereira,1239,Flamengo,73,SecondHalf,Pass,Successful,55.9,75.4,65.7,94.8
+708,279575,Bruno Henrique,1239,Flamengo,73,SecondHalf,Pass,Successful,68.8,94.4,97.3,81.5
+709,371036,Jorge Carrascal,1239,Flamengo,73,SecondHalf,Pass,Unsuccessful,97.3,81.5,97.3,52.2
+497,101675,Santos,1243,Athletico Paranaense,73,SecondHalf,KeeperPickup,Successful,3.5,46.2,,
+498,101675,Santos,1243,Athletico Paranaense,73,SecondHalf,Pass,Successful,13.7,46.2,36.3,7.8
+499,478317,Gilberto,1243,Athletico Paranaense,73,SecondHalf,Pass,Successful,37.9,7.5,37.4,33.3
+500,517830,Felipinho,1243,Athletico Paranaense,73,SecondHalf,Pass,Successful,48.1,34.5,64.1,92.7
+501,605467,Claudinho,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,72.5,79.2,84.3,87.5
+502,478179,João Cruz,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,79,86.9,67.6,81.2
+503,517830,Felipinho,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,68.2,80.5,74.1,94.2
+504,478179,João Cruz,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,73.1,93.7,80,95.9
+505,605467,Claudinho,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,80,95.9,78.5,89.5
+506,517830,Felipinho,1243,Athletico Paranaense,74,SecondHalf,BallTouch,Successful,76.4,91,,
+507,605467,Claudinho,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,73.1,92.7,65.1,91.2
+508,478179,João Cruz,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,65.8,87.3,54.7,52.5
+509,477736,Juan Aguirre,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,54.7,52.5,55.5,24.7
+510,410318,Gastón Benavídez,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,55.2,22.2,46.8,44.7
+511,477736,Juan Aguirre,1243,Athletico Paranaense,74,SecondHalf,Pass,Successful,51.9,39.6,60.8,34.9
+512,114096,Jádson,1243,Athletico Paranaense,74,SecondHalf,Foul,Successful,57.6,32.8,,
+713,371036,Jorge Carrascal,1239,Flamengo,74,SecondHalf,Foul,Unsuccessful,42.4,67.2,,
+513,410318,Gastón Benavídez,1243,Athletico Paranaense,75,SecondHalf,Pass,Successful,55,33.7,37.1,44.5
+514,477736,Juan Aguirre,1243,Athletico Paranaense,75,SecondHalf,Pass,Successful,36.7,43.2,59.3,7.8
+515,478317,Gilberto,1243,Athletico Paranaense,75,SecondHalf,Pass,Unsuccessful,59.3,7.8,73.7,6.6
+714,146761,Léo Pereira,1239,Flamengo,75,SecondHalf,Clearance,Successful,30.8,97.3,32.2,100
+517,478317,Gilberto,1243,Athletico Paranaense,75,SecondHalf,Pass,Successful,70.2,0,81.5,11.7
+521,279539,Steven Mendoza,1243,Athletico Paranaense,75,SecondHalf,BallTouch,Unsuccessful,70.9,5.8,,
+716,279575,Bruno Henrique,1239,Flamengo,75,SecondHalf,BallRecovery,Successful,23.7,83.6,,
+717,279575,Bruno Henrique,1239,Flamengo,75,SecondHalf,Pass,Unsuccessful,23.7,83.6,44.8,50.4
+518,605467,Claudinho,1243,Athletico Paranaense,75,SecondHalf,BallTouch,Successful,55.4,54.1,,
+519,517829,Arthur Dias,1243,Athletico Paranaense,75,SecondHalf,BallRecovery,Successful,60.8,52.1,,
+520,517829,Arthur Dias,1243,Athletico Paranaense,75,SecondHalf,Pass,Unsuccessful,60.8,52.1,72,65.3
+719,145385,Guillermo Varela,1239,Flamengo,75,SecondHalf,BallRecovery,Successful,34.6,36.3,,
+720,145385,Guillermo Varela,1239,Flamengo,75,SecondHalf,Pass,Unsuccessful,36.6,35.4,64.3,0
+523,605467,Claudinho,1243,Athletico Paranaense,76,SecondHalf,Pass,Unsuccessful,42.2,100,67.6,93.9
+722,88300,Danilo,1239,Flamengo,76,SecondHalf,Clearance,Successful,31.1,4.6,38.9,6.7
+524,478179,João Cruz,1243,Athletico Paranaense,76,SecondHalf,Pass,Successful,63.8,87.8,61.2,96.6
+525,605467,Claudinho,1243,Athletico Paranaense,76,SecondHalf,Pass,Successful,61.2,96.6,74.6,95.4
+526,533161,Kevin Viveros,1243,Athletico Paranaense,76,SecondHalf,BallTouch,Unsuccessful,74.5,95.4,,
+724,145385,Guillermo Varela,1239,Flamengo,76,SecondHalf,Pass,Successful,34,0,36.8,25.8
+725,355684,Léo Ortiz,1239,Flamengo,76,SecondHalf,Pass,Successful,38.4,32.8,41.8,60
+726,371036,Jorge Carrascal,1239,Flamengo,76,SecondHalf,Pass,Successful,66.5,82.4,62.5,68.1
+727,355684,Léo Ortiz,1239,Flamengo,76,SecondHalf,Pass,Successful,63.4,69.6,69.1,91.8
+728,100995,Alex Sandro,1239,Flamengo,76,SecondHalf,Pass,Successful,69.6,93.5,77.3,97.7
+729,279575,Bruno Henrique,1239,Flamengo,76,SecondHalf,Pass,Successful,76.3,97.1,66.7,96.2
+730,100995,Alex Sandro,1239,Flamengo,76,SecondHalf,Pass,Successful,66.7,96.2,61.5,83.8
+731,355684,Léo Ortiz,1239,Flamengo,76,SecondHalf,Pass,Successful,62.6,70.3,59,35.4
+732,88300,Danilo,1239,Flamengo,76,SecondHalf,Pass,Successful,63.4,33,73,3.1
+733,146760,Everton,1239,Flamengo,76,SecondHalf,Pass,Successful,71.2,9.4,64.2,24.7
+734,88300,Danilo,1239,Flamengo,76,SecondHalf,Pass,Successful,66.3,26.2,65.1,44.2
+735,146761,Léo Pereira,1239,Flamengo,76,SecondHalf,Pass,Unsuccessful,66.8,53.9,100,89.3
+529,101675,Santos,1243,Athletico Paranaense,77,SecondHalf,Pass,Successful,4.8,49.6,66,11.7
+530,279539,Steven Mendoza,1243,Athletico Paranaense,77,SecondHalf,BallTouch,Unsuccessful,66,11.7,,
+737,355684,Léo Ortiz,1239,Flamengo,77,SecondHalf,BallRecovery,Successful,41,83.2,,
+738,355684,Léo Ortiz,1239,Flamengo,77,SecondHalf,Pass,Successful,41,83.2,34.3,68.2
+739,371036,Jorge Carrascal,1239,Flamengo,77,SecondHalf,Pass,Unsuccessful,36.5,56.6,66.4,45.5
+740,146760,Everton,1239,Flamengo,77,SecondHalf,Aerial,Successful,66.4,45.5,,
+531,517829,Arthur Dias,1243,Athletico Paranaense,77,SecondHalf,Aerial,Unsuccessful,33.6,54.5,,
+866,146760,Everton,1239,Flamengo,77,SecondHalf,Pass,Unsuccessful,66.4,45.5,67.1,67.8
+532,478317,Gilberto,1243,Athletico Paranaense,77,SecondHalf,Pass,Unsuccessful,32.3,26.4,37.5,43.3
+741,319756,Lucas Paquetá,1239,Flamengo,77,SecondHalf,Pass,Successful,64.3,78.2,71,95.9
+742,279575,Bruno Henrique,1239,Flamengo,77,SecondHalf,Pass,Successful,78,91.4,67,93.3
+743,100995,Alex Sandro,1239,Flamengo,77,SecondHalf,Pass,Successful,66.8,92.6,61.5,77.8
+744,355684,Léo Ortiz,1239,Flamengo,78,SecondHalf,Pass,Successful,62.5,73.2,63.3,32.7
+745,88300,Danilo,1239,Flamengo,78,SecondHalf,Pass,Successful,63.3,31.3,69.5,17.4
+746,371036,Jorge Carrascal,1239,Flamengo,78,SecondHalf,Pass,Successful,73.3,26.8,71.4,43
+747,319756,Lucas Paquetá,1239,Flamengo,78,SecondHalf,Pass,Unsuccessful,71.4,43,76.4,37
+535,517830,Felipinho,1243,Athletico Paranaense,78,SecondHalf,BallTouch,Successful,27.5,59,,
+748,146761,Léo Pereira,1239,Flamengo,78,SecondHalf,Pass,Successful,66.2,58.8,67.9,72.9
+749,355684,Léo Ortiz,1239,Flamengo,78,SecondHalf,Pass,Successful,67.9,72.9,76.7,91.4
+750,100995,Alex Sandro,1239,Flamengo,78,SecondHalf,Pass,Successful,76.8,91.4,87.3,91.1
+751,279575,Bruno Henrique,1239,Flamengo,78,SecondHalf,Pass,Successful,87.3,91.1,74.1,93.8
+752,100995,Alex Sandro,1239,Flamengo,78,SecondHalf,Pass,Successful,72.9,88.1,64.3,78.8
+753,355684,Léo Ortiz,1239,Flamengo,78,SecondHalf,Pass,Successful,65.5,73.5,93.2,70.3
+754,279575,Bruno Henrique,1239,Flamengo,78,SecondHalf,Pass,Unsuccessful,93.2,70.3,97.2,45.4
+536,101675,Santos,1243,Athletico Paranaense,78,SecondHalf,KeeperPickup,Successful,5.4,53.1,,
+537,101675,Santos,1243,Athletico Paranaense,78,SecondHalf,Pass,Successful,14.9,61.1,28.1,13.4
+538,478317,Gilberto,1243,Athletico Paranaense,78,SecondHalf,Pass,Successful,41.4,11,71.7,31
+539,533161,Kevin Viveros,1243,Athletico Paranaense,78,SecondHalf,SavedShot,Successful,92.1,33.7,,
+755,303902,Agustín Rossi,1239,Flamengo,78,SecondHalf,Save,Successful,3.8,56.6,,
+540,533161,Kevin Viveros,1243,Athletico Paranaense,78,SecondHalf,SavedShot,Successful,94.3,32.2,,
+756,303902,Agustín Rossi,1239,Flamengo,78,SecondHalf,Save,Successful,1.7,57,,
+541,533161,Kevin Viveros,1243,Athletico Paranaense,78,SecondHalf,ShotOnPost,Successful,92.3,34.4,,
+758,145385,Guillermo Varela,1239,Flamengo,79,SecondHalf,Pass,Successful,31,0,35,14.6
+759,319756,Lucas Paquetá,1239,Flamengo,79,SecondHalf,Pass,Successful,40.6,35.5,43.9,66.9
+760,100995,Alex Sandro,1239,Flamengo,79,SecondHalf,Pass,Successful,45.9,72,58.4,92.1
+761,279575,Bruno Henrique,1239,Flamengo,79,SecondHalf,Pass,Successful,59.4,93.5,52.3,76.3
+762,146761,Léo Pereira,1239,Flamengo,79,SecondHalf,Pass,Successful,57.4,71.5,60.9,24.6
+763,88300,Danilo,1239,Flamengo,79,SecondHalf,Pass,Successful,60.9,24.4,66.7,4.3
+764,145385,Guillermo Varela,1239,Flamengo,79,SecondHalf,Pass,Successful,66.4,5.6,58.4,19.2
+765,88300,Danilo,1239,Flamengo,79,SecondHalf,Pass,Successful,59.1,21.2,65,35.4
+766,319756,Lucas Paquetá,1239,Flamengo,79,SecondHalf,Pass,Successful,65,43,69,93.8
+767,100995,Alex Sandro,1239,Flamengo,79,SecondHalf,Pass,Unsuccessful,87.7,88,96.4,47.6
+543,101675,Santos,1243,Athletico Paranaense,79,SecondHalf,Claim,Successful,3.6,52.4,,
+544,101675,Santos,1243,Athletico Paranaense,79,SecondHalf,Pass,Successful,14.3,45.3,86.6,4.3
+545,279539,Steven Mendoza,1243,Athletico Paranaense,80,SecondHalf,Pass,Successful,87.7,5.3,71.5,7.8
+546,478317,Gilberto,1243,Athletico Paranaense,80,SecondHalf,Pass,Successful,71.5,7.8,58.4,17.1
+547,410318,Gastón Benavídez,1243,Athletico Paranaense,80,SecondHalf,Pass,Successful,58.4,17.1,42.2,37.4
+548,477736,Juan Aguirre,1243,Athletico Paranaense,80,SecondHalf,Pass,Successful,42.2,37.4,45,69.2
+549,517829,Arthur Dias,1243,Athletico Paranaense,80,SecondHalf,Pass,Successful,45,69.2,58.8,95.1
+550,605467,Claudinho,1243,Athletico Paranaense,80,SecondHalf,Pass,Successful,56.6,87.6,64,93.2
+551,478179,João Cruz,1243,Athletico Paranaense,80,SecondHalf,Pass,Unsuccessful,55.2,88.1,65.4,91.5
+768,145385,Guillermo Varela,1239,Flamengo,80,SecondHalf,Interception,Successful,34.6,8.5,,
+867,319756,Lucas Paquetá,1239,Flamengo,80,SecondHalf,BallRecovery,Successful,38.4,9.1,,
+868,319756,Lucas Paquetá,1239,Flamengo,80,SecondHalf,Pass,Successful,38.4,9.1,24.9,20.3
+869,88300,Danilo,1239,Flamengo,80,SecondHalf,Pass,Successful,29.2,20.1,54.4,33.7
+773,318475,Pedro,1239,Flamengo,80,SecondHalf,Pass,Successful,57.7,32.5,61.9,25.5
+775,146760,Everton,1239,Flamengo,80,SecondHalf,Pass,Successful,59.1,21.6,49.9,9.8
+776,145385,Guillermo Varela,1239,Flamengo,80,SecondHalf,Pass,Successful,51.4,12.6,54.1,27
+777,319756,Lucas Paquetá,1239,Flamengo,80,SecondHalf,Pass,Successful,54.1,27,66.3,11.6
+778,146760,Everton,1239,Flamengo,80,SecondHalf,Foul,Successful,49.9,17.6,,
+552,605467,Claudinho,1243,Athletico Paranaense,80,SecondHalf,Foul,Unsuccessful,50.1,82.4,,
+780,355684,Léo Ortiz,1239,Flamengo,81,SecondHalf,SubstitutionOff,Successful,0,0,,
+781,328512,Emerson Royal,1239,Flamengo,81,SecondHalf,SubstitutionOn,Successful,0,0,,
+779,146760,Everton,1239,Flamengo,81,SecondHalf,Pass,Unsuccessful,65.1,21.5,90.7,58.1
+553,478317,Gilberto,1243,Athletico Paranaense,81,SecondHalf,Clearance,Successful,10.4,37.2,21.2,9.3
+554,114096,Jádson,1243,Athletico Paranaense,81,SecondHalf,BallRecovery,Successful,27.6,9.3,,
+555,114096,Jádson,1243,Athletico Paranaense,81,SecondHalf,Pass,Successful,33.6,8.3,59,63.4
+556,478179,João Cruz,1243,Athletico Paranaense,81,SecondHalf,Pass,Successful,59,63.4,65,75.1
+557,533161,Kevin Viveros,1243,Athletico Paranaense,81,SecondHalf,Pass,Unsuccessful,88.4,72.6,90,65.8
+782,328512,Emerson Royal,1239,Flamengo,81,SecondHalf,BlockedPass,Successful,10,34.2,,
+784,328512,Emerson Royal,1239,Flamengo,81,SecondHalf,Clearance,Successful,5.4,29.2,9.9,27.9
+558,533161,Kevin Viveros,1243,Athletico Paranaense,81,SecondHalf,Dispossessed,Successful,86.8,63.6,,
+785,319756,Lucas Paquetá,1239,Flamengo,81,SecondHalf,Tackle,Successful,13.2,36.4,,
+786,146760,Everton,1239,Flamengo,81,SecondHalf,Clearance,Successful,10.3,41.9,33.4,24.3
+559,605467,Claudinho,1243,Athletico Paranaense,81,SecondHalf,SavedShot,Successful,70.5,69.4,,
+787,319756,Lucas Paquetá,1239,Flamengo,81,SecondHalf,Save,Successful,21.6,35,,
+560,517830,Felipinho,1243,Athletico Paranaense,82,SecondHalf,ShotOnPost,Successful,66.4,60.9,,
+561,478317,Gilberto,1243,Athletico Paranaense,82,SecondHalf,Pass,Unsuccessful,88,14.6,100,74.3
+789,303902,Agustín Rossi,1239,Flamengo,82,SecondHalf,Pass,Successful,4.6,44.2,28.6,64.2
+790,319756,Lucas Paquetá,1239,Flamengo,82,SecondHalf,Pass,Successful,39.1,67.8,55.3,90.3
+791,100995,Alex Sandro,1239,Flamengo,82,SecondHalf,Pass,Successful,55.8,89.6,45.3,72.1
+792,319756,Lucas Paquetá,1239,Flamengo,82,SecondHalf,Pass,Successful,45.3,72.1,47.9,57.6
+793,145385,Guillermo Varela,1239,Flamengo,82,SecondHalf,Pass,Successful,47.9,57.9,43.6,66.1
+794,146761,Léo Pereira,1239,Flamengo,83,SecondHalf,Pass,Successful,48,66.9,94.6,68.2
+795,279575,Bruno Henrique,1239,Flamengo,83,SecondHalf,Pass,Successful,95.8,67.5,92.3,55.4
+796,318475,Pedro,1239,Flamengo,83,SecondHalf,Goal,Successful,92.3,55.4,,
+563,533161,Kevin Viveros,1243,Athletico Paranaense,84,SecondHalf,Pass,Successful,49.9,49.7,37.7,50.8
+564,517830,Felipinho,1243,Athletico Paranaense,84,SecondHalf,Pass,Successful,37.7,50.8,31.6,70.9
+565,517829,Arthur Dias,1243,Athletico Paranaense,84,SecondHalf,Pass,Successful,29.7,74.8,8,44.5
+566,101675,Santos,1243,Athletico Paranaense,84,SecondHalf,Pass,Successful,8.8,31.7,56.5,63.8
+567,478179,João Cruz,1243,Athletico Paranaense,84,SecondHalf,Pass,Successful,50.4,73.4,64,93.4
+568,605467,Claudinho,1243,Athletico Paranaense,84,SecondHalf,MissedShots,Successful,75.6,64.3,,
+798,303902,Agustín Rossi,1239,Flamengo,85,SecondHalf,Pass,Successful,3.7,50,14.8,67.5
+799,146761,Léo Pereira,1239,Flamengo,85,SecondHalf,Pass,Successful,30.6,71.2,80.4,85.7
+800,279575,Bruno Henrique,1239,Flamengo,85,SecondHalf,Dispossessed,Successful,97.3,86.1,,
+570,478317,Gilberto,1243,Athletico Paranaense,85,SecondHalf,Tackle,Successful,2.8,14,,
+801,279575,Bruno Henrique,1239,Flamengo,85,SecondHalf,CornerAwarded,Successful,100,86.2,,
+571,478317,Gilberto,1243,Athletico Paranaense,85,SecondHalf,CornerAwarded,Unsuccessful,0,13.8,,
+802,371036,Jorge Carrascal,1239,Flamengo,85,SecondHalf,Pass,Successful,99.5,99.5,93.4,44.6
+803,146761,Léo Pereira,1239,Flamengo,85,SecondHalf,Aerial,Successful,93.4,44.6,,
+572,605467,Claudinho,1243,Athletico Paranaense,85,SecondHalf,Aerial,Unsuccessful,6.6,55.4,,
+804,146761,Léo Pereira,1239,Flamengo,85,SecondHalf,MissedShots,Successful,93.4,44.6,,
+574,101675,Santos,1243,Athletico Paranaense,86,SecondHalf,Pass,Successful,5.3,51.1,14.5,12.7
+575,410318,Gastón Benavídez,1243,Athletico Paranaense,86,SecondHalf,Pass,Successful,14.5,12.7,45.4,11.4
+576,279539,Steven Mendoza,1243,Athletico Paranaense,86,SecondHalf,Pass,Unsuccessful,45.4,11.4,44.3,15.9
+806,319756,Lucas Paquetá,1239,Flamengo,86,SecondHalf,BlockedPass,Successful,55.7,84.1,,
+578,478317,Gilberto,1243,Athletico Paranaense,86,SecondHalf,Pass,Successful,51.2,0,74.3,10.9
+579,533161,Kevin Viveros,1243,Athletico Paranaense,86,SecondHalf,BallTouch,Unsuccessful,74.3,10.9,,
+809,100995,Alex Sandro,1239,Flamengo,86,SecondHalf,Pass,Successful,29,100,30.6,85.7
+810,319756,Lucas Paquetá,1239,Flamengo,86,SecondHalf,Pass,Successful,30.6,86.2,32.3,95.7
+811,100995,Alex Sandro,1239,Flamengo,86,SecondHalf,Pass,Unsuccessful,32.3,95.7,66.3,64.5
+581,477736,Juan Aguirre,1243,Athletico Paranaense,86,SecondHalf,Pass,Successful,31.8,34.7,14.4,51.4
+582,101675,Santos,1243,Athletico Paranaense,86,SecondHalf,BallRecovery,Successful,13.7,52.3,,
+583,101675,Santos,1243,Athletico Paranaense,86,SecondHalf,Pass,Successful,13.7,52.3,20.3,75.3
+584,517829,Arthur Dias,1243,Athletico Paranaense,87,SecondHalf,Pass,Successful,20.3,75.3,32.4,95.9
+585,605467,Claudinho,1243,Athletico Paranaense,87,SecondHalf,Pass,Successful,33,93.9,31.4,77.1
+586,517830,Felipinho,1243,Athletico Paranaense,87,SecondHalf,Pass,Successful,30.5,76.5,31.5,64.6
+587,114096,Jádson,1243,Athletico Paranaense,87,SecondHalf,Pass,Successful,31.5,64.6,46.1,59.9
+588,533161,Kevin Viveros,1243,Athletico Paranaense,87,SecondHalf,Foul,Successful,45.7,58.6,,
+812,319756,Lucas Paquetá,1239,Flamengo,87,SecondHalf,Foul,Unsuccessful,54.3,41.4,,
+589,477736,Juan Aguirre,1243,Athletico Paranaense,87,SecondHalf,Pass,Successful,43.8,59.2,66.3,6.3
+590,478317,Gilberto,1243,Athletico Paranaense,87,SecondHalf,Pass,Successful,66.3,6.3,53.8,19.3
+591,410318,Gastón Benavídez,1243,Athletico Paranaense,87,SecondHalf,Pass,Unsuccessful,56.4,14.7,63.8,5.3
+813,100995,Alex Sandro,1239,Flamengo,87,SecondHalf,Interception,Successful,36.2,94.7,,
+814,279575,Bruno Henrique,1239,Flamengo,87,SecondHalf,Clearance,Successful,34.7,95.4,32.4,100
+593,478317,Gilberto,1243,Athletico Paranaense,87,SecondHalf,Pass,Successful,70.6,0,75.2,23.7
+594,279539,Steven Mendoza,1243,Athletico Paranaense,87,SecondHalf,Pass,Unsuccessful,75.2,23.7,71.5,31.3
+871,145385,Guillermo Varela,1239,Flamengo,87,SecondHalf,Interception,Successful,28.5,68.7,,
+872,319756,Lucas Paquetá,1239,Flamengo,87,SecondHalf,BallRecovery,Successful,28.6,69.3,,
+873,319756,Lucas Paquetá,1239,Flamengo,87,SecondHalf,Pass,Successful,27.8,70.5,42.6,69
+874,318475,Pedro,1239,Flamengo,88,SecondHalf,BallTouch,Unsuccessful,43.9,66.4,,
+595,477736,Juan Aguirre,1243,Athletico Paranaense,88,SecondHalf,BallTouch,Unsuccessful,60.5,31.1,,
+597,477736,Juan Aguirre,1243,Athletico Paranaense,88,SecondHalf,Challenge,Unsuccessful,59.5,32.2,,
+819,371036,Jorge Carrascal,1239,Flamengo,88,SecondHalf,TakeOn,Successful,40.5,67.8,,
+821,371036,Jorge Carrascal,1239,Flamengo,88,SecondHalf,Pass,Successful,47,58.2,68.4,84.2
+822,279575,Bruno Henrique,1239,Flamengo,88,SecondHalf,SavedShot,Successful,84.9,69.7,,
+598,410318,Gastón Benavídez,1243,Athletico Paranaense,88,SecondHalf,Save,Successful,11.5,35,,
+823,279575,Bruno Henrique,1239,Flamengo,88,SecondHalf,CornerAwarded,Successful,94.1,64,,
+599,410318,Gastón Benavídez,1243,Athletico Paranaense,88,SecondHalf,CornerAwarded,Unsuccessful,5.9,36,,
+824,146760,Everton,1239,Flamengo,88,SecondHalf,Pass,Successful,99.5,99.5,95.8,61.5
+825,328512,Emerson Royal,1239,Flamengo,88,SecondHalf,Pass,Unsuccessful,95.8,61.5,96.6,51.6
+600,517830,Felipinho,1243,Athletico Paranaense,88,SecondHalf,BallTouch,Successful,4.1,43.8,,
+601,517830,Felipinho,1243,Athletico Paranaense,89,SecondHalf,CornerAwarded,Unsuccessful,0.8,48,,
+826,328512,Emerson Royal,1239,Flamengo,89,SecondHalf,CornerAwarded,Successful,99.1,52,,
+827,146760,Everton,1239,Flamengo,89,SecondHalf,Pass,Successful,99.5,99.5,97.7,55.8
+830,328512,Emerson Royal,1239,Flamengo,89,SecondHalf,Pass,Unsuccessful,96.1,60.5,97.1,53
+602,517830,Felipinho,1243,Athletico Paranaense,89,SecondHalf,BallTouch,Successful,3.1,41,,
+828,88300,Danilo,1239,Flamengo,89,SecondHalf,BallTouch,Successful,95.1,47.6,,
+603,101675,Santos,1243,Athletico Paranaense,89,SecondHalf,Save,Successful,1.9,51.1,,
+605,101675,Santos,1243,Athletico Paranaense,89,SecondHalf,Pass,Unsuccessful,5,54.3,69.6,40.6
+831,146761,Léo Pereira,1239,Flamengo,89,SecondHalf,Foul,Successful,30.6,62.3,,
+607,533161,Kevin Viveros,1243,Athletico Paranaense,89,SecondHalf,Foul,Unsuccessful,69.4,37.7,,
+832,303902,Agustín Rossi,1239,Flamengo,90,SecondHalf,Pass,Successful,28.5,67.3,31.8,32.7
+833,88300,Danilo,1239,Flamengo,90,SecondHalf,Pass,Successful,32.6,30.7,61.1,2.2
+834,328512,Emerson Royal,1239,Flamengo,90,SecondHalf,Pass,Successful,61.1,2.2,55.3,11.9
+835,371036,Jorge Carrascal,1239,Flamengo,90,SecondHalf,Pass,Unsuccessful,55.5,11.9,87,15.2
+608,101675,Santos,1243,Athletico Paranaense,90,SecondHalf,KeeperPickup,Successful,7,76.3,,
+609,101675,Santos,1243,Athletico Paranaense,90,SecondHalf,Pass,Successful,14.3,57,22.5,25.1
+610,410318,Gastón Benavídez,1243,Athletico Paranaense,90,SecondHalf,Pass,Successful,24.9,25.2,37,4.4
+611,478317,Gilberto,1243,Athletico Paranaense,90,SecondHalf,Pass,Successful,37,4.4,73.8,46
+613,533161,Kevin Viveros,1243,Athletico Paranaense,90,SecondHalf,Foul,Successful,72.2,38.7,,
+836,88300,Danilo,1239,Flamengo,90,SecondHalf,Foul,Unsuccessful,27.8,61.3,,
+837,88300,Danilo,1239,Flamengo,91,SecondHalf,Card,Successful,0,0,,
+838,371036,Jorge Carrascal,1239,Flamengo,92,SecondHalf,SubstitutionOff,Successful,0,0,,
+839,297581,Ayrton Lucas,1239,Flamengo,92,SecondHalf,SubstitutionOn,Successful,0,0,,
+842,318475,Pedro,1239,Flamengo,92,SecondHalf,SubstitutionOff,Successful,0,0,,
+843,397766,Vitão,1239,Flamengo,92,SecondHalf,SubstitutionOn,Successful,0,0,,
+614,478179,João Cruz,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,69.6,25.9,85.6,52.8
+615,517830,Felipinho,1243,Athletico Paranaense,93,SecondHalf,Aerial,Successful,85.6,52.8,,
+846,397766,Vitão,1239,Flamengo,93,SecondHalf,Aerial,Unsuccessful,14.4,47.2,,
+616,517830,Felipinho,1243,Athletico Paranaense,93,SecondHalf,MissedShots,Successful,85.6,52.8,,
+840,303902,Agustín Rossi,1239,Flamengo,93,SecondHalf,Claim,Successful,2.5,41.5,,
+841,303902,Agustín Rossi,1239,Flamengo,93,SecondHalf,Pass,Unsuccessful,14.4,36.1,85.5,43.9
+617,101675,Santos,1243,Athletico Paranaense,93,SecondHalf,KeeperPickup,Successful,14,58.9,,
+618,101675,Santos,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,14,58.9,30,27.9
+619,478317,Gilberto,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,32.4,26.9,29.1,39.3
+620,410318,Gastón Benavídez,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,29.1,39.3,28.4,56
+621,477736,Juan Aguirre,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,29.4,55.8,32.2,77
+622,517829,Arthur Dias,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,32.4,74.4,42.6,35
+623,114096,Jádson,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,52.9,25.1,39.2,31.1
+624,410318,Gastón Benavídez,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,40.2,31.1,40.7,73.9
+625,517829,Arthur Dias,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,40.3,74.8,78.7,71.4
+626,533161,Kevin Viveros,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,78.7,71.4,71,71.4
+627,478179,João Cruz,1243,Athletico Paranaense,93,SecondHalf,Pass,Successful,74.3,69.4,88.3,73.3
+628,533161,Kevin Viveros,1243,Athletico Paranaense,93,SecondHalf,Pass,Unsuccessful,96.1,71.9,94.1,60.9
+844,146761,Léo Pereira,1239,Flamengo,93,SecondHalf,Clearance,Successful,3.1,42.1,0,39.4
+845,146761,Léo Pereira,1239,Flamengo,94,SecondHalf,CornerAwarded,Unsuccessful,1.8,39.2,,
+629,533161,Kevin Viveros,1243,Athletico Paranaense,94,SecondHalf,CornerAwarded,Successful,98.2,60.8,,
+630,517830,Felipinho,1243,Athletico Paranaense,94,SecondHalf,SubstitutionOff,Successful,0,0,,
+631,604320,Renan Peixoto,1243,Athletico Paranaense,94,SecondHalf,SubstitutionOn,Successful,0,0,,
+632,478179,João Cruz,1243,Athletico Paranaense,95,SecondHalf,Pass,Unsuccessful,99.4,99.6,98.1,58.5
+847,279575,Bruno Henrique,1239,Flamengo,95,SecondHalf,Clearance,Successful,2.6,40,9.5,0
+634,605467,Claudinho,1243,Athletico Paranaense,95,SecondHalf,Pass,Unsuccessful,87.6,100,91.7,66.5
+849,279575,Bruno Henrique,1239,Flamengo,95,SecondHalf,Clearance,Successful,8.1,32.1,24.8,26.1
+635,114096,Jádson,1243,Athletico Paranaense,96,SecondHalf,Aerial,Successful,75.2,73.9,,
+850,145385,Guillermo Varela,1239,Flamengo,96,SecondHalf,Aerial,Unsuccessful,24.8,26.1,,
+636,114096,Jádson,1243,Athletico Paranaense,96,SecondHalf,Pass,Successful,75.2,73.9,65.7,95.2
+637,605467,Claudinho,1243,Athletico Paranaense,96,SecondHalf,Pass,Unsuccessful,65.7,95.2,69.2,92.7
+851,146760,Everton,1239,Flamengo,96,SecondHalf,BallTouch,Successful,36.1,2.5,,
+639,605467,Claudinho,1243,Athletico Paranaense,96,SecondHalf,Pass,Unsuccessful,69.7,100,89.6,70.5
+853,,,1239,Flamengo,96,SecondHalf,FormationChange,Successful,0,0,,
+854,328512,Emerson Royal,1239,Flamengo,96,SecondHalf,Aerial,Successful,10.4,29.5,,
+640,114096,Jádson,1243,Athletico Paranaense,96,SecondHalf,Aerial,Unsuccessful,89.6,70.5,,
+641,605467,Claudinho,1243,Athletico Paranaense,96,SecondHalf,Pass,Unsuccessful,73.2,84.2,79.7,61.2
+855,328512,Emerson Royal,1239,Flamengo,96,SecondHalf,Clearance,Successful,12.8,31.9,29.7,13.2
+856,297581,Ayrton Lucas,1239,Flamengo,96,SecondHalf,Clearance,Successful,20.6,45.8,64.8,5.5
+857,279575,Bruno Henrique,1239,Flamengo,96,SecondHalf,BallRecovery,Successful,65.4,5.5,,
+858,279575,Bruno Henrique,1239,Flamengo,96,SecondHalf,Pass,Unsuccessful,65.4,5.5,88.4,12.5
+642,410318,Gastón Benavídez,1243,Athletico Paranaense,96,SecondHalf,Clearance,Successful,14.3,85.6,14.2,100
+860,,,1239,Flamengo,96,SecondHalf,End,Successful,0,0,,
+645,,,1243,Athletico Paranaense,96,SecondHalf,End,Successful,0,0,,
+863,,,1239,Flamengo,0,PostGame,End,Successful,0,0,,
+646,,,1243,Athletico Paranaense,0,PostGame,End,Successful,0,0,,
+1,,,1243,Athletico Paranaense,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,1239,Flamengo,0,PreMatch,FormationSet,Successful,0,0,,

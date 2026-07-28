@@ -1,0 +1,1378 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,1221,Bahia,0,FirstHalf,Start,Successful,0,0,,
+2,,,1237,Corinthians,0,FirstHalf,Start,Successful,0,0,,
+3,432685,Rodrigo Garro,1237,Corinthians,0,FirstHalf,Pass,Successful,50.1,49.8,25.8,49.1
+4,399247,Hugo Souza,1237,Corinthians,0,FirstHalf,Pass,Successful,25.6,49.1,66.1,14.2
+5,449872,Kaio César,1237,Corinthians,0,FirstHalf,BallTouch,Unsuccessful,65.8,13.9,,
+140,355659,Jean Lucas,1221,Bahia,0,FirstHalf,TakeOn,Unsuccessful,29.2,90.2,,
+298,398130,Matheuzinho,1237,Corinthians,0,FirstHalf,Tackle,Successful,70.8,9.8,,
+299,398130,Matheuzinho,1237,Corinthians,0,FirstHalf,Pass,Unsuccessful,73.2,15.9,74.5,27
+3,389163,Rodrigo Nestor,1221,Bahia,0,FirstHalf,BallRecovery,Successful,30.1,68.4,,
+4,389163,Rodrigo Nestor,1221,Bahia,0,FirstHalf,Pass,Successful,31,69.1,45.4,92.7
+6,398130,Matheuzinho,1237,Corinthians,0,FirstHalf,Challenge,Unsuccessful,35.4,7.6,,
+5,549062,Erick Pulga,1221,Bahia,0,FirstHalf,TakeOn,Successful,64.6,92.4,,
+6,549062,Erick Pulga,1221,Bahia,0,FirstHalf,Pass,Successful,62.8,85,71.5,21.2
+7,356785,Ademir,1221,Bahia,0,FirstHalf,Pass,Successful,71.5,21.2,65.5,14.6
+8,518031,Román Gómez,1221,Bahia,0,FirstHalf,Pass,Successful,65.5,14.6,77.8,11.9
+9,389163,Rodrigo Nestor,1221,Bahia,0,FirstHalf,Pass,Unsuccessful,77,12.8,97.8,58.2
+7,398130,Matheuzinho,1237,Corinthians,0,FirstHalf,Clearance,Successful,2.7,40.8,0,37.6
+10,389163,Rodrigo Nestor,1221,Bahia,0,FirstHalf,CornerAwarded,Successful,99.9,60.7,,
+8,398130,Matheuzinho,1237,Corinthians,0,FirstHalf,CornerAwarded,Unsuccessful,0,0,,
+11,389163,Rodrigo Nestor,1221,Bahia,1,FirstHalf,Pass,Unsuccessful,99.6,99.6,92.4,48.4
+9,114595,Gustavo Henrique,1237,Corinthians,1,FirstHalf,Clearance,Successful,8.5,46.2,27.4,38.9
+12,476466,Zé Guilherme,1221,Bahia,1,FirstHalf,Pass,Successful,76.3,64.8,84.2,91.7
+13,389163,Rodrigo Nestor,1221,Bahia,1,FirstHalf,Pass,Successful,84.2,91.7,95.3,82.3
+14,355659,Jean Lucas,1221,Bahia,1,FirstHalf,Pass,Unsuccessful,95.3,82.3,95.1,79.9
+10,420319,Raniele,1237,Corinthians,1,FirstHalf,BallTouch,Successful,6.9,26.3,,
+15,549062,Erick Pulga,1221,Bahia,1,FirstHalf,MissedShots,Successful,86.9,68.1,,
+13,399247,Hugo Souza,1237,Corinthians,1,FirstHalf,Pass,Successful,5.2,50,52.6,25.4
+14,348261,Yuri Alberto,1237,Corinthians,1,FirstHalf,Pass,Unsuccessful,52.6,25.4,69.3,38
+17,476466,Zé Guilherme,1221,Bahia,1,FirstHalf,BallRecovery,Successful,21.7,61.7,,
+18,476466,Zé Guilherme,1221,Bahia,1,FirstHalf,Pass,Successful,21.7,61.7,14.3,54.9
+19,330555,Ronaldo,1221,Bahia,1,FirstHalf,Pass,Successful,14.2,54.8,19.1,49
+20,279581,David Duarte,1221,Bahia,1,FirstHalf,Pass,Successful,23.2,43.6,25.1,23.7
+21,518031,Román Gómez,1221,Bahia,1,FirstHalf,Pass,Successful,25.7,23.7,22.6,43
+22,279581,David Duarte,1221,Bahia,1,FirstHalf,Pass,Successful,22.5,38.6,24,21.3
+15,441410,Breno Bidon,1237,Corinthians,1,FirstHalf,Challenge,Unsuccessful,71.2,85,,
+23,518031,Román Gómez,1221,Bahia,1,FirstHalf,TakeOn,Successful,28.8,15,,
+24,518031,Román Gómez,1221,Bahia,2,FirstHalf,Pass,Successful,26.3,6.5,6.7,38.9
+25,330555,Ronaldo,1221,Bahia,2,FirstHalf,Pass,Successful,6.7,38.9,17.8,31.6
+26,396067,Nicolás Acevedo,1221,Bahia,2,FirstHalf,Pass,Successful,19.4,28.3,21.6,6.7
+27,518031,Román Gómez,1221,Bahia,2,FirstHalf,Pass,Successful,21.6,6.7,10,6.1
+28,279581,David Duarte,1221,Bahia,2,FirstHalf,Pass,Successful,5.9,8.3,5,40.3
+29,330555,Ronaldo,1221,Bahia,2,FirstHalf,Pass,Successful,9.5,45.4,19.2,37.7
+30,396067,Nicolás Acevedo,1221,Bahia,2,FirstHalf,Pass,Successful,23,36.3,25.4,51.8
+31,355659,Jean Lucas,1221,Bahia,2,FirstHalf,Pass,Successful,26.2,53.7,29.9,85.3
+32,402198,Santiago Ramos Mingo,1221,Bahia,2,FirstHalf,Pass,Successful,36.8,85.6,37.1,70.6
+33,355659,Jean Lucas,1221,Bahia,2,FirstHalf,Pass,Successful,36.2,67.9,35.2,34
+34,518031,Román Gómez,1221,Bahia,2,FirstHalf,Pass,Successful,45.5,30.4,37,40.9
+35,279581,David Duarte,1221,Bahia,2,FirstHalf,Pass,Successful,38.9,41.2,72.8,96.3
+36,476466,Zé Guilherme,1221,Bahia,2,FirstHalf,BallTouch,Unsuccessful,63.6,87.7,,
+16,348261,Yuri Alberto,1237,Corinthians,2,FirstHalf,Pass,Successful,36.3,21,30.8,27
+17,579136,André,1237,Corinthians,2,FirstHalf,BallRecovery,Successful,31.1,27.9,,
+18,579136,André,1237,Corinthians,2,FirstHalf,Pass,Successful,31.1,27.9,30.8,38.6
+19,420319,Raniele,1237,Corinthians,2,FirstHalf,Foul,Successful,30.8,41.8,,
+37,414269,Alejo Veliz,1221,Bahia,2,FirstHalf,Foul,Unsuccessful,69.2,58.2,,
+20,76810,Gabriel Paulista,1237,Corinthians,3,FirstHalf,Pass,Successful,30.3,39.5,26.6,24.4
+21,398130,Matheuzinho,1237,Corinthians,3,FirstHalf,Pass,Successful,26,23.2,31.6,5.9
+22,432685,Rodrigo Garro,1237,Corinthians,3,FirstHalf,Pass,Successful,31.9,6.3,56.4,19.8
+23,348261,Yuri Alberto,1237,Corinthians,3,FirstHalf,Pass,Successful,63.3,6.9,59,15.3
+24,441410,Breno Bidon,1237,Corinthians,3,FirstHalf,Dispossessed,Successful,59.8,11.6,,
+38,355659,Jean Lucas,1221,Bahia,3,FirstHalf,Tackle,Unsuccessful,40.2,88.3,,
+25,348261,Yuri Alberto,1237,Corinthians,3,FirstHalf,Pass,Successful,58.2,15.6,62.3,24.7
+26,579136,André,1237,Corinthians,3,FirstHalf,Pass,Successful,64.9,32.9,52.1,44.8
+27,420319,Raniele,1237,Corinthians,3,FirstHalf,Pass,Successful,52.1,44.8,39,37.1
+28,76810,Gabriel Paulista,1237,Corinthians,3,FirstHalf,Pass,Successful,40.6,32.4,55.8,13.5
+29,398130,Matheuzinho,1237,Corinthians,3,FirstHalf,Pass,Successful,57.9,13.3,67.3,5.9
+30,441410,Breno Bidon,1237,Corinthians,3,FirstHalf,Pass,Successful,67.9,6.3,77,6.2
+31,449872,Kaio César,1237,Corinthians,3,FirstHalf,BallTouch,Unsuccessful,89.5,10.6,,
+40,355659,Jean Lucas,1221,Bahia,3,FirstHalf,BallRecovery,Successful,6.9,87.2,,
+41,355659,Jean Lucas,1221,Bahia,3,FirstHalf,Pass,Successful,6.9,87.2,6.2,71.4
+42,402198,Santiago Ramos Mingo,1221,Bahia,3,FirstHalf,Pass,Unsuccessful,6.2,71.4,42,86.8
+32,398130,Matheuzinho,1237,Corinthians,3,FirstHalf,Pass,Successful,59.9,15.1,32.6,37.3
+33,399247,Hugo Souza,1237,Corinthians,3,FirstHalf,Pass,Successful,30.3,38,32.2,33.9
+34,76810,Gabriel Paulista,1237,Corinthians,4,FirstHalf,Pass,Successful,32.4,31.8,46.5,6.9
+35,398130,Matheuzinho,1237,Corinthians,4,FirstHalf,Pass,Unsuccessful,52.6,6.9,58.6,0
+45,476466,Zé Guilherme,1221,Bahia,4,FirstHalf,Pass,Successful,33.7,100,13.1,91.4
+46,402198,Santiago Ramos Mingo,1221,Bahia,4,FirstHalf,Pass,Successful,13.1,91.5,34.7,94.2
+47,396067,Nicolás Acevedo,1221,Bahia,4,FirstHalf,BallTouch,Unsuccessful,34.7,94.2,,
+38,398130,Matheuzinho,1237,Corinthians,4,FirstHalf,Pass,Successful,57.7,0,45.9,9.7
+39,432685,Rodrigo Garro,1237,Corinthians,4,FirstHalf,Pass,Successful,44.7,12.4,36.5,40
+40,114595,Gustavo Henrique,1237,Corinthians,4,FirstHalf,Pass,Successful,36.5,40,31.4,28.8
+41,76810,Gabriel Paulista,1237,Corinthians,4,FirstHalf,Pass,Successful,31.6,27,54.4,5.6
+42,398130,Matheuzinho,1237,Corinthians,4,FirstHalf,Pass,Successful,56.9,5.3,63,12.6
+43,348261,Yuri Alberto,1237,Corinthians,4,FirstHalf,BallTouch,Unsuccessful,63,12.6,,
+49,355659,Jean Lucas,1221,Bahia,4,FirstHalf,BallTouch,Unsuccessful,35.2,93.4,,
+44,348261,Yuri Alberto,1237,Corinthians,4,FirstHalf,Dispossessed,Successful,64.1,10,,
+50,355659,Jean Lucas,1221,Bahia,4,FirstHalf,Tackle,Unsuccessful,35.9,90,,
+51,402198,Santiago Ramos Mingo,1221,Bahia,4,FirstHalf,Clearance,Successful,32.2,94.6,32.9,96.7
+45,348261,Yuri Alberto,1237,Corinthians,4,FirstHalf,BallTouch,Successful,64,8.6,,
+64,402198,Santiago Ramos Mingo,1221,Bahia,5,FirstHalf,BallTouch,Successful,34.2,96.1,,
+47,398130,Matheuzinho,1237,Corinthians,5,FirstHalf,Pass,Successful,67,0,65.2,10.9
+48,432685,Rodrigo Garro,1237,Corinthians,5,FirstHalf,Pass,Successful,65.1,10.9,68.1,2.2
+49,398130,Matheuzinho,1237,Corinthians,5,FirstHalf,Pass,Successful,68.1,2.2,54.9,8.3
+50,76810,Gabriel Paulista,1237,Corinthians,5,FirstHalf,Pass,Successful,54.9,8.3,60.4,34.2
+51,579136,André,1237,Corinthians,5,FirstHalf,Pass,Successful,59.7,33.6,64.2,44.7
+52,441410,Breno Bidon,1237,Corinthians,5,FirstHalf,BallTouch,Successful,64.2,44.7,,
+53,579136,André,1237,Corinthians,5,FirstHalf,BallTouch,Unsuccessful,65,73.2,,
+53,518031,Román Gómez,1221,Bahia,5,FirstHalf,Foul,Successful,30.6,14.6,,
+54,579136,André,1237,Corinthians,5,FirstHalf,Foul,Unsuccessful,69.4,85.4,,
+54,518031,Román Gómez,1221,Bahia,5,FirstHalf,Pass,Successful,29.5,12,25.7,40.7
+55,279581,David Duarte,1221,Bahia,5,FirstHalf,Pass,Successful,26.5,38.9,27.9,64.4
+56,402198,Santiago Ramos Mingo,1221,Bahia,5,FirstHalf,Pass,Successful,24.7,72.4,29.9,57.8
+57,396067,Nicolás Acevedo,1221,Bahia,5,FirstHalf,Pass,Successful,29.9,56.9,24.4,49
+58,279581,David Duarte,1221,Bahia,5,FirstHalf,Pass,Successful,30.5,58.5,36.6,82.3
+59,402198,Santiago Ramos Mingo,1221,Bahia,5,FirstHalf,Pass,Unsuccessful,36.7,83.3,78.6,76.1
+55,76810,Gabriel Paulista,1237,Corinthians,6,FirstHalf,Pass,Successful,26,27.7,30.6,17
+56,398130,Matheuzinho,1237,Corinthians,6,FirstHalf,BallRecovery,Successful,29.3,16.5,,
+57,398130,Matheuzinho,1237,Corinthians,6,FirstHalf,Pass,Successful,28.6,16,32.9,6
+58,449872,Kaio César,1237,Corinthians,6,FirstHalf,Dispossessed,Successful,22.5,9.6,,
+60,549062,Erick Pulga,1221,Bahia,6,FirstHalf,Tackle,Unsuccessful,77.5,90.4,,
+411,476466,Zé Guilherme,1221,Bahia,6,FirstHalf,TakeOn,Unsuccessful,78.4,88.4,,
+297,449872,Kaio César,1237,Corinthians,6,FirstHalf,Tackle,Successful,21.6,11.6,,
+59,449872,Kaio César,1237,Corinthians,6,FirstHalf,Foul,Successful,27.7,23.6,,
+61,355659,Jean Lucas,1221,Bahia,6,FirstHalf,Foul,Unsuccessful,72.3,76.4,,
+60,76810,Gabriel Paulista,1237,Corinthians,6,FirstHalf,Pass,Successful,27.4,25.3,29.3,14.5
+61,432685,Rodrigo Garro,1237,Corinthians,6,FirstHalf,Pass,Successful,30.1,15.3,42.1,4.5
+62,398130,Matheuzinho,1237,Corinthians,6,FirstHalf,Dispossessed,Successful,85.9,4.6,,
+62,476466,Zé Guilherme,1221,Bahia,6,FirstHalf,Tackle,Successful,13.9,95.5,,
+64,398130,Matheuzinho,1237,Corinthians,6,FirstHalf,Pass,Successful,86.3,0,78.1,13.3
+65,432685,Rodrigo Garro,1237,Corinthians,6,FirstHalf,Pass,Successful,78.1,13.3,73.9,24.5
+66,441410,Breno Bidon,1237,Corinthians,7,FirstHalf,Pass,Successful,73.9,24.5,69.8,36.4
+67,579136,André,1237,Corinthians,7,FirstHalf,Pass,Successful,72.3,40.1,70.4,61.4
+68,125396,Fabrizio Angileri,1237,Corinthians,7,FirstHalf,Goal,Successful,74.2,65.8,,
+65,414269,Alejo Veliz,1221,Bahia,8,FirstHalf,Pass,Successful,50.1,49.9,51.2,48.2
+66,396067,Nicolás Acevedo,1221,Bahia,8,FirstHalf,Pass,Successful,51.2,48.2,41.8,73
+67,402198,Santiago Ramos Mingo,1221,Bahia,8,FirstHalf,Pass,Successful,41.5,73,29,46.9
+68,279581,David Duarte,1221,Bahia,8,FirstHalf,Pass,Successful,29,44.5,29.1,24.6
+69,518031,Román Gómez,1221,Bahia,8,FirstHalf,Pass,Successful,25.3,17.1,6.3,41.9
+70,330555,Ronaldo,1221,Bahia,8,FirstHalf,Pass,Successful,4.7,42.2,24.6,40
+71,355659,Jean Lucas,1221,Bahia,8,FirstHalf,Pass,Successful,28.5,34.9,29,25.3
+72,389163,Rodrigo Nestor,1221,Bahia,8,FirstHalf,Pass,Successful,29,25.3,27.1,53.9
+73,396067,Nicolás Acevedo,1221,Bahia,8,FirstHalf,Pass,Successful,34.7,61.4,51.8,93.6
+74,476466,Zé Guilherme,1221,Bahia,8,FirstHalf,Pass,Successful,69,91.8,58.3,85.1
+75,402198,Santiago Ramos Mingo,1221,Bahia,8,FirstHalf,Pass,Successful,58.3,85.1,45.5,54.3
+11094,549062,Erick Pulga,1221,Bahia,9,FirstHalf,OffsideGiven,Unsuccessful,84.5,71.4,,
+76,279581,David Duarte,1221,Bahia,9,FirstHalf,Pass,Successful,46.8,48.4,52.1,28.9
+77,518031,Román Gómez,1221,Bahia,9,FirstHalf,Pass,Successful,52.6,28.3,48.2,49.7
+78,279581,David Duarte,1221,Bahia,9,FirstHalf,Pass,Successful,51.1,52.5,54.7,73.5
+79,402198,Santiago Ramos Mingo,1221,Bahia,9,FirstHalf,Pass,Successful,56,76.4,62.7,79.3
+80,549062,Erick Pulga,1221,Bahia,9,FirstHalf,Pass,Successful,60.2,75.3,47.8,55.7
+81,279581,David Duarte,1221,Bahia,9,FirstHalf,Pass,Successful,51.1,46.7,51.4,24.6
+82,518031,Román Gómez,1221,Bahia,9,FirstHalf,Pass,Successful,51.4,24.6,59,6.4
+83,356785,Ademir,1221,Bahia,9,FirstHalf,Pass,Successful,59,6.4,61.1,18.5
+84,396067,Nicolás Acevedo,1221,Bahia,9,FirstHalf,Pass,Successful,73.6,19.8,84.7,8.8
+85,356785,Ademir,1221,Bahia,9,FirstHalf,Pass,Unsuccessful,83.2,9.1,91.9,47
+71,114595,Gustavo Henrique,1237,Corinthians,9,FirstHalf,Aerial,Successful,8.1,53,,
+86,355659,Jean Lucas,1221,Bahia,9,FirstHalf,Aerial,Unsuccessful,91.9,47,,
+72,114595,Gustavo Henrique,1237,Corinthians,9,FirstHalf,Clearance,Successful,8.1,53,26.2,91.7
+87,356785,Ademir,1221,Bahia,9,FirstHalf,Pass,Successful,70.1,14.6,63.2,21.8
+88,389163,Rodrigo Nestor,1221,Bahia,9,FirstHalf,Pass,Successful,63.7,21.9,67.5,34.6
+89,396067,Nicolás Acevedo,1221,Bahia,9,FirstHalf,Pass,Successful,67.2,37.6,65.5,63
+90,402198,Santiago Ramos Mingo,1221,Bahia,9,FirstHalf,Pass,Successful,63.9,70.2,67.3,59.6
+91,396067,Nicolás Acevedo,1221,Bahia,9,FirstHalf,Pass,Successful,67.3,59.6,74.1,67.6
+92,355659,Jean Lucas,1221,Bahia,9,FirstHalf,Pass,Successful,74.1,67.8,75.2,57.3
+93,396067,Nicolás Acevedo,1221,Bahia,9,FirstHalf,TakeOn,Successful,74.6,56.3,,
+73,420319,Raniele,1237,Corinthians,9,FirstHalf,Challenge,Unsuccessful,25.4,43.7,,
+94,396067,Nicolás Acevedo,1221,Bahia,9,FirstHalf,OffsidePass,Successful,74.4,58.7,84.5,71.4
+74,114595,Gustavo Henrique,1237,Corinthians,9,FirstHalf,OffsideProvoked,Successful,16.5,44.2,,
+75,399247,Hugo Souza,1237,Corinthians,11,FirstHalf,Pass,Successful,13.3,37.6,68.5,33.2
+100,330555,Ronaldo,1221,Bahia,11,FirstHalf,Foul,Successful,14.9,56.8,,
+76,432685,Rodrigo Garro,1237,Corinthians,11,FirstHalf,Foul,Unsuccessful,85.1,43.2,,
+101,330555,Ronaldo,1221,Bahia,11,FirstHalf,Pass,Successful,9.5,51.3,11.2,67.8
+102,402198,Santiago Ramos Mingo,1221,Bahia,12,FirstHalf,Pass,Successful,11.2,67.8,9.4,54.2
+103,330555,Ronaldo,1221,Bahia,12,FirstHalf,Pass,Successful,9.4,54.2,14,72.1
+104,402198,Santiago Ramos Mingo,1221,Bahia,12,FirstHalf,Pass,Successful,22.8,66.4,20.3,39.4
+105,279581,David Duarte,1221,Bahia,12,FirstHalf,Pass,Successful,23.3,45.5,25.4,76.9
+106,402198,Santiago Ramos Mingo,1221,Bahia,12,FirstHalf,Pass,Successful,28.7,79.7,37.4,68.1
+107,396067,Nicolás Acevedo,1221,Bahia,12,FirstHalf,Pass,Successful,41.2,77,54.4,96
+108,476466,Zé Guilherme,1221,Bahia,12,FirstHalf,Pass,Successful,54.1,94.1,41.9,83.8
+109,402198,Santiago Ramos Mingo,1221,Bahia,12,FirstHalf,Pass,Successful,42,83.8,38.4,53.4
+110,279581,David Duarte,1221,Bahia,12,FirstHalf,Pass,Successful,38.4,53.4,38.7,28.8
+111,518031,Román Gómez,1221,Bahia,12,FirstHalf,Pass,Successful,38.2,28.8,35.4,49.6
+112,279581,David Duarte,1221,Bahia,12,FirstHalf,Pass,Successful,29.4,59,13.9,53
+113,330555,Ronaldo,1221,Bahia,12,FirstHalf,Pass,Unsuccessful,13.9,53,56.3,65.2
+77,76810,Gabriel Paulista,1237,Corinthians,12,FirstHalf,Foul,Successful,41.4,34.8,,
+114,414269,Alejo Veliz,1221,Bahia,12,FirstHalf,Foul,Unsuccessful,58.6,65.2,,
+78,76810,Gabriel Paulista,1237,Corinthians,13,FirstHalf,Pass,Successful,40,35.6,34.4,30.1
+79,398130,Matheuzinho,1237,Corinthians,13,FirstHalf,Pass,Successful,34.4,30.7,26.9,55.2
+80,114595,Gustavo Henrique,1237,Corinthians,13,FirstHalf,Pass,Successful,26.5,55.2,11.4,38.2
+81,399247,Hugo Souza,1237,Corinthians,13,FirstHalf,Pass,Successful,11.4,38,19.2,9.7
+83,420319,Raniele,1237,Corinthians,13,FirstHalf,Foul,Successful,27.4,12.8,,
+115,355659,Jean Lucas,1221,Bahia,13,FirstHalf,Foul,Unsuccessful,72.6,87.2,,
+84,76810,Gabriel Paulista,1237,Corinthians,14,FirstHalf,Pass,Successful,25.7,17.6,10.9,38.3
+85,399247,Hugo Souza,1237,Corinthians,14,FirstHalf,Pass,Successful,10.9,41.7,10.6,77.9
+86,114595,Gustavo Henrique,1237,Corinthians,14,FirstHalf,Pass,Successful,10.6,77.9,16.7,96.5
+87,125396,Fabrizio Angileri,1237,Corinthians,14,FirstHalf,Pass,Unsuccessful,19.1,97,37.8,80.6
+116,396067,Nicolás Acevedo,1221,Bahia,14,FirstHalf,BallTouch,Successful,64.3,13.5,,
+117,518031,Román Gómez,1221,Bahia,14,FirstHalf,BallRecovery,Successful,62.4,13.5,,
+118,518031,Román Gómez,1221,Bahia,14,FirstHalf,Pass,Successful,62.4,13.5,52.8,12.5
+119,396067,Nicolás Acevedo,1221,Bahia,14,FirstHalf,Pass,Successful,53.7,18.6,80,13.1
+120,356785,Ademir,1221,Bahia,14,FirstHalf,Pass,Successful,88,10.1,74,8.8
+88,420319,Raniele,1237,Corinthians,14,FirstHalf,Challenge,Unsuccessful,9.7,93,,
+121,518031,Román Gómez,1221,Bahia,14,FirstHalf,TakeOn,Successful,90.3,7,,
+122,518031,Román Gómez,1221,Bahia,14,FirstHalf,Pass,Successful,95.5,6.4,91.4,39.7
+123,355659,Jean Lucas,1221,Bahia,14,FirstHalf,Aerial,Successful,91.4,39.7,,
+89,579136,André,1237,Corinthians,14,FirstHalf,Aerial,Unsuccessful,8.6,60.3,,
+124,355659,Jean Lucas,1221,Bahia,14,FirstHalf,Pass,Successful,91.4,39.7,91.4,52.1
+90,76810,Gabriel Paulista,1237,Corinthians,14,FirstHalf,Foul,Successful,7.8,48.4,,
+125,549062,Erick Pulga,1221,Bahia,14,FirstHalf,Foul,Unsuccessful,92.2,51.6,,
+91,399247,Hugo Souza,1237,Corinthians,15,FirstHalf,Pass,Unsuccessful,8.4,48.9,72.7,36.1
+126,402198,Santiago Ramos Mingo,1221,Bahia,15,FirstHalf,Pass,Successful,29.5,64.2,37.7,77.3
+127,355659,Jean Lucas,1221,Bahia,15,FirstHalf,BallRecovery,Successful,37.7,79.1,,
+128,355659,Jean Lucas,1221,Bahia,15,FirstHalf,Pass,Unsuccessful,40.4,94.7,79.6,93.3
+92,76810,Gabriel Paulista,1237,Corinthians,15,FirstHalf,BallRecovery,Successful,21.7,10.7,,
+93,76810,Gabriel Paulista,1237,Corinthians,15,FirstHalf,Pass,Successful,20.7,11.8,8.1,31.5
+94,399247,Hugo Souza,1237,Corinthians,15,FirstHalf,Pass,Successful,8.1,31.5,26.7,17.9
+95,579136,André,1237,Corinthians,15,FirstHalf,Pass,Successful,26.7,17.7,33.2,16.3
+96,432685,Rodrigo Garro,1237,Corinthians,15,FirstHalf,Pass,Successful,31.5,17,18.3,13.3
+97,76810,Gabriel Paulista,1237,Corinthians,15,FirstHalf,Pass,Successful,18.3,13.3,27.5,11
+98,432685,Rodrigo Garro,1237,Corinthians,15,FirstHalf,Pass,Successful,27.6,17.6,30.6,88.8
+99,125396,Fabrizio Angileri,1237,Corinthians,15,FirstHalf,TakeOn,Unsuccessful,31.3,88,,
+129,356785,Ademir,1221,Bahia,15,FirstHalf,Tackle,Successful,68.6,12.1,,
+130,356785,Ademir,1221,Bahia,15,FirstHalf,BallRecovery,Successful,65.3,7.4,,
+131,356785,Ademir,1221,Bahia,15,FirstHalf,Foul,Successful,90.8,13,,
+100,125396,Fabrizio Angileri,1237,Corinthians,15,FirstHalf,Foul,Unsuccessful,9.1,87.1,,
+101,125396,Fabrizio Angileri,1237,Corinthians,15,FirstHalf,Card,Successful,0,0,,
+132,389163,Rodrigo Nestor,1221,Bahia,16,FirstHalf,SavedShot,Successful,89.6,16.4,,
+102,399247,Hugo Souza,1237,Corinthians,16,FirstHalf,Save,Successful,1.8,54.1,,
+103,348261,Yuri Alberto,1237,Corinthians,16,FirstHalf,BallTouch,Successful,4.6,62.6,,
+133,389163,Rodrigo Nestor,1221,Bahia,16,FirstHalf,CornerAwarded,Successful,93,29.1,,
+104,348261,Yuri Alberto,1237,Corinthians,16,FirstHalf,CornerAwarded,Unsuccessful,7,70.9,,
+134,279581,David Duarte,1221,Bahia,18,FirstHalf,Card,Successful,0,0,,
+137,389163,Rodrigo Nestor,1221,Bahia,20,FirstHalf,Pass,Unsuccessful,99.5,0.4,96.6,49.9
+107,399247,Hugo Souza,1237,Corinthians,20,FirstHalf,Punch,Unsuccessful,3.4,50.1,24.4,46.1
+138,476466,Zé Guilherme,1221,Bahia,20,FirstHalf,BallTouch,Unsuccessful,73.8,51.3,,
+108,125396,Fabrizio Angileri,1237,Corinthians,20,FirstHalf,Foul,Successful,21.5,51,,
+139,518031,Román Gómez,1221,Bahia,20,FirstHalf,Foul,Unsuccessful,78.5,49,,
+112,399247,Hugo Souza,1237,Corinthians,23,FirstHalf,Pass,Successful,27.4,50.6,61.4,88.1
+113,348261,Yuri Alberto,1237,Corinthians,23,FirstHalf,BallTouch,Unsuccessful,61.3,88.1,,
+143,389163,Rodrigo Nestor,1221,Bahia,23,FirstHalf,Pass,Successful,31.5,10.4,43.2,12.6
+144,356785,Ademir,1221,Bahia,23,FirstHalf,Pass,Successful,43.2,12.6,48.3,33.9
+145,414269,Alejo Veliz,1221,Bahia,23,FirstHalf,Pass,Unsuccessful,48.3,33.9,60.3,35.1
+115,76810,Gabriel Paulista,1237,Corinthians,23,FirstHalf,Pass,Successful,32.6,50.5,21.1,59.7
+116,114595,Gustavo Henrique,1237,Corinthians,23,FirstHalf,Clearance,Successful,21.1,59.7,27,100
+147,518031,Román Gómez,1221,Bahia,23,FirstHalf,Pass,Successful,64.8,0,64.9,7.4
+148,396067,Nicolás Acevedo,1221,Bahia,23,FirstHalf,Pass,Successful,64.9,7.4,63.9,2
+149,518031,Román Gómez,1221,Bahia,23,FirstHalf,Pass,Successful,63.9,2,56.8,9.2
+151,279581,David Duarte,1221,Bahia,23,FirstHalf,Pass,Unsuccessful,56.9,9.2,70.2,23.1
+118,114595,Gustavo Henrique,1237,Corinthians,24,FirstHalf,Aerial,Successful,29.8,76.9,,
+152,355659,Jean Lucas,1221,Bahia,24,FirstHalf,Aerial,Unsuccessful,70.2,23.1,,
+119,114595,Gustavo Henrique,1237,Corinthians,24,FirstHalf,Pass,Unsuccessful,29.8,76.9,32.7,71.2
+153,396067,Nicolás Acevedo,1221,Bahia,24,FirstHalf,Pass,Successful,64.4,23.3,60.7,13.7
+154,279581,David Duarte,1221,Bahia,24,FirstHalf,Pass,Unsuccessful,60.7,13.7,79.2,9.5
+120,125396,Fabrizio Angileri,1237,Corinthians,24,FirstHalf,BallRecovery,Successful,16,93.5,,
+121,125396,Fabrizio Angileri,1237,Corinthians,24,FirstHalf,Pass,Successful,11.8,90.9,9.2,73.2
+122,114595,Gustavo Henrique,1237,Corinthians,24,FirstHalf,Pass,Successful,9.3,73,32,82.4
+123,348261,Yuri Alberto,1237,Corinthians,24,FirstHalf,Pass,Unsuccessful,31.4,82,36,72.1
+155,279581,David Duarte,1221,Bahia,24,FirstHalf,Pass,Unsuccessful,60.9,27.7,65.6,35.4
+124,449872,Kaio César,1237,Corinthians,24,FirstHalf,BallTouch,Successful,32.9,67.7,,
+125,420319,Raniele,1237,Corinthians,24,FirstHalf,Pass,Unsuccessful,29.1,71.7,60.3,100
+157,518031,Román Gómez,1221,Bahia,24,FirstHalf,Pass,Successful,35.4,0,34.6,6.1
+158,396067,Nicolás Acevedo,1221,Bahia,24,FirstHalf,Pass,Successful,32.1,5.2,5.7,28.2
+159,330555,Ronaldo,1221,Bahia,24,FirstHalf,Pass,Unsuccessful,8,30.7,33.9,86
+160,476466,Zé Guilherme,1221,Bahia,24,FirstHalf,BallTouch,Successful,31.1,82.4,,
+128,398130,Matheuzinho,1237,Corinthians,24,FirstHalf,Interception,Successful,61,21.3,,
+161,355659,Jean Lucas,1221,Bahia,24,FirstHalf,Pass,Successful,27,73.3,4.2,57.2
+162,330555,Ronaldo,1221,Bahia,24,FirstHalf,Pass,Successful,4.7,56.7,24.8,19.1
+163,518031,Román Gómez,1221,Bahia,24,FirstHalf,Pass,Successful,24.8,19.1,36.4,27.4
+164,389163,Rodrigo Nestor,1221,Bahia,25,FirstHalf,Pass,Successful,49.8,33.9,62,9.8
+165,356785,Ademir,1221,Bahia,25,FirstHalf,Pass,Successful,70.6,13.2,86.6,20
+166,549062,Erick Pulga,1221,Bahia,25,FirstHalf,Pass,Unsuccessful,90.5,16.2,91.7,49.3
+129,420319,Raniele,1237,Corinthians,25,FirstHalf,Clearance,Successful,8.8,45.6,24,63.6
+167,389163,Rodrigo Nestor,1221,Bahia,25,FirstHalf,Pass,Successful,74.8,28.8,81.7,46.4
+168,356785,Ademir,1221,Bahia,25,FirstHalf,Dispossessed,Successful,80.1,47,,
+130,449872,Kaio César,1237,Corinthians,25,FirstHalf,Tackle,Unsuccessful,19.9,53,,
+296,398130,Matheuzinho,1237,Corinthians,25,FirstHalf,BallTouch,Unsuccessful,14.6,56.1,,
+169,389163,Rodrigo Nestor,1221,Bahia,25,FirstHalf,TakeOn,Unsuccessful,88.6,39.7,,
+133,114595,Gustavo Henrique,1237,Corinthians,25,FirstHalf,Tackle,Successful,11.5,60.2,,
+131,420319,Raniele,1237,Corinthians,25,FirstHalf,Clearance,Successful,12.9,53.8,11.3,69.6
+132,441410,Breno Bidon,1237,Corinthians,25,FirstHalf,Dispossessed,Successful,10.2,69.1,,
+170,356785,Ademir,1221,Bahia,25,FirstHalf,Tackle,Unsuccessful,89.8,30.9,,
+134,114595,Gustavo Henrique,1237,Corinthians,25,FirstHalf,BallRecovery,Successful,7.8,67.6,,
+135,114595,Gustavo Henrique,1237,Corinthians,25,FirstHalf,Pass,Successful,7.8,67.6,12.9,63.3
+136,432685,Rodrigo Garro,1237,Corinthians,25,FirstHalf,Pass,Successful,12.9,63.3,7.2,65
+137,420319,Raniele,1237,Corinthians,25,FirstHalf,Pass,Successful,10.4,68,29,93.4
+138,441410,Breno Bidon,1237,Corinthians,25,FirstHalf,Pass,Successful,35.9,93.2,55.1,95.9
+139,348261,Yuri Alberto,1237,Corinthians,25,FirstHalf,Pass,Unsuccessful,55.1,95.9,56.1,94.7
+171,402198,Santiago Ramos Mingo,1221,Bahia,25,FirstHalf,BlockedPass,Successful,43.9,5.3,,
+141,125396,Fabrizio Angileri,1237,Corinthians,25,FirstHalf,Pass,Successful,47,100,30.1,86.7
+142,114595,Gustavo Henrique,1237,Corinthians,25,FirstHalf,Pass,Successful,28.8,82.6,22.9,63.3
+143,399247,Hugo Souza,1237,Corinthians,25,FirstHalf,Pass,Unsuccessful,26.6,63.3,64.8,100
+174,518031,Román Gómez,1221,Bahia,26,FirstHalf,Pass,Successful,48.9,0,18.3,7.9
+175,279581,David Duarte,1221,Bahia,26,FirstHalf,Pass,Successful,24.8,37,26.1,12
+176,518031,Román Gómez,1221,Bahia,26,FirstHalf,Pass,Successful,26.5,13.1,8.5,39.1
+177,330555,Ronaldo,1221,Bahia,26,FirstHalf,Pass,Successful,8,39.1,12.8,15.3
+178,279581,David Duarte,1221,Bahia,26,FirstHalf,Pass,Unsuccessful,24.3,18,70.1,51.6
+145,398130,Matheuzinho,1237,Corinthians,26,FirstHalf,Pass,Successful,26.1,49.4,29.4,74.7
+146,125396,Fabrizio Angileri,1237,Corinthians,26,FirstHalf,Aerial,Successful,29.4,74.7,,
+179,356785,Ademir,1221,Bahia,26,FirstHalf,Aerial,Unsuccessful,70.6,25.3,,
+147,125396,Fabrizio Angileri,1237,Corinthians,26,FirstHalf,Pass,Successful,29.4,74.7,37.9,76.2
+148,420319,Raniele,1237,Corinthians,26,FirstHalf,Aerial,Successful,37.9,76.2,,
+180,389163,Rodrigo Nestor,1221,Bahia,26,FirstHalf,Aerial,Unsuccessful,62.1,23.8,,
+149,420319,Raniele,1237,Corinthians,26,FirstHalf,Pass,Unsuccessful,37.9,76.2,51.2,100
+182,518031,Román Gómez,1221,Bahia,26,FirstHalf,Pass,Successful,48.5,0,48,10
+183,396067,Nicolás Acevedo,1221,Bahia,26,FirstHalf,Pass,Successful,46.5,41.8,46.4,68.1
+184,402198,Santiago Ramos Mingo,1221,Bahia,26,FirstHalf,Pass,Successful,47.3,70.5,56.7,87.7
+185,549062,Erick Pulga,1221,Bahia,27,FirstHalf,Pass,Successful,57.6,88,67.8,95.6
+186,476466,Zé Guilherme,1221,Bahia,27,FirstHalf,Pass,Successful,64.3,94.1,62.7,76.1
+187,396067,Nicolás Acevedo,1221,Bahia,27,FirstHalf,Pass,Successful,62,71.8,73.3,9.7
+188,356785,Ademir,1221,Bahia,27,FirstHalf,Pass,Successful,89,16.4,80.7,14.3
+151,441410,Breno Bidon,1237,Corinthians,27,FirstHalf,Challenge,Unsuccessful,16.3,86.9,,
+189,518031,Román Gómez,1221,Bahia,27,FirstHalf,TakeOn,Successful,83.7,13.1,,
+190,518031,Román Gómez,1221,Bahia,27,FirstHalf,Pass,Unsuccessful,86.1,12,90,54.6
+152,76810,Gabriel Paulista,1237,Corinthians,27,FirstHalf,Clearance,Successful,10.2,45.9,18.8,44.1
+153,432685,Rodrigo Garro,1237,Corinthians,27,FirstHalf,Clearance,Successful,18.9,45.3,31.1,37.1
+154,449872,Kaio César,1237,Corinthians,27,FirstHalf,BallRecovery,Successful,31.2,40.3,,
+155,449872,Kaio César,1237,Corinthians,27,FirstHalf,Foul,Successful,36.2,42.7,,
+191,476466,Zé Guilherme,1221,Bahia,27,FirstHalf,Foul,Unsuccessful,63.8,57.3,,
+192,476466,Zé Guilherme,1221,Bahia,27,FirstHalf,Card,Successful,0,0,,
+156,432685,Rodrigo Garro,1237,Corinthians,27,FirstHalf,Pass,Successful,34.5,44.1,37.8,21.2
+157,398130,Matheuzinho,1237,Corinthians,27,FirstHalf,Pass,Successful,33.4,25,26.1,45.5
+158,76810,Gabriel Paulista,1237,Corinthians,28,FirstHalf,Pass,Successful,25.9,51.8,30.4,92.9
+159,125396,Fabrizio Angileri,1237,Corinthians,28,FirstHalf,Pass,Successful,31.1,88.5,29.5,65.8
+160,420319,Raniele,1237,Corinthians,28,FirstHalf,BallTouch,Unsuccessful,39.3,89.9,,
+193,389163,Rodrigo Nestor,1221,Bahia,28,FirstHalf,BallRecovery,Successful,40.4,5.5,,
+194,389163,Rodrigo Nestor,1221,Bahia,28,FirstHalf,Pass,Successful,43.2,11.7,45.5,45.1
+195,402198,Santiago Ramos Mingo,1221,Bahia,28,FirstHalf,Pass,Successful,46.8,52.1,51.7,86.6
+196,476466,Zé Guilherme,1221,Bahia,28,FirstHalf,Pass,Successful,51.7,86.6,41.8,65.8
+197,402198,Santiago Ramos Mingo,1221,Bahia,28,FirstHalf,Pass,Successful,41.8,65.7,42.4,38.6
+198,279581,David Duarte,1221,Bahia,28,FirstHalf,Pass,Successful,46.4,35.4,50.6,16.7
+199,518031,Román Gómez,1221,Bahia,28,FirstHalf,Pass,Successful,52.7,15,54,31.2
+200,396067,Nicolás Acevedo,1221,Bahia,28,FirstHalf,Pass,Successful,55,45.8,59.9,77.6
+201,402198,Santiago Ramos Mingo,1221,Bahia,28,FirstHalf,Pass,Successful,60.5,78.4,48.3,59.7
+202,279581,David Duarte,1221,Bahia,28,FirstHalf,Pass,Successful,48.3,53.9,45.4,27.9
+203,518031,Román Gómez,1221,Bahia,28,FirstHalf,Pass,Successful,45.4,27.9,57,7
+204,356785,Ademir,1221,Bahia,28,FirstHalf,Pass,Successful,55.5,6.2,54.1,19.2
+205,396067,Nicolás Acevedo,1221,Bahia,28,FirstHalf,Pass,Successful,54.4,31.8,62.8,36.1
+206,355659,Jean Lucas,1221,Bahia,28,FirstHalf,Pass,Unsuccessful,67,34.9,76.7,36
+162,114595,Gustavo Henrique,1237,Corinthians,28,FirstHalf,Interception,Successful,23.3,64,,
+207,389163,Rodrigo Nestor,1221,Bahia,29,FirstHalf,Pass,Successful,77,30.1,74.4,33.6
+208,355659,Jean Lucas,1221,Bahia,29,FirstHalf,Dispossessed,Successful,73.6,32,,
+163,114595,Gustavo Henrique,1237,Corinthians,29,FirstHalf,Tackle,Successful,26.4,68,,
+164,432685,Rodrigo Garro,1237,Corinthians,29,FirstHalf,Foul,Successful,31.8,95.2,,
+209,518031,Román Gómez,1221,Bahia,29,FirstHalf,Foul,Unsuccessful,68.2,4.8,,
+165,125396,Fabrizio Angileri,1237,Corinthians,29,FirstHalf,Pass,Successful,33.8,94.7,29.7,79.1
+166,420319,Raniele,1237,Corinthians,29,FirstHalf,Pass,Successful,29.4,77.1,23.8,64.1
+167,114595,Gustavo Henrique,1237,Corinthians,29,FirstHalf,Pass,Successful,23.5,62.6,24.3,27.1
+168,76810,Gabriel Paulista,1237,Corinthians,29,FirstHalf,Pass,Successful,24.3,27.1,27.8,7.1
+169,398130,Matheuzinho,1237,Corinthians,29,FirstHalf,Pass,Unsuccessful,32.5,7.2,78.4,61.5
+210,330555,Ronaldo,1221,Bahia,29,FirstHalf,BallRecovery,Successful,19.1,33,,
+211,330555,Ronaldo,1221,Bahia,29,FirstHalf,Pass,Successful,18.8,34,22.1,46.4
+212,279581,David Duarte,1221,Bahia,29,FirstHalf,Pass,Successful,24.2,48.2,35.7,60
+213,396067,Nicolás Acevedo,1221,Bahia,29,FirstHalf,Pass,Successful,37.3,60.2,34.3,23.9
+214,518031,Román Gómez,1221,Bahia,29,FirstHalf,Pass,Successful,38.9,24.1,34.8,46.4
+215,279581,David Duarte,1221,Bahia,29,FirstHalf,Pass,Successful,37.2,49.7,46.7,73.2
+216,402198,Santiago Ramos Mingo,1221,Bahia,30,FirstHalf,Pass,Successful,47.8,73.9,43.6,61.2
+217,279581,David Duarte,1221,Bahia,30,FirstHalf,Pass,Successful,45.4,56,53.6,45.8
+218,389163,Rodrigo Nestor,1221,Bahia,30,FirstHalf,Pass,Unsuccessful,53.6,45.8,92.5,90.9
+170,449872,Kaio César,1237,Corinthians,30,FirstHalf,Interception,Successful,7.5,9.1,,
+171,449872,Kaio César,1237,Corinthians,30,FirstHalf,Clearance,Successful,5.5,5.9,30.4,13.6
+172,432685,Rodrigo Garro,1237,Corinthians,30,FirstHalf,Foul,Successful,30.6,11,,
+219,402198,Santiago Ramos Mingo,1221,Bahia,30,FirstHalf,Foul,Unsuccessful,69.4,89.1,,
+173,432685,Rodrigo Garro,1237,Corinthians,30,FirstHalf,Pass,Unsuccessful,31.5,12.7,46.7,0
+221,396067,Nicolás Acevedo,1221,Bahia,31,FirstHalf,Pass,Successful,52.1,100,52,91.5
+222,355659,Jean Lucas,1221,Bahia,31,FirstHalf,Pass,Successful,52,91.5,54.2,98.7
+223,396067,Nicolás Acevedo,1221,Bahia,31,FirstHalf,Pass,Successful,54.2,98.7,43.9,96.2
+224,476466,Zé Guilherme,1221,Bahia,31,FirstHalf,Pass,Successful,43.9,96.2,31.8,80.5
+225,402198,Santiago Ramos Mingo,1221,Bahia,31,FirstHalf,Pass,Successful,31.9,79,29.7,52.2
+226,279581,David Duarte,1221,Bahia,31,FirstHalf,Pass,Successful,40.2,42.1,45.8,18.2
+227,518031,Román Gómez,1221,Bahia,31,FirstHalf,Pass,Successful,47.2,19.2,38.4,37.4
+228,279581,David Duarte,1221,Bahia,31,FirstHalf,Pass,Successful,45.6,53.4,45.7,83.3
+229,402198,Santiago Ramos Mingo,1221,Bahia,31,FirstHalf,Pass,Successful,45.5,83.3,52.3,68.5
+230,396067,Nicolás Acevedo,1221,Bahia,31,FirstHalf,Pass,Successful,52.5,68.5,89.4,90.6
+231,355659,Jean Lucas,1221,Bahia,31,FirstHalf,Pass,Successful,89.5,93.3,76.8,93.5
+232,476466,Zé Guilherme,1221,Bahia,31,FirstHalf,Pass,Successful,74.4,93.3,75.9,81.8
+233,396067,Nicolás Acevedo,1221,Bahia,31,FirstHalf,Pass,Unsuccessful,75.9,81.8,88.1,97.2
+175,76810,Gabriel Paulista,1237,Corinthians,31,FirstHalf,Clearance,Successful,9.8,6.5,11.4,0
+235,355659,Jean Lucas,1221,Bahia,31,FirstHalf,Pass,Successful,91.3,100,89.2,89.3
+236,549062,Erick Pulga,1221,Bahia,31,FirstHalf,Pass,Unsuccessful,87.5,87.3,89.3,94.6
+177,420319,Raniele,1237,Corinthians,31,FirstHalf,Clearance,Successful,23.9,9.4,38.9,15
+178,348261,Yuri Alberto,1237,Corinthians,31,FirstHalf,BallRecovery,Successful,39.6,15,,
+179,348261,Yuri Alberto,1237,Corinthians,31,FirstHalf,Pass,Successful,39.6,15,37.7,7.4
+180,432685,Rodrigo Garro,1237,Corinthians,31,FirstHalf,Pass,Unsuccessful,41.6,8.2,67,5.3
+237,279581,David Duarte,1221,Bahia,31,FirstHalf,Foul,Successful,33.6,94.8,,
+181,348261,Yuri Alberto,1237,Corinthians,31,FirstHalf,Foul,Unsuccessful,66.4,5.2,,
+238,279581,David Duarte,1221,Bahia,31,FirstHalf,Pass,Successful,33.5,95.1,28.7,54.8
+239,518031,Román Gómez,1221,Bahia,32,FirstHalf,Pass,Successful,28.9,48.2,34.1,59.4
+240,396067,Nicolás Acevedo,1221,Bahia,32,FirstHalf,Pass,Successful,54.4,69.4,63.5,95.1
+241,476466,Zé Guilherme,1221,Bahia,32,FirstHalf,Pass,Successful,61.1,89.1,48,60.8
+242,279581,David Duarte,1221,Bahia,32,FirstHalf,Pass,Unsuccessful,52.8,51.5,70.4,49.9
+182,114595,Gustavo Henrique,1237,Corinthians,32,FirstHalf,Interception,Successful,29.6,50.1,,
+183,76810,Gabriel Paulista,1237,Corinthians,32,FirstHalf,Clearance,Successful,24.4,47.9,58.7,29.8
+243,402198,Santiago Ramos Mingo,1221,Bahia,32,FirstHalf,Pass,Successful,46.9,68.7,61.3,83.3
+244,549062,Erick Pulga,1221,Bahia,32,FirstHalf,Pass,Successful,61.1,83.9,58.5,65.4
+245,396067,Nicolás Acevedo,1221,Bahia,32,FirstHalf,Pass,Unsuccessful,58.4,65.2,100,24.9
+185,399247,Hugo Souza,1237,Corinthians,33,FirstHalf,Pass,Successful,4.9,49.7,9.2,50
+186,420319,Raniele,1237,Corinthians,33,FirstHalf,Pass,Successful,8.4,48.2,10.7,17.6
+187,579136,André,1237,Corinthians,33,FirstHalf,Pass,Successful,9.2,18.9,3.4,45
+188,399247,Hugo Souza,1237,Corinthians,33,FirstHalf,Pass,Successful,5.4,32.7,29.5,20.9
+189,449872,Kaio César,1237,Corinthians,33,FirstHalf,Pass,Successful,40,45.6,53.9,87.4
+190,125396,Fabrizio Angileri,1237,Corinthians,33,FirstHalf,Pass,Successful,57.4,85.2,55.1,78.3
+191,441410,Breno Bidon,1237,Corinthians,33,FirstHalf,Pass,Successful,56.4,80.3,60,95.3
+192,125396,Fabrizio Angileri,1237,Corinthians,33,FirstHalf,Pass,Successful,60,95.3,60.2,77.1
+193,579136,André,1237,Corinthians,33,FirstHalf,Pass,Successful,68.1,70.6,62.5,74.1
+194,432685,Rodrigo Garro,1237,Corinthians,33,FirstHalf,Pass,Successful,62.5,74.1,68.9,95.5
+195,125396,Fabrizio Angileri,1237,Corinthians,33,FirstHalf,Pass,Successful,68.6,95.6,59.3,90
+196,432685,Rodrigo Garro,1237,Corinthians,33,FirstHalf,Pass,Successful,59.3,90,62.7,85.5
+197,441410,Breno Bidon,1237,Corinthians,33,FirstHalf,Pass,Successful,62.7,85.5,59.3,92.6
+198,432685,Rodrigo Garro,1237,Corinthians,33,FirstHalf,Pass,Successful,59.3,92.6,61.6,83.8
+199,441410,Breno Bidon,1237,Corinthians,33,FirstHalf,Pass,Successful,61.6,83.8,60.2,90.6
+200,432685,Rodrigo Garro,1237,Corinthians,33,FirstHalf,Pass,Successful,60.2,90.6,62.2,80.8
+201,441410,Breno Bidon,1237,Corinthians,33,FirstHalf,Pass,Successful,65.5,84.3,81.1,97.1
+202,125396,Fabrizio Angileri,1237,Corinthians,33,FirstHalf,Pass,Unsuccessful,86,92.4,86.4,91.5
+249,518031,Román Gómez,1221,Bahia,33,FirstHalf,Clearance,Successful,13.6,8.5,,
+203,125396,Fabrizio Angileri,1237,Corinthians,33,FirstHalf,CornerAwarded,Successful,88.2,88.8,,
+250,518031,Román Gómez,1221,Bahia,33,FirstHalf,CornerAwarded,Unsuccessful,11.8,11.2,,
+204,432685,Rodrigo Garro,1237,Corinthians,34,FirstHalf,Pass,Successful,99.5,99.5,85.8,28.3
+205,449872,Kaio César,1237,Corinthians,34,FirstHalf,BallTouch,Unsuccessful,85.8,28.3,,
+254,330555,Ronaldo,1221,Bahia,34,FirstHalf,Smother,Successful,5,68.8,,
+251,330555,Ronaldo,1221,Bahia,34,FirstHalf,KeeperPickup,Successful,4.3,68.1,,
+252,330555,Ronaldo,1221,Bahia,34,FirstHalf,Pass,Successful,9.8,68.1,36.5,92.6
+253,476466,Zé Guilherme,1221,Bahia,34,FirstHalf,Foul,Successful,55.2,86.6,,
+206,420319,Raniele,1237,Corinthians,34,FirstHalf,Foul,Unsuccessful,44.8,13.3,,
+207,420319,Raniele,1237,Corinthians,34,FirstHalf,Card,Successful,0,0,,
+255,355659,Jean Lucas,1221,Bahia,35,FirstHalf,Pass,Successful,57.1,83.9,55.3,75
+256,396067,Nicolás Acevedo,1221,Bahia,35,FirstHalf,Pass,Successful,55.3,75,50.4,53
+257,389163,Rodrigo Nestor,1221,Bahia,35,FirstHalf,Pass,Successful,52.6,50.7,57.2,78.4
+258,355659,Jean Lucas,1221,Bahia,35,FirstHalf,Pass,Successful,57.2,78.4,57.5,66
+259,396067,Nicolás Acevedo,1221,Bahia,35,FirstHalf,Pass,Successful,55.9,69.1,46.9,44.6
+260,279581,David Duarte,1221,Bahia,35,FirstHalf,Pass,Successful,46.9,44.6,47.8,21.2
+261,518031,Román Gómez,1221,Bahia,35,FirstHalf,Pass,Successful,47.8,21,60.2,7.1
+262,356785,Ademir,1221,Bahia,35,FirstHalf,Pass,Successful,57.5,7,41.2,4
+263,518031,Román Gómez,1221,Bahia,35,FirstHalf,Pass,Successful,40.4,4.3,20.3,26.5
+264,330555,Ronaldo,1221,Bahia,35,FirstHalf,Pass,Successful,20.2,26.7,25,52.7
+265,279581,David Duarte,1221,Bahia,35,FirstHalf,Pass,Successful,24.6,59.1,10.4,43.7
+266,330555,Ronaldo,1221,Bahia,35,FirstHalf,Pass,Successful,10.4,43.6,33.3,20.4
+267,389163,Rodrigo Nestor,1221,Bahia,35,FirstHalf,Pass,Unsuccessful,33.3,20,51.5,0
+209,125396,Fabrizio Angileri,1237,Corinthians,36,FirstHalf,Pass,Successful,49.3,100,58.3,92.9
+210,432685,Rodrigo Garro,1237,Corinthians,36,FirstHalf,Pass,Unsuccessful,58.5,92.8,71.4,92.3
+269,279581,David Duarte,1221,Bahia,36,FirstHalf,BallRecovery,Successful,21.5,9.4,,
+270,279581,David Duarte,1221,Bahia,36,FirstHalf,Pass,Successful,21.1,9.1,5.1,33.7
+271,330555,Ronaldo,1221,Bahia,36,FirstHalf,Pass,Successful,5.1,33.7,19.1,2.5
+272,518031,Román Gómez,1221,Bahia,36,FirstHalf,Pass,Successful,21.2,3.4,13.3,5.9
+273,279581,David Duarte,1221,Bahia,36,FirstHalf,Pass,Successful,13.3,5.9,4.2,36
+274,330555,Ronaldo,1221,Bahia,36,FirstHalf,Pass,Successful,4.7,38,20.6,38.9
+275,355659,Jean Lucas,1221,Bahia,36,FirstHalf,Pass,Unsuccessful,20.6,38.9,35.6,64.5
+211,398130,Matheuzinho,1237,Corinthians,36,FirstHalf,Pass,Successful,62.7,29.2,67,46.5
+212,579136,André,1237,Corinthians,36,FirstHalf,BallRecovery,Successful,67.9,44.5,,
+213,579136,André,1237,Corinthians,36,FirstHalf,Pass,Successful,67.9,44.5,84.5,63.2
+214,441410,Breno Bidon,1237,Corinthians,36,FirstHalf,Dispossessed,Successful,84.8,63.3,,
+276,279581,David Duarte,1221,Bahia,36,FirstHalf,Tackle,Unsuccessful,15.2,36.7,,
+215,420319,Raniele,1237,Corinthians,36,FirstHalf,Pass,Successful,75,84.7,61.7,87.6
+216,125396,Fabrizio Angileri,1237,Corinthians,36,FirstHalf,Pass,Successful,61.7,87.6,72.7,95.2
+217,420319,Raniele,1237,Corinthians,36,FirstHalf,Pass,Successful,72.7,95.2,58.1,88.8
+218,125396,Fabrizio Angileri,1237,Corinthians,36,FirstHalf,Pass,Successful,61.9,90.2,58,83.2
+219,432685,Rodrigo Garro,1237,Corinthians,36,FirstHalf,Pass,Successful,57.1,82.1,46.1,69.9
+220,114595,Gustavo Henrique,1237,Corinthians,36,FirstHalf,Pass,Successful,45.7,67.3,46.8,22.6
+221,76810,Gabriel Paulista,1237,Corinthians,36,FirstHalf,Pass,Successful,46.9,21,59,9.5
+222,398130,Matheuzinho,1237,Corinthians,36,FirstHalf,Pass,Successful,59,10,56.2,23.8
+223,579136,André,1237,Corinthians,37,FirstHalf,TakeOn,Unsuccessful,55.3,23.7,,
+277,396067,Nicolás Acevedo,1221,Bahia,37,FirstHalf,Tackle,Successful,44.7,76.3,,
+278,549062,Erick Pulga,1221,Bahia,37,FirstHalf,BallRecovery,Successful,58.8,69.7,,
+279,549062,Erick Pulga,1221,Bahia,37,FirstHalf,BallTouch,Successful,72.6,50,,
+280,356785,Ademir,1221,Bahia,37,FirstHalf,Pass,Successful,76,39.7,82.3,26.5
+281,549062,Erick Pulga,1221,Bahia,37,FirstHalf,TakeOn,Successful,84.2,30.7,,
+225,441410,Breno Bidon,1237,Corinthians,37,FirstHalf,Challenge,Unsuccessful,15.8,69.3,,
+282,549062,Erick Pulga,1221,Bahia,37,FirstHalf,Pass,Successful,80.6,33.9,73.5,37
+283,389163,Rodrigo Nestor,1221,Bahia,37,FirstHalf,Pass,Successful,72.2,41.6,71.1,59
+284,355659,Jean Lucas,1221,Bahia,37,FirstHalf,Pass,Successful,71.1,59,68,23
+285,518031,Román Gómez,1221,Bahia,37,FirstHalf,Pass,Unsuccessful,71,23.1,73.7,25.5
+226,441410,Breno Bidon,1237,Corinthians,37,FirstHalf,Clearance,Successful,26.3,74.5,,
+286,518031,Román Gómez,1221,Bahia,37,FirstHalf,BallTouch,Successful,74.6,23.1,,
+287,389163,Rodrigo Nestor,1221,Bahia,37,FirstHalf,MissedShots,Successful,77.2,28.3,,
+228,399247,Hugo Souza,1237,Corinthians,38,FirstHalf,Pass,Successful,5.3,46.8,58.6,29.8
+229,348261,Yuri Alberto,1237,Corinthians,38,FirstHalf,BallTouch,Unsuccessful,59.3,31.2,,
+289,402198,Santiago Ramos Mingo,1221,Bahia,38,FirstHalf,Pass,Unsuccessful,29.7,56.1,91.6,57.9
+234,399247,Hugo Souza,1237,Corinthians,40,FirstHalf,KeeperPickup,Successful,10.1,34.4,,
+236,399247,Hugo Souza,1237,Corinthians,40,FirstHalf,Pass,Unsuccessful,23.7,22.6,72.3,16.2
+293,476466,Zé Guilherme,1221,Bahia,40,FirstHalf,Clearance,Successful,25.4,77.6,34.1,81.1
+294,355659,Jean Lucas,1221,Bahia,40,FirstHalf,Pass,Successful,34.2,80.9,38.3,73.5
+295,396067,Nicolás Acevedo,1221,Bahia,40,FirstHalf,Pass,Successful,38.4,73.5,54.6,70.5
+296,356785,Ademir,1221,Bahia,40,FirstHalf,BallRecovery,Successful,58.7,75.1,,
+297,356785,Ademir,1221,Bahia,40,FirstHalf,Pass,Successful,70.2,76.1,74.1,30.1
+298,389163,Rodrigo Nestor,1221,Bahia,40,FirstHalf,Pass,Successful,74.9,38.9,67,47.5
+299,279581,David Duarte,1221,Bahia,40,FirstHalf,Pass,Successful,65.5,51.3,63.2,78.2
+300,402198,Santiago Ramos Mingo,1221,Bahia,40,FirstHalf,Pass,Successful,62.6,80.3,67.6,94.8
+301,476466,Zé Guilherme,1221,Bahia,40,FirstHalf,Foul,Successful,68,88.8,,
+238,449872,Kaio César,1237,Corinthians,40,FirstHalf,Foul,Unsuccessful,32,11.2,,
+302,389163,Rodrigo Nestor,1221,Bahia,41,FirstHalf,Pass,Unsuccessful,72,82.3,86,52.8
+239,441410,Breno Bidon,1237,Corinthians,41,FirstHalf,Clearance,Successful,12,41.4,18.8,91.4
+240,125396,Fabrizio Angileri,1237,Corinthians,41,FirstHalf,BallRecovery,Successful,18.8,91.4,,
+241,125396,Fabrizio Angileri,1237,Corinthians,41,FirstHalf,Pass,Unsuccessful,18.8,91.4,50.2,100
+304,518031,Román Gómez,1221,Bahia,41,FirstHalf,Pass,Successful,58,0,45.4,17.6
+305,389163,Rodrigo Nestor,1221,Bahia,41,FirstHalf,Pass,Successful,45.4,17.6,44.6,48.2
+306,396067,Nicolás Acevedo,1221,Bahia,42,FirstHalf,Pass,Successful,52.1,53.7,59,50.4
+307,414269,Alejo Veliz,1221,Bahia,42,FirstHalf,Pass,Successful,59,50.4,52.3,50.3
+308,396067,Nicolás Acevedo,1221,Bahia,42,FirstHalf,Pass,Successful,52.3,50.4,53,24
+309,518031,Román Gómez,1221,Bahia,42,FirstHalf,Pass,Successful,53,24,44.8,44
+310,279581,David Duarte,1221,Bahia,42,FirstHalf,Pass,Successful,44.8,44,53.4,72.7
+311,402198,Santiago Ramos Mingo,1221,Bahia,42,FirstHalf,Pass,Successful,56.1,79.6,61.6,80
+325,549062,Erick Pulga,1221,Bahia,42,FirstHalf,BallTouch,Unsuccessful,69.2,90.9,,
+313,549062,Erick Pulga,1221,Bahia,42,FirstHalf,BallTouch,Successful,64.8,85.1,,
+244,398130,Matheuzinho,1237,Corinthians,42,FirstHalf,Clearance,Successful,35.2,13.9,36.7,8.9
+324,476466,Zé Guilherme,1221,Bahia,42,FirstHalf,TakeOn,Successful,74.2,94.8,,
+295,449872,Kaio César,1237,Corinthians,42,FirstHalf,Challenge,Unsuccessful,25.8,5.2,,
+314,476466,Zé Guilherme,1221,Bahia,42,FirstHalf,Dispossessed,Successful,79.2,91.6,,
+245,449872,Kaio César,1237,Corinthians,42,FirstHalf,Tackle,Successful,20.8,8.4,,
+246,449872,Kaio César,1237,Corinthians,42,FirstHalf,BallRecovery,Successful,23.1,6.6,,
+247,449872,Kaio César,1237,Corinthians,42,FirstHalf,Pass,Successful,23.1,6.6,21.5,12.1
+248,398130,Matheuzinho,1237,Corinthians,42,FirstHalf,Pass,Unsuccessful,21.5,12.3,60.5,21.8
+315,279581,David Duarte,1221,Bahia,42,FirstHalf,BallRecovery,Successful,45.6,79.3,,
+316,279581,David Duarte,1221,Bahia,42,FirstHalf,Pass,Successful,43.8,74.7,52.6,80.8
+317,396067,Nicolás Acevedo,1221,Bahia,42,FirstHalf,Pass,Successful,53.4,80.6,61.5,87.5
+318,549062,Erick Pulga,1221,Bahia,42,FirstHalf,Pass,Unsuccessful,58.7,76.7,73.9,21.9
+250,125396,Fabrizio Angileri,1237,Corinthians,42,FirstHalf,Pass,Unsuccessful,27.3,76.8,37.7,70.2
+319,518031,Román Gómez,1221,Bahia,42,FirstHalf,Pass,Successful,66.7,27.4,69.7,14.7
+320,356785,Ademir,1221,Bahia,42,FirstHalf,Pass,Successful,70.2,25.6,72.5,44.8
+321,396067,Nicolás Acevedo,1221,Bahia,42,FirstHalf,Pass,Unsuccessful,72,48.5,72.2,50.6
+251,348261,Yuri Alberto,1237,Corinthians,42,FirstHalf,BallTouch,Successful,29.3,41.5,,
+322,476466,Zé Guilherme,1221,Bahia,42,FirstHalf,Pass,Unsuccessful,78.9,89.6,97.3,44
+252,399247,Hugo Souza,1237,Corinthians,42,FirstHalf,Claim,Successful,2.7,56,,
+253,399247,Hugo Souza,1237,Corinthians,43,FirstHalf,Pass,Successful,8.3,49.1,10,69.4
+254,114595,Gustavo Henrique,1237,Corinthians,43,FirstHalf,Pass,Successful,10,69.7,20.7,87.4
+255,125396,Fabrizio Angileri,1237,Corinthians,43,FirstHalf,Pass,Successful,21.1,87.7,29.8,94.3
+256,441410,Breno Bidon,1237,Corinthians,43,FirstHalf,Foul,Successful,29.2,93,,
+323,518031,Román Gómez,1221,Bahia,43,FirstHalf,Foul,Unsuccessful,70.8,7,,
+257,125396,Fabrizio Angileri,1237,Corinthians,43,FirstHalf,Pass,Successful,29.1,94.4,36,10.1
+258,398130,Matheuzinho,1237,Corinthians,43,FirstHalf,Pass,Successful,40.3,9.8,55.1,9.2
+259,449872,Kaio César,1237,Corinthians,44,FirstHalf,BallTouch,Unsuccessful,55.1,7.1,,
+326,355659,Jean Lucas,1221,Bahia,44,FirstHalf,Clearance,Successful,43.3,95.1,42.9,97.5
+260,449872,Kaio César,1237,Corinthians,44,FirstHalf,BallTouch,Successful,55.2,8.5,,
+331,476466,Zé Guilherme,1221,Bahia,44,FirstHalf,Pass,Successful,43,100,36.3,87.4
+332,402198,Santiago Ramos Mingo,1221,Bahia,44,FirstHalf,Pass,Successful,36.3,87.4,27.9,62.9
+333,279581,David Duarte,1221,Bahia,44,FirstHalf,Pass,Successful,32.5,53.7,33.7,28.6
+334,518031,Román Gómez,1221,Bahia,44,FirstHalf,Pass,Successful,41.8,28.2,37.3,51
+335,279581,David Duarte,1221,Bahia,44,FirstHalf,Pass,Successful,41.8,54.2,46.7,85.3
+336,402198,Santiago Ramos Mingo,1221,Bahia,44,FirstHalf,Pass,Successful,53.2,84.8,63.8,96.9
+337,476466,Zé Guilherme,1221,Bahia,44,FirstHalf,Pass,Successful,64.9,95.3,53.5,84.8
+338,402198,Santiago Ramos Mingo,1221,Bahia,44,FirstHalf,Pass,Successful,53.8,83.6,48.4,54.2
+339,279581,David Duarte,1221,Bahia,45,FirstHalf,Pass,Successful,52.6,45.5,54.4,68.7
+340,402198,Santiago Ramos Mingo,1221,Bahia,45,FirstHalf,Pass,Successful,55.1,74.4,89.3,82.9
+341,476466,Zé Guilherme,1221,Bahia,45,FirstHalf,BallTouch,Unsuccessful,89.3,82.9,,
+263,399247,Hugo Souza,1237,Corinthians,45,FirstHalf,Pass,Unsuccessful,5.6,40.3,61.3,24.5
+344,279581,David Duarte,1221,Bahia,45,FirstHalf,Pass,Successful,33.9,63.9,46.3,65.5
+345,414269,Alejo Veliz,1221,Bahia,45,FirstHalf,Pass,Unsuccessful,46.4,65.5,47.5,18.5
+264,125396,Fabrizio Angileri,1237,Corinthians,45,FirstHalf,Pass,Successful,74.4,81.8,63.7,78
+265,441410,Breno Bidon,1237,Corinthians,45,FirstHalf,Pass,Successful,63.7,78,47.1,67.7
+266,114595,Gustavo Henrique,1237,Corinthians,45,FirstHalf,Pass,Successful,46,66.2,39.6,39.8
+267,76810,Gabriel Paulista,1237,Corinthians,46,FirstHalf,Pass,Successful,39.6,39.8,46.7,45.6
+268,420319,Raniele,1237,Corinthians,46,FirstHalf,Dispossessed,Successful,47,46.3,,
+346,414269,Alejo Veliz,1221,Bahia,46,FirstHalf,Tackle,Successful,53,53.7,,
+352,396067,Nicolás Acevedo,1221,Bahia,46,FirstHalf,BallTouch,Successful,50.9,56.3,,
+347,355659,Jean Lucas,1221,Bahia,46,FirstHalf,BallRecovery,Successful,51.5,68.7,,
+348,355659,Jean Lucas,1221,Bahia,46,FirstHalf,Pass,Successful,52.5,70,68.2,82
+349,549062,Erick Pulga,1221,Bahia,46,FirstHalf,Pass,Successful,80.1,78.4,90.7,51.2
+350,414269,Alejo Veliz,1221,Bahia,46,FirstHalf,MissedShots,Successful,90.7,51.2,,
+270,399247,Hugo Souza,1237,Corinthians,46,FirstHalf,Pass,Unsuccessful,5,39.5,59,54.9
+353,518031,Román Gómez,1221,Bahia,46,FirstHalf,Interception,Successful,41,45.1,,
+271,441410,Breno Bidon,1237,Corinthians,46,FirstHalf,TakeOn,Unsuccessful,60.6,53.6,,
+354,518031,Román Gómez,1221,Bahia,46,FirstHalf,Tackle,Successful,39.4,46.4,,
+355,396067,Nicolás Acevedo,1221,Bahia,46,FirstHalf,BallRecovery,Successful,33,47.3,,
+356,396067,Nicolás Acevedo,1221,Bahia,46,FirstHalf,Pass,Successful,33,47.3,9.1,52.2
+357,330555,Ronaldo,1221,Bahia,46,FirstHalf,Pass,Successful,9.1,52.4,13.9,83.2
+358,402198,Santiago Ramos Mingo,1221,Bahia,46,FirstHalf,Pass,Successful,14,86.2,4.4,60.9
+359,330555,Ronaldo,1221,Bahia,46,FirstHalf,Pass,Successful,4.9,59.6,8.4,22.7
+360,518031,Román Gómez,1221,Bahia,47,FirstHalf,Foul,Successful,14.2,13.4,,
+272,348261,Yuri Alberto,1237,Corinthians,47,FirstHalf,Foul,Unsuccessful,85.8,86.6,,
+361,279581,David Duarte,1221,Bahia,47,FirstHalf,Pass,Successful,13.5,29.1,19.8,38.5
+362,396067,Nicolás Acevedo,1221,Bahia,47,FirstHalf,Pass,Successful,35.8,46.3,40.2,79.7
+363,402198,Santiago Ramos Mingo,1221,Bahia,47,FirstHalf,Pass,Successful,41,80,51.5,93.5
+364,476466,Zé Guilherme,1221,Bahia,47,FirstHalf,Pass,Successful,48.4,93.2,34.1,79
+365,402198,Santiago Ramos Mingo,1221,Bahia,47,FirstHalf,Pass,Successful,34.1,79,31.4,48.1
+366,279581,David Duarte,1221,Bahia,47,FirstHalf,Pass,Successful,32.4,46.4,37.8,30.6
+367,518031,Román Gómez,1221,Bahia,47,FirstHalf,Pass,Successful,42.1,26.5,51.8,95.6
+368,476466,Zé Guilherme,1221,Bahia,47,FirstHalf,Pass,Successful,54.2,90.8,50.6,68.2
+369,402198,Santiago Ramos Mingo,1221,Bahia,47,FirstHalf,Pass,Successful,50.6,68.2,47,42.5
+370,279581,David Duarte,1221,Bahia,47,FirstHalf,Pass,Successful,51.1,41.9,52.1,20.4
+371,518031,Román Gómez,1221,Bahia,47,FirstHalf,Pass,Successful,53.6,19.4,59.6,3.2
+372,356785,Ademir,1221,Bahia,47,FirstHalf,Pass,Successful,59.8,3.4,47.8,12.3
+373,518031,Román Gómez,1221,Bahia,48,FirstHalf,Pass,Successful,47.8,12.3,43.5,43
+374,279581,David Duarte,1221,Bahia,48,FirstHalf,Pass,Successful,52.3,43.3,51.9,70
+375,402198,Santiago Ramos Mingo,1221,Bahia,48,FirstHalf,Pass,Successful,52.3,70.5,58.5,64.6
+376,396067,Nicolás Acevedo,1221,Bahia,48,FirstHalf,Pass,Successful,58.5,64.6,72.2,67.3
+377,355659,Jean Lucas,1221,Bahia,48,FirstHalf,Pass,Successful,73,66.4,89,65.7
+378,414269,Alejo Veliz,1221,Bahia,48,FirstHalf,SavedShot,Successful,89,65.7,,
+273,114595,Gustavo Henrique,1237,Corinthians,48,FirstHalf,Save,Successful,9.6,36.3,,
+379,414269,Alejo Veliz,1221,Bahia,48,FirstHalf,CornerAwarded,Successful,91.6,65.8,,
+274,114595,Gustavo Henrique,1237,Corinthians,48,FirstHalf,CornerAwarded,Unsuccessful,8.3,34.2,,
+380,389163,Rodrigo Nestor,1221,Bahia,48,FirstHalf,Pass,Successful,99.5,99.5,92.4,51.2
+381,279581,David Duarte,1221,Bahia,48,FirstHalf,Goal,Successful,92.4,51.2,,
+275,432685,Rodrigo Garro,1237,Corinthians,49,FirstHalf,Pass,Successful,50.2,50,28,56.7
+276,399247,Hugo Souza,1237,Corinthians,50,FirstHalf,Pass,Unsuccessful,28.4,56.8,83.9,39.4
+382,279581,David Duarte,1221,Bahia,50,FirstHalf,Clearance,Successful,17.3,55.2,0,78.5
+383,279581,David Duarte,1221,Bahia,50,FirstHalf,CornerAwarded,Unsuccessful,5.9,71.4,,
+277,399247,Hugo Souza,1237,Corinthians,50,FirstHalf,CornerAwarded,Successful,94.1,28.6,,
+278,398130,Matheuzinho,1237,Corinthians,50,FirstHalf,Pass,Successful,99.5,0.5,90.7,23.9
+279,441410,Breno Bidon,1237,Corinthians,50,FirstHalf,Pass,Successful,84.9,12.6,90.2,19.4
+280,398130,Matheuzinho,1237,Corinthians,50,FirstHalf,Pass,Unsuccessful,91.5,18,85.3,33.8
+384,355659,Jean Lucas,1221,Bahia,50,FirstHalf,BallTouch,Unsuccessful,13.3,66.7,,
+385,355659,Jean Lucas,1221,Bahia,50,FirstHalf,Challenge,Unsuccessful,14.3,68.3,,
+281,441410,Breno Bidon,1237,Corinthians,50,FirstHalf,TakeOn,Successful,85.7,31.7,,
+282,441410,Breno Bidon,1237,Corinthians,50,FirstHalf,SavedShot,Successful,84.8,32.9,,
+386,389163,Rodrigo Nestor,1221,Bahia,50,FirstHalf,Save,Successful,13.3,65.1,,
+283,579136,André,1237,Corinthians,50,FirstHalf,BallTouch,Successful,71.8,33.8,,
+284,441410,Breno Bidon,1237,Corinthians,50,FirstHalf,BallTouch,Unsuccessful,72.5,28.5,,
+388,389163,Rodrigo Nestor,1221,Bahia,50,FirstHalf,Foul,Successful,25.2,70.4,,
+285,441410,Breno Bidon,1237,Corinthians,50,FirstHalf,Foul,Unsuccessful,74.8,29.6,,
+389,518031,Román Gómez,1221,Bahia,51,FirstHalf,Pass,Successful,20.5,72.3,32.9,79.3
+390,396067,Nicolás Acevedo,1221,Bahia,51,FirstHalf,Pass,Successful,33,79.4,27.4,48.5
+391,279581,David Duarte,1221,Bahia,51,FirstHalf,Pass,Successful,29.3,49.3,31.1,74.7
+392,402198,Santiago Ramos Mingo,1221,Bahia,51,FirstHalf,Pass,Successful,33.8,73,46.5,63.7
+393,396067,Nicolás Acevedo,1221,Bahia,51,FirstHalf,Pass,Successful,47.9,64.2,46.1,76.7
+394,355659,Jean Lucas,1221,Bahia,51,FirstHalf,Pass,Successful,46.1,76.7,36.7,49.7
+395,279581,David Duarte,1221,Bahia,51,FirstHalf,Pass,Successful,43.4,47.2,41.6,73.2
+396,402198,Santiago Ramos Mingo,1221,Bahia,51,FirstHalf,Pass,Successful,42.9,79.9,21.8,59.4
+397,330555,Ronaldo,1221,Bahia,51,FirstHalf,Pass,Successful,21.8,59.7,27.9,44.8
+398,279581,David Duarte,1221,Bahia,51,FirstHalf,Pass,Successful,34,43.9,77.7,91.2
+399,476466,Zé Guilherme,1221,Bahia,51,FirstHalf,Pass,Successful,77.7,91.2,87.4,70.6
+400,549062,Erick Pulga,1221,Bahia,51,FirstHalf,Pass,Successful,87.3,74.7,86.9,84.5
+401,476466,Zé Guilherme,1221,Bahia,51,FirstHalf,TakeOn,Unsuccessful,79.6,76.9,,
+286,398130,Matheuzinho,1237,Corinthians,51,FirstHalf,Tackle,Unsuccessful,20.4,23.1,,
+402,355659,Jean Lucas,1221,Bahia,51,FirstHalf,TakeOn,Unsuccessful,75.8,74.2,,
+287,420319,Raniele,1237,Corinthians,51,FirstHalf,Tackle,Unsuccessful,24.2,25.8,,
+405,355659,Jean Lucas,1221,Bahia,51,FirstHalf,BallTouch,Successful,78,76.4,,
+288,398130,Matheuzinho,1237,Corinthians,51,FirstHalf,BallRecovery,Successful,30.5,21,,
+289,398130,Matheuzinho,1237,Corinthians,51,FirstHalf,Pass,Successful,30.5,21,53.7,19.5
+290,348261,Yuri Alberto,1237,Corinthians,51,FirstHalf,Pass,Unsuccessful,55.4,11.9,67.3,6.5
+403,402198,Santiago Ramos Mingo,1221,Bahia,52,FirstHalf,Interception,Successful,32.7,93.5,,
+408,,,1221,Bahia,53,FirstHalf,Card,Successful,0,0,,
+292,398130,Matheuzinho,1237,Corinthians,53,FirstHalf,Pass,Successful,76.2,0,79.7,6.6
+293,449872,Kaio César,1237,Corinthians,53,FirstHalf,BallTouch,Unsuccessful,79.4,4.1,,
+409,414269,Alejo Veliz,1221,Bahia,53,FirstHalf,BallRecovery,Successful,22.6,96,,
+410,,,1221,Bahia,53,FirstHalf,End,Successful,0,0,,
+294,,,1237,Corinthians,53,FirstHalf,End,Successful,0,0,,
+413,,,1221,Bahia,45,SecondHalf,Start,Successful,0,0,,
+300,,,1237,Corinthians,45,SecondHalf,Start,Successful,0,0,,
+414,414269,Alejo Veliz,1221,Bahia,45,SecondHalf,Pass,Successful,49.9,50.1,51.6,51.6
+415,396067,Nicolás Acevedo,1221,Bahia,45,SecondHalf,Pass,Successful,52.9,56,47.4,72.7
+416,402198,Santiago Ramos Mingo,1221,Bahia,45,SecondHalf,Pass,Successful,47.4,72.7,39.6,43.4
+417,279581,David Duarte,1221,Bahia,45,SecondHalf,Pass,Successful,44.1,46.6,83.2,93.8
+418,476466,Zé Guilherme,1221,Bahia,45,SecondHalf,BallTouch,Unsuccessful,89.1,85.1,,
+302,399247,Hugo Souza,1237,Corinthians,45,SecondHalf,Pass,Unsuccessful,5.2,51.1,63.4,44.7
+420,279581,David Duarte,1221,Bahia,46,SecondHalf,Aerial,Successful,36.6,55.3,,
+303,348261,Yuri Alberto,1237,Corinthians,46,SecondHalf,Aerial,Unsuccessful,63.4,44.7,,
+421,279581,David Duarte,1221,Bahia,46,SecondHalf,Pass,Successful,36.6,55.3,68.1,36.4
+422,356785,Ademir,1221,Bahia,46,SecondHalf,Pass,Successful,68.1,36.4,61.9,32.5
+423,389163,Rodrigo Nestor,1221,Bahia,46,SecondHalf,BallRecovery,Successful,62.7,29.8,,
+424,389163,Rodrigo Nestor,1221,Bahia,46,SecondHalf,Pass,Successful,63.5,25.3,56,32.7
+425,518031,Román Gómez,1221,Bahia,46,SecondHalf,Pass,Successful,56,32.7,44,35.8
+426,279581,David Duarte,1221,Bahia,46,SecondHalf,Pass,Successful,42.8,35.7,48.3,34.6
+430,396067,Nicolás Acevedo,1221,Bahia,46,SecondHalf,Pass,Unsuccessful,46.3,25.9,87.9,26.1
+307,125396,Fabrizio Angileri,1237,Corinthians,46,SecondHalf,Clearance,Successful,13.6,72.9,35.6,74.4
+431,396067,Nicolás Acevedo,1221,Bahia,46,SecondHalf,Pass,Successful,68.8,22.1,83.4,15.6
+432,356785,Ademir,1221,Bahia,46,SecondHalf,TakeOn,Unsuccessful,91.6,8.1,,
+308,125396,Fabrizio Angileri,1237,Corinthians,46,SecondHalf,Tackle,Successful,8.4,91.8,,
+434,518031,Román Gómez,1221,Bahia,47,SecondHalf,Pass,Successful,89.9,0,95.1,8.3
+435,389163,Rodrigo Nestor,1221,Bahia,47,SecondHalf,Pass,Successful,94.9,8.5,90.1,3.8
+436,518031,Román Gómez,1221,Bahia,47,SecondHalf,Pass,Successful,89.9,3.8,89.4,10.7
+437,396067,Nicolás Acevedo,1221,Bahia,47,SecondHalf,Pass,Successful,89.4,10.7,93.4,5.6
+439,389163,Rodrigo Nestor,1221,Bahia,47,SecondHalf,Pass,Successful,91.5,5.2,85.9,5.6
+440,396067,Nicolás Acevedo,1221,Bahia,47,SecondHalf,Pass,Successful,85.8,5.6,97.7,23.7
+441,518031,Román Gómez,1221,Bahia,47,SecondHalf,Pass,Unsuccessful,97.8,26.4,97.8,28.3
+310,125396,Fabrizio Angileri,1237,Corinthians,47,SecondHalf,BlockedPass,Successful,2.2,71.7,,
+442,518031,Román Gómez,1221,Bahia,47,SecondHalf,CornerAwarded,Successful,97.4,27.6,,
+311,125396,Fabrizio Angileri,1237,Corinthians,47,SecondHalf,CornerAwarded,Unsuccessful,2.5,72.3,,
+443,389163,Rodrigo Nestor,1221,Bahia,48,SecondHalf,Pass,Unsuccessful,99.5,0.5,92,44.6
+312,114595,Gustavo Henrique,1237,Corinthians,48,SecondHalf,Aerial,Successful,8,55.4,,
+446,396067,Nicolás Acevedo,1221,Bahia,48,SecondHalf,Aerial,Unsuccessful,92,44.6,,
+313,114595,Gustavo Henrique,1237,Corinthians,48,SecondHalf,Clearance,Successful,8,55.4,12.5,51.1
+444,549062,Erick Pulga,1221,Bahia,48,SecondHalf,MissedShots,Successful,85.4,62.5,,
+314,114595,Gustavo Henrique,1237,Corinthians,48,SecondHalf,Clearance,Successful,10.5,57.7,27,64.7
+315,449872,Kaio César,1237,Corinthians,48,SecondHalf,BallRecovery,Successful,28.6,64.7,,
+316,449872,Kaio César,1237,Corinthians,48,SecondHalf,Pass,Successful,71.2,62.4,80.6,72
+317,432685,Rodrigo Garro,1237,Corinthians,48,SecondHalf,Pass,Successful,81.5,70.8,93.7,3.6
+318,441410,Breno Bidon,1237,Corinthians,48,SecondHalf,Pass,Successful,92.9,5.7,80.2,14.2
+319,398130,Matheuzinho,1237,Corinthians,48,SecondHalf,Pass,Successful,79.8,14.5,75.2,26.7
+320,579136,André,1237,Corinthians,48,SecondHalf,Pass,Successful,73.2,13.8,75.9,3.3
+321,441410,Breno Bidon,1237,Corinthians,48,SecondHalf,Pass,Successful,76,3.3,67.8,12.1
+322,76810,Gabriel Paulista,1237,Corinthians,48,SecondHalf,Pass,Successful,67.8,11.2,70.7,18.5
+323,398130,Matheuzinho,1237,Corinthians,48,SecondHalf,Pass,Successful,69.4,16,57.9,6.3
+324,76810,Gabriel Paulista,1237,Corinthians,48,SecondHalf,Pass,Successful,57.8,6.3,59.5,19.5
+325,432685,Rodrigo Garro,1237,Corinthians,48,SecondHalf,Pass,Successful,57.9,16.3,67.7,4.1
+326,398130,Matheuzinho,1237,Corinthians,48,SecondHalf,Pass,Unsuccessful,67.7,4.1,80.1,13.9
+447,402198,Santiago Ramos Mingo,1221,Bahia,48,SecondHalf,Clearance,Successful,15.7,82,25.7,100
+328,398130,Matheuzinho,1237,Corinthians,49,SecondHalf,Pass,Successful,73.1,0,69.5,20.6
+329,579136,André,1237,Corinthians,49,SecondHalf,Pass,Successful,68.8,19.5,67.4,3.9
+330,398130,Matheuzinho,1237,Corinthians,49,SecondHalf,Pass,Successful,67.4,4.4,71.7,20
+331,441410,Breno Bidon,1237,Corinthians,49,SecondHalf,Pass,Successful,71.7,20.1,67.9,35.7
+332,579136,André,1237,Corinthians,49,SecondHalf,Pass,Successful,66.6,43,70.2,77.4
+333,125396,Fabrizio Angileri,1237,Corinthians,49,SecondHalf,Pass,Successful,70.2,77.4,66.5,68.8
+334,579136,André,1237,Corinthians,49,SecondHalf,Pass,Successful,68,79,74.1,95.3
+335,125396,Fabrizio Angileri,1237,Corinthians,49,SecondHalf,Pass,Unsuccessful,73,94.3,62.9,60.5
+449,549062,Erick Pulga,1221,Bahia,49,SecondHalf,BallRecovery,Successful,45,37.3,,
+450,549062,Erick Pulga,1221,Bahia,49,SecondHalf,BallTouch,Successful,44.2,36.9,,
+451,396067,Nicolás Acevedo,1221,Bahia,49,SecondHalf,Pass,Successful,44.2,29.2,67,8.5
+452,356785,Ademir,1221,Bahia,49,SecondHalf,BallTouch,Unsuccessful,89.2,9.8,,
+337,399247,Hugo Souza,1237,Corinthians,49,SecondHalf,Pass,Successful,4.1,49.7,13.1,24.8
+342,76810,Gabriel Paulista,1237,Corinthians,49,SecondHalf,Pass,Successful,13,28,23,9.4
+338,398130,Matheuzinho,1237,Corinthians,49,SecondHalf,Pass,Successful,27.9,10.3,35.8,9.8
+339,449872,Kaio César,1237,Corinthians,50,SecondHalf,Foul,Successful,41.4,33.4,,
+454,396067,Nicolás Acevedo,1221,Bahia,50,SecondHalf,Foul,Unsuccessful,58.6,66.6,,
+340,432685,Rodrigo Garro,1237,Corinthians,50,SecondHalf,Pass,Successful,45.4,20.9,57.7,5.6
+341,398130,Matheuzinho,1237,Corinthians,50,SecondHalf,SavedShot,Successful,62.6,8.2,,
+455,330555,Ronaldo,1221,Bahia,50,SecondHalf,Save,Successful,2.4,48.8,,
+456,330555,Ronaldo,1221,Bahia,50,SecondHalf,KeeperPickup,Successful,2.4,48.8,,
+457,330555,Ronaldo,1221,Bahia,50,SecondHalf,Pass,Successful,10.2,36,24,22.4
+458,518031,Román Gómez,1221,Bahia,50,SecondHalf,Pass,Successful,24,22.4,30.3,35.2
+459,389163,Rodrigo Nestor,1221,Bahia,50,SecondHalf,Pass,Successful,44.8,30.6,41.9,65.4
+460,402198,Santiago Ramos Mingo,1221,Bahia,50,SecondHalf,Pass,Successful,46.2,71.4,49.4,57.5
+461,396067,Nicolás Acevedo,1221,Bahia,50,SecondHalf,Pass,Successful,52.8,45.7,51.2,17.9
+462,518031,Román Gómez,1221,Bahia,50,SecondHalf,Pass,Successful,56,17.9,63.3,5.5
+463,356785,Ademir,1221,Bahia,50,SecondHalf,Pass,Successful,71.5,8.8,79.2,22.5
+464,389163,Rodrigo Nestor,1221,Bahia,50,SecondHalf,Pass,Successful,78.8,20.6,72.3,12.3
+465,518031,Román Gómez,1221,Bahia,51,SecondHalf,Pass,Successful,72.3,12.3,83.8,9.8
+466,389163,Rodrigo Nestor,1221,Bahia,51,SecondHalf,MissedShots,Successful,87.5,23.9,,
+344,420319,Raniele,1237,Corinthians,51,SecondHalf,BallTouch,Successful,14.2,72.3,,
+346,125396,Fabrizio Angileri,1237,Corinthians,51,SecondHalf,Clearance,Successful,13.2,74.7,56.2,25.9
+467,402198,Santiago Ramos Mingo,1221,Bahia,51,SecondHalf,Pass,Successful,44.5,66.6,20.9,44.6
+468,330555,Ronaldo,1221,Bahia,51,SecondHalf,Pass,Successful,20.9,44.6,28.3,28.6
+469,279581,David Duarte,1221,Bahia,51,SecondHalf,Pass,Successful,23.3,31.9,34.9,40.4
+470,396067,Nicolás Acevedo,1221,Bahia,51,SecondHalf,Pass,Successful,38.9,32.4,39.3,12.2
+471,518031,Román Gómez,1221,Bahia,51,SecondHalf,Pass,Successful,39.7,12.2,33,46.1
+472,279581,David Duarte,1221,Bahia,51,SecondHalf,Pass,Successful,31.1,47.5,30.2,73.5
+473,402198,Santiago Ramos Mingo,1221,Bahia,51,SecondHalf,Pass,Successful,30.2,73.5,12.5,56
+474,330555,Ronaldo,1221,Bahia,51,SecondHalf,Pass,Successful,12.5,56,29,58.8
+475,396067,Nicolás Acevedo,1221,Bahia,51,SecondHalf,BallTouch,Unsuccessful,33.6,57.3,,
+347,420319,Raniele,1237,Corinthians,51,SecondHalf,Pass,Successful,56.1,47.6,69.8,51.4
+348,348261,Yuri Alberto,1237,Corinthians,51,SecondHalf,BallRecovery,Successful,69.3,51.1,,
+349,348261,Yuri Alberto,1237,Corinthians,51,SecondHalf,Pass,Successful,72.5,40.6,82.1,28.5
+350,449872,Kaio César,1237,Corinthians,51,SecondHalf,Pass,Unsuccessful,92.4,28.8,88.1,35.7
+476,396067,Nicolás Acevedo,1221,Bahia,51,SecondHalf,BallRecovery,Successful,12,60.8,,
+477,396067,Nicolás Acevedo,1221,Bahia,51,SecondHalf,Pass,Successful,11.9,61.1,35.4,79.9
+478,549062,Erick Pulga,1221,Bahia,52,SecondHalf,TakeOn,Unsuccessful,56.2,91,,
+351,398130,Matheuzinho,1237,Corinthians,52,SecondHalf,Tackle,Successful,43.7,8.9,,
+480,355659,Jean Lucas,1221,Bahia,52,SecondHalf,Pass,Successful,48.2,100,39.3,93.2
+481,476466,Zé Guilherme,1221,Bahia,52,SecondHalf,Pass,Successful,39.3,93.2,39.6,90.3
+482,355659,Jean Lucas,1221,Bahia,52,SecondHalf,Pass,Successful,41.4,75,33,44.9
+483,279581,David Duarte,1221,Bahia,52,SecondHalf,Pass,Successful,35.6,39.4,42.2,17.1
+484,518031,Román Gómez,1221,Bahia,52,SecondHalf,Pass,Successful,46.2,16.8,41.5,41.2
+485,279581,David Duarte,1221,Bahia,52,SecondHalf,Pass,Successful,47,40.4,49.6,21.2
+486,518031,Román Gómez,1221,Bahia,52,SecondHalf,Pass,Successful,79.5,12.3,87.5,7.9
+487,356785,Ademir,1221,Bahia,52,SecondHalf,Pass,Successful,87.5,7.9,96.5,16.5
+488,518031,Román Gómez,1221,Bahia,52,SecondHalf,TakeOn,Unsuccessful,95,17.2,,
+353,125396,Fabrizio Angileri,1237,Corinthians,52,SecondHalf,Tackle,Unsuccessful,5,82.8,,
+489,518031,Román Gómez,1221,Bahia,52,SecondHalf,Pass,Unsuccessful,97.6,6.1,100,37
+356,399247,Hugo Souza,1237,Corinthians,53,SecondHalf,Pass,Successful,5.1,51.7,7,52.9
+357,420319,Raniele,1237,Corinthians,53,SecondHalf,Pass,Successful,12,57.3,11.3,79.7
+358,441410,Breno Bidon,1237,Corinthians,53,SecondHalf,Pass,Unsuccessful,13.6,83.5,44.2,80.9
+491,279581,David Duarte,1221,Bahia,53,SecondHalf,Aerial,Successful,55.8,19.1,,
+359,348261,Yuri Alberto,1237,Corinthians,53,SecondHalf,Aerial,Unsuccessful,44.2,80.9,,
+492,279581,David Duarte,1221,Bahia,53,SecondHalf,Pass,Unsuccessful,55.8,19.1,67.2,28.3
+360,432685,Rodrigo Garro,1237,Corinthians,53,SecondHalf,Pass,Successful,36,81.1,52.5,88.5
+361,348261,Yuri Alberto,1237,Corinthians,53,SecondHalf,Pass,Unsuccessful,42.4,92.8,42.3,89
+496,279581,David Duarte,1221,Bahia,53,SecondHalf,BlockedPass,Successful,57.7,11,,
+362,441410,Breno Bidon,1237,Corinthians,53,SecondHalf,Pass,Successful,30.6,74.4,38.6,84.3
+363,420319,Raniele,1237,Corinthians,53,SecondHalf,Foul,Successful,41.4,82,,
+497,389163,Rodrigo Nestor,1221,Bahia,53,SecondHalf,Foul,Unsuccessful,58.6,18,,
+364,441410,Breno Bidon,1237,Corinthians,53,SecondHalf,Pass,Successful,36.4,82.9,34.5,86.8
+365,125396,Fabrizio Angileri,1237,Corinthians,53,SecondHalf,Pass,Successful,34.5,86.8,36.9,81.7
+366,441410,Breno Bidon,1237,Corinthians,53,SecondHalf,Pass,Successful,37.3,84.7,38.3,95.2
+367,420319,Raniele,1237,Corinthians,53,SecondHalf,Pass,Successful,38.4,94,27.5,87.6
+368,125396,Fabrizio Angileri,1237,Corinthians,53,SecondHalf,Pass,Successful,28.9,83.2,23.7,44.8
+369,114595,Gustavo Henrique,1237,Corinthians,53,SecondHalf,Pass,Successful,24,41.4,26.9,12.4
+370,398130,Matheuzinho,1237,Corinthians,53,SecondHalf,Pass,Unsuccessful,28.2,10.9,52.8,11.3
+498,402198,Santiago Ramos Mingo,1221,Bahia,54,SecondHalf,Interception,Successful,47.2,88.7,,
+372,398130,Matheuzinho,1237,Corinthians,54,SecondHalf,Pass,Successful,53.1,0,55.4,31
+373,432685,Rodrigo Garro,1237,Corinthians,54,SecondHalf,Pass,Unsuccessful,57.1,35.6,91.4,71.1
+500,330555,Ronaldo,1221,Bahia,54,SecondHalf,KeeperPickup,Successful,11.6,29.1,,
+501,330555,Ronaldo,1221,Bahia,54,SecondHalf,Pass,Successful,12,31.3,25.5,53
+502,355659,Jean Lucas,1221,Bahia,54,SecondHalf,Pass,Successful,41.8,51,71.9,91.4
+374,398130,Matheuzinho,1237,Corinthians,54,SecondHalf,Challenge,Unsuccessful,34.3,16.2,,
+503,476466,Zé Guilherme,1221,Bahia,54,SecondHalf,TakeOn,Successful,65.7,83.8,,
+504,476466,Zé Guilherme,1221,Bahia,54,SecondHalf,Pass,Successful,70,84.5,82.3,80
+505,549062,Erick Pulga,1221,Bahia,54,SecondHalf,Pass,Unsuccessful,85.1,77.2,85.7,74.4
+375,398130,Matheuzinho,1237,Corinthians,54,SecondHalf,BallTouch,Successful,13.7,31.7,,
+376,114595,Gustavo Henrique,1237,Corinthians,54,SecondHalf,Clearance,Successful,6.4,50.3,0,33.2
+506,549062,Erick Pulga,1221,Bahia,54,SecondHalf,CornerAwarded,Successful,95,69.7,,
+377,114595,Gustavo Henrique,1237,Corinthians,54,SecondHalf,CornerAwarded,Unsuccessful,5.1,30.2,,
+507,389163,Rodrigo Nestor,1221,Bahia,55,SecondHalf,Pass,Unsuccessful,99.5,99.5,91.4,42.2
+378,125396,Fabrizio Angileri,1237,Corinthians,55,SecondHalf,Aerial,Successful,8.6,57.8,,
+508,414269,Alejo Veliz,1221,Bahia,55,SecondHalf,Aerial,Unsuccessful,91.4,42.2,,
+379,125396,Fabrizio Angileri,1237,Corinthians,55,SecondHalf,Clearance,Successful,8.6,57.8,20.6,93.8
+509,356785,Ademir,1221,Bahia,55,SecondHalf,Pass,Successful,76.1,12.6,66.2,20.9
+510,476466,Zé Guilherme,1221,Bahia,55,SecondHalf,Pass,Successful,63.2,31.8,83.5,86.6
+511,389163,Rodrigo Nestor,1221,Bahia,55,SecondHalf,Pass,Successful,83.4,86.6,88.6,84.8
+512,355659,Jean Lucas,1221,Bahia,55,SecondHalf,Pass,Successful,88.6,84.8,85,78.4
+513,389163,Rodrigo Nestor,1221,Bahia,55,SecondHalf,MissedShots,Successful,85.1,73,,
+381,399247,Hugo Souza,1237,Corinthians,56,SecondHalf,Pass,Successful,4.8,49.7,8.8,46.5
+382,420319,Raniele,1237,Corinthians,56,SecondHalf,Pass,Successful,10.2,36.8,21,9.4
+383,76810,Gabriel Paulista,1237,Corinthians,56,SecondHalf,Pass,Unsuccessful,21,9.7,26.5,17.4
+515,396067,Nicolás Acevedo,1221,Bahia,56,SecondHalf,BallTouch,Successful,72.9,78.5,,
+529,355659,Jean Lucas,1221,Bahia,56,SecondHalf,BallRecovery,Successful,71.6,85.1,,
+516,355659,Jean Lucas,1221,Bahia,56,SecondHalf,Pass,Successful,74.1,89.7,80.6,95.1
+517,549062,Erick Pulga,1221,Bahia,56,SecondHalf,Pass,Successful,84.3,96.7,69.9,95.7
+518,476466,Zé Guilherme,1221,Bahia,56,SecondHalf,Pass,Successful,76.1,95.6,58,88.9
+519,402198,Santiago Ramos Mingo,1221,Bahia,56,SecondHalf,Pass,Successful,58,88.9,50.3,57.9
+520,279581,David Duarte,1221,Bahia,56,SecondHalf,Pass,Successful,49.2,50.7,52.5,22.7
+521,518031,Román Gómez,1221,Bahia,56,SecondHalf,Pass,Successful,53.7,20.6,47,43.9
+522,279581,David Duarte,1221,Bahia,56,SecondHalf,Pass,Successful,47,49,53.7,71.7
+523,402198,Santiago Ramos Mingo,1221,Bahia,56,SecondHalf,Pass,Successful,53.7,71.8,48.4,55.8
+524,279581,David Duarte,1221,Bahia,56,SecondHalf,Pass,Successful,52.8,37,62.3,34.6
+525,389163,Rodrigo Nestor,1221,Bahia,56,SecondHalf,Pass,Successful,62.3,34.6,63,47.6
+526,396067,Nicolás Acevedo,1221,Bahia,56,SecondHalf,Pass,Successful,63,47.8,60.5,21.9
+527,518031,Román Gómez,1221,Bahia,56,SecondHalf,Pass,Unsuccessful,88,6.4,89.5,12.6
+528,,,1221,Bahia,56,SecondHalf,Foul,Successful,89.4,16,,
+384,125396,Fabrizio Angileri,1237,Corinthians,56,SecondHalf,Foul,Unsuccessful,10.6,84,,
+530,389163,Rodrigo Nestor,1221,Bahia,57,SecondHalf,MissedShots,Successful,88.1,17.7,,
+386,399247,Hugo Souza,1237,Corinthians,58,SecondHalf,Pass,Successful,5.1,49.8,9.5,53.9
+387,432685,Rodrigo Garro,1237,Corinthians,58,SecondHalf,Pass,Unsuccessful,15.7,55,34.1,63.8
+532,396067,Nicolás Acevedo,1221,Bahia,58,SecondHalf,Interception,Successful,65.9,36.2,,
+533,396067,Nicolás Acevedo,1221,Bahia,58,SecondHalf,BallRecovery,Successful,63.4,32.1,,
+534,396067,Nicolás Acevedo,1221,Bahia,58,SecondHalf,Pass,Successful,63.1,31,59.5,23.7
+535,518031,Román Gómez,1221,Bahia,58,SecondHalf,Pass,Successful,58.5,23.6,56.8,28.9
+536,396067,Nicolás Acevedo,1221,Bahia,58,SecondHalf,Pass,Successful,57.5,25.5,61.5,13.1
+537,389163,Rodrigo Nestor,1221,Bahia,58,SecondHalf,Pass,Unsuccessful,61.5,15.2,86.5,43.4
+388,420319,Raniele,1237,Corinthians,58,SecondHalf,Clearance,Successful,12.9,64.9,28.3,72.3
+389,432685,Rodrigo Garro,1237,Corinthians,58,SecondHalf,BallRecovery,Successful,29.2,71.8,,
+390,432685,Rodrigo Garro,1237,Corinthians,58,SecondHalf,Foul,Successful,35.7,69.8,,
+538,389163,Rodrigo Nestor,1221,Bahia,58,SecondHalf,Foul,Unsuccessful,64.2,30.2,,
+391,432685,Rodrigo Garro,1237,Corinthians,58,SecondHalf,Pass,Successful,34.8,57.4,31.5,72.4
+392,420319,Raniele,1237,Corinthians,58,SecondHalf,Pass,Successful,31.5,72.6,34.2,66.2
+393,432685,Rodrigo Garro,1237,Corinthians,58,SecondHalf,Pass,Successful,37.7,70.8,28.8,67.4
+394,114595,Gustavo Henrique,1237,Corinthians,58,SecondHalf,Pass,Successful,27.2,69.4,29.1,85.6
+395,420319,Raniele,1237,Corinthians,58,SecondHalf,Pass,Successful,29.4,85.6,51.9,94.3
+396,125396,Fabrizio Angileri,1237,Corinthians,58,SecondHalf,Pass,Successful,45.8,90,58,82.1
+397,441410,Breno Bidon,1237,Corinthians,58,SecondHalf,TakeOn,Unsuccessful,58.5,81.8,,
+539,279581,David Duarte,1221,Bahia,58,SecondHalf,Pass,Unsuccessful,41.6,14.4,64,62.3
+398,76810,Gabriel Paulista,1237,Corinthians,59,SecondHalf,Pass,Successful,44.7,19.4,58.2,5.4
+399,398130,Matheuzinho,1237,Corinthians,59,SecondHalf,Pass,Successful,59.2,5.9,43,21.2
+400,76810,Gabriel Paulista,1237,Corinthians,59,SecondHalf,Pass,Successful,41.2,22.6,34.5,51.4
+401,114595,Gustavo Henrique,1237,Corinthians,59,SecondHalf,Pass,Successful,35.8,60,47.2,79.9
+402,420319,Raniele,1237,Corinthians,59,SecondHalf,Pass,Successful,53.3,80,39,62
+403,114595,Gustavo Henrique,1237,Corinthians,59,SecondHalf,Pass,Successful,41.9,63.6,47,82.1
+404,420319,Raniele,1237,Corinthians,59,SecondHalf,Pass,Successful,47,82,56.5,74.9
+405,432685,Rodrigo Garro,1237,Corinthians,59,SecondHalf,Pass,Successful,56.5,74.9,46,82.3
+406,420319,Raniele,1237,Corinthians,59,SecondHalf,Pass,Successful,45.9,82.1,39,67.1
+407,114595,Gustavo Henrique,1237,Corinthians,59,SecondHalf,Pass,Successful,36.5,63.2,41.9,9.4
+408,76810,Gabriel Paulista,1237,Corinthians,59,SecondHalf,Pass,Unsuccessful,42.5,9.1,100,7.9
+543,330555,Ronaldo,1221,Bahia,61,SecondHalf,Pass,Unsuccessful,4.9,49,60.3,50.7
+412,114595,Gustavo Henrique,1237,Corinthians,61,SecondHalf,Aerial,Successful,39.7,49.3,,
+544,549062,Erick Pulga,1221,Bahia,61,SecondHalf,Aerial,Unsuccessful,60.3,50.7,,
+413,114595,Gustavo Henrique,1237,Corinthians,61,SecondHalf,Pass,Successful,39.7,49.3,53.4,36.4
+414,449872,Kaio César,1237,Corinthians,61,SecondHalf,BallRecovery,Successful,56,34.1,,
+415,449872,Kaio César,1237,Corinthians,61,SecondHalf,Pass,Successful,56,34.1,53.7,45
+416,420319,Raniele,1237,Corinthians,61,SecondHalf,Pass,Successful,53.7,45,62,35.7
+417,432685,Rodrigo Garro,1237,Corinthians,62,SecondHalf,Pass,Successful,62,35.7,58.2,25.3
+418,449872,Kaio César,1237,Corinthians,62,SecondHalf,Foul,Successful,55.3,67.4,,
+545,396067,Nicolás Acevedo,1221,Bahia,62,SecondHalf,Foul,Unsuccessful,44.7,32.6,,
+419,420319,Raniele,1237,Corinthians,62,SecondHalf,Pass,Successful,57.6,67.1,63.2,72.1
+420,579136,André,1237,Corinthians,62,SecondHalf,Pass,Successful,63.6,74,65.9,89.3
+421,441410,Breno Bidon,1237,Corinthians,62,SecondHalf,Pass,Successful,65.9,89.3,62,80.2
+422,432685,Rodrigo Garro,1237,Corinthians,62,SecondHalf,Pass,Successful,62,80.2,60.2,92.1
+423,441410,Breno Bidon,1237,Corinthians,62,SecondHalf,Pass,Successful,58.4,81.7,41.3,79
+424,114595,Gustavo Henrique,1237,Corinthians,62,SecondHalf,Pass,Successful,38.1,76.4,24.3,52
+425,399247,Hugo Souza,1237,Corinthians,62,SecondHalf,Pass,Successful,24,56.1,26.1,82.1
+426,114595,Gustavo Henrique,1237,Corinthians,62,SecondHalf,Pass,Unsuccessful,27.8,83.4,67.8,80.6
+546,279581,David Duarte,1221,Bahia,62,SecondHalf,Clearance,Successful,38.1,14.3,37.7,12.5
+559,279581,David Duarte,1221,Bahia,62,SecondHalf,Clearance,Successful,32.2,7.6,31.6,5.2
+547,,,1221,Bahia,62,SecondHalf,Foul,Successful,27.4,13,,
+427,432685,Rodrigo Garro,1237,Corinthians,62,SecondHalf,Foul,Unsuccessful,72.6,87,,
+548,279581,David Duarte,1221,Bahia,63,SecondHalf,Pass,Successful,24.9,11.7,22.5,26.2
+549,396067,Nicolás Acevedo,1221,Bahia,63,SecondHalf,Pass,Successful,30.8,47.3,32.2,20.9
+550,518031,Román Gómez,1221,Bahia,63,SecondHalf,Pass,Successful,31.9,17,7.1,46.3
+551,330555,Ronaldo,1221,Bahia,63,SecondHalf,Pass,Successful,7.1,46.6,36,97.1
+552,476466,Zé Guilherme,1221,Bahia,63,SecondHalf,Pass,Successful,35.9,97.1,49,95.9
+553,549062,Erick Pulga,1221,Bahia,63,SecondHalf,TakeOn,Unsuccessful,46.6,94.3,,
+428,76810,Gabriel Paulista,1237,Corinthians,63,SecondHalf,Tackle,Successful,53.4,5.7,,
+554,549062,Erick Pulga,1221,Bahia,63,SecondHalf,Foul,Successful,41.2,88.7,,
+429,398130,Matheuzinho,1237,Corinthians,63,SecondHalf,Foul,Unsuccessful,58.7,11.2,,
+555,355659,Jean Lucas,1221,Bahia,63,SecondHalf,Pass,Successful,45.5,82.6,42.1,67.6
+556,396067,Nicolás Acevedo,1221,Bahia,63,SecondHalf,Pass,Unsuccessful,47,59.9,92.1,80.6
+430,398130,Matheuzinho,1237,Corinthians,63,SecondHalf,Clearance,Successful,12.9,13.3,13.7,12.6
+557,476466,Zé Guilherme,1221,Bahia,64,SecondHalf,BallTouch,Successful,86.8,84.7,,
+432,398130,Matheuzinho,1237,Corinthians,64,SecondHalf,Pass,Successful,20.4,0,25.6,9.7
+433,449872,Kaio César,1237,Corinthians,64,SecondHalf,BallTouch,Unsuccessful,26.6,11,,
+561,389163,Rodrigo Nestor,1221,Bahia,64,SecondHalf,Pass,Successful,73.6,74.5,78,71.8
+562,414269,Alejo Veliz,1221,Bahia,64,SecondHalf,BallRecovery,Successful,77.9,71.8,,
+563,414269,Alejo Veliz,1221,Bahia,64,SecondHalf,Pass,Successful,76.8,70.9,77.3,46.6
+564,356785,Ademir,1221,Bahia,64,SecondHalf,Pass,Successful,77.9,43.9,85.5,34.5
+565,518031,Román Gómez,1221,Bahia,64,SecondHalf,TakeOn,Unsuccessful,88,35.7,,
+434,114595,Gustavo Henrique,1237,Corinthians,64,SecondHalf,Clearance,Successful,6.1,68.2,0,68.6
+435,114595,Gustavo Henrique,1237,Corinthians,64,SecondHalf,CornerAwarded,Unsuccessful,4.2,66.8,,
+566,518031,Román Gómez,1221,Bahia,64,SecondHalf,CornerAwarded,Successful,95.8,33.2,,
+567,389163,Rodrigo Nestor,1221,Bahia,65,SecondHalf,Pass,Unsuccessful,99.5,0.5,96.7,48.2
+694,114595,Gustavo Henrique,1237,Corinthians,65,SecondHalf,Aerial,Successful,3.3,51.8,,
+568,396067,Nicolás Acevedo,1221,Bahia,65,SecondHalf,Aerial,Unsuccessful,96.7,48.2,,
+695,114595,Gustavo Henrique,1237,Corinthians,65,SecondHalf,Clearance,Successful,3.3,51.8,11.6,54.9
+436,432685,Rodrigo Garro,1237,Corinthians,65,SecondHalf,Clearance,Successful,15,57.1,65.1,47
+569,330555,Ronaldo,1221,Bahia,65,SecondHalf,Pass,Successful,37.2,49.3,39.1,57.3
+570,476466,Zé Guilherme,1221,Bahia,65,SecondHalf,Pass,Successful,39.1,57.3,26.2,39.7
+571,330555,Ronaldo,1221,Bahia,65,SecondHalf,Pass,Unsuccessful,27.1,34.9,66.4,16.4
+437,125396,Fabrizio Angileri,1237,Corinthians,65,SecondHalf,Aerial,Successful,33.6,83.6,,
+572,356785,Ademir,1221,Bahia,65,SecondHalf,Aerial,Unsuccessful,66.4,16.4,,
+438,125396,Fabrizio Angileri,1237,Corinthians,65,SecondHalf,Pass,Successful,33.6,83.6,66.9,88.5
+439,432685,Rodrigo Garro,1237,Corinthians,65,SecondHalf,BallRecovery,Successful,71.7,91.2,,
+440,432685,Rodrigo Garro,1237,Corinthians,65,SecondHalf,Dispossessed,Successful,67,92.6,,
+573,518031,Román Gómez,1221,Bahia,65,SecondHalf,Tackle,Unsuccessful,33,7.4,,
+441,441410,Breno Bidon,1237,Corinthians,66,SecondHalf,Pass,Successful,67.5,93.7,76.3,95.9
+442,420319,Raniele,1237,Corinthians,66,SecondHalf,Pass,Unsuccessful,83.9,90.8,84.4,84.3
+574,518031,Román Gómez,1221,Bahia,66,SecondHalf,Interception,Successful,15.6,15.7,,
+575,518031,Román Gómez,1221,Bahia,66,SecondHalf,Clearance,Successful,17.9,16.1,29.8,21.3
+576,389163,Rodrigo Nestor,1221,Bahia,66,SecondHalf,BallRecovery,Successful,29.8,21.5,,
+577,389163,Rodrigo Nestor,1221,Bahia,66,SecondHalf,Pass,Successful,29.8,21.5,34.3,9.7
+578,356785,Ademir,1221,Bahia,66,SecondHalf,Foul,Successful,55.4,7,,
+443,441410,Breno Bidon,1237,Corinthians,66,SecondHalf,Foul,Unsuccessful,44.6,93,,
+444,441410,Breno Bidon,1237,Corinthians,66,SecondHalf,Card,Successful,0,0,,
+579,389163,Rodrigo Nestor,1221,Bahia,66,SecondHalf,Pass,Successful,59,7.7,59.9,22.5
+580,396067,Nicolás Acevedo,1221,Bahia,66,SecondHalf,Pass,Successful,59.9,22.7,59.1,43.1
+581,355659,Jean Lucas,1221,Bahia,66,SecondHalf,Pass,Successful,59.1,43.1,56.7,66.4
+582,402198,Santiago Ramos Mingo,1221,Bahia,66,SecondHalf,Pass,Successful,56.7,66.4,65.8,91.5
+583,549062,Erick Pulga,1221,Bahia,66,SecondHalf,Pass,Successful,65.4,78.1,64.7,67.9
+584,396067,Nicolás Acevedo,1221,Bahia,67,SecondHalf,Pass,Successful,61.2,61.8,64,82.4
+585,402198,Santiago Ramos Mingo,1221,Bahia,67,SecondHalf,Pass,Successful,64,82.4,72.5,96
+586,476466,Zé Guilherme,1221,Bahia,67,SecondHalf,Pass,Successful,72.6,96.2,83.7,96.6
+587,549062,Erick Pulga,1221,Bahia,67,SecondHalf,BallTouch,Unsuccessful,83.5,96.8,,
+445,76810,Gabriel Paulista,1237,Corinthians,67,SecondHalf,Pass,Successful,26.2,5.3,34.8,3.8
+446,398130,Matheuzinho,1237,Corinthians,67,SecondHalf,BallRecovery,Successful,34.8,4.1,,
+447,398130,Matheuzinho,1237,Corinthians,67,SecondHalf,Pass,Successful,38.8,5.6,65.3,13.5
+448,348261,Yuri Alberto,1237,Corinthians,67,SecondHalf,Dispossessed,Successful,75.8,35.4,,
+589,355659,Jean Lucas,1221,Bahia,67,SecondHalf,Tackle,Unsuccessful,24.2,64.6,,
+450,348261,Yuri Alberto,1237,Corinthians,67,SecondHalf,BallTouch,Successful,72.2,35.9,,
+671,355659,Jean Lucas,1221,Bahia,67,SecondHalf,BallRecovery,Successful,21.8,61.5,,
+666,355659,Jean Lucas,1221,Bahia,67,SecondHalf,Pass,Unsuccessful,21.5,63.6,23.1,64.2
+449,449872,Kaio César,1237,Corinthians,67,SecondHalf,BlockedPass,Successful,76.9,35.8,,
+615,356785,Ademir,1221,Bahia,68,SecondHalf,SubstitutionOff,Successful,0,0,,
+616,77636,Willian José,1221,Bahia,68,SecondHalf,SubstitutionOn,Successful,0,0,,
+593,476466,Zé Guilherme,1221,Bahia,68,SecondHalf,SubstitutionOff,Successful,0,0,,
+594,397517,Luciano Juba,1221,Bahia,68,SecondHalf,SubstitutionOn,Successful,0,0,,
+609,414269,Alejo Veliz,1221,Bahia,68,SecondHalf,SubstitutionOff,Successful,0,0,,
+610,570313,Kauê Furquim,1221,Bahia,68,SecondHalf,SubstitutionOn,Successful,0,0,,
+683,,,1221,Bahia,68,SecondHalf,FormationChange,Successful,0,0,,
+451,125396,Fabrizio Angileri,1237,Corinthians,68,SecondHalf,SubstitutionOff,Successful,0,0,,
+452,519726,Pedro Milans,1237,Corinthians,68,SecondHalf,SubstitutionOn,Successful,0,0,,
+453,441410,Breno Bidon,1237,Corinthians,69,SecondHalf,SubstitutionOff,Successful,0,0,,
+454,83337,Zakaria Labyad,1237,Corinthians,69,SecondHalf,SubstitutionOn,Successful,0,0,,
+597,396067,Nicolás Acevedo,1221,Bahia,69,SecondHalf,Pass,Successful,29,58.5,36.4,61.2
+598,355659,Jean Lucas,1221,Bahia,69,SecondHalf,Pass,Successful,34.8,50.3,34.4,21.3
+599,518031,Román Gómez,1221,Bahia,69,SecondHalf,Pass,Successful,33.8,19.4,45.3,28.2
+600,396067,Nicolás Acevedo,1221,Bahia,69,SecondHalf,Pass,Unsuccessful,45.3,28,75.2,4.9
+456,519726,Pedro Milans,1237,Corinthians,69,SecondHalf,Aerial,Successful,24.8,95.1,,
+601,570313,Kauê Furquim,1221,Bahia,69,SecondHalf,Aerial,Unsuccessful,75.2,4.9,,
+457,519726,Pedro Milans,1237,Corinthians,69,SecondHalf,Clearance,Successful,24.8,95.1,28.4,100
+603,389163,Rodrigo Nestor,1221,Bahia,69,SecondHalf,Pass,Successful,72.2,0,59.5,5.9
+604,518031,Román Gómez,1221,Bahia,69,SecondHalf,Pass,Successful,56.3,7.9,45,22.4
+605,279581,David Duarte,1221,Bahia,69,SecondHalf,Pass,Successful,45.6,31.9,44.9,70
+606,402198,Santiago Ramos Mingo,1221,Bahia,69,SecondHalf,Pass,Successful,44.9,70,40.1,55.5
+607,279581,David Duarte,1221,Bahia,69,SecondHalf,Pass,Successful,43.7,44.9,41.2,19.2
+608,518031,Román Gómez,1221,Bahia,69,SecondHalf,Pass,Successful,39.3,21.3,17.9,48.7
+611,330555,Ronaldo,1221,Bahia,70,SecondHalf,Pass,Successful,16.8,44.9,56.1,17.9
+612,570313,Kauê Furquim,1221,Bahia,70,SecondHalf,Aerial,Successful,56.1,17.9,,
+462,519726,Pedro Milans,1237,Corinthians,70,SecondHalf,Aerial,Unsuccessful,43.9,82.1,,
+463,519726,Pedro Milans,1237,Corinthians,70,SecondHalf,BallTouch,Successful,41.9,81.7,,
+613,570313,Kauê Furquim,1221,Bahia,70,SecondHalf,Pass,Unsuccessful,55.7,17.6,57,17.6
+464,114595,Gustavo Henrique,1237,Corinthians,70,SecondHalf,Pass,Successful,38.9,83,52.6,84.6
+465,83337,Zakaria Labyad,1237,Corinthians,70,SecondHalf,Pass,Unsuccessful,52.7,84.4,54.3,72.7
+614,396067,Nicolás Acevedo,1221,Bahia,70,SecondHalf,Pass,Unsuccessful,52.9,25.9,71.2,33.4
+466,76810,Gabriel Paulista,1237,Corinthians,70,SecondHalf,Clearance,Successful,26.7,70.5,25.9,100
+618,518031,Román Gómez,1221,Bahia,70,SecondHalf,Pass,Successful,74,0,63.8,6.5
+619,389163,Rodrigo Nestor,1221,Bahia,70,SecondHalf,Pass,Successful,61.7,8,48.5,45.7
+620,402198,Santiago Ramos Mingo,1221,Bahia,70,SecondHalf,Pass,Successful,56.1,64.9,73.7,94.4
+621,397517,Luciano Juba,1221,Bahia,70,SecondHalf,TakeOn,Unsuccessful,79,94,,
+468,449872,Kaio César,1237,Corinthians,70,SecondHalf,Tackle,Successful,20.9,6,,
+623,397517,Luciano Juba,1221,Bahia,70,SecondHalf,Pass,Successful,83.2,100,77.4,88.1
+624,396067,Nicolás Acevedo,1221,Bahia,70,SecondHalf,Pass,Successful,87.4,87.8,87.5,49.7
+625,549062,Erick Pulga,1221,Bahia,70,SecondHalf,Aerial,Successful,87.5,49.7,,
+470,519726,Pedro Milans,1237,Corinthians,70,SecondHalf,Aerial,Unsuccessful,12.5,50.3,,
+626,549062,Erick Pulga,1221,Bahia,70,SecondHalf,MissedShots,Successful,87.5,49.7,,
+471,83337,Zakaria Labyad,1237,Corinthians,70,SecondHalf,BallRecovery,Successful,8.2,83.2,,
+472,83337,Zakaria Labyad,1237,Corinthians,70,SecondHalf,TakeOn,Unsuccessful,6.2,79.3,,
+627,570313,Kauê Furquim,1221,Bahia,70,SecondHalf,Tackle,Successful,93.8,20.6,,
+474,399247,Hugo Souza,1237,Corinthians,71,SecondHalf,Pass,Successful,4.8,50.8,9,54.9
+475,420319,Raniele,1237,Corinthians,71,SecondHalf,Pass,Successful,14.8,59.9,10.9,84.4
+476,114595,Gustavo Henrique,1237,Corinthians,71,SecondHalf,Pass,Successful,12.8,87.4,43,79.1
+477,348261,Yuri Alberto,1237,Corinthians,71,SecondHalf,Pass,Unsuccessful,41.3,78.3,49.1,81.4
+629,518031,Román Gómez,1221,Bahia,71,SecondHalf,Pass,Successful,51.9,14,54.2,19.1
+630,279581,David Duarte,1221,Bahia,71,SecondHalf,Dispossessed,Successful,52.2,19,,
+478,348261,Yuri Alberto,1237,Corinthians,71,SecondHalf,Tackle,Unsuccessful,47.8,81,,
+631,518031,Román Gómez,1221,Bahia,71,SecondHalf,BallRecovery,Successful,37.2,18.6,,
+632,518031,Román Gómez,1221,Bahia,71,SecondHalf,Pass,Successful,37.2,18.6,15,40.4
+633,330555,Ronaldo,1221,Bahia,71,SecondHalf,Pass,Successful,16.2,42.1,34,77.8
+634,397517,Luciano Juba,1221,Bahia,71,SecondHalf,Pass,Successful,33.8,77.6,31.8,40.3
+635,279581,David Duarte,1221,Bahia,71,SecondHalf,Pass,Successful,31.4,38.5,33.8,14.9
+636,518031,Román Gómez,1221,Bahia,71,SecondHalf,Pass,Successful,34.2,15.6,15.9,40.7
+637,330555,Ronaldo,1221,Bahia,71,SecondHalf,Pass,Successful,17.5,47,25.7,72.4
+638,402198,Santiago Ramos Mingo,1221,Bahia,71,SecondHalf,Pass,Successful,25.7,72.3,24.3,43.4
+639,279581,David Duarte,1221,Bahia,71,SecondHalf,Pass,Successful,26.9,43,30.1,71.5
+640,402198,Santiago Ramos Mingo,1221,Bahia,71,SecondHalf,Pass,Successful,32.9,72.9,52.5,95.6
+641,397517,Luciano Juba,1221,Bahia,71,SecondHalf,Pass,Unsuccessful,52.5,95.9,53.6,95.3
+479,398130,Matheuzinho,1237,Corinthians,71,SecondHalf,BlockedPass,Successful,46.4,4.7,,
+643,397517,Luciano Juba,1221,Bahia,72,SecondHalf,Pass,Successful,47.5,100,36,85.1
+644,402198,Santiago Ramos Mingo,1221,Bahia,72,SecondHalf,Pass,Successful,36.1,85.1,34.6,56.7
+645,279581,David Duarte,1221,Bahia,72,SecondHalf,Pass,Successful,34.5,40.4,34.7,20.6
+646,518031,Román Gómez,1221,Bahia,72,SecondHalf,Pass,Successful,35.4,24.6,31.2,37.6
+647,279581,David Duarte,1221,Bahia,72,SecondHalf,Pass,Unsuccessful,31.2,37.3,84.9,41
+481,399247,Hugo Souza,1237,Corinthians,72,SecondHalf,KeeperPickup,Successful,14.7,57.6,,
+482,399247,Hugo Souza,1237,Corinthians,72,SecondHalf,Pass,Successful,14.7,57.6,23.4,92.4
+483,519726,Pedro Milans,1237,Corinthians,72,SecondHalf,Pass,Successful,22.3,91.1,9.1,67
+484,399247,Hugo Souza,1237,Corinthians,72,SecondHalf,Pass,Unsuccessful,9.2,58.5,60.5,100
+649,518031,Román Gómez,1221,Bahia,72,SecondHalf,Pass,Successful,51.2,0,61.8,4
+650,570313,Kauê Furquim,1221,Bahia,72,SecondHalf,BallTouch,Unsuccessful,61.8,3.8,,
+487,83337,Zakaria Labyad,1237,Corinthians,73,SecondHalf,Pass,Unsuccessful,37.7,95.2,45.2,100
+652,518031,Román Gómez,1221,Bahia,73,SecondHalf,Pass,Successful,49.3,0,33.7,8.5
+653,279581,David Duarte,1221,Bahia,73,SecondHalf,Pass,Successful,36.2,43.7,36.4,72.4
+654,402198,Santiago Ramos Mingo,1221,Bahia,73,SecondHalf,Pass,Successful,35.8,73.8,45.1,94.4
+655,397517,Luciano Juba,1221,Bahia,73,SecondHalf,Dispossessed,Successful,44.6,95,,
+489,398130,Matheuzinho,1237,Corinthians,73,SecondHalf,Tackle,Unsuccessful,55.4,5.1,,
+656,397517,Luciano Juba,1221,Bahia,73,SecondHalf,Pass,Successful,43.8,94.2,31,81.4
+657,402198,Santiago Ramos Mingo,1221,Bahia,73,SecondHalf,Pass,Unsuccessful,31.2,80.2,77,64.3
+490,399247,Hugo Souza,1237,Corinthians,73,SecondHalf,KeeperSweeper,Successful,22.2,34.2,,
+491,399247,Hugo Souza,1237,Corinthians,73,SecondHalf,Clearance,Successful,22.2,34.2,66.7,70.6
+658,279581,David Duarte,1221,Bahia,73,SecondHalf,Clearance,Successful,37.7,30.4,42.5,0
+493,519726,Pedro Milans,1237,Corinthians,73,SecondHalf,Pass,Successful,59.7,100,60.2,87.7
+494,579136,André,1237,Corinthians,73,SecondHalf,BallTouch,Unsuccessful,60.2,87.9,,
+660,396067,Nicolás Acevedo,1221,Bahia,73,SecondHalf,BallTouch,Successful,44.2,10.7,,
+661,389163,Rodrigo Nestor,1221,Bahia,73,SecondHalf,BallTouch,Unsuccessful,44.3,10.3,,
+495,420319,Raniele,1237,Corinthians,73,SecondHalf,Pass,Unsuccessful,55.7,87,57,87.6
+662,389163,Rodrigo Nestor,1221,Bahia,73,SecondHalf,BlockedPass,Successful,43,12.4,,
+11667,549062,Erick Pulga,1221,Bahia,74,SecondHalf,OffsideGiven,Unsuccessful,80.6,31.6,,
+497,519726,Pedro Milans,1237,Corinthians,74,SecondHalf,Pass,Successful,54.7,100,59.3,87.4
+498,432685,Rodrigo Garro,1237,Corinthians,74,SecondHalf,Pass,Successful,59.2,87.3,67.6,88.5
+499,420319,Raniele,1237,Corinthians,74,SecondHalf,BallTouch,Unsuccessful,66.2,87.7,,
+664,396067,Nicolás Acevedo,1221,Bahia,74,SecondHalf,BallRecovery,Successful,40.2,10,,
+665,396067,Nicolás Acevedo,1221,Bahia,74,SecondHalf,BallTouch,Successful,40.8,11,,
+667,355659,Jean Lucas,1221,Bahia,74,SecondHalf,OffsidePass,Successful,65.7,39.4,80.6,31.6
+501,76810,Gabriel Paulista,1237,Corinthians,74,SecondHalf,OffsideProvoked,Successful,26.1,48.2,,
+502,399247,Hugo Souza,1237,Corinthians,75,SecondHalf,Pass,Successful,12.6,48.6,21.3,32
+503,76810,Gabriel Paulista,1237,Corinthians,75,SecondHalf,Pass,Successful,21.8,30.9,32.5,7.7
+504,398130,Matheuzinho,1237,Corinthians,75,SecondHalf,Pass,Successful,32.3,7.4,63.2,10.3
+505,432685,Rodrigo Garro,1237,Corinthians,75,SecondHalf,BallTouch,Successful,61.4,8.8,,
+674,355659,Jean Lucas,1221,Bahia,75,SecondHalf,Pass,Unsuccessful,41.8,91.5,43.3,92.3
+507,420319,Raniele,1237,Corinthians,75,SecondHalf,BlockedPass,Successful,56.7,7.7,,
+506,420319,Raniele,1237,Corinthians,75,SecondHalf,BallTouch,Unsuccessful,57.1,8.5,,
+675,389163,Rodrigo Nestor,1221,Bahia,75,SecondHalf,Pass,Successful,39.5,74.4,42.4,79.1
+676,402198,Santiago Ramos Mingo,1221,Bahia,75,SecondHalf,BallRecovery,Successful,42.5,79.3,,
+677,402198,Santiago Ramos Mingo,1221,Bahia,75,SecondHalf,Pass,Unsuccessful,42.5,79.3,39.8,87.7
+508,579136,André,1237,Corinthians,75,SecondHalf,Pass,Unsuccessful,54.7,22.3,63.4,20.3
+678,355659,Jean Lucas,1221,Bahia,75,SecondHalf,Pass,Successful,39.8,87.7,25.4,78.1
+679,397517,Luciano Juba,1221,Bahia,75,SecondHalf,Pass,Successful,24.5,66.4,27.5,18.6
+680,518031,Román Gómez,1221,Bahia,75,SecondHalf,Pass,Successful,29.2,16.7,44.6,6.4
+681,570313,Kauê Furquim,1221,Bahia,75,SecondHalf,TakeOn,Unsuccessful,44.3,7.2,,
+509,519726,Pedro Milans,1237,Corinthians,75,SecondHalf,Tackle,Successful,55.7,92.8,,
+511,579136,André,1237,Corinthians,76,SecondHalf,SubstitutionOff,Successful,0,0,,
+512,295838,Allan,1237,Corinthians,76,SecondHalf,SubstitutionOn,Successful,0,0,,
+513,420319,Raniele,1237,Corinthians,76,SecondHalf,SubstitutionOff,Successful,0,0,,
+514,279541,Matheus Pereira,1237,Corinthians,76,SecondHalf,SubstitutionOn,Successful,0,0,,
+684,355659,Jean Lucas,1221,Bahia,76,SecondHalf,SubstitutionOff,Successful,0,0,,
+685,101467,Éverton Ribeiro,1221,Bahia,76,SecondHalf,SubstitutionOn,Successful,0,0,,
+701,,,1221,Bahia,76,SecondHalf,FormationChange,Successful,0,0,,
+686,518031,Román Gómez,1221,Bahia,76,SecondHalf,Pass,Unsuccessful,51.6,0,75.4,22.2
+515,114595,Gustavo Henrique,1237,Corinthians,76,SecondHalf,BallRecovery,Successful,23.2,66.5,,
+516,114595,Gustavo Henrique,1237,Corinthians,76,SecondHalf,Pass,Successful,22.3,62.4,13,42.7
+517,399247,Hugo Souza,1237,Corinthians,76,SecondHalf,Pass,Unsuccessful,13,42.7,63,21
+687,397517,Luciano Juba,1221,Bahia,76,SecondHalf,Pass,Unsuccessful,41.3,77.8,58,75.6
+518,398130,Matheuzinho,1237,Corinthians,76,SecondHalf,Pass,Unsuccessful,41.9,22.3,62.9,26.2
+688,402198,Santiago Ramos Mingo,1221,Bahia,76,SecondHalf,Pass,Unsuccessful,42.8,74.7,62.8,71.8
+519,76810,Gabriel Paulista,1237,Corinthians,76,SecondHalf,Pass,Successful,37.8,33,47.5,47.7
+520,83337,Zakaria Labyad,1237,Corinthians,76,SecondHalf,BallRecovery,Successful,47.2,48.3,,
+521,83337,Zakaria Labyad,1237,Corinthians,76,SecondHalf,Pass,Successful,47.1,48.8,34.1,58.3
+522,114595,Gustavo Henrique,1237,Corinthians,76,SecondHalf,Pass,Successful,34.1,58.3,38.3,50.6
+523,295838,Allan,1237,Corinthians,76,SecondHalf,Pass,Successful,35.6,60.2,35.9,76.7
+524,279541,Matheus Pereira,1237,Corinthians,76,SecondHalf,Pass,Successful,35.9,76.7,27.8,80.6
+525,295838,Allan,1237,Corinthians,77,SecondHalf,Pass,Unsuccessful,31.2,81.5,75.3,67.7
+690,330555,Ronaldo,1221,Bahia,77,SecondHalf,KeeperSweeper,Successful,22.7,41.5,,
+691,330555,Ronaldo,1221,Bahia,77,SecondHalf,BallRecovery,Successful,24.1,39.4,,
+692,330555,Ronaldo,1221,Bahia,77,SecondHalf,Pass,Successful,24.3,39.2,31.3,21
+693,518031,Román Gómez,1221,Bahia,77,SecondHalf,Pass,Successful,31.3,21,29.9,45.2
+694,279581,David Duarte,1221,Bahia,77,SecondHalf,Pass,Successful,30.4,41,31.8,21.3
+695,518031,Román Gómez,1221,Bahia,77,SecondHalf,Pass,Successful,35,12.5,30.5,30.4
+696,279581,David Duarte,1221,Bahia,77,SecondHalf,Pass,Successful,31.4,46.3,36.4,72.3
+697,402198,Santiago Ramos Mingo,1221,Bahia,77,SecondHalf,Pass,Successful,36.4,72.3,48.5,97.1
+698,397517,Luciano Juba,1221,Bahia,77,SecondHalf,Pass,Unsuccessful,48.5,97.1,49,96.6
+526,398130,Matheuzinho,1237,Corinthians,77,SecondHalf,BlockedPass,Successful,51,3.4,,
+699,389163,Rodrigo Nestor,1221,Bahia,77,SecondHalf,Pass,Unsuccessful,44.6,95.9,53.1,91.1
+527,279541,Matheus Pereira,1237,Corinthians,77,SecondHalf,Pass,Successful,45.5,10.7,57.4,19.1
+700,549062,Erick Pulga,1221,Bahia,77,SecondHalf,Challenge,Unsuccessful,47.5,78.6,,
+528,432685,Rodrigo Garro,1237,Corinthians,77,SecondHalf,TakeOn,Successful,52.5,21.4,,
+529,432685,Rodrigo Garro,1237,Corinthians,77,SecondHalf,BallRecovery,Successful,49.6,21.5,,
+530,432685,Rodrigo Garro,1237,Corinthians,77,SecondHalf,Pass,Successful,45.9,23.8,48.1,9.5
+531,279541,Matheus Pereira,1237,Corinthians,77,SecondHalf,Pass,Successful,48.3,9.5,62.1,4.2
+532,398130,Matheuzinho,1237,Corinthians,77,SecondHalf,Pass,Successful,62.6,4.4,59.3,13.3
+533,432685,Rodrigo Garro,1237,Corinthians,77,SecondHalf,Pass,Unsuccessful,58.5,10.7,61.4,7.7
+702,389163,Rodrigo Nestor,1221,Bahia,77,SecondHalf,BlockedPass,Successful,38.6,92.3,,
+703,549062,Erick Pulga,1221,Bahia,77,SecondHalf,BallRecovery,Successful,44.9,91.7,,
+534,279541,Matheus Pereira,1237,Corinthians,77,SecondHalf,Challenge,Unsuccessful,52.4,11.8,,
+704,549062,Erick Pulga,1221,Bahia,77,SecondHalf,TakeOn,Successful,47.6,88.2,,
+705,549062,Erick Pulga,1221,Bahia,77,SecondHalf,Pass,Successful,63.8,70.3,66.2,50.4
+706,101467,Éverton Ribeiro,1221,Bahia,77,SecondHalf,Pass,Successful,66,48.5,79.3,24.9
+707,570313,Kauê Furquim,1221,Bahia,77,SecondHalf,Pass,Unsuccessful,87,27.6,87.6,29.1
+535,519726,Pedro Milans,1237,Corinthians,77,SecondHalf,BlockedPass,Successful,12.4,70.9,,
+708,570313,Kauê Furquim,1221,Bahia,77,SecondHalf,Pass,Successful,94.8,5.6,82.2,6.5
+709,518031,Román Gómez,1221,Bahia,78,SecondHalf,Pass,Successful,81.1,6.4,66.8,21.6
+710,279581,David Duarte,1221,Bahia,78,SecondHalf,Pass,Successful,66.7,28.9,65.4,59.4
+711,402198,Santiago Ramos Mingo,1221,Bahia,78,SecondHalf,Pass,Successful,65.9,60.5,64.6,42.1
+712,279581,David Duarte,1221,Bahia,78,SecondHalf,Pass,Unsuccessful,63.6,37.7,75.1,28
+536,83337,Zakaria Labyad,1237,Corinthians,78,SecondHalf,BallTouch,Successful,25.6,74.4,,
+713,101467,Éverton Ribeiro,1221,Bahia,78,SecondHalf,TakeOn,Unsuccessful,75.5,27,,
+537,295838,Allan,1237,Corinthians,78,SecondHalf,Tackle,Successful,24.5,73,,
+538,519726,Pedro Milans,1237,Corinthians,78,SecondHalf,BallRecovery,Successful,11.5,77,,
+539,519726,Pedro Milans,1237,Corinthians,78,SecondHalf,Pass,Successful,11.5,77,7.5,68
+540,399247,Hugo Souza,1237,Corinthians,78,SecondHalf,Pass,Unsuccessful,5.6,65.3,58.8,51.4
+714,402198,Santiago Ramos Mingo,1221,Bahia,78,SecondHalf,Pass,Unsuccessful,44.5,41,54,52.5
+541,449872,Kaio César,1237,Corinthians,78,SecondHalf,Pass,Successful,45.6,43.6,55.7,48.6
+543,432685,Rodrigo Garro,1237,Corinthians,78,SecondHalf,Foul,Successful,53,56.8,,
+715,402198,Santiago Ramos Mingo,1221,Bahia,78,SecondHalf,Foul,Unsuccessful,47,43.2,,
+544,279541,Matheus Pereira,1237,Corinthians,79,SecondHalf,Pass,Successful,54.4,53.6,58.2,16.6
+545,398130,Matheuzinho,1237,Corinthians,79,SecondHalf,Pass,Successful,58,15.3,69.6,5.3
+546,449872,Kaio César,1237,Corinthians,79,SecondHalf,Pass,Successful,64.1,6.2,46.8,21.3
+547,76810,Gabriel Paulista,1237,Corinthians,79,SecondHalf,Pass,Successful,45.9,21,53.5,17.9
+548,295838,Allan,1237,Corinthians,79,SecondHalf,Pass,Successful,53.8,18.2,59.8,8.3
+717,389163,Rodrigo Nestor,1221,Bahia,79,SecondHalf,Challenge,Unsuccessful,40.4,88.6,,
+549,449872,Kaio César,1237,Corinthians,79,SecondHalf,TakeOn,Successful,59.6,11.4,,
+550,449872,Kaio César,1237,Corinthians,79,SecondHalf,BallTouch,Unsuccessful,60.4,16.8,,
+719,549062,Erick Pulga,1221,Bahia,79,SecondHalf,BallTouch,Successful,38.1,73,,
+720,101467,Éverton Ribeiro,1221,Bahia,79,SecondHalf,TakeOn,Unsuccessful,36,75,,
+551,279541,Matheus Pereira,1237,Corinthians,79,SecondHalf,Tackle,Unsuccessful,64,24.9,,
+721,101467,Éverton Ribeiro,1221,Bahia,79,SecondHalf,BallTouch,Successful,36.3,73.3,,
+552,279541,Matheus Pereira,1237,Corinthians,79,SecondHalf,Pass,Successful,74.1,58.8,86.7,54.1
+553,348261,Yuri Alberto,1237,Corinthians,80,SecondHalf,SavedShot,Successful,84.3,56.4,,
+722,518031,Román Gómez,1221,Bahia,80,SecondHalf,Save,Successful,9.6,44.8,,
+723,330555,Ronaldo,1221,Bahia,80,SecondHalf,KeeperPickup,Successful,3.9,53,,
+725,330555,Ronaldo,1221,Bahia,80,SecondHalf,Pass,Successful,7.4,52.5,13.1,73
+726,402198,Santiago Ramos Mingo,1221,Bahia,80,SecondHalf,Pass,Successful,13.5,71.2,4.5,57.9
+727,330555,Ronaldo,1221,Bahia,80,SecondHalf,Pass,Successful,12.8,53.4,15.6,74.4
+728,402198,Santiago Ramos Mingo,1221,Bahia,80,SecondHalf,Pass,Successful,15.6,74.4,9,58.5
+729,330555,Ronaldo,1221,Bahia,80,SecondHalf,Pass,Successful,9,58.7,17.7,56
+730,396067,Nicolás Acevedo,1221,Bahia,80,SecondHalf,Pass,Successful,17.7,56,16.4,8
+731,279581,David Duarte,1221,Bahia,80,SecondHalf,Pass,Successful,24.3,8.6,31,27.9
+732,101467,Éverton Ribeiro,1221,Bahia,80,SecondHalf,Pass,Successful,33.8,35.7,38,72.6
+733,402198,Santiago Ramos Mingo,1221,Bahia,80,SecondHalf,Pass,Successful,39.6,74.1,62.9,95.9
+734,397517,Luciano Juba,1221,Bahia,80,SecondHalf,Pass,Successful,62.9,95.9,61.9,87.8
+735,389163,Rodrigo Nestor,1221,Bahia,80,SecondHalf,Pass,Successful,62.2,87.8,81.3,91.2
+736,397517,Luciano Juba,1221,Bahia,80,SecondHalf,Pass,Successful,81.3,91.1,80,72.3
+737,77636,Willian José,1221,Bahia,80,SecondHalf,Pass,Successful,78.7,70.9,72.9,52.1
+738,101467,Éverton Ribeiro,1221,Bahia,80,SecondHalf,SavedShot,Successful,72.9,52.1,,
+554,114595,Gustavo Henrique,1237,Corinthians,80,SecondHalf,Save,Successful,15.6,48.6,,
+555,83337,Zakaria Labyad,1237,Corinthians,81,SecondHalf,Pass,Unsuccessful,32,20.4,38,8.9
+739,389163,Rodrigo Nestor,1221,Bahia,81,SecondHalf,Foul,Successful,61.3,91,,
+556,449872,Kaio César,1237,Corinthians,81,SecondHalf,Foul,Unsuccessful,38.8,9.1,,
+740,396067,Nicolás Acevedo,1221,Bahia,81,SecondHalf,Pass,Successful,65.8,85,68.4,75.1
+741,101467,Éverton Ribeiro,1221,Bahia,81,SecondHalf,Pass,Successful,67.8,79,78.1,95.9
+742,397517,Luciano Juba,1221,Bahia,81,SecondHalf,Pass,Successful,78.3,96,64.8,86.6
+743,396067,Nicolás Acevedo,1221,Bahia,81,SecondHalf,Pass,Successful,63.8,85.4,59,75.1
+744,402198,Santiago Ramos Mingo,1221,Bahia,81,SecondHalf,Pass,Successful,59,75.1,63.5,90.3
+745,101467,Éverton Ribeiro,1221,Bahia,81,SecondHalf,Pass,Successful,69.6,89.9,89.8,86.3
+746,549062,Erick Pulga,1221,Bahia,81,SecondHalf,Pass,Unsuccessful,91.7,90.3,91.8,48.5
+557,114595,Gustavo Henrique,1237,Corinthians,81,SecondHalf,Clearance,Successful,12.5,57.4,28.7,90.8
+747,518031,Román Gómez,1221,Bahia,81,SecondHalf,Pass,Successful,77.8,6.8,88.6,8.2
+748,570313,Kauê Furquim,1221,Bahia,81,SecondHalf,Pass,Successful,88.2,8,78.7,6.4
+749,518031,Román Gómez,1221,Bahia,81,SecondHalf,Pass,Successful,78.2,6.2,72.6,21
+750,396067,Nicolás Acevedo,1221,Bahia,81,SecondHalf,Pass,Successful,71.2,22.1,68.8,34.2
+751,101467,Éverton Ribeiro,1221,Bahia,81,SecondHalf,Pass,Successful,73.2,28.2,85.4,8.2
+752,570313,Kauê Furquim,1221,Bahia,81,SecondHalf,Pass,Successful,90.7,13.1,83.6,16.5
+753,396067,Nicolás Acevedo,1221,Bahia,81,SecondHalf,Pass,Unsuccessful,83.6,16.5,100,33.6
+559,399247,Hugo Souza,1237,Corinthians,82,SecondHalf,Pass,Successful,5,50.2,10.8,75
+560,114595,Gustavo Henrique,1237,Corinthians,82,SecondHalf,Pass,Successful,10.8,75,20.1,92.3
+561,519726,Pedro Milans,1237,Corinthians,82,SecondHalf,Pass,Successful,20.1,92.3,20.2,85.9
+562,83337,Zakaria Labyad,1237,Corinthians,82,SecondHalf,Pass,Unsuccessful,19.8,91.5,25.5,100
+756,518031,Román Gómez,1221,Bahia,82,SecondHalf,Pass,Successful,74.4,0,60,7.6
+757,279581,David Duarte,1221,Bahia,82,SecondHalf,Pass,Successful,59.3,8.5,55.2,44.9
+758,402198,Santiago Ramos Mingo,1221,Bahia,82,SecondHalf,Pass,Successful,55.2,44.9,56.4,23.4
+759,279581,David Duarte,1221,Bahia,82,SecondHalf,Pass,Unsuccessful,61.4,15.9,74.7,19.2
+564,279541,Matheus Pereira,1237,Corinthians,82,SecondHalf,BallRecovery,Successful,37.8,90.2,,
+760,402198,Santiago Ramos Mingo,1221,Bahia,82,SecondHalf,BallRecovery,Successful,34.4,20,,
+565,279541,Matheus Pereira,1237,Corinthians,82,SecondHalf,Pass,Unsuccessful,37.8,90.2,67.9,81.4
+761,402198,Santiago Ramos Mingo,1221,Bahia,82,SecondHalf,Pass,Successful,32.4,23.4,15.1,40.7
+762,330555,Ronaldo,1221,Bahia,82,SecondHalf,Pass,Successful,15.1,40,27.8,46.9
+568,348261,Yuri Alberto,1237,Corinthians,84,SecondHalf,SubstitutionOff,Successful,0,0,,
+569,97635,André Carrillo,1237,Corinthians,84,SecondHalf,SubstitutionOn,Successful,0,0,,
+766,330555,Ronaldo,1221,Bahia,84,SecondHalf,Pass,Successful,22.5,42.1,34.2,49.1
+768,396067,Nicolás Acevedo,1221,Bahia,84,SecondHalf,Pass,Successful,38,40.7,37.8,24.4
+769,518031,Román Gómez,1221,Bahia,84,SecondHalf,Pass,Successful,37.8,24.4,30.5,47.9
+770,279581,David Duarte,1221,Bahia,84,SecondHalf,Pass,Successful,29.2,47.8,11,42.5
+771,330555,Ronaldo,1221,Bahia,84,SecondHalf,Pass,Unsuccessful,10.9,42.5,56,27.7
+570,114595,Gustavo Henrique,1237,Corinthians,84,SecondHalf,Aerial,Successful,44,72.3,,
+772,77636,Willian José,1221,Bahia,84,SecondHalf,Aerial,Unsuccessful,56,27.7,,
+571,114595,Gustavo Henrique,1237,Corinthians,84,SecondHalf,Pass,Unsuccessful,44,72.3,55.1,76.1
+773,101467,Éverton Ribeiro,1221,Bahia,84,SecondHalf,Pass,Unsuccessful,48.7,25.8,68.3,0
+775,549062,Erick Pulga,1221,Bahia,85,SecondHalf,SubstitutionOff,Successful,0,0,,
+776,432462,Mateo Sanabria,1221,Bahia,85,SecondHalf,SubstitutionOn,Successful,0,0,,
+573,519726,Pedro Milans,1237,Corinthians,85,SecondHalf,Pass,Successful,35.6,100,38,91.2
+574,295838,Allan,1237,Corinthians,85,SecondHalf,Pass,Successful,38.2,90.8,33.4,96.4
+575,519726,Pedro Milans,1237,Corinthians,85,SecondHalf,Foul,Successful,36.2,95.4,,
+777,101467,Éverton Ribeiro,1221,Bahia,85,SecondHalf,Foul,Unsuccessful,63.8,4.6,,
+576,295838,Allan,1237,Corinthians,85,SecondHalf,Pass,Successful,35.6,88.7,33,96.1
+577,279541,Matheus Pereira,1237,Corinthians,85,SecondHalf,Pass,Unsuccessful,34.5,96.1,78.8,90.5
+778,279581,David Duarte,1221,Bahia,85,SecondHalf,Clearance,Successful,19.7,9.8,19.3,0
+579,519726,Pedro Milans,1237,Corinthians,85,SecondHalf,Pass,Successful,77.6,100,78.2,91.8
+580,432685,Rodrigo Garro,1237,Corinthians,85,SecondHalf,Pass,Successful,78.2,91.8,75.6,86.7
+581,519726,Pedro Milans,1237,Corinthians,85,SecondHalf,Pass,Unsuccessful,76.3,87.1,69.7,77.6
+784,101467,Éverton Ribeiro,1221,Bahia,85,SecondHalf,Pass,Unsuccessful,23.5,30.1,32.3,50.7
+582,398130,Matheuzinho,1237,Corinthians,86,SecondHalf,Pass,Successful,64.7,43.3,68.1,55.8
+583,279541,Matheus Pereira,1237,Corinthians,86,SecondHalf,Pass,Successful,67.9,56.2,51.5,46.8
+584,76810,Gabriel Paulista,1237,Corinthians,86,SecondHalf,Pass,Successful,51.7,45.6,55.3,22
+585,398130,Matheuzinho,1237,Corinthians,86,SecondHalf,Pass,Successful,55.3,21.3,65.1,6.9
+586,97635,André Carrillo,1237,Corinthians,86,SecondHalf,Pass,Successful,65.1,6.9,56.6,13.3
+587,398130,Matheuzinho,1237,Corinthians,86,SecondHalf,Pass,Successful,56.6,13.5,61.7,18.3
+588,279541,Matheus Pereira,1237,Corinthians,86,SecondHalf,Pass,Successful,61.7,18.3,56.6,8.5
+589,398130,Matheuzinho,1237,Corinthians,86,SecondHalf,Pass,Successful,56.4,8.6,41.9,21.8
+590,76810,Gabriel Paulista,1237,Corinthians,86,SecondHalf,Pass,Successful,41.4,23.9,34.3,39.4
+591,295838,Allan,1237,Corinthians,86,SecondHalf,Pass,Successful,34.3,39.4,37.4,23.9
+592,76810,Gabriel Paulista,1237,Corinthians,86,SecondHalf,Pass,Successful,37.4,23.9,42.5,5.3
+593,398130,Matheuzinho,1237,Corinthians,86,SecondHalf,Pass,Successful,48.1,11,94,26.5
+594,83337,Zakaria Labyad,1237,Corinthians,86,SecondHalf,BallTouch,Unsuccessful,95.9,27.1,,
+785,330555,Ronaldo,1221,Bahia,87,SecondHalf,Pass,Successful,3,44.8,2,18.6
+786,279581,David Duarte,1221,Bahia,87,SecondHalf,Pass,Unsuccessful,11.6,13.4,55.4,45.8
+596,76810,Gabriel Paulista,1237,Corinthians,87,SecondHalf,Pass,Successful,52.2,48.2,63.9,61.5
+597,279541,Matheus Pereira,1237,Corinthians,87,SecondHalf,BallRecovery,Successful,62,60.8,,
+598,279541,Matheus Pereira,1237,Corinthians,87,SecondHalf,Pass,Successful,62,60.8,70.9,59.4
+599,432685,Rodrigo Garro,1237,Corinthians,87,SecondHalf,Pass,Successful,64.4,48.6,47.4,27.7
+600,398130,Matheuzinho,1237,Corinthians,87,SecondHalf,Pass,Successful,47.5,28.9,43.7,55.6
+601,295838,Allan,1237,Corinthians,87,SecondHalf,Pass,Successful,38.6,28.5,33.2,43
+602,76810,Gabriel Paulista,1237,Corinthians,87,SecondHalf,Pass,Successful,34.1,43.8,46.1,52.9
+603,83337,Zakaria Labyad,1237,Corinthians,87,SecondHalf,Pass,Unsuccessful,50.2,50.8,72.7,42.6
+827,330555,Ronaldo,1221,Bahia,87,SecondHalf,KeeperSweeper,Successful,23.1,49.1,,
+787,402198,Santiago Ramos Mingo,1221,Bahia,87,SecondHalf,Clearance,Successful,24.3,49.3,21.4,89.6
+604,97635,André Carrillo,1237,Corinthians,87,SecondHalf,MissedShots,Successful,81.3,11.5,,
+789,330555,Ronaldo,1221,Bahia,87,SecondHalf,Pass,Successful,5.2,46.9,14.2,57.6
+790,402198,Santiago Ramos Mingo,1221,Bahia,87,SecondHalf,Pass,Successful,14.2,57.6,15,35.2
+791,279581,David Duarte,1221,Bahia,88,SecondHalf,Pass,Successful,21.8,33.6,30.5,10
+792,518031,Román Gómez,1221,Bahia,88,SecondHalf,Pass,Successful,30.6,9.8,43,7.4
+793,570313,Kauê Furquim,1221,Bahia,88,SecondHalf,Foul,Successful,40.8,8.1,,
+606,519726,Pedro Milans,1237,Corinthians,88,SecondHalf,Foul,Unsuccessful,59.2,91.9,,
+612,478286,Kauê Camargo,1237,Corinthians,88,SecondHalf,Card,Successful,0,0,,
+794,518031,Román Gómez,1221,Bahia,88,SecondHalf,Pass,Successful,43.4,13.8,31.5,24.4
+795,279581,David Duarte,1221,Bahia,88,SecondHalf,Pass,Successful,31.5,24.4,30.5,47.5
+796,396067,Nicolás Acevedo,1221,Bahia,88,SecondHalf,Pass,Successful,35.1,49.4,33.9,65.1
+797,402198,Santiago Ramos Mingo,1221,Bahia,88,SecondHalf,Pass,Successful,33.9,65.1,32.1,44.9
+798,279581,David Duarte,1221,Bahia,88,SecondHalf,Pass,Successful,38.8,30.6,63.1,32.5
+799,77636,Willian José,1221,Bahia,88,SecondHalf,Pass,Successful,62.4,27.4,65.1,5.3
+800,570313,Kauê Furquim,1221,Bahia,88,SecondHalf,Foul,Successful,59.8,3.8,,
+608,519726,Pedro Milans,1237,Corinthians,88,SecondHalf,Foul,Unsuccessful,40.2,96.2,,
+801,518031,Román Gómez,1221,Bahia,88,SecondHalf,Pass,Successful,61.2,9.2,45.7,23.4
+802,279581,David Duarte,1221,Bahia,89,SecondHalf,Pass,Successful,50.9,18.3,56,6.8
+803,518031,Román Gómez,1221,Bahia,89,SecondHalf,Pass,Successful,55.1,8,48.4,16.7
+804,279581,David Duarte,1221,Bahia,89,SecondHalf,Pass,Successful,46.2,11.6,55.3,4.9
+805,570313,Kauê Furquim,1221,Bahia,89,SecondHalf,Pass,Unsuccessful,55.3,4.7,56,5.3
+610,519726,Pedro Milans,1237,Corinthians,89,SecondHalf,BlockedPass,Successful,44,94.7,,
+807,518031,Román Gómez,1221,Bahia,89,SecondHalf,Pass,Successful,54,0,42.1,8.6
+808,279581,David Duarte,1221,Bahia,89,SecondHalf,Pass,Successful,42.1,16.5,23.9,46
+809,330555,Ronaldo,1221,Bahia,89,SecondHalf,Pass,Successful,24.5,46.7,29.8,26.5
+810,279581,David Duarte,1221,Bahia,89,SecondHalf,Pass,Successful,29.5,29.1,19,48.5
+811,330555,Ronaldo,1221,Bahia,89,SecondHalf,Pass,Successful,21.3,48.2,26.8,25.6
+812,279581,David Duarte,1221,Bahia,89,SecondHalf,Pass,Unsuccessful,27,21.5,75,33.4
+613,114595,Gustavo Henrique,1237,Corinthians,89,SecondHalf,Pass,Successful,26.7,74.1,29.6,88.4
+614,519726,Pedro Milans,1237,Corinthians,89,SecondHalf,BallRecovery,Successful,30.8,89,,
+615,519726,Pedro Milans,1237,Corinthians,89,SecondHalf,Pass,Successful,32,89.1,59.2,94.4
+616,449872,Kaio César,1237,Corinthians,89,SecondHalf,Pass,Unsuccessful,60.6,94.4,70,88.8
+813,402198,Santiago Ramos Mingo,1221,Bahia,89,SecondHalf,Clearance,Successful,27.7,8.9,27.1,0
+618,279541,Matheus Pereira,1237,Corinthians,89,SecondHalf,Pass,Successful,71.3,100,69.6,88.5
+619,449872,Kaio César,1237,Corinthians,89,SecondHalf,Dispossessed,Successful,71.6,88.6,,
+815,101467,Éverton Ribeiro,1221,Bahia,89,SecondHalf,Tackle,Successful,28.4,11.4,,
+816,279581,David Duarte,1221,Bahia,89,SecondHalf,BallRecovery,Successful,23.5,15,,
+817,279581,David Duarte,1221,Bahia,89,SecondHalf,Pass,Successful,23.5,15,26.4,29.8
+818,396067,Nicolás Acevedo,1221,Bahia,89,SecondHalf,Pass,Successful,26.4,29.8,34.2,35.7
+11632,519726,Pedro Milans,1237,Corinthians,90,SecondHalf,OffsideGiven,Unsuccessful,93.5,79.9,,
+819,389163,Rodrigo Nestor,1221,Bahia,90,SecondHalf,TakeOn,Unsuccessful,35.7,33.2,,
+620,97635,André Carrillo,1237,Corinthians,90,SecondHalf,Tackle,Unsuccessful,64.3,66.8,,
+820,389163,Rodrigo Nestor,1221,Bahia,90,SecondHalf,BallTouch,Successful,34.8,35.7,,
+621,114595,Gustavo Henrique,1237,Corinthians,90,SecondHalf,BallRecovery,Successful,42.2,69.9,,
+622,114595,Gustavo Henrique,1237,Corinthians,90,SecondHalf,Pass,Successful,42.2,69.9,62.2,72.9
+623,432685,Rodrigo Garro,1237,Corinthians,90,SecondHalf,Pass,Successful,62.2,72.9,54.8,70.3
+624,83337,Zakaria Labyad,1237,Corinthians,90,SecondHalf,Pass,Successful,54.8,70.3,55,52.6
+625,97635,André Carrillo,1237,Corinthians,90,SecondHalf,Pass,Successful,60.6,31.4,72,12.7
+626,398130,Matheuzinho,1237,Corinthians,90,SecondHalf,Pass,Unsuccessful,72,12.7,77.6,13.3
+822,397517,Luciano Juba,1221,Bahia,90,SecondHalf,BlockedPass,Successful,22.4,86.7,,
+628,398130,Matheuzinho,1237,Corinthians,90,SecondHalf,Pass,Successful,82,0,82.2,9.4
+629,97635,André Carrillo,1237,Corinthians,90,SecondHalf,Pass,Unsuccessful,82.1,9.4,76.1,7.7
+630,398130,Matheuzinho,1237,Corinthians,90,SecondHalf,Pass,Successful,80,2.9,67.2,6.6
+631,295838,Allan,1237,Corinthians,90,SecondHalf,Pass,Successful,66.1,24.2,75.2,47.9
+632,432685,Rodrigo Garro,1237,Corinthians,90,SecondHalf,OffsidePass,Successful,74.6,62,93.5,79.9
+826,518031,Román Gómez,1221,Bahia,90,SecondHalf,OffsideProvoked,Successful,16,32.1,,
+828,330555,Ronaldo,1221,Bahia,90,SecondHalf,Pass,Successful,12.4,45.8,14.3,33.3
+829,279581,David Duarte,1221,Bahia,90,SecondHalf,Pass,Successful,15.4,37.4,25.5,65.7
+830,396067,Nicolás Acevedo,1221,Bahia,91,SecondHalf,Pass,Successful,33,64,29.8,35.7
+831,279581,David Duarte,1221,Bahia,91,SecondHalf,Pass,Successful,28.4,36.6,31.1,11.1
+832,518031,Román Gómez,1221,Bahia,91,SecondHalf,Pass,Successful,32.2,12.3,37.5,28.6
+833,396067,Nicolás Acevedo,1221,Bahia,91,SecondHalf,Pass,Unsuccessful,37.5,28.6,59.1,14.7
+635,519726,Pedro Milans,1237,Corinthians,91,SecondHalf,Aerial,Successful,40.9,85.3,,
+834,570313,Kauê Furquim,1221,Bahia,91,SecondHalf,Aerial,Unsuccessful,59.1,14.7,,
+636,519726,Pedro Milans,1237,Corinthians,91,SecondHalf,Pass,Successful,40.9,85.3,63.4,76.8
+637,295838,Allan,1237,Corinthians,91,SecondHalf,Aerial,Successful,63.4,76.8,,
+835,396067,Nicolás Acevedo,1221,Bahia,91,SecondHalf,Aerial,Unsuccessful,36.6,23.2,,
+638,295838,Allan,1237,Corinthians,91,SecondHalf,Pass,Unsuccessful,63.4,76.8,69.9,80.9
+864,279581,David Duarte,1221,Bahia,91,SecondHalf,Pass,Successful,30.8,19.1,33.2,9.7
+836,518031,Román Gómez,1221,Bahia,91,SecondHalf,Pass,Successful,34.8,8.2,53.4,8.2
+837,570313,Kauê Furquim,1221,Bahia,91,SecondHalf,Foul,Successful,41.4,7.6,,
+640,279541,Matheus Pereira,1237,Corinthians,91,SecondHalf,Foul,Unsuccessful,58.6,92.4,,
+839,518031,Román Gómez,1221,Bahia,91,SecondHalf,Pass,Successful,41.2,5.2,43,19.5
+840,396067,Nicolás Acevedo,1221,Bahia,91,SecondHalf,Pass,Successful,43.1,19.7,34.6,27.9
+841,279581,David Duarte,1221,Bahia,91,SecondHalf,Pass,Successful,34.6,27.9,32.5,67.2
+842,402198,Santiago Ramos Mingo,1221,Bahia,91,SecondHalf,Pass,Successful,32.6,70.5,45.4,96.2
+843,432462,Mateo Sanabria,1221,Bahia,91,SecondHalf,TakeOn,Unsuccessful,52,95.6,,
+641,97635,André Carrillo,1237,Corinthians,91,SecondHalf,Tackle,Unsuccessful,48,4.5,,
+844,432462,Mateo Sanabria,1221,Bahia,91,SecondHalf,BallTouch,Successful,51.2,96.6,,
+642,295838,Allan,1237,Corinthians,91,SecondHalf,BallRecovery,Successful,66.3,5.7,,
+643,295838,Allan,1237,Corinthians,91,SecondHalf,Dispossessed,Successful,65.8,5.5,,
+845,432462,Mateo Sanabria,1221,Bahia,91,SecondHalf,Tackle,Successful,34.2,94.5,,
+846,432462,Mateo Sanabria,1221,Bahia,92,SecondHalf,BallRecovery,Successful,34.1,94.4,,
+847,432462,Mateo Sanabria,1221,Bahia,92,SecondHalf,Foul,Successful,31.9,94.6,,
+644,295838,Allan,1237,Corinthians,92,SecondHalf,Foul,Unsuccessful,68.2,5.4,,
+848,402198,Santiago Ramos Mingo,1221,Bahia,92,SecondHalf,Pass,Successful,32.3,88.3,22.1,55.8
+849,279581,David Duarte,1221,Bahia,92,SecondHalf,Pass,Successful,25.5,48.5,30.3,21.3
+850,518031,Román Gómez,1221,Bahia,92,SecondHalf,Pass,Successful,30.8,20.6,42.1,6.4
+851,570313,Kauê Furquim,1221,Bahia,92,SecondHalf,Pass,Successful,38.5,17.3,25.2,59.9
+852,279581,David Duarte,1221,Bahia,92,SecondHalf,Pass,Successful,27.2,68.8,34.4,80.6
+853,402198,Santiago Ramos Mingo,1221,Bahia,92,SecondHalf,Pass,Successful,37.4,83.2,56.7,78.4
+854,432462,Mateo Sanabria,1221,Bahia,92,SecondHalf,Dispossessed,Successful,56,78.2,,
+645,97635,André Carrillo,1237,Corinthians,92,SecondHalf,Tackle,Successful,44,21.8,,
+646,398130,Matheuzinho,1237,Corinthians,92,SecondHalf,BallRecovery,Successful,38.7,28.5,,
+647,398130,Matheuzinho,1237,Corinthians,92,SecondHalf,Pass,Successful,38.7,28.5,53.5,23.9
+648,97635,André Carrillo,1237,Corinthians,92,SecondHalf,Pass,Successful,53.5,23.9,44.3,35.4
+649,279541,Matheus Pereira,1237,Corinthians,92,SecondHalf,Pass,Successful,44.3,35.6,59,27.1
+650,432685,Rodrigo Garro,1237,Corinthians,92,SecondHalf,TakeOn,Successful,57.8,19.2,,
+855,397517,Luciano Juba,1221,Bahia,92,SecondHalf,Challenge,Unsuccessful,42.2,80.8,,
+651,432685,Rodrigo Garro,1237,Corinthians,92,SecondHalf,Pass,Successful,58.6,17.4,67.1,6.2
+652,97635,André Carrillo,1237,Corinthians,92,SecondHalf,Pass,Unsuccessful,70.8,21.7,72.5,26.5
+856,396067,Nicolás Acevedo,1221,Bahia,92,SecondHalf,BallTouch,Successful,25.4,75.3,,
+653,432685,Rodrigo Garro,1237,Corinthians,92,SecondHalf,Pass,Successful,81.6,30.3,93.6,14.5
+654,97635,André Carrillo,1237,Corinthians,92,SecondHalf,Pass,Unsuccessful,93.6,14.5,88.2,26.8
+857,389163,Rodrigo Nestor,1221,Bahia,92,SecondHalf,Pass,Successful,8.4,68.2,19.7,89.4
+858,432462,Mateo Sanabria,1221,Bahia,92,SecondHalf,BallRecovery,Successful,19.9,89.4,,
+655,398130,Matheuzinho,1237,Corinthians,92,SecondHalf,Challenge,Unsuccessful,54,6.4,,
+859,432462,Mateo Sanabria,1221,Bahia,92,SecondHalf,TakeOn,Successful,46,93.6,,
+860,432462,Mateo Sanabria,1221,Bahia,93,SecondHalf,BallTouch,Unsuccessful,77.6,92.6,,
+656,76810,Gabriel Paulista,1237,Corinthians,93,SecondHalf,BallRecovery,Successful,25.2,13.6,,
+657,76810,Gabriel Paulista,1237,Corinthians,93,SecondHalf,Pass,Successful,25.2,13.6,34.1,10.4
+658,398130,Matheuzinho,1237,Corinthians,93,SecondHalf,Pass,Successful,63.5,24.2,70.8,3.9
+659,97635,André Carrillo,1237,Corinthians,93,SecondHalf,Pass,Successful,76.4,12.7,88.2,12.6
+660,449872,Kaio César,1237,Corinthians,93,SecondHalf,Pass,Successful,88.5,13,76.6,18.2
+661,97635,André Carrillo,1237,Corinthians,93,SecondHalf,Pass,Unsuccessful,76.6,18.2,89.8,31.2
+861,402198,Santiago Ramos Mingo,1221,Bahia,93,SecondHalf,Clearance,Successful,13.6,66.4,37,76.4
+662,398130,Matheuzinho,1237,Corinthians,93,SecondHalf,Pass,Successful,67.4,29.7,62.2,57
+663,114595,Gustavo Henrique,1237,Corinthians,93,SecondHalf,Pass,Successful,62.2,57,62,39.4
+664,295838,Allan,1237,Corinthians,93,SecondHalf,Pass,Successful,61.6,40.8,59.7,62.1
+665,114595,Gustavo Henrique,1237,Corinthians,93,SecondHalf,Pass,Successful,59.7,62.1,62.4,82.3
+666,279541,Matheus Pereira,1237,Corinthians,93,SecondHalf,Pass,Unsuccessful,61.9,84.9,71.7,94
+862,518031,Román Gómez,1221,Bahia,93,SecondHalf,Interception,Successful,28.3,6,,
+863,518031,Román Gómez,1221,Bahia,93,SecondHalf,Pass,Unsuccessful,30.6,3.4,69.2,6.4
+667,279541,Matheus Pereira,1237,Corinthians,93,SecondHalf,Pass,Successful,35.9,94.6,23.4,72.6
+668,399247,Hugo Souza,1237,Corinthians,93,SecondHalf,Pass,Successful,22,66.2,25.7,25.6
+669,76810,Gabriel Paulista,1237,Corinthians,93,SecondHalf,Pass,Successful,25.7,25.6,32.3,34.1
+670,295838,Allan,1237,Corinthians,94,SecondHalf,Pass,Successful,32.3,34.1,9.2,46.2
+671,399247,Hugo Souza,1237,Corinthians,94,SecondHalf,Pass,Successful,9.3,46.2,14,82.6
+672,114595,Gustavo Henrique,1237,Corinthians,94,SecondHalf,Pass,Successful,15.2,82.1,29.3,74.6
+673,83337,Zakaria Labyad,1237,Corinthians,94,SecondHalf,Pass,Successful,29.3,75.8,25.6,92.6
+674,279541,Matheus Pereira,1237,Corinthians,94,SecondHalf,Pass,Successful,29.5,91.2,57.5,85.9
+675,432685,Rodrigo Garro,1237,Corinthians,94,SecondHalf,Pass,Successful,58,85.5,57.4,89
+676,519726,Pedro Milans,1237,Corinthians,94,SecondHalf,Foul,Successful,61.7,88.4,,
+866,402198,Santiago Ramos Mingo,1221,Bahia,94,SecondHalf,Foul,Unsuccessful,38.3,11.6,,
+677,432685,Rodrigo Garro,1237,Corinthians,95,SecondHalf,Pass,Unsuccessful,64.8,87.6,78,55.5
+867,77636,Willian José,1221,Bahia,95,SecondHalf,Clearance,Successful,22,50.9,42.1,88.6
+868,432462,Mateo Sanabria,1221,Bahia,95,SecondHalf,Foul,Successful,39.6,88.8,,
+678,295838,Allan,1237,Corinthians,95,SecondHalf,Foul,Unsuccessful,60.4,11.2,,
+679,295838,Allan,1237,Corinthians,95,SecondHalf,Card,Successful,0,0,,
+869,397517,Luciano Juba,1221,Bahia,95,SecondHalf,Pass,Successful,42.4,87.4,40.8,68.8
+870,389163,Rodrigo Nestor,1221,Bahia,95,SecondHalf,Pass,Successful,45.7,52.4,38.6,42.8
+871,279581,David Duarte,1221,Bahia,95,SecondHalf,Pass,Successful,38.4,43.4,39.7,70.8
+872,402198,Santiago Ramos Mingo,1221,Bahia,95,SecondHalf,Pass,Unsuccessful,40,83.9,70.4,73.6
+680,76810,Gabriel Paulista,1237,Corinthians,95,SecondHalf,Aerial,Successful,29.6,26.4,,
+873,432462,Mateo Sanabria,1221,Bahia,95,SecondHalf,Aerial,Unsuccessful,70.4,73.6,,
+681,76810,Gabriel Paulista,1237,Corinthians,95,SecondHalf,Pass,Successful,29.6,26.4,57.8,29.1
+682,449872,Kaio César,1237,Corinthians,95,SecondHalf,Pass,Successful,59.2,29.1,58,41.8
+683,97635,André Carrillo,1237,Corinthians,95,SecondHalf,BallRecovery,Successful,58.7,40.9,,
+684,97635,André Carrillo,1237,Corinthians,95,SecondHalf,Pass,Unsuccessful,58.7,40.9,64.4,31.7
+874,279581,David Duarte,1221,Bahia,95,SecondHalf,BlockedPass,Successful,35.6,68.3,,
+875,396067,Nicolás Acevedo,1221,Bahia,95,SecondHalf,BallRecovery,Successful,38.6,91.4,,
+876,396067,Nicolás Acevedo,1221,Bahia,95,SecondHalf,Pass,Successful,38.7,91.5,59.4,93
+877,397517,Luciano Juba,1221,Bahia,95,SecondHalf,Pass,Successful,66.8,80.3,70.2,48.5
+878,101467,Éverton Ribeiro,1221,Bahia,96,SecondHalf,TakeOn,Successful,76.4,37.6,,
+685,279541,Matheus Pereira,1237,Corinthians,96,SecondHalf,Challenge,Unsuccessful,23.6,62.4,,
+879,101467,Éverton Ribeiro,1221,Bahia,96,SecondHalf,Pass,Successful,78.6,38,88.6,32.1
+880,570313,Kauê Furquim,1221,Bahia,96,SecondHalf,Pass,Unsuccessful,88.6,32.1,89.4,33.7
+686,519726,Pedro Milans,1237,Corinthians,96,SecondHalf,BlockedPass,Successful,10.6,66.3,,
+687,519726,Pedro Milans,1237,Corinthians,96,SecondHalf,CornerAwarded,Unsuccessful,10.2,68.9,,
+881,570313,Kauê Furquim,1221,Bahia,96,SecondHalf,CornerAwarded,Successful,89.8,31.2,,
+882,101467,Éverton Ribeiro,1221,Bahia,96,SecondHalf,Pass,Successful,99.5,0.5,89.7,37.4
+883,518031,Román Gómez,1221,Bahia,96,SecondHalf,Aerial,Successful,89.7,37.4,,
+688,97635,André Carrillo,1237,Corinthians,96,SecondHalf,Aerial,Unsuccessful,10.3,62.6,,
+886,518031,Román Gómez,1221,Bahia,96,SecondHalf,SavedShot,Successful,89.7,37.4,,
+691,97635,André Carrillo,1237,Corinthians,96,SecondHalf,Save,Successful,8.9,60.6,,
+884,101467,Éverton Ribeiro,1221,Bahia,96,SecondHalf,Pass,Unsuccessful,86.7,17.1,91.7,40.9
+689,279541,Matheus Pereira,1237,Corinthians,96,SecondHalf,Clearance,Successful,13.7,61.5,24,84.7
+885,,,1221,Bahia,96,SecondHalf,End,Successful,0,0,,
+690,,,1237,Corinthians,96,SecondHalf,End,Successful,0,0,,
+887,,,1221,Bahia,0,PostGame,End,Successful,0,0,,
+692,,,1237,Corinthians,0,PostGame,End,Successful,0,0,,
+1,,,1221,Bahia,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,1237,Corinthians,0,PreMatch,FormationSet,Successful,0,0,,
